@@ -1,0 +1,565 @@
+[
+ {
+  "id": "life-professions",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر مهنة",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "طبيب",
+    "baseRarity": 0.1884,
+    "aliases": [
+     "دكتور"
+    ]
+   },
+   {
+    "text": "مهندس",
+    "baseRarity": 0.0942
+   },
+   {
+    "text": "معلم",
+    "baseRarity": 0.0628,
+    "aliases": [
+     "مدرس",
+     "أستاذ"
+    ]
+   },
+   {
+    "text": "طيار",
+    "baseRarity": 0.0471
+   },
+   {
+    "text": "ممرض",
+    "baseRarity": 0.0377,
+    "aliases": [
+     "ممرضة"
+    ]
+   },
+   {
+    "text": "محامي",
+    "baseRarity": 0.0314,
+    "aliases": [
+     "محامية"
+    ]
+   },
+   {
+    "text": "شرطي",
+    "baseRarity": 0.0269
+   },
+   {
+    "text": "جندي",
+    "baseRarity": 0.0235,
+    "aliases": [
+     "عسكري"
+    ]
+   },
+   {
+    "text": "مزارع",
+    "baseRarity": 0.0209,
+    "aliases": [
+     "فلاح"
+    ]
+   },
+   {
+    "text": "نجار",
+    "baseRarity": 0.0188
+   },
+   {
+    "text": "حداد",
+    "baseRarity": 0.0171
+   },
+   {
+    "text": "خباز",
+    "baseRarity": 0.0157,
+    "aliases": [
+     "فران"
+    ]
+   },
+   {
+    "text": "طباخ",
+    "baseRarity": 0.0145,
+    "aliases": [
+     "شيف",
+     "طاهي"
+    ]
+   },
+   {
+    "text": "سباك",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "كهربائي",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "صيدلي",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "محاسب",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "مبرمج",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "صحفي",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "طبيب أسنان",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "رسام",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "مصور",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "ممثل",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "مغني",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "مطرب"
+    ]
+   },
+   {
+    "text": "كاتب",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "شاعر",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "سائق",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "ميكانيكي",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "حلاق",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "خياط",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "تاجر",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "بائع",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "نادل",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "جرسون",
+     "ويتر"
+    ]
+   },
+   {
+    "text": "إطفائي",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "رجل إطفاء"
+    ]
+   },
+   {
+    "text": "عالم",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "قاضي",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "إمام",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "مؤذن",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "صياد",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "راعي",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "عامل بناء",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "بناء"
+    ]
+   },
+   {
+    "text": "دهان",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "صباغ"
+    ]
+   },
+   {
+    "text": "مترجم",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "مذيع",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "مدير",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "سكرتير",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "سكرتيرة"
+    ]
+   },
+   {
+    "text": "جراح",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "طبيب بيطري",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "بيطري"
+    ]
+   },
+   {
+    "text": "مضيف طيران",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "مضيفة طيران"
+    ]
+   },
+   {
+    "text": "قبطان",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "ربان"
+    ]
+   },
+   {
+    "text": "بحار",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "رائد فضاء",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "مهندس معماري",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "معماري"
+    ]
+   },
+   {
+    "text": "مصمم",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "مصمم أزياء",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "صائغ",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "جواهرجي"
+    ]
+   },
+   {
+    "text": "ساعاتي",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "إسكافي",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "جزمجي"
+    ]
+   },
+   {
+    "text": "حارس أمن",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "حارس"
+    ]
+   },
+   {
+    "text": "عامل نظافة",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "ساعي بريد",
+    "baseRarity": 0.0031,
+    "aliases": [
+     "بوسطجي"
+    ]
+   },
+   {
+    "text": "صراف",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "وسيط عقاري",
+    "baseRarity": 0.003,
+    "aliases": [
+     "دلال"
+    ]
+   },
+   {
+    "text": "مقاول",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "لحام",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "بلاط",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "جزار",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "قصاب"
+    ]
+   },
+   {
+    "text": "بقال",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "عطار",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "حلواني",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "نحات",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "عازف",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "موسيقي"
+    ]
+   },
+   {
+    "text": "ملحن",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "مخرج",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "منتج",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "مونتير",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "مدرب",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "حكم",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "سفير",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "دبلوماسي",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "وزير",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "جيولوجي",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "فلكي",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "عالم فلك"
+    ]
+   },
+   {
+    "text": "كيميائي",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "فيزيائي",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "طبيب نفسي",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "أخصائي نفسي",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "قابلة",
+    "baseRarity": 0.0021,
+    "aliases": [
+     "داية"
+    ]
+   },
+   {
+    "text": "مرشد سياحي",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "محقق",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "ضابط",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "مؤرخ",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "فيلسوف",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "معلق رياضي",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "خطاط",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "مربية أطفال",
+    "baseRarity": 0.002,
+    "aliases": [
+     "جليسة أطفال"
+    ]
+   },
+   {
+    "text": "بستاني",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "جنايني"
+    ]
+   },
+   {
+    "text": "نحال",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "مربي نحل"
+    ]
+   },
+   {
+    "text": "غواص",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "رسام كاريكاتير",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "صحفي رياضي",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "محلل مالي",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "أخصائي تغذية",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "فني مختبر",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "معالج طبيعي",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "أخصائي علاج طبيعي"
+    ]
+   },
+   {
+    "text": "مهندس برمجيات",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "كاتب عدل",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "موثق"
+    ]
+   },
+   {
+    "text": "مستشار",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "مفتش",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "محاضر",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "باحث",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "مراسل",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "مصور فوتوغرافي",
+    "baseRarity": 0.0017
+   }
+  ],
+  "secret": "نحال",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_المهن"
+  ]
+ }
+]

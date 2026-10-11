@@ -1,0 +1,7 @@
+node_modules
+dist
+public/q
+src/generated
+playwright-report
+test-results
+*.tsbuildinfo

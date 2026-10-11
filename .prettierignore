@@ -1,0 +1,7 @@
+dist
+public/q
+content
+legacy
+node_modules
+playwright-report
+test-results

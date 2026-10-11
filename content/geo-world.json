@@ -1,0 +1,769 @@
+[
+ {
+  "id": "geo-africa-countries",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر دولة في قارة أفريقيا",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "مصر",
+    "baseRarity": 0.2186,
+    "aliases": [
+     "جمهورية مصر العربية"
+    ]
+   },
+   {
+    "text": "المغرب",
+    "baseRarity": 0.1093,
+    "aliases": [
+     "المملكة المغربية"
+    ]
+   },
+   {
+    "text": "الجزائر",
+    "baseRarity": 0.0729
+   },
+   {
+    "text": "تونس",
+    "baseRarity": 0.0546
+   },
+   {
+    "text": "ليبيا",
+    "baseRarity": 0.0437
+   },
+   {
+    "text": "السودان",
+    "baseRarity": 0.0364
+   },
+   {
+    "text": "نيجيريا",
+    "baseRarity": 0.0312
+   },
+   {
+    "text": "جنوب أفريقيا",
+    "baseRarity": 0.0273,
+    "aliases": [
+     "جنوب افريقيا"
+    ]
+   },
+   {
+    "text": "الصومال",
+    "baseRarity": 0.0243
+   },
+   {
+    "text": "إثيوبيا",
+    "baseRarity": 0.0219,
+    "aliases": [
+     "اثيوبيا",
+     "الحبشة"
+    ]
+   },
+   {
+    "text": "كينيا",
+    "baseRarity": 0.0199
+   },
+   {
+    "text": "موريتانيا",
+    "baseRarity": 0.0182
+   },
+   {
+    "text": "السنغال",
+    "baseRarity": 0.0168
+   },
+   {
+    "text": "الكاميرون",
+    "baseRarity": 0.0156
+   },
+   {
+    "text": "غانا",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "ساحل العاج",
+    "baseRarity": 0.0137,
+    "aliases": [
+     "كوت ديفوار"
+    ]
+   },
+   {
+    "text": "تنزانيا",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "أوغندا",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "جيبوتي",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "جزر القمر",
+    "baseRarity": 0.0109,
+    "aliases": [
+     "القمر"
+    ]
+   },
+   {
+    "text": "مالي",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "النيجر",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "تشاد",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "أنغولا",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "انجولا"
+    ]
+   },
+   {
+    "text": "زيمبابوي",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "زامبيا",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "مدغشقر",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "موزمبيق",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "رواندا",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "جمهورية الكونغو الديمقراطية",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "الكونغو الديمقراطية",
+     "زائير",
+     "كونغو كينشاسا"
+    ]
+   },
+   {
+    "text": "إريتريا",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "ارتيريا"
+    ]
+   },
+   {
+    "text": "جنوب السودان",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "غينيا",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "غينيا كوناكري"
+    ]
+   },
+   {
+    "text": "جمهورية الكونغو",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "الكونغو",
+     "الكونغو برازافيل",
+     "كونغو برازافيل"
+    ]
+   },
+   {
+    "text": "بوركينا فاسو",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "بنين",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "توغو",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "توجو"
+    ]
+   },
+   {
+    "text": "ليبيريا",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "سيراليون",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "غامبيا",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "جامبيا"
+    ]
+   },
+   {
+    "text": "غينيا بيساو",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "غينيا الاستوائية",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "الغابون",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "الجابون"
+    ]
+   },
+   {
+    "text": "جمهورية أفريقيا الوسطى",
+    "baseRarity": 0.005,
+    "aliases": [
+     "أفريقيا الوسطى"
+    ]
+   },
+   {
+    "text": "بوروندي",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "ملاوي",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "ناميبيا",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "بوتسوانا",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "ليسوتو",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "إسواتيني",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "سوازيلاند"
+    ]
+   },
+   {
+    "text": "موريشيوس",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "سيشل",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الرأس الأخضر",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "كاب فيردي",
+     "كابو فيردي"
+    ]
+   },
+   {
+    "text": "ساو تومي وبرينسيب",
+    "baseRarity": 0.004,
+    "aliases": [
+     "ساو تومي"
+    ]
+   }
+  ],
+  "secret": "ساو تومي وبرينسيب",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_دول_أفريقيا",
+   "https://en.wikipedia.org/wiki/List_of_African_countries"
+  ]
+ },
+ {
+  "id": "geo-asia-countries",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر دولة في قارة آسيا",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "السعودية",
+    "baseRarity": 0.2243,
+    "aliases": [
+     "المملكة العربية السعودية"
+    ]
+   },
+   {
+    "text": "اليابان",
+    "baseRarity": 0.1121
+   },
+   {
+    "text": "الصين",
+    "baseRarity": 0.0748
+   },
+   {
+    "text": "الهند",
+    "baseRarity": 0.0561
+   },
+   {
+    "text": "الإمارات",
+    "baseRarity": 0.0449,
+    "aliases": [
+     "الامارات العربية المتحدة"
+    ]
+   },
+   {
+    "text": "الكويت",
+    "baseRarity": 0.0374
+   },
+   {
+    "text": "قطر",
+    "baseRarity": 0.032
+   },
+   {
+    "text": "البحرين",
+    "baseRarity": 0.028
+   },
+   {
+    "text": "عمان",
+    "baseRarity": 0.0249,
+    "aliases": [
+     "سلطنة عمان"
+    ]
+   },
+   {
+    "text": "اليمن",
+    "baseRarity": 0.0224
+   },
+   {
+    "text": "العراق",
+    "baseRarity": 0.0204
+   },
+   {
+    "text": "سوريا",
+    "baseRarity": 0.0187,
+    "aliases": [
+     "سورية"
+    ]
+   },
+   {
+    "text": "الأردن",
+    "baseRarity": 0.0173
+   },
+   {
+    "text": "لبنان",
+    "baseRarity": 0.016
+   },
+   {
+    "text": "فلسطين",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "تركيا",
+    "baseRarity": 0.014
+   },
+   {
+    "text": "إيران",
+    "baseRarity": 0.0132,
+    "aliases": [
+     "فارس"
+    ]
+   },
+   {
+    "text": "باكستان",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "كوريا الجنوبية",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "إندونيسيا",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "ماليزيا",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "أفغانستان",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "تايلاند",
+    "baseRarity": 0.0098,
+    "aliases": [
+     "تايلند",
+     "سيام"
+    ]
+   },
+   {
+    "text": "الفلبين",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "فيتنام",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "سنغافورة",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "روسيا",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "كوريا الشمالية",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "بنغلاديش",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "بنجلاديش"
+    ]
+   },
+   {
+    "text": "سريلانكا",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "سيلان"
+    ]
+   },
+   {
+    "text": "المالديف",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "جزر المالديف"
+    ]
+   },
+   {
+    "text": "نيبال",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "كازاخستان",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "أوزبكستان",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "منغوليا",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "أذربيجان",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "جورجيا",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "أرمينيا",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "تركمانستان",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "طاجيكستان",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "قيرغيزستان",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "قرغيزستان",
+     "كيرغيزستان"
+    ]
+   },
+   {
+    "text": "ميانمار",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "بورما"
+    ]
+   },
+   {
+    "text": "كمبوديا",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "لاوس",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "بروناي",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "بوتان",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "قبرص",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "تيمور الشرقية",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "تيمور ليشتي"
+    ]
+   }
+  ],
+  "secret": "تيمور الشرقية",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Asian_countries_by_area",
+   "https://ar.wikipedia.org/wiki/قائمة_دول_آسيا"
+  ]
+ },
+ {
+  "id": "geo-europe-countries",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر دولة في قارة أوروبا",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "فرنسا",
+    "baseRarity": 0.2264
+   },
+   {
+    "text": "ألمانيا",
+    "baseRarity": 0.1132
+   },
+   {
+    "text": "بريطانيا",
+    "baseRarity": 0.0755,
+    "aliases": [
+     "المملكة المتحدة",
+     "انجلترا",
+     "انكلترا"
+    ]
+   },
+   {
+    "text": "إيطاليا",
+    "baseRarity": 0.0566
+   },
+   {
+    "text": "إسبانيا",
+    "baseRarity": 0.0453,
+    "aliases": [
+     "اسبانيا"
+    ]
+   },
+   {
+    "text": "البرتغال",
+    "baseRarity": 0.0377
+   },
+   {
+    "text": "هولندا",
+    "baseRarity": 0.0323
+   },
+   {
+    "text": "بلجيكا",
+    "baseRarity": 0.0283
+   },
+   {
+    "text": "سويسرا",
+    "baseRarity": 0.0252
+   },
+   {
+    "text": "السويد",
+    "baseRarity": 0.0226
+   },
+   {
+    "text": "النرويج",
+    "baseRarity": 0.0206
+   },
+   {
+    "text": "الدنمارك",
+    "baseRarity": 0.0189
+   },
+   {
+    "text": "روسيا",
+    "baseRarity": 0.0174
+   },
+   {
+    "text": "اليونان",
+    "baseRarity": 0.0162
+   },
+   {
+    "text": "النمسا",
+    "baseRarity": 0.0151
+   },
+   {
+    "text": "بولندا",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "أوكرانيا",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "فنلندا",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "أيرلندا",
+    "baseRarity": 0.0119,
+    "aliases": [
+     "ايرلندا"
+    ]
+   },
+   {
+    "text": "التشيك",
+    "baseRarity": 0.0113,
+    "aliases": [
+     "تشيكيا",
+     "جمهورية التشيك"
+    ]
+   },
+   {
+    "text": "المجر",
+    "baseRarity": 0.0108,
+    "aliases": [
+     "هنغاريا"
+    ]
+   },
+   {
+    "text": "رومانيا",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "كرواتيا",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "صربيا",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "البوسنة والهرسك",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "البوسنة"
+    ]
+   },
+   {
+    "text": "ألبانيا",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "بلغاريا",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "آيسلندا",
+    "baseRarity": 0.0081,
+    "aliases": [
+     "ايسلندا"
+    ]
+   },
+   {
+    "text": "سلوفاكيا",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "سلوفينيا",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "موناكو",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "الفاتيكان",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "لوكسمبورغ",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "لوكسمبورج"
+    ]
+   },
+   {
+    "text": "مالطا",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "قبرص",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "إستونيا",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "لاتفيا",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "ليتوانيا",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "بيلاروسيا",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "روسيا البيضاء"
+    ]
+   },
+   {
+    "text": "مولدوفا",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "مقدونيا الشمالية",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "مقدونيا"
+    ]
+   },
+   {
+    "text": "الجبل الأسود",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "مونتينيغرو"
+    ]
+   },
+   {
+    "text": "كوسوفو",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "سان مارينو",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "أندورا",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "ليختنشتاين",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "ليشتنشتاين"
+    ]
+   }
+  ],
+  "secret": "ليختنشتاين",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_European_countries_by_area"
+  ]
+ }
+]

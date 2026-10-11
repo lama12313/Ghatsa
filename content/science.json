@@ -1,0 +1,562 @@
+[
+ {
+  "id": "sci-chemical-elements",
+  "category": "علوم",
+  "prompt": "اذكر عنصر كيميائي من الجدول الدوري",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "الأكسجين",
+    "baseRarity": 0.1868,
+    "aliases": [
+     "أوكسجين"
+    ]
+   },
+   {
+    "text": "الهيدروجين",
+    "baseRarity": 0.0934
+   },
+   {
+    "text": "الحديد",
+    "baseRarity": 0.0623
+   },
+   {
+    "text": "الذهب",
+    "baseRarity": 0.0467
+   },
+   {
+    "text": "الفضة",
+    "baseRarity": 0.0374
+   },
+   {
+    "text": "النحاس",
+    "baseRarity": 0.0311
+   },
+   {
+    "text": "الكربون",
+    "baseRarity": 0.0267
+   },
+   {
+    "text": "النيتروجين",
+    "baseRarity": 0.0234,
+    "aliases": [
+     "الآزوت",
+     "النتروجين"
+    ]
+   },
+   {
+    "text": "الصوديوم",
+    "baseRarity": 0.0208
+   },
+   {
+    "text": "الكالسيوم",
+    "baseRarity": 0.0187
+   },
+   {
+    "text": "الألمنيوم",
+    "baseRarity": 0.017,
+    "aliases": [
+     "الألومنيوم",
+     "الالمونيوم"
+    ]
+   },
+   {
+    "text": "الزئبق",
+    "baseRarity": 0.0156
+   },
+   {
+    "text": "الرصاص",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "الهيليوم",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "اليورانيوم",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "البوتاسيوم",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "الكلور",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "الزنك",
+    "baseRarity": 0.0104,
+    "aliases": [
+     "الخارصين"
+    ]
+   },
+   {
+    "text": "المغنيسيوم",
+    "baseRarity": 0.0098,
+    "aliases": [
+     "المغنيزيوم"
+    ]
+   },
+   {
+    "text": "الفوسفور",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "الكبريت",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "السيليكون",
+    "baseRarity": 0.0085,
+    "aliases": [
+     "السليكون"
+    ]
+   },
+   {
+    "text": "البلاتين",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "الفلور",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "الفلورين"
+    ]
+   },
+   {
+    "text": "النيون",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "الليثيوم",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "اليود",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "القصدير",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "الكروم",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "النيكل",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "التيتانيوم",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "البلوتونيوم",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "الراديوم",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "الأرغون",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "الأرجون"
+    ]
+   },
+   {
+    "text": "المنغنيز",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "المنجنيز"
+    ]
+   },
+   {
+    "text": "الكوبالت",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "البروم",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "الباريوم",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "التنغستن",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "التنجستن",
+     "الولفرام"
+    ]
+   },
+   {
+    "text": "الزرنيخ",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "البورون",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "البيريليوم",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "البريليوم"
+    ]
+   },
+   {
+    "text": "الكريبتون",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الزينون",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الرادون",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "السترونتيوم",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "الكادميوم",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "الأنتيمون",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "البزموت",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "البزموث"
+    ]
+   },
+   {
+    "text": "الجرمانيوم",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "الغاليوم",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "الجاليوم"
+    ]
+   },
+   {
+    "text": "الإنديوم",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "الثاليوم",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "البولونيوم",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "السيلينيوم",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "السلينيوم"
+    ]
+   },
+   {
+    "text": "التيلوريوم",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "التيلوريوم"
+    ]
+   },
+   {
+    "text": "الفاناديوم",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "السكانديوم",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "الإتريوم",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "الإيتريوم"
+    ]
+   },
+   {
+    "text": "الزركونيوم",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "النيوبيوم",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الموليبدينوم",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "التكنيشيوم",
+    "baseRarity": 0.003,
+    "aliases": [
+     "التكنيتيوم"
+    ]
+   },
+   {
+    "text": "الروثينيوم",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الروديوم",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "البالاديوم",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الهافنيوم",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "التنتالوم",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الرينيوم",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الأوزميوم",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الإيريديوم",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "السيزيوم",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "الروبيديوم",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "الفرانسيوم",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الأستاتين",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الأكتينيوم",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الثوريوم",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "البروتكتينيوم",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "البروتاكتينيوم"
+    ]
+   },
+   {
+    "text": "النبتونيوم",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "الأمريسيوم",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "الأمريكيوم"
+    ]
+   },
+   {
+    "text": "الكوريوم",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "البركليوم",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "البيركيليوم"
+    ]
+   },
+   {
+    "text": "الكاليفورنيوم",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "الأينشتاينيوم",
+    "baseRarity": 0.0022,
+    "aliases": [
+     "الآينشتاينيوم"
+    ]
+   },
+   {
+    "text": "الفيرميوم",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "المندليفيوم",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "النوبليوم",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "اللورنسيوم",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "الرذرفورديوم",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "الدوبنيوم",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "السيبورغيوم",
+    "baseRarity": 0.0021,
+    "aliases": [
+     "السيبورجيوم"
+    ]
+   },
+   {
+    "text": "البوريوم",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الهاسيوم",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "المايتنريوم",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الدارمشتاتيوم",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الرونتجينيوم",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "الكوبرنيسيوم",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "النيهونيوم",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "الفليروفيوم",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "الموسكوفيوم",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "الليفرموريوم",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "التينيسين",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "الأوغانيسون",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "الأوجانيسون"
+    ]
+   },
+   {
+    "text": "اللانثانوم",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "السيريوم",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "البراسيوديميوم",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "النيوديميوم",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "البروميثيوم",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "الساماريوم",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "اليوروبيوم",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "الغادولينيوم",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "الجادولينيوم"
+    ]
+   },
+   {
+    "text": "التيربيوم",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "الديسبروسيوم",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "الهولميوم",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "الإربيوم",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "الثوليوم",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "الإيتربيوم",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "اللوتيشيوم",
+    "baseRarity": 0.0016
+   }
+  ],
+  "secret": "البروميثيوم",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/جدول_دوري",
+   "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  ]
+ }
+]

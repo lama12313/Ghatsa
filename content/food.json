@@ -1,0 +1,330 @@
+[
+ {
+  "id": "food-fruits",
+  "category": "أكل وشرب",
+  "prompt": "اذكر نوع فاكهة",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "تفاح",
+    "baseRarity": 0.2186
+   },
+   {
+    "text": "موز",
+    "baseRarity": 0.1093
+   },
+   {
+    "text": "برتقال",
+    "baseRarity": 0.0729
+   },
+   {
+    "text": "عنب",
+    "baseRarity": 0.0546
+   },
+   {
+    "text": "فراولة",
+    "baseRarity": 0.0437,
+    "aliases": [
+     "فراولا",
+     "فريز"
+    ]
+   },
+   {
+    "text": "مانجو",
+    "baseRarity": 0.0364,
+    "aliases": [
+     "منجا",
+     "مانجا"
+    ]
+   },
+   {
+    "text": "بطيخ",
+    "baseRarity": 0.0312,
+    "aliases": [
+     "جح",
+     "حبحب"
+    ]
+   },
+   {
+    "text": "رمان",
+    "baseRarity": 0.0273
+   },
+   {
+    "text": "تمر",
+    "baseRarity": 0.0243,
+    "aliases": [
+     "بلح",
+     "رطب"
+    ]
+   },
+   {
+    "text": "أناناس",
+    "baseRarity": 0.0219
+   },
+   {
+    "text": "خوخ",
+    "baseRarity": 0.0199
+   },
+   {
+    "text": "كمثرى",
+    "baseRarity": 0.0182,
+    "aliases": [
+     "إجاص",
+     "عرموط"
+    ]
+   },
+   {
+    "text": "مشمش",
+    "baseRarity": 0.0168
+   },
+   {
+    "text": "كرز",
+    "baseRarity": 0.0156,
+    "aliases": [
+     "حب الملوك"
+    ]
+   },
+   {
+    "text": "ليمون",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "يوسفي",
+    "baseRarity": 0.0137,
+    "aliases": [
+     "يوسف أفندي",
+     "ماندرين",
+     "مندلينا"
+    ]
+   },
+   {
+    "text": "كيوي",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "جوافة",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "تين",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "شمام",
+    "baseRarity": 0.0109,
+    "aliases": [
+     "بطيخ أصفر"
+    ]
+   },
+   {
+    "text": "أفوكادو",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "بابايا",
+    "baseRarity": 0.0099,
+    "aliases": [
+     "بباي"
+    ]
+   },
+   {
+    "text": "جريب فروت",
+    "baseRarity": 0.0095,
+    "aliases": [
+     "ليمون هندي",
+     "جريبفروت"
+    ]
+   },
+   {
+    "text": "توت",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "توت أزرق",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "بلوبيري"
+    ]
+   },
+   {
+    "text": "توت العليق",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "رازبيري",
+     "توت أحمر"
+    ]
+   },
+   {
+    "text": "توت أسود",
+    "baseRarity": 0.0081,
+    "aliases": [
+     "بلاك بيري"
+    ]
+   },
+   {
+    "text": "برقوق",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "ليتشي",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "جوز الهند",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "نارجيل"
+    ]
+   },
+   {
+    "text": "باشن فروت",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "فاكهة العاطفة",
+     "ماراكويا"
+    ]
+   },
+   {
+    "text": "فاكهة التنين",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "بيتايا",
+     "دراغون فروت"
+    ]
+   },
+   {
+    "text": "قشطة",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "أنونة",
+     "سكر التفاح"
+    ]
+   },
+   {
+    "text": "كاكا",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "كاكي",
+     "خرما",
+     "برسيمون"
+    ]
+   },
+   {
+    "text": "نبق",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "كنار"
+    ]
+   },
+   {
+    "text": "نكتارين",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "خوخ أملس"
+    ]
+   },
+   {
+    "text": "سفرجل",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "بشملة",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "أكي دنيا",
+     "لوكوات"
+    ]
+   },
+   {
+    "text": "توت بري",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "كرانبيري"
+    ]
+   },
+   {
+    "text": "نارنج",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "برتقال مر"
+    ]
+   },
+   {
+    "text": "أترج",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "ترنج"
+    ]
+   },
+   {
+    "text": "بوملي",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "بوميلو"
+    ]
+   },
+   {
+    "text": "كمكوات",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "دوريان",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "رامبوتان",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "مانجوستين",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "فاكهة النجمة",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "كارامبولا"
+    ]
+   },
+   {
+    "text": "جاك فروت",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "الكاكايا"
+    ]
+   },
+   {
+    "text": "تمر هندي",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "فيجوا",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "زعرور",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "كشمش",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "عنب الثعلب",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "ليم",
+    "baseRarity": 0.004,
+    "aliases": [
+     "ليمون أخضر"
+    ]
+   }
+  ],
+  "secret": "الزعرور",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_الفواكه",
+   "https://en.wikipedia.org/wiki/List_of_culinary_fruits"
+  ]
+ }
+]

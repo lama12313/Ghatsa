@@ -1,0 +1,50 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --depth: 0;
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  @apply font-sans text-abyss-50 antialiased;
+  background: #020c16;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.ocean {
+  /* الخلفية تغمق كل ما نزل اللاعب (--depth من ٠ إلى ١) */
+  background: linear-gradient(
+    180deg,
+    color-mix(in srgb, #0f6b95 calc((1 - var(--depth)) * 100%), #03101d) 0%,
+    color-mix(in srgb, #083a5c calc((1 - var(--depth)) * 100%), #020a13) 55%,
+    color-mix(in srgb, #04192b calc((1 - var(--depth)) * 100%), #010407) 100%
+  );
+  transition: background 1.2s ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .ocean {
+    transition: none;
+  }
+}
+
+.btn {
+  @apply inline-flex min-h-12 items-center justify-center gap-2 rounded-2xl px-5 py-3 font-display text-lg transition focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-krill disabled:opacity-50;
+}
+.btn-primary {
+  @apply btn bg-krill text-abyss-900 hover:bg-krill-soft active:scale-[.98];
+}
+.btn-ghost {
+  @apply btn border border-white/20 bg-white/5 text-abyss-50 hover:bg-white/10;
+}
+.card {
+  @apply rounded-3xl border border-white/10 bg-abyss-900/40 p-5 backdrop-blur-sm;
+}
