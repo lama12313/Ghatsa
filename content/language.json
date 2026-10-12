@@ -2253,79 +2253,79 @@
   "answers": [
    {
     "text": "محمد",
-    "baseRarity": 0.1759,
+    "baseRarity": 0.1744,
     "aliases": [
      "محمّد"
     ]
    },
    {
     "text": "أحمد",
-    "baseRarity": 0.0879
+    "baseRarity": 0.0872
    },
    {
     "text": "عبدالله",
-    "baseRarity": 0.0586,
+    "baseRarity": 0.0581,
     "aliases": [
      "عبد الله"
     ]
    },
    {
     "text": "عبدالرحمن",
-    "baseRarity": 0.044,
+    "baseRarity": 0.0436,
     "aliases": [
      "عبد الرحمن"
     ]
    },
    {
     "text": "خالد",
-    "baseRarity": 0.0352
+    "baseRarity": 0.0349
    },
    {
     "text": "فهد",
-    "baseRarity": 0.0293
+    "baseRarity": 0.0291
    },
    {
     "text": "سعود",
-    "baseRarity": 0.0251
+    "baseRarity": 0.0249
    },
    {
     "text": "فيصل",
-    "baseRarity": 0.022
+    "baseRarity": 0.0218
    },
    {
     "text": "سلطان",
-    "baseRarity": 0.0195
+    "baseRarity": 0.0194
    },
    {
     "text": "عمر",
-    "baseRarity": 0.0176
+    "baseRarity": 0.0174
    },
    {
     "text": "علي",
-    "baseRarity": 0.016
+    "baseRarity": 0.0159
    },
    {
     "text": "يوسف",
-    "baseRarity": 0.0147
+    "baseRarity": 0.0145
    },
    {
     "text": "إبراهيم",
-    "baseRarity": 0.0135
+    "baseRarity": 0.0134
    },
    {
     "text": "عبدالعزيز",
-    "baseRarity": 0.0126,
+    "baseRarity": 0.0125,
     "aliases": [
      "عبد العزيز"
     ]
    },
    {
     "text": "سعد",
-    "baseRarity": 0.0117
+    "baseRarity": 0.0116
    },
    {
     "text": "ناصر",
-    "baseRarity": 0.011
+    "baseRarity": 0.0109
    },
    {
     "text": "تركي",
@@ -2333,23 +2333,23 @@
    },
    {
     "text": "بندر",
-    "baseRarity": 0.0098
+    "baseRarity": 0.0097
    },
    {
     "text": "مشعل",
-    "baseRarity": 0.0093
+    "baseRarity": 0.0092
    },
    {
     "text": "نايف",
-    "baseRarity": 0.0088
+    "baseRarity": 0.0087
    },
    {
     "text": "سلمان",
-    "baseRarity": 0.0084
+    "baseRarity": 0.0083
    },
    {
     "text": "ماجد",
-    "baseRarity": 0.008
+    "baseRarity": 0.0079
    },
    {
     "text": "راشد",
@@ -2365,7 +2365,7 @@
    },
    {
     "text": "صالح",
-    "baseRarity": 0.0068
+    "baseRarity": 0.0067
    },
    {
     "text": "حسن",
@@ -2373,19 +2373,19 @@
    },
    {
     "text": "حسين",
-    "baseRarity": 0.0063
+    "baseRarity": 0.0062
    },
    {
     "text": "مصطفى",
-    "baseRarity": 0.0061
+    "baseRarity": 0.006
    },
    {
     "text": "محمود",
-    "baseRarity": 0.0059
+    "baseRarity": 0.0058
    },
    {
     "text": "طارق",
-    "baseRarity": 0.0057
+    "baseRarity": 0.0056
    },
    {
     "text": "زياد",
@@ -2397,7 +2397,7 @@
    },
    {
     "text": "هشام",
-    "baseRarity": 0.0052
+    "baseRarity": 0.0051
    },
    {
     "text": "ياسر",
@@ -2405,11 +2405,11 @@
    },
    {
     "text": "عادل",
-    "baseRarity": 0.0049
+    "baseRarity": 0.0048
    },
    {
     "text": "سامي",
-    "baseRarity": 0.0048
+    "baseRarity": 0.0047
    },
    {
     "text": "رامي",
@@ -2453,7 +2453,7 @@
    },
    {
     "text": "حمزة",
-    "baseRarity": 0.0037
+    "baseRarity": 0.0036
    },
    {
     "text": "معاذ",
@@ -2483,7 +2483,7 @@
    },
    {
     "text": "عبدالكريم",
-    "baseRarity": 0.0033,
+    "baseRarity": 0.0032,
     "aliases": [
      "عبد الكريم"
     ]
@@ -2561,7 +2561,7 @@
    },
    {
     "text": "ثامر",
-    "baseRarity": 0.0027
+    "baseRarity": 0.0026
    },
    {
     "text": "تميم",
@@ -2609,7 +2609,7 @@
    },
    {
     "text": "كمال",
-    "baseRarity": 0.0023
+    "baseRarity": 0.0022
    },
    {
     "text": "نبيل",
@@ -2657,7 +2657,7 @@
    },
    {
     "text": "موسى",
-    "baseRarity": 0.002
+    "baseRarity": 0.0019
    },
    {
     "text": "هارون",
@@ -2677,7 +2677,7 @@
    },
    {
     "text": "إسحاق",
-    "baseRarity": 0.0019
+    "baseRarity": 0.0018
    },
    {
     "text": "يعقوب",
@@ -2697,7 +2697,7 @@
    },
    {
     "text": "يونس",
-    "baseRarity": 0.0018
+    "baseRarity": 0.0017
    },
    {
     "text": "أيوب",
@@ -2721,7 +2721,7 @@
    },
    {
     "text": "شادي",
-    "baseRarity": 0.0017
+    "baseRarity": 0.0016
    },
    {
     "text": "فادي",
@@ -2749,7 +2749,7 @@
    },
    {
     "text": "رائد",
-    "baseRarity": 0.0016
+    "baseRarity": 0.0015
    },
    {
     "text": "زيد",
@@ -2781,7 +2781,7 @@
    },
    {
     "text": "ماهر",
-    "baseRarity": 0.0015
+    "baseRarity": 0.0014
    },
    {
     "text": "منذر",
@@ -2817,7 +2817,7 @@
    },
    {
     "text": "رضا",
-    "baseRarity": 0.0014
+    "baseRarity": 0.0013
    },
    {
     "text": "عماد",
@@ -2857,7 +2857,7 @@
    },
    {
     "text": "مهدي",
-    "baseRarity": 0.0013
+    "baseRarity": 0.0012
    },
    {
     "text": "هادي",
@@ -2905,7 +2905,7 @@
    },
    {
     "text": "ليث",
-    "baseRarity": 0.0012
+    "baseRarity": 0.0011
    },
    {
     "text": "حاتم",
@@ -2961,6 +2961,38 @@
    {
     "text": "حارث",
     "baseRarity": 0.0011
+   },
+   {
+    "text": "مصعب",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "منير",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "ممدوح",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "مختار",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "مأمون",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "مؤمن",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "معن",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "منيف",
+    "baseRarity": 0.001
    }
   ],
   "secret": "قصي",
@@ -2976,98 +3008,98 @@
   "answers": [
    {
     "text": "فاطمة",
-    "baseRarity": 0.1806
+    "baseRarity": 0.1789
    },
    {
     "text": "عائشة",
-    "baseRarity": 0.0903
+    "baseRarity": 0.0894
    },
    {
     "text": "مريم",
-    "baseRarity": 0.0602
+    "baseRarity": 0.0596
    },
    {
     "text": "نورة",
-    "baseRarity": 0.0452
+    "baseRarity": 0.0447
    },
    {
     "text": "سارة",
-    "baseRarity": 0.0361
+    "baseRarity": 0.0358
    },
    {
     "text": "ريم",
-    "baseRarity": 0.0301
+    "baseRarity": 0.0298
    },
    {
     "text": "هند",
-    "baseRarity": 0.0258
+    "baseRarity": 0.0256
    },
    {
     "text": "لولوة",
-    "baseRarity": 0.0226,
+    "baseRarity": 0.0224,
     "aliases": [
      "لؤلؤة"
     ]
    },
    {
     "text": "منى",
-    "baseRarity": 0.0201
+    "baseRarity": 0.0199
    },
    {
     "text": "هيا",
-    "baseRarity": 0.0181
+    "baseRarity": 0.0179
    },
    {
     "text": "العنود",
-    "baseRarity": 0.0164
+    "baseRarity": 0.0163
    },
    {
     "text": "الجوهرة",
-    "baseRarity": 0.0151
+    "baseRarity": 0.0149
    },
    {
     "text": "نوف",
-    "baseRarity": 0.0139
+    "baseRarity": 0.0138
    },
    {
     "text": "شهد",
-    "baseRarity": 0.0129
+    "baseRarity": 0.0128
    },
    {
     "text": "جود",
-    "baseRarity": 0.012
+    "baseRarity": 0.0119
    },
    {
     "text": "لمى",
-    "baseRarity": 0.0113
+    "baseRarity": 0.0112
    },
    {
     "text": "ليان",
-    "baseRarity": 0.0106
+    "baseRarity": 0.0105
    },
    {
     "text": "رنا",
-    "baseRarity": 0.01
+    "baseRarity": 0.0099
    },
    {
     "text": "دانة",
-    "baseRarity": 0.0095
+    "baseRarity": 0.0094
    },
    {
     "text": "أمل",
-    "baseRarity": 0.009
+    "baseRarity": 0.0089
    },
    {
     "text": "أسماء",
-    "baseRarity": 0.0086
+    "baseRarity": 0.0085
    },
    {
     "text": "خديجة",
-    "baseRarity": 0.0082
+    "baseRarity": 0.0081
    },
    {
     "text": "زينب",
-    "baseRarity": 0.0079
+    "baseRarity": 0.0078
    },
    {
     "text": "حفصة",
@@ -3083,11 +3115,11 @@
    },
    {
     "text": "حليمة",
-    "baseRarity": 0.0067
+    "baseRarity": 0.0066
    },
    {
     "text": "سمية",
-    "baseRarity": 0.0065
+    "baseRarity": 0.0064
    },
    {
     "text": "صفية",
@@ -3107,7 +3139,7 @@
    },
    {
     "text": "هدى",
-    "baseRarity": 0.0055
+    "baseRarity": 0.0054
    },
    {
     "text": "نور",
@@ -3115,7 +3147,7 @@
    },
    {
     "text": "نجلاء",
-    "baseRarity": 0.0052
+    "baseRarity": 0.0051
    },
    {
     "text": "نوال",
@@ -3123,11 +3155,11 @@
    },
    {
     "text": "وفاء",
-    "baseRarity": 0.0049
+    "baseRarity": 0.0048
    },
    {
     "text": "ابتسام",
-    "baseRarity": 0.0048
+    "baseRarity": 0.0047
    },
    {
     "text": "إيمان",
@@ -3167,7 +3199,7 @@
    },
    {
     "text": "رهف",
-    "baseRarity": 0.0038
+    "baseRarity": 0.0037
    },
    {
     "text": "روان",
@@ -3183,7 +3215,7 @@
    },
    {
     "text": "ريهام",
-    "baseRarity": 0.0035
+    "baseRarity": 0.0034
    },
    {
     "text": "سعاد",
@@ -3203,7 +3235,7 @@
    },
    {
     "text": "صفاء",
-    "baseRarity": 0.0032
+    "baseRarity": 0.0031
    },
    {
     "text": "عبير",
@@ -3211,7 +3243,7 @@
    },
    {
     "text": "عفاف",
-    "baseRarity": 0.0031
+    "baseRarity": 0.003
    },
    {
     "text": "غادة",
@@ -3219,7 +3251,7 @@
    },
    {
     "text": "غدير",
-    "baseRarity": 0.003
+    "baseRarity": 0.0029
    },
    {
     "text": "فرح",
@@ -3227,7 +3259,7 @@
    },
    {
     "text": "فدوى",
-    "baseRarity": 0.0029
+    "baseRarity": 0.0028
    },
    {
     "text": "لطيفة",
@@ -3247,7 +3279,7 @@
    },
    {
     "text": "ميار",
-    "baseRarity": 0.0027
+    "baseRarity": 0.0026
    },
    {
     "text": "نادية",
@@ -3295,7 +3327,7 @@
    },
    {
     "text": "تالا",
-    "baseRarity": 0.0023
+    "baseRarity": 0.0022
    },
    {
     "text": "لجين",
@@ -3311,7 +3343,7 @@
    },
    {
     "text": "رغد",
-    "baseRarity": 0.0022
+    "baseRarity": 0.0021
    },
    {
     "text": "أريج",
@@ -3327,7 +3359,7 @@
    },
    {
     "text": "بيان",
-    "baseRarity": 0.0021
+    "baseRarity": 0.002
    },
    {
     "text": "تسنيم",
@@ -3343,7 +3375,7 @@
    },
    {
     "text": "رنيم",
-    "baseRarity": 0.002
+    "baseRarity": 0.0019
    },
    {
     "text": "ريناد",
@@ -3363,7 +3395,7 @@
    },
    {
     "text": "غلا",
-    "baseRarity": 0.0019
+    "baseRarity": 0.0018
    },
    {
     "text": "لين",
@@ -3387,7 +3419,7 @@
    },
    {
     "text": "نوير",
-    "baseRarity": 0.0018
+    "baseRarity": 0.0017
    },
    {
     "text": "هتون",
@@ -3411,7 +3443,7 @@
    },
    {
     "text": "آية",
-    "baseRarity": 0.0017
+    "baseRarity": 0.0016
    },
    {
     "text": "بتول",
@@ -3439,7 +3471,7 @@
    },
    {
     "text": "سلوى",
-    "baseRarity": 0.0016
+    "baseRarity": 0.0015
    },
    {
     "text": "عزيزة",
@@ -3471,7 +3503,7 @@
    },
    {
     "text": "نسيبة",
-    "baseRarity": 0.0015
+    "baseRarity": 0.0014
    },
    {
     "text": "هاجر",
@@ -3507,7 +3539,7 @@
    },
    {
     "text": "عهود",
-    "baseRarity": 0.0014
+    "baseRarity": 0.0013
    },
    {
     "text": "لبنى",
@@ -3544,6 +3576,38 @@
    {
     "text": "رباب",
     "baseRarity": 0.0013
+   },
+   {
+    "text": "ميسون",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "مي",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "منار",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "مروة",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "ملك",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "منال",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "مرح",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "مودة",
+    "baseRarity": 0.0012
    }
   ],
   "secret": "سلاف",

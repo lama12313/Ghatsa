@@ -27,7 +27,7 @@ export function QuestionPlay({ meta, set, header, timer, onCorrect, onSkip, skip
   const [message, setMessage] = useState('');
   const [shake, setShake] = useState(0);
   const inputRef = useRef<HTMLInputElement>(null);
-  const matcher = useMemo(() => (set ? new AnswerMatcher(set.answers) : null), [set]);
+  const matcher = useMemo(() => (set ? new AnswerMatcher(set.answers, { exact: set.exact }) : null), [set]);
   const tries = useRef(0);
 
   useEffect(() => {

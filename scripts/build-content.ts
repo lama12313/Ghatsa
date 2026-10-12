@@ -19,7 +19,7 @@ for (const q of questions) {
   const secretIndex = q.answers.findIndex((a) => normalize(a.text) === normalize(q.secret));
   if (secretIndex < 0) throw new Error(`${q.id}: الجواب السري مو موجود (شغّل npm run validate)`);
   const file = fileNameFor(q.id);
-  const data = encodeAnswerSet({ id: q.id, answers: q.answers, secretIndex });
+  const data = encodeAnswerSet({ id: q.id, answers: q.answers, secretIndex, exact: q.exact });
   writeFileSync(join(OUT, file), data);
   hash.update(q.id + data);
   metas.push({ id: q.id, category: q.category, prompt: q.prompt, difficulty: q.difficulty, file });

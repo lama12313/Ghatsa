@@ -26,7 +26,7 @@ for (const { file, questions } of readContentFiles()) {
     const where = `${file}#${qi}`;
     const err = (m: string) => errors.push(`${where}: ${m}`);
     if (!isObj(raw)) return err('السؤال لازم يكون object');
-    const { id, category, prompt, difficulty, answers, secret, sources } = raw;
+    const { id, category, prompt, difficulty, answers, secret, sources, exact } = raw;
     if (!isStr(id) || !/^[a-z0-9-]+$/.test(id)) err('id لازم يكون حروف إنجليزية صغيرة وأرقام وشرطات');
     else if (ids.has(id)) err(`id مكرر: ${id}`);
     else ids.add(id);
@@ -45,6 +45,7 @@ for (const { file, questions } of readContentFiles()) {
     if (!Array.isArray(sources) || !sources.every(isStr)) e('sources لازم يكون مصفوفة نصوص');
     else if (sources.length === 0) w('ما فيه مصادر');
     if (!isStr(secret)) e('secret مفقود');
+    if (exact !== undefined && typeof exact !== 'boolean') e('exact لازم يكون true أو false');
     if (!Array.isArray(answers)) return e('answers لازم يكون مصفوفة');
 
     const owner = new Map<string, string>(); // الشكل المطبّع ← الجواب الأصلي

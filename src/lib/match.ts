@@ -46,7 +46,10 @@ export class AnswerMatcher {
   private exact = new Map<string, number>();
   private keys: Key[] = [];
 
-  constructor(answers: readonly ContentAnswer[]) {
+  private readonly exactOnly: boolean;
+
+  constructor(answers: readonly ContentAnswer[], opts: { exact?: boolean } = {}) {
+    this.exactOnly = opts.exact ?? false;
     answers.forEach((a, index) => {
       for (const form of [a.text, ...(a.aliases ?? [])]) {
         const key = normalize(form);
@@ -62,6 +65,7 @@ export class AnswerMatcher {
     if (!n) return null;
     const hit = this.exact.get(n);
     if (hit !== undefined) return { index: hit, fuzzy: false };
+    if (this.exactOnly) return null;
 
     // أقرب جواب لكل رقم جواب
     let best: { index: number; dist: number } | null = null;

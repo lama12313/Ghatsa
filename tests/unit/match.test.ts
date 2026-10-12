@@ -162,6 +162,14 @@ describe('AnswerMatcher: رفض', () => {
     expect(m.match(input)).toBeNull();
   });
 
+  it('وضع المطابقة الحرفية يرفض التصحيح الإملائي', () => {
+    const words = [a('نظارة'), a('ظلام')];
+    const strict = new AnswerMatcher(words, { exact: true });
+    expect(strict.match('نضارة')).toBeNull();
+    expect(strict.match('النظارة')).not.toBeNull();
+    expect(new AnswerMatcher(words).match('نضارة')).not.toBeNull();
+  });
+
   it('الأرقام ما فيها تسامح إملائي', () => {
     const nums = new AnswerMatcher([a('10000'), a('12345')]);
     expect(nums.match('10001')).toBeNull();

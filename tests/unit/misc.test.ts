@@ -22,6 +22,9 @@ describe('obfuscate', () => {
     expect(atob(enc)).not.toContain(new TextDecoder().decode(new TextEncoder().encode('مصر')));
     expect(enc).not.toContain('baseRarity');
   });
+  it('يحفظ علامة المطابقة الحرفية', () => {
+    expect(decodeAnswerSet('geo-x', encodeAnswerSet({ ...set, exact: true })).exact).toBe(true);
+  });
   it('اسم الملف ما يكشف id', () => {
     expect(fileNameFor('geo-x')).not.toContain('geo');
     expect(fileNameFor('geo-x')).toBe(fileNameFor('geo-x'));

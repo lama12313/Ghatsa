@@ -16,6 +16,8 @@ export interface ContentQuestion {
   answers: ContentAnswer[];
   secret: string;
   sources: string[];
+  /** مطابقة حرفية بدون تسامح إملائي (لأسئلة الحروف مثل «كلمة فيها حرف الظاء») */
+  exact?: boolean;
 }
 
 /** بيانات السؤال بدون الأجوبة (تنحمل مع بداية اللعبة) */
@@ -39,6 +41,7 @@ export interface AnswerSet {
   id: string;
   answers: ContentAnswer[];
   secretIndex: number;
+  exact?: boolean;
 }
 
 /** ٠ = ما فيه نقاط (خطأ أو تخطي أو انتهى الوقت) */

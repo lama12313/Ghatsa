@@ -28,13 +28,14 @@ function fromBase64(s: string): Uint8Array {
 }
 
 /** صيغة مضغوطة: [نص، [أسماء بديلة]، ندرة] */
-type Packed = { s: number; a: [string, string[], number][] };
+type Packed = { s: number; a: [string, string[], number][]; x?: 1 };
 
 export function encodeAnswerSet(set: AnswerSet): string {
   const packed: Packed = {
     s: set.secretIndex,
     a: set.answers.map((a) => [a.text, a.aliases ?? [], a.baseRarity]),
   };
+  if (set.exact) packed.x = 1;
   const bytes = new TextEncoder().encode(JSON.stringify(packed));
   const key = keystream(set.id, bytes.length);
   for (let i = 0; i < bytes.length; i++) bytes[i] ^= key[i];
@@ -50,6 +51,7 @@ export function decodeAnswerSet(id: string, data: string): AnswerSet {
     id,
     secretIndex: packed.s,
     answers: packed.a.map(([text, aliases, baseRarity]) => ({ text, aliases, baseRarity })),
+    ...(packed.x ? { exact: true } : {}),
   };
 }
 

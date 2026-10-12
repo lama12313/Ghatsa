@@ -15,6 +15,9 @@
  *
  * إعادة استخدام القوائم:
  *   @rows <id>   يضيف كل أجوبة سؤال ثاني (أو قائمة مساعدة) بدون تكرار
+ *   @rows-if <id> <شرط>  نفس @rows بس ياخذ الأجوبة اللي تحقق الشرط (على النص بعد التطبيع):
+ *        contains:ر  ‏|‏  starts:س  ‏|‏  ends:ا  ‏|‏  len:3 (كلمة وحدة طولها ٣)
+ *   @exact       مطابقة حرفية بدون تسامح إملائي
  *   سؤال يبدأ id حقه بـ _ يعتبر قائمة مساعدة: يستخدم مع @rows وما ينضاف للعبة.
  */
 import { readdirSync, readFileSync, writeFileSync } from 'node:fs';
@@ -35,9 +38,12 @@ interface Draft {
   sources: string[];
   rows: Row[];
   file: string;
+  exact: boolean;
 }
 
-type Row = { text: string; aliases: string[]; fixed?: number } | { include: string; line: number };
+type Row =
+  | { text: string; aliases: string[]; fixed?: number }
+  | { include: string; line: number; rule?: string };
 
 function round(n: number): number {
   return Math.max(0.0001, Math.round(n * 10000) / 10000);
@@ -57,7 +63,8 @@ function resolve(d: Draft, stack: string[] = []): Extract<Row, { text: string }>
         ? (() => {
             const src = drafts.get(r.include);
             if (!src) throw new Error(`${d.file}:${r.line}: @rows ${r.include} مو موجود`);
-            return resolve(src, [...stack, d.id]);
+            const rows = resolve(src, [...stack, d.id]);
+            return r.rule ? applyRule(rows, r.rule, `${d.file}:${r.line}`) : rows;
           })()
         : [r];
     for (const row of list) {
@@ -67,6 +74,38 @@ function resolve(d: Draft, stack: string[] = []): Extract<Row, { text: string }>
       for (const f of [row.text, ...aliases]) seen.add(normalize(f));
       out.push({ ...row, aliases });
     }
+  }
+  return out;
+}
+
+type TextRow = Extract<Row, { text: string }>;
+
+function ruleTest(rule: string, where: string): (form: string) => boolean {
+  const [kind, arg] = rule.split(':');
+  const a = arg ? normalize(arg) : '';
+  switch (kind) {
+    case 'contains':
+      return (f) => normalize(f).includes(a);
+    case 'starts':
+      return (f) => normalize(f).startsWith(a);
+    case 'ends':
+      return (f) => normalize(f).endsWith(a);
+    case 'len':
+      return (f) => !/\s/.test(f.trim()) && normalize(f).length === Number(arg);
+    default:
+      throw new Error(`${where}: شرط غير معروف «${rule}»`);
+  }
+}
+
+/** يبقي فقط الأشكال (النص والأسماء البديلة) اللي تحقق الشرط */
+function applyRule(rows: TextRow[], rule: string, where: string): TextRow[] {
+  const test = ruleTest(rule, where);
+  const out: TextRow[] = [];
+  for (const r of rows) {
+    const forms = [r.text, ...r.aliases].filter(test);
+    if (!forms.length) continue;
+    const [text, ...aliases] = forms;
+    out.push({ text, aliases });
   }
   return out;
 }
@@ -90,6 +129,7 @@ function finish(draft: Draft): ContentQuestion {
     answers,
     secret: d.secret,
     sources: d.sources,
+    ...(d.exact ? { exact: true } : {}),
   };
 }
 
@@ -126,6 +166,7 @@ function parse(file: string): void {
           sources: [],
           rows: [],
           file: basename(file),
+          exact: false,
         };
         if (drafts.has(id)) fail(`id مكرر: ${id}`);
         drafts.set(id, cur);
@@ -135,6 +176,15 @@ function parse(file: string): void {
       if (!cur) return fail('سطر خارج سؤال');
       if (line.startsWith('secret:')) {
         cur.secret = line.slice(7).trim();
+        return;
+      }
+      if (line === '@exact') {
+        cur.exact = true;
+        return;
+      }
+      if (line.startsWith('@rows-if')) {
+        const [src, rule] = line.slice(8).trim().split(/\s+/);
+        cur.rows.push({ include: src, line: ln + 1, rule });
         return;
       }
       if (line.startsWith('@rows')) {
@@ -167,7 +217,9 @@ for (const f of files) parse(join(SRC, f));
 let total = 0;
 for (const f of files) {
   const name = basename(f, '.txt');
-  const qs = order.filter((o) => o.file === name && !o.id.startsWith('_')).map((o) => finish(drafts.get(o.id)!));
+  const qs = order
+    .filter((o) => o.file === name && !o.id.startsWith('_'))
+    .map((o) => finish(drafts.get(o.id)!));
   writeFileSync(join(CONTENT_DIR, `${name}.json`), JSON.stringify(qs, null, 1) + '\n');
   total += qs.length;
   console.log(`✍️  ${f}: ${qs.length} سؤال`);

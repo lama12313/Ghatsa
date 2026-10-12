@@ -1,0 +1,8031 @@
+[
+ {
+  "id": "cmp-countries-ra",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر دولة اسمها فيه حرف الراء",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "المملكة العربية السعودية",
+    "baseRarity": 0.1955
+   },
+   {
+    "text": "مصر",
+    "baseRarity": 0.0977
+   },
+   {
+    "text": "أمريكا",
+    "baseRarity": 0.0652
+   },
+   {
+    "text": "الإمارات",
+    "baseRarity": 0.0489
+   },
+   {
+    "text": "فرنسا",
+    "baseRarity": 0.0391
+   },
+   {
+    "text": "بريطانيا",
+    "baseRarity": 0.0326
+   },
+   {
+    "text": "قطر",
+    "baseRarity": 0.0279
+   },
+   {
+    "text": "المغرب",
+    "baseRarity": 0.0244
+   },
+   {
+    "text": "الأردن",
+    "baseRarity": 0.0217
+   },
+   {
+    "text": "تركيا",
+    "baseRarity": 0.0195
+   },
+   {
+    "text": "البحرين",
+    "baseRarity": 0.0178
+   },
+   {
+    "text": "العراق",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "البرازيل",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "سوريا",
+    "baseRarity": 0.014,
+    "aliases": [
+     "سورية"
+    ]
+   },
+   {
+    "text": "إيران",
+    "baseRarity": 0.013,
+    "aliases": [
+     "فارس"
+    ]
+   },
+   {
+    "text": "كوريا الجنوبية",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "سنغافورة",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "روسيا",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "كوريا الشمالية",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "سريلانكا",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "جزر المالديف",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "أذربيجان",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "جورجيا",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "أرمينيا",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "تركمانستان",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "قيرغيزستان",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "قرغيزستان",
+     "كيرغيزستان"
+    ]
+   },
+   {
+    "text": "ميانمار",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "بورما"
+    ]
+   },
+   {
+    "text": "بروناي",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "قبرص",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "تيمور الشرقية",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "تيمور ليشتي"
+    ]
+   },
+   {
+    "text": "الجزائر",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "نيجيريا",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "جنوب أفريقيا",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "جنوب افريقيا"
+    ]
+   },
+   {
+    "text": "موريتانيا",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "الكاميرون",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "كوت ديفوار",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "جزر القمر",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "القمر"
+    ]
+   },
+   {
+    "text": "النيجر",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "مدغشقر",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "رواندا",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "جمهورية الكونغو الديمقراطية",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "الكونغو الديمقراطية",
+     "زائير"
+    ]
+   },
+   {
+    "text": "إريتريا",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "ارتيريا"
+    ]
+   },
+   {
+    "text": "غينيا كوناكري",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "جمهورية الكونغو",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "الكونغو برازافيل",
+     "كونغو برازافيل"
+    ]
+   },
+   {
+    "text": "بوركينا فاسو",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "ليبيريا",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "سيراليون",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "جمهورية أفريقيا الوسطى",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "أفريقيا الوسطى"
+    ]
+   },
+   {
+    "text": "بوروندي",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "موريشيوس",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "الرأس الأخضر",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "كاب فيردي",
+     "كابو فيردي"
+    ]
+   },
+   {
+    "text": "ساو تومي وبرينسيب",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "البرتغال",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "سويسرا",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "النرويج",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "الدنمارك",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "أوكرانيا",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "أيرلندا",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "ايرلندا"
+    ]
+   },
+   {
+    "text": "جمهورية التشيك",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "المجر",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "هنغاريا"
+    ]
+   },
+   {
+    "text": "رومانيا",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "كرواتيا",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "صربيا",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "البوسنة والهرسك",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "بلغاريا",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "لوكسمبورغ",
+    "baseRarity": 0.003,
+    "aliases": [
+     "لوكسمبورج"
+    ]
+   },
+   {
+    "text": "بيلاروسيا",
+    "baseRarity": 0.0029,
+    "aliases": [
+     "روسيا البيضاء"
+    ]
+   },
+   {
+    "text": "مونتينيغرو",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "سان مارينو",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "أندورا",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الأرجنتين",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "بيرو",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الإكوادور",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الأوروغواي",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "الباراغواي",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "باراجواي"
+    ]
+   },
+   {
+    "text": "كوستاريكا",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "هندوراس",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "السلفادور",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "نيكاراغوا",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "نيكاراجوا"
+    ]
+   },
+   {
+    "text": "جمهورية الدومينيكان",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "جزر البهاما",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "ترينيداد وتوباغو",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "ترينيداد"
+    ]
+   },
+   {
+    "text": "باربادوس",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "سورينام",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "غرينادا",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "سانت فنسنت والغرينادين",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "أنتيغوا وباربودا",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "أستراليا",
+    "baseRarity": 0.0022,
+    "aliases": [
+     "استراليا"
+    ]
+   },
+   {
+    "text": "جزر سليمان",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "كيريباتي",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "ميكرونيزيا",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "جزر مارشال",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "ناورو",
+    "baseRarity": 0.0021
+   }
+  ],
+  "secret": "بوركينا فاسو",
+  "sources": [
+   "https://www.un.org/en/about-us/member-states"
+  ]
+ },
+ {
+  "id": "cmp-countries-end-alef",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر دولة ينتهي اسمها بحرف الألف (مثل: كوريا)",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "أمريكا",
+    "baseRarity": 0.1999
+   },
+   {
+    "text": "فرنسا",
+    "baseRarity": 0.1
+   },
+   {
+    "text": "بريطانيا",
+    "baseRarity": 0.0666
+   },
+   {
+    "text": "ألمانيا",
+    "baseRarity": 0.05
+   },
+   {
+    "text": "تركيا",
+    "baseRarity": 0.04
+   },
+   {
+    "text": "إيطاليا",
+    "baseRarity": 0.0333
+   },
+   {
+    "text": "إسبانيا",
+    "baseRarity": 0.0286
+   },
+   {
+    "text": "كندا",
+    "baseRarity": 0.025
+   },
+   {
+    "text": "سوريا",
+    "baseRarity": 0.0222
+   },
+   {
+    "text": "إندونيسيا",
+    "baseRarity": 0.02
+   },
+   {
+    "text": "ماليزيا",
+    "baseRarity": 0.0182
+   },
+   {
+    "text": "روسيا",
+    "baseRarity": 0.0167
+   },
+   {
+    "text": "سريلانكا",
+    "baseRarity": 0.0154
+   },
+   {
+    "text": "منغوليا",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "جورجيا",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "أرمينيا",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "بورما",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "كمبوديا",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "ليبيا",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "نيجيريا",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "جنوب أفريقيا",
+    "baseRarity": 0.0095,
+    "aliases": [
+     "جنوب افريقيا"
+    ]
+   },
+   {
+    "text": "إثيوبيا",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "اثيوبيا"
+    ]
+   },
+   {
+    "text": "كينيا",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "موريتانيا",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "غانا",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "تنزانيا",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "أوغندا",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "أنغولا",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "انجولا"
+    ]
+   },
+   {
+    "text": "زامبيا",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "رواندا",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "كونغو كينشاسا",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "إريتريا",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "ارتيريا"
+    ]
+   },
+   {
+    "text": "غينيا",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "ليبيريا",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "غامبيا",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "جامبيا"
+    ]
+   },
+   {
+    "text": "ناميبيا",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "بوتسوانا",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "هولندا",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "بلجيكا",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "سويسرا",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "النمسا",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "بولندا",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "أوكرانيا",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "فنلندا",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "أيرلندا",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "ايرلندا"
+    ]
+   },
+   {
+    "text": "تشيكيا",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "هنغاريا",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "رومانيا",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "كرواتيا",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "صربيا",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "ألبانيا",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "بلغاريا",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "آيسلندا",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "ايسلندا"
+    ]
+   },
+   {
+    "text": "سلوفاكيا",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "سلوفينيا",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "مالطا",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "إستونيا",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "لاتفيا",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "ليتوانيا",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "بيلاروسيا",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "روسيا البيضاء"
+    ]
+   },
+   {
+    "text": "مولدوفا",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "مقدونيا",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "أندورا",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "كولومبيا",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "فنزويلا",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "كوبا",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "بوليفيا",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "جامايكا",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "بنما",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "كوستاريكا",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "غواتيمالا",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "جواتيمالا"
+    ]
+   },
+   {
+    "text": "نيكاراغوا",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "نيكاراجوا"
+    ]
+   },
+   {
+    "text": "جزر البهاما",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "البهاما"
+    ]
+   },
+   {
+    "text": "غيانا",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "جيانا"
+    ]
+   },
+   {
+    "text": "دومينيكا",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "غرينادا",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "سانت لوسيا",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "أنتيغوا وباربودا",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "أستراليا",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "استراليا"
+    ]
+   },
+   {
+    "text": "نيوزيلندا",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "ساموا",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "تونغا",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "ميكرونيزيا",
+    "baseRarity": 0.0024
+   }
+  ],
+  "secret": "تونغا",
+  "sources": [
+   "https://www.un.org/en/about-us/member-states"
+  ]
+ },
+ {
+  "id": "cmp-animals-seen",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر حيوان يبدأ اسمه بحرف السين (بدون «ال»)",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "سنجاب",
+    "baseRarity": 0.2129
+   },
+   {
+    "text": "سمور",
+    "baseRarity": 0.1065
+   },
+   {
+    "text": "سنونو",
+    "baseRarity": 0.071,
+    "aliases": [
+     "السنونو"
+    ]
+   },
+   {
+    "text": "سمان",
+    "baseRarity": 0.0532,
+    "aliases": [
+     "السمان",
+     "السلوى"
+    ]
+   },
+   {
+    "text": "سلحفاة",
+    "baseRarity": 0.0426,
+    "aliases": [
+     "سلحفاه"
+    ]
+   },
+   {
+    "text": "سحلية",
+    "baseRarity": 0.0355,
+    "aliases": [
+     "سحالي"
+    ]
+   },
+   {
+    "text": "السلحفاة البحرية",
+    "baseRarity": 0.0304
+   },
+   {
+    "text": "السلحفاة العملاقة",
+    "baseRarity": 0.0266,
+    "aliases": [
+     "سلحفاة غالاباغوس"
+    ]
+   },
+   {
+    "text": "سلحفاة جلدية الظهر",
+    "baseRarity": 0.0237
+   },
+   {
+    "text": "السمندل",
+    "baseRarity": 0.0213,
+    "aliases": [
+     "السلمندر"
+    ]
+   },
+   {
+    "text": "سمندل الماء",
+    "baseRarity": 0.0194
+   },
+   {
+    "text": "سمك المشي المكسيكي",
+    "baseRarity": 0.0177
+   },
+   {
+    "text": "السحلية ذات القرون",
+    "baseRarity": 0.0164
+   },
+   {
+    "text": "السقنقور",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "سمكة الرمل"
+    ]
+   },
+   {
+    "text": "السلحفاة النهرية",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "سلحفاة صندوقية",
+    "baseRarity": 0.0133,
+    "aliases": [
+     "السلحفاة الصندوقية"
+    ]
+   },
+   {
+    "text": "السلحفاة المفترسة",
+    "baseRarity": 0.0125,
+    "aliases": [
+     "السلحفاة القاضمة"
+    ]
+   },
+   {
+    "text": "السرعوف",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "السيكادا",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "سراج الليل",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "سوسة",
+    "baseRarity": 0.0101,
+    "aliases": [
+     "السوس"
+    ]
+   },
+   {
+    "text": "السوسة الحمراء",
+    "baseRarity": 0.0097,
+    "aliases": [
+     "سوسة النخيل"
+    ]
+   },
+   {
+    "text": "سلمون",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "سردين",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "سمك القرش",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "سبيطي",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "سي باس",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "سمك المرجان",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "سمك موسى",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "سمك القد",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "السلمون المرقط",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "سمك القط",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "السلور"
+    ]
+   },
+   {
+    "text": "سمك السيف",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "سمك المهرج",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "سمك النيمو"
+    ]
+   },
+   {
+    "text": "سمك الببغاء",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "السمكة الجراحة",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "سمك الملاك",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "السمكة الذهبية",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "سمك الزينة الذهبي"
+    ]
+   },
+   {
+    "text": "سمك البالون",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "سمك النفيخ"
+    ]
+   },
+   {
+    "text": "سمك الراي",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "سمك المنشار",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "سمك الشمس",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "سمك الحفش",
+    "baseRarity": 0.005,
+    "aliases": [
+     "سمك الكافيار"
+    ]
+   },
+   {
+    "text": "سمك الهلبوت",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "سمك النهاش",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "سمك الأسد",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "سمك العقرب",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "سمك الأرنب",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "سمك القوبيون",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "سمك الصول",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "السول"
+    ]
+   },
+   {
+    "text": "سمك الماهي ماهي",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "السمك الطائر",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "السمك الأعمى",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "سمك البربوني",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "السلطان إبراهيم"
+    ]
+   },
+   {
+    "text": "سرطان البحر",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "سلطعون"
+    ]
+   },
+   {
+    "text": "السبيط",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "سرطان الناسك",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "سرطان الملك",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "السلطعون الملكي"
+    ]
+   },
+   {
+    "text": "السرفال",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "السلحفاة الأفريقية",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "سمك الزينة",
+    "baseRarity": 0.0035
+   }
+  ],
+  "secret": "السرفال",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/حيوان"
+  ]
+ },
+ {
+  "id": "cmp-animals-3",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر حيوان اسمه من ثلاثة حروف (مثل: أسد)",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "أسد",
+    "baseRarity": 0.2122
+   },
+   {
+    "text": "قطة",
+    "baseRarity": 0.1061,
+    "aliases": [
+     "بسة"
+    ]
+   },
+   {
+    "text": "كلب",
+    "baseRarity": 0.0707
+   },
+   {
+    "text": "جمل",
+    "baseRarity": 0.0531
+   },
+   {
+    "text": "خيل",
+    "baseRarity": 0.0424
+   },
+   {
+    "text": "فيل",
+    "baseRarity": 0.0354
+   },
+   {
+    "text": "غنم",
+    "baseRarity": 0.0303
+   },
+   {
+    "text": "عنز",
+    "baseRarity": 0.0265,
+    "aliases": [
+     "تيس"
+    ]
+   },
+   {
+    "text": "نمر",
+    "baseRarity": 0.0236
+   },
+   {
+    "text": "ذئب",
+    "baseRarity": 0.0212
+   },
+   {
+    "text": "قرد",
+    "baseRarity": 0.0193
+   },
+   {
+    "text": "حوت",
+    "baseRarity": 0.0177
+   },
+   {
+    "text": "فهد",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "ضبع",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "فأر",
+    "baseRarity": 0.0141
+   },
+   {
+    "text": "جرذ",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "ثور",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "ياك",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "ألبكة",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "أيل",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "رنة",
+    "baseRarity": 0.0101,
+    "aliases": [
+     "الرنة"
+    ]
+   },
+   {
+    "text": "موظ",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "وعل",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "مها",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "ظبي",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "خلد",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "وشق",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "فنك",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "نمس",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "صقر",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "نسر",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "بطة",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "ديك",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "بوم",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "بجع",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "إوز",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "حبش",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "باز",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "قطا",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "حجل",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "فنش",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "ريا",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "البفن",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "الصرد",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "حية",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "ورل",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "بُرص",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "البرص",
+     "الوزغ"
+    ]
+   },
+   {
+    "text": "نحل",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "نمل",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "قمل",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "بقة",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "عثة",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "الرمة",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "الزيز",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "الجعل",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "السوس",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "قرش",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "الحفش",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "السول",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "النيص",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "الوبر",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "بغل",
+    "baseRarity": 0.0034
+   }
+  ],
+  "secret": "ورل",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/حيوان"
+  ]
+ },
+ {
+  "id": "cmp-arab-cities-meem",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر مدينة عربية يبدأ اسمها بحرف الميم (بدون «ال»)",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "مكة المكرمة",
+    "baseRarity": 0.1833,
+    "aliases": [
+     "مكة"
+    ]
+   },
+   {
+    "text": "المدينة المنورة",
+    "baseRarity": 0.0916,
+    "aliases": [
+     "المدينة"
+    ]
+   },
+   {
+    "text": "مسقط",
+    "baseRarity": 0.0611
+   },
+   {
+    "text": "المنامة",
+    "baseRarity": 0.0458
+   },
+   {
+    "text": "مراكش",
+    "baseRarity": 0.0367
+   },
+   {
+    "text": "مقديشو",
+    "baseRarity": 0.0305
+   },
+   {
+    "text": "موروني",
+    "baseRarity": 0.0262
+   },
+   {
+    "text": "المجمعة",
+    "baseRarity": 0.0229
+   },
+   {
+    "text": "المزاحمية",
+    "baseRarity": 0.0204
+   },
+   {
+    "text": "مرات",
+    "baseRarity": 0.0183
+   },
+   {
+    "text": "المويه",
+    "baseRarity": 0.0167
+   },
+   {
+    "text": "ميسان",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "المهد",
+    "baseRarity": 0.0141
+   },
+   {
+    "text": "المذنب",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "محايل عسير",
+    "baseRarity": 0.0122,
+    "aliases": [
+     "محايل"
+    ]
+   },
+   {
+    "text": "المجاردة",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "موقق",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "المندق",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "المخواة",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "المنصورة",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "المحلة الكبرى",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "المحلة"
+    ]
+   },
+   {
+    "text": "المنيا",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "مرسى مطروح",
+    "baseRarity": 0.008,
+    "aliases": [
+     "مطروح"
+    ]
+   },
+   {
+    "text": "مرسى علم",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "ملوي",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "مغاغة",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "منفلوط",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "ميت غمر",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "مدينة زايد",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "مرسى دبي",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "الممزر",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "مردف",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "المزهر",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "مصفوت",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "مسافي",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "المصفح",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "مدينة خليفة",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "مدينة محمد بن زايد",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "المشرف",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "الموصل",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "مندلي",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "المقدادية",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "المحمودية",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "المجر الكبير",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "المسيب",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "منبج",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "الميادين",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "مصياف",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "معرة النعمان",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "معلولا",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "المالكية",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "محردة",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "مادبا",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "المفرق",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "معان",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "الموقر",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "المزار الجنوبي",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "المزار الشمالي",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "ماحص",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "مرجعيون",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الميناء",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "المجدل",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "المغازي",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "مكناس",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "المحمدية",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "مرتيل",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "المضيق",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "ميدلت",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "المدية",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "مستغانم",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "المسيلة",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "معسكر",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "ميلة",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "المغير",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "المنيعة",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "مغنية",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "المنستير",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "المهدية",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "مدنين",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "منوبة",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "المرسى",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "المتلوي",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "منزل بورقيبة",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "مساكن",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "المكنين",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "مجاز الباب",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "مصراتة",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "مرزق",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "مسلاتة",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "المرج",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "مروي",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "المناقل",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "المجلد",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "مليط",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "المكلا",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "المخا",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "مأرب",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "المحويت",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "مودية",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "مطرح",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "مرباط",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "المزيونة",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "مقشن",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "مدحاء",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "محضة",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "منح",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "المصنعة",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "مصيرة",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "المضيبي",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "محوت",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "مبارك الكبير",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "المنقف",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "المنصورية",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "المهبولة",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "المطلاع",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "المرقاب",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "مدينة الشمال",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "مسيعيد",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "المرخية",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "المنتزه",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "المطار القديم",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "معيذر",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "مسيمير",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "المعمورة",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "مشيرب",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "المحرق",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "مدينة عيسى",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "مدينة حمد",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "المعامير",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "الماحوز",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "مقابة",
+    "baseRarity": 0.0014
+   }
+  ],
+  "secret": "مدحاء",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/الوطن_العربي"
+  ]
+ },
+ {
+  "id": "cmp-arab-cities-ain",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر مدينة عربية يبدأ اسمها بحرف العين (بدون «ال»)",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "عمان",
+    "baseRarity": 0.2035
+   },
+   {
+    "text": "عنيزة",
+    "baseRarity": 0.1017
+   },
+   {
+    "text": "العين",
+    "baseRarity": 0.0678
+   },
+   {
+    "text": "عدن",
+    "baseRarity": 0.0509
+   },
+   {
+    "text": "عجمان",
+    "baseRarity": 0.0407
+   },
+   {
+    "text": "عرعر",
+    "baseRarity": 0.0339
+   },
+   {
+    "text": "العلا",
+    "baseRarity": 0.0291
+   },
+   {
+    "text": "عفيف",
+    "baseRarity": 0.0254
+   },
+   {
+    "text": "العرضيات",
+    "baseRarity": 0.0226
+   },
+   {
+    "text": "العيص",
+    "baseRarity": 0.0203
+   },
+   {
+    "text": "عيون الجواء",
+    "baseRarity": 0.0185
+   },
+   {
+    "text": "عقلة الصقور",
+    "baseRarity": 0.017
+   },
+   {
+    "text": "العويقلية",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "العارضة",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "العيدابي",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "العقيق",
+    "baseRarity": 0.0127
+   },
+   {
+    "text": "العريش",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "العلمين",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "العاشر من رمضان",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "العبور",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "العين السخنة",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "العاصمة الإدارية الجديدة",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "العمارة",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "عانة",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "عقرة",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "علي الغربي",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "عفرين",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "عين العرب",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "عامودا",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "العقبة",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "عجلون",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "عنجرة",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "عاليه",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "عنجر",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "عرسال",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "عكا",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "عسقلان",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "عرابة",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "عنبتا",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "عزون",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "العيزرية",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "عناتا",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "العيون",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "العرائش",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "عنابة",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "عين الدفلى",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "عين تموشنت",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "عين صالح",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "عين قزام",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "عين البيضاء",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "العلمة",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "عين مليلة",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "عين دراهم",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "العجيلات",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "عطبرة",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "عمران",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "عتق",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "عبس",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "العامرات",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "العوابي",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "عبري",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "العديلية",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "العارضية",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "العمرية",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "العباسية",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "العقيلة",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "العدان",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "العبدلي",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "العزيزية",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "عالي",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "عراد",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "العدلية",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "عسكر",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "عوالي",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "العكر",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "عذاري",
+    "baseRarity": 0.0027
+   }
+  ],
+  "secret": "عتق",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/الوطن_العربي"
+  ]
+ },
+ {
+  "id": "cmp-elements-yum",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر عنصر كيميائي ينتهي اسمه بـ «يوم» (مثل: صوديوم)",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "الصوديوم",
+    "baseRarity": 0.2024
+   },
+   {
+    "text": "الكالسيوم",
+    "baseRarity": 0.1012
+   },
+   {
+    "text": "الألمنيوم",
+    "baseRarity": 0.0675,
+    "aliases": [
+     "الألومنيوم",
+     "الالمونيوم"
+    ]
+   },
+   {
+    "text": "الهيليوم",
+    "baseRarity": 0.0506
+   },
+   {
+    "text": "اليورانيوم",
+    "baseRarity": 0.0405
+   },
+   {
+    "text": "البوتاسيوم",
+    "baseRarity": 0.0337
+   },
+   {
+    "text": "المغنيسيوم",
+    "baseRarity": 0.0289,
+    "aliases": [
+     "المغنيزيوم"
+    ]
+   },
+   {
+    "text": "الليثيوم",
+    "baseRarity": 0.0253
+   },
+   {
+    "text": "التيتانيوم",
+    "baseRarity": 0.0225
+   },
+   {
+    "text": "البلوتونيوم",
+    "baseRarity": 0.0202
+   },
+   {
+    "text": "الراديوم",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "الباريوم",
+    "baseRarity": 0.0169
+   },
+   {
+    "text": "البيريليوم",
+    "baseRarity": 0.0156,
+    "aliases": [
+     "البريليوم"
+    ]
+   },
+   {
+    "text": "السترونتيوم",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "الكادميوم",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "الجرمانيوم",
+    "baseRarity": 0.0127
+   },
+   {
+    "text": "الغاليوم",
+    "baseRarity": 0.0119,
+    "aliases": [
+     "الجاليوم"
+    ]
+   },
+   {
+    "text": "الإنديوم",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "الثاليوم",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "البولونيوم",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "السيلينيوم",
+    "baseRarity": 0.0096,
+    "aliases": [
+     "السلينيوم"
+    ]
+   },
+   {
+    "text": "التيلوريوم",
+    "baseRarity": 0.0092,
+    "aliases": [
+     "التيلوريوم"
+    ]
+   },
+   {
+    "text": "الفاناديوم",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "السكانديوم",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "الإتريوم",
+    "baseRarity": 0.0081,
+    "aliases": [
+     "الإيتريوم"
+    ]
+   },
+   {
+    "text": "الزركونيوم",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "النيوبيوم",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "التكنيشيوم",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "التكنيتيوم"
+    ]
+   },
+   {
+    "text": "الروثينيوم",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "الروديوم",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "البالاديوم",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "الهافنيوم",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "الرينيوم",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "الأوزميوم",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "الإيريديوم",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "السيزيوم",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "الروبيديوم",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "الفرانسيوم",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "الأكتينيوم",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "الثوريوم",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "البروتكتينيوم",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "البروتاكتينيوم"
+    ]
+   },
+   {
+    "text": "النبتونيوم",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "الأمريسيوم",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "الأمريكيوم"
+    ]
+   },
+   {
+    "text": "الكوريوم",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "البركليوم",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "البيركيليوم"
+    ]
+   },
+   {
+    "text": "الكاليفورنيوم",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "الأينشتاينيوم",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "الآينشتاينيوم"
+    ]
+   },
+   {
+    "text": "الفيرميوم",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "المندليفيوم",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "النوبليوم",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "اللورنسيوم",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "الرذرفورديوم",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "الدوبنيوم",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "السيبورغيوم",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "السيبورجيوم"
+    ]
+   },
+   {
+    "text": "البوريوم",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "الهاسيوم",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "المايتنريوم",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "الدارمشتاتيوم",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "الرونتجينيوم",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "الكوبرنيسيوم",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "النيهونيوم",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "الفليروفيوم",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "الموسكوفيوم",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "الليفرموريوم",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "السيريوم",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "البراسيوديميوم",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "النيوديميوم",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "البروميثيوم",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "الساماريوم",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "اليوروبيوم",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الغادولينيوم",
+    "baseRarity": 0.0029,
+    "aliases": [
+     "الجادولينيوم"
+    ]
+   },
+   {
+    "text": "التيربيوم",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الديسبروسيوم",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الهولميوم",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الإربيوم",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الثوليوم",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الإيتربيوم",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "اللوتيشيوم",
+    "baseRarity": 0.0026
+   }
+  ],
+  "secret": "البروميثيوم",
+  "sources": [
+   "https://iupac.org/what-we-do/periodic-table-of-elements/"
+  ]
+ },
+ {
+  "id": "cmp-arab-countries-capitals",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر دولة عربية أو عاصمة دولة عربية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "السعودية",
+    "baseRarity": 0.2299
+   },
+   {
+    "text": "الإمارات",
+    "baseRarity": 0.1149
+   },
+   {
+    "text": "الكويت",
+    "baseRarity": 0.0766
+   },
+   {
+    "text": "قطر",
+    "baseRarity": 0.0575
+   },
+   {
+    "text": "البحرين",
+    "baseRarity": 0.046
+   },
+   {
+    "text": "عمان",
+    "baseRarity": 0.0383,
+    "aliases": [
+     "سلطنة عمان"
+    ]
+   },
+   {
+    "text": "اليمن",
+    "baseRarity": 0.0328
+   },
+   {
+    "text": "العراق",
+    "baseRarity": 0.0287
+   },
+   {
+    "text": "سوريا",
+    "baseRarity": 0.0255
+   },
+   {
+    "text": "الأردن",
+    "baseRarity": 0.023
+   },
+   {
+    "text": "لبنان",
+    "baseRarity": 0.0209
+   },
+   {
+    "text": "فلسطين",
+    "baseRarity": 0.0192
+   },
+   {
+    "text": "مصر",
+    "baseRarity": 0.0177
+   },
+   {
+    "text": "السودان",
+    "baseRarity": 0.0164
+   },
+   {
+    "text": "ليبيا",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "تونس",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "الجزائر",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "المغرب",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "موريتانيا",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "الصومال",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "جيبوتي",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "جزر القمر",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "الرياض",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "أبوظبي",
+    "baseRarity": 0.0096,
+    "aliases": [
+     "ابو ظبي"
+    ]
+   },
+   {
+    "text": "الدوحة",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "المنامة",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "مسقط",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "صنعاء",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "بغداد",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "دمشق",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "بيروت",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "القدس",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "القاهرة",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "الخرطوم",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "طرابلس",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "الرباط",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "نواكشوط",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "مقديشو",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "موروني",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "مدينة الكويت",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "مدينة جيبوتي",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "تونس العاصمة",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "الجزائر العاصمة",
+    "baseRarity": 0.0053
+   }
+  ],
+  "secret": "موروني",
+  "sources": [
+   "https://www.lasportal.org/"
+  ]
+ },
+ {
+  "id": "cmp-multiples-7",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر عدد من مضاعفات العدد ٧ أصغر من ٥٠٠",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "7",
+    "baseRarity": 0.2063
+   },
+   {
+    "text": "14",
+    "baseRarity": 0.1032
+   },
+   {
+    "text": "21",
+    "baseRarity": 0.0688
+   },
+   {
+    "text": "28",
+    "baseRarity": 0.0516
+   },
+   {
+    "text": "35",
+    "baseRarity": 0.0413
+   },
+   {
+    "text": "42",
+    "baseRarity": 0.0344
+   },
+   {
+    "text": "49",
+    "baseRarity": 0.0295
+   },
+   {
+    "text": "56",
+    "baseRarity": 0.0258
+   },
+   {
+    "text": "63",
+    "baseRarity": 0.0229
+   },
+   {
+    "text": "70",
+    "baseRarity": 0.0206
+   },
+   {
+    "text": "77",
+    "baseRarity": 0.0188
+   },
+   {
+    "text": "84",
+    "baseRarity": 0.0172
+   },
+   {
+    "text": "91",
+    "baseRarity": 0.0159
+   },
+   {
+    "text": "98",
+    "baseRarity": 0.0147
+   },
+   {
+    "text": "105",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "112",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "119",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "126",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "133",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "140",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "147",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "154",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "161",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "168",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "175",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "182",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "189",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "196",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "203",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "210",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "217",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "224",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "231",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "238",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "245",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "252",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "259",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "266",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "273",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "280",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "287",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "294",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "301",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "308",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "315",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "322",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "329",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "336",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "343",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "350",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "357",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "364",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "371",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "378",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "385",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "392",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "399",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "406",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "413",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "420",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "427",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "434",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "441",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "448",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "455",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "462",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "469",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "476",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "483",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "490",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "497",
+    "baseRarity": 0.0029
+   }
+  ],
+  "secret": "497",
+  "sources": [
+   "https://oeis.org/A008589"
+  ]
+ },
+ {
+  "id": "cmp-leap-years",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر سنة كبيسة (ميلادية) بين ١٩٠٠ و٢١٠٠",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "2024",
+    "baseRarity": 0.2233
+   },
+   {
+    "text": "2020",
+    "baseRarity": 0.1116
+   },
+   {
+    "text": "2000",
+    "baseRarity": 0.0744
+   },
+   {
+    "text": "2028",
+    "baseRarity": 0.0558
+   },
+   {
+    "text": "2016",
+    "baseRarity": 0.0447
+   },
+   {
+    "text": "2012",
+    "baseRarity": 0.0372
+   },
+   {
+    "text": "2008",
+    "baseRarity": 0.0319
+   },
+   {
+    "text": "2004",
+    "baseRarity": 0.0279
+   },
+   {
+    "text": "1904",
+    "baseRarity": 0.0248
+   },
+   {
+    "text": "1908",
+    "baseRarity": 0.0223
+   },
+   {
+    "text": "1912",
+    "baseRarity": 0.0203
+   },
+   {
+    "text": "1916",
+    "baseRarity": 0.0186
+   },
+   {
+    "text": "1920",
+    "baseRarity": 0.0172
+   },
+   {
+    "text": "1924",
+    "baseRarity": 0.0159
+   },
+   {
+    "text": "1928",
+    "baseRarity": 0.0149
+   },
+   {
+    "text": "1932",
+    "baseRarity": 0.014
+   },
+   {
+    "text": "1936",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "1940",
+    "baseRarity": 0.0124
+   },
+   {
+    "text": "1944",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "1948",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "1952",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "1956",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "1960",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "1964",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "1968",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "1972",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "1976",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "1980",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "1984",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "1988",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "1992",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "1996",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "2032",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "2036",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "2040",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "2044",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "2048",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "2052",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "2056",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "2060",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "2064",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "2068",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "2072",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "2076",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "2080",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "2084",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "2088",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "2092",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "2096",
+    "baseRarity": 0.0046
+   }
+  ],
+  "secret": "2096",
+  "sources": [
+   "https://www.timeanddate.com/date/leapyear.html"
+  ]
+ },
+ {
+  "id": "cmp-words-zaa",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر كلمة عربية فيها حرف الظاء",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "ظل",
+    "baseRarity": 0.2088
+   },
+   {
+    "text": "ظلام",
+    "baseRarity": 0.1044
+   },
+   {
+    "text": "ظلم",
+    "baseRarity": 0.0696
+   },
+   {
+    "text": "ظالم",
+    "baseRarity": 0.0522
+   },
+   {
+    "text": "مظلوم",
+    "baseRarity": 0.0418
+   },
+   {
+    "text": "ظهر",
+    "baseRarity": 0.0348
+   },
+   {
+    "text": "ظهيرة",
+    "baseRarity": 0.0298
+   },
+   {
+    "text": "ظاهر",
+    "baseRarity": 0.0261
+   },
+   {
+    "text": "مظهر",
+    "baseRarity": 0.0232
+   },
+   {
+    "text": "ظرف",
+    "baseRarity": 0.0209
+   },
+   {
+    "text": "ظروف",
+    "baseRarity": 0.019
+   },
+   {
+    "text": "ظريف",
+    "baseRarity": 0.0174
+   },
+   {
+    "text": "ظبي",
+    "baseRarity": 0.0161
+   },
+   {
+    "text": "ظفر",
+    "baseRarity": 0.0149
+   },
+   {
+    "text": "أظافر",
+    "baseRarity": 0.0139
+   },
+   {
+    "text": "ظن",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "ظمأ",
+    "baseRarity": 0.0123
+   },
+   {
+    "text": "عظم",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "عظيم",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "عظام",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "عظمة",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "نظر",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "نظارة",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "نظرة",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "منظر",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "ناظر",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "انتظار",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "منتظر",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "نظيف",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "نظافة",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "نظام",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "منظم",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "تنظيم",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "حظ",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "محظوظ",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "حفظ",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "محفظة",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "حافظ",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "محافظة",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "محافظ",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "لفظ",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "لحظة",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "ملاحظة",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "غيظ",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "غليظ",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "كظم",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "يقظة",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "استيقاظ",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "فظيع",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "حظيرة",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "وظيفة",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "موظف",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "موعظة",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "واعظ",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "حنظل",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "ظبية",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "ظلال",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "مظلة",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "ظافر",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "ظفار",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "حظر",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "محظور",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "باهظ",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "نظير",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "نظرية",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "مناظرة",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "شظية",
+    "baseRarity": 0.0031
+   }
+  ],
+  "secret": "استيقاظ",
+  "sources": [
+   "https://www.almaany.com/"
+  ],
+  "exact": true
+ },
+ {
+  "id": "cmp-words-dad",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر كلمة عربية فيها حرف الضاد",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "ضوء",
+    "baseRarity": 0.2069
+   },
+   {
+    "text": "ضيف",
+    "baseRarity": 0.1035
+   },
+   {
+    "text": "ضحك",
+    "baseRarity": 0.069
+   },
+   {
+    "text": "أرض",
+    "baseRarity": 0.0517
+   },
+   {
+    "text": "بيض",
+    "baseRarity": 0.0414
+   },
+   {
+    "text": "مريض",
+    "baseRarity": 0.0345
+   },
+   {
+    "text": "مرض",
+    "baseRarity": 0.0296
+   },
+   {
+    "text": "فضة",
+    "baseRarity": 0.0259
+   },
+   {
+    "text": "ضفدع",
+    "baseRarity": 0.023
+   },
+   {
+    "text": "ضب",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "ضبع",
+    "baseRarity": 0.0188
+   },
+   {
+    "text": "ضرس",
+    "baseRarity": 0.0172
+   },
+   {
+    "text": "رياضة",
+    "baseRarity": 0.0159
+   },
+   {
+    "text": "رياضيات",
+    "baseRarity": 0.0148
+   },
+   {
+    "text": "حضارة",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "حاضر",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "حضن",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "ضعيف",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "ضعف",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "ضغط",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "ضمير",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "ضابط",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "ضرب",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "ضربة",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "ضريبة",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "ضيق",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "ضياء",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "ضحى",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "ضباب",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "ضفيرة",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "ضجيج",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "ضمان",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "ضوضاء",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "خضار",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "أخضر",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "خضراء",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "رمضان",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "قاضي",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "قضاء",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "قضية",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "بعض",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "أبيض",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "عرض",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "معرض",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "فرض",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "فريضة",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "روضة",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "حوض",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "عضو",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "عضلة",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "فيضان",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "نهضة",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "قبضة",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "ضريح",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "مضيف",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "مضيفة",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "ضمادة",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "ضاحية",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "ضرورة",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "وضوء",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "موضوع",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "وضع",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "رضيع",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "رضا",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "غضب",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "نبض",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "هضبة",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "ضمة",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "مضخة",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "إضاءة",
+    "baseRarity": 0.003
+   }
+  ],
+  "secret": "ضوضاء",
+  "sources": [
+   "https://www.almaany.com/"
+  ],
+  "exact": true
+ },
+ {
+  "id": "cmp-words-ghain",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر كلمة عربية فيها حرف الغين",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "غيم",
+    "baseRarity": 0.2152
+   },
+   {
+    "text": "غيمة",
+    "baseRarity": 0.1076
+   },
+   {
+    "text": "غابة",
+    "baseRarity": 0.0717
+   },
+   {
+    "text": "غراب",
+    "baseRarity": 0.0538
+   },
+   {
+    "text": "غزال",
+    "baseRarity": 0.043
+   },
+   {
+    "text": "غرفة",
+    "baseRarity": 0.0359
+   },
+   {
+    "text": "غداء",
+    "baseRarity": 0.0307
+   },
+   {
+    "text": "غسالة",
+    "baseRarity": 0.0269
+   },
+   {
+    "text": "لغة",
+    "baseRarity": 0.0239
+   },
+   {
+    "text": "صغير",
+    "baseRarity": 0.0215
+   },
+   {
+    "text": "فارغ",
+    "baseRarity": 0.0196
+   },
+   {
+    "text": "غروب",
+    "baseRarity": 0.0179
+   },
+   {
+    "text": "غرب",
+    "baseRarity": 0.0166
+   },
+   {
+    "text": "غريب",
+    "baseRarity": 0.0154
+   },
+   {
+    "text": "غني",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "غنم",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "غناء",
+    "baseRarity": 0.0127
+   },
+   {
+    "text": "أغنية",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "مغني",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "غطاء",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "غطس",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "غطسة",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "غواصة",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "غوص",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "غبار",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "غموض",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "غامض",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "غيرة",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "صمغ",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "دماغ",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "بلوغ",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "مبلغ",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "بلاغة",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "رغيف",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "رغبة",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "فراغ",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "صياغة",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "صائغ",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "مغسلة",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "غسيل",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "مغامرة",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "غرام",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "غرامة",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "غرق",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "غريق",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "غيث",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "غياب",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "غائب",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "غاز",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "غزو",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "غزوة",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "غلاف",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "غلطة",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "غليان",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "غلاية",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "مغرفة",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "بغل",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "نغم",
+    "baseRarity": 0.0037
+   }
+  ],
+  "secret": "مغامرة",
+  "sources": [
+   "https://www.almaany.com/"
+  ],
+  "exact": true
+ },
+ {
+  "id": "cmp-words-thal",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر كلمة عربية فيها حرف الذال",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "ذهب",
+    "baseRarity": 0.2233
+   },
+   {
+    "text": "ذئب",
+    "baseRarity": 0.1116
+   },
+   {
+    "text": "ذباب",
+    "baseRarity": 0.0744
+   },
+   {
+    "text": "ذبابة",
+    "baseRarity": 0.0558
+   },
+   {
+    "text": "ذراع",
+    "baseRarity": 0.0447
+   },
+   {
+    "text": "ذرة",
+    "baseRarity": 0.0372
+   },
+   {
+    "text": "ذكي",
+    "baseRarity": 0.0319
+   },
+   {
+    "text": "ذكاء",
+    "baseRarity": 0.0279
+   },
+   {
+    "text": "ذاكرة",
+    "baseRarity": 0.0248
+   },
+   {
+    "text": "مذاكرة",
+    "baseRarity": 0.0223
+   },
+   {
+    "text": "تذكرة",
+    "baseRarity": 0.0203
+   },
+   {
+    "text": "ذكرى",
+    "baseRarity": 0.0186
+   },
+   {
+    "text": "ذنب",
+    "baseRarity": 0.0172
+   },
+   {
+    "text": "ذيل",
+    "baseRarity": 0.0159
+   },
+   {
+    "text": "ذقن",
+    "baseRarity": 0.0149
+   },
+   {
+    "text": "أذن",
+    "baseRarity": 0.014
+   },
+   {
+    "text": "أذان",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "مؤذن",
+    "baseRarity": 0.0124
+   },
+   {
+    "text": "لذيذ",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "نافذة",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "تلميذ",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "أستاذ",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "غذاء",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "عذاب",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "عذب",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "كذب",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "كذاب",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "بذور",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "بذرة",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "جذر",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "جذع",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "حذاء",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "حذر",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "قذر",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "إنقاذ",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "شذى",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "رذاذ",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "أذى",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "إذاعة",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "مذيع",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "ذوق",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "ذبح",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "ذبيحة",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "ذهن",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "ذهاب",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "ذخيرة",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "ذرية",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "ذوبان",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "مذهل",
+    "baseRarity": 0.0046
+   }
+  ],
+  "secret": "رذاذ",
+  "sources": [
+   "https://www.almaany.com/"
+  ],
+  "exact": true
+ },
+ {
+  "id": "cmp-yellow",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر شي لونه أصفر",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "موز",
+    "baseRarity": 0.2324
+   },
+   {
+    "text": "ليمون",
+    "baseRarity": 0.1162
+   },
+   {
+    "text": "شمس",
+    "baseRarity": 0.0775
+   },
+   {
+    "text": "ذهب",
+    "baseRarity": 0.0581
+   },
+   {
+    "text": "كناري",
+    "baseRarity": 0.0465
+   },
+   {
+    "text": "كتكوت",
+    "baseRarity": 0.0387,
+    "aliases": [
+     "صوص"
+    ]
+   },
+   {
+    "text": "ذرة",
+    "baseRarity": 0.0332
+   },
+   {
+    "text": "عباد الشمس",
+    "baseRarity": 0.029
+   },
+   {
+    "text": "خردل",
+    "baseRarity": 0.0258
+   },
+   {
+    "text": "كركم",
+    "baseRarity": 0.0232
+   },
+   {
+    "text": "صفار البيض",
+    "baseRarity": 0.0211,
+    "aliases": [
+     "صفار"
+    ]
+   },
+   {
+    "text": "زبدة",
+    "baseRarity": 0.0194
+   },
+   {
+    "text": "قمح",
+    "baseRarity": 0.0179
+   },
+   {
+    "text": "قش",
+    "baseRarity": 0.0166,
+    "aliases": [
+     "تبن"
+    ]
+   },
+   {
+    "text": "نحلة",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "كهرمان",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "كبريت",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "نرجس",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "جريب فروت",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "فلفل أصفر",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "كوسة صفراء",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "إشارة صفراء",
+    "baseRarity": 0.0106,
+    "aliases": [
+     "الإشارة الصفراء"
+    ]
+   },
+   {
+    "text": "كرت أصفر",
+    "baseRarity": 0.0101,
+    "aliases": [
+     "البطاقة الصفراء"
+    ]
+   },
+   {
+    "text": "تاكسي نيويورك",
+    "baseRarity": 0.0097,
+    "aliases": [
+     "التاكسي الأصفر"
+    ]
+   },
+   {
+    "text": "باص المدرسة",
+    "baseRarity": 0.0093,
+    "aliases": [
+     "الحافلة المدرسية الأمريكية"
+    ]
+   },
+   {
+    "text": "سبونج بوب",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "بيكاتشو",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "عائلة سيمبسون",
+    "baseRarity": 0.0083,
+    "aliases": [
+     "سيمبسون"
+    ]
+   },
+   {
+    "text": "البطة المطاطية",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "قلم التظليل",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "هايلايتر"
+    ]
+   },
+   {
+    "text": "أوراق لاصقة",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "ستيكي نوت"
+    ]
+   },
+   {
+    "text": "شعار ماكدونالدز",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "الهندباء البرية",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "الأقحوان الأصفر",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "بطيخ أصفر",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "زعفران",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "الكاري",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "عسل",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "أناناس",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "مانجو",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "بطاطس مقلية",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "فرايز"
+    ]
+   }
+  ],
+  "secret": "الكبريت",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/أصفر"
+  ]
+ },
+ {
+  "id": "cmp-green",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر شي لونه أخضر",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "عشب",
+    "baseRarity": 0.2324,
+    "aliases": [
+     "حشيش",
+     "زرع"
+    ]
+   },
+   {
+    "text": "أوراق الشجر",
+    "baseRarity": 0.1162,
+    "aliases": [
+     "ورق شجر"
+    ]
+   },
+   {
+    "text": "خس",
+    "baseRarity": 0.0775
+   },
+   {
+    "text": "خيار",
+    "baseRarity": 0.0581
+   },
+   {
+    "text": "بقدونس",
+    "baseRarity": 0.0465
+   },
+   {
+    "text": "نعناع",
+    "baseRarity": 0.0387
+   },
+   {
+    "text": "كوسة",
+    "baseRarity": 0.0332
+   },
+   {
+    "text": "فلفل أخضر",
+    "baseRarity": 0.029
+   },
+   {
+    "text": "بازلاء",
+    "baseRarity": 0.0258
+   },
+   {
+    "text": "بروكلي",
+    "baseRarity": 0.0232
+   },
+   {
+    "text": "سبانخ",
+    "baseRarity": 0.0211
+   },
+   {
+    "text": "ملوخية",
+    "baseRarity": 0.0194
+   },
+   {
+    "text": "كيوي",
+    "baseRarity": 0.0179
+   },
+   {
+    "text": "تفاح أخضر",
+    "baseRarity": 0.0166
+   },
+   {
+    "text": "ليمون أخضر",
+    "baseRarity": 0.0155,
+    "aliases": [
+     "ليم"
+    ]
+   },
+   {
+    "text": "زيتون أخضر",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "أفوكادو",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "بامية",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "فاصوليا خضراء",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "جرجير",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "كرفس",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "كزبرة",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "ضفدع",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "صبار",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "طحالب",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "زمرد",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "يشم",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "علم السعودية",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "الإشارة الخضراء",
+    "baseRarity": 0.008,
+    "aliases": [
+     "إشارة خضراء"
+    ]
+   },
+   {
+    "text": "هالك",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "شريك",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "كيرميت",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "فستق حلبي",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "شاي أخضر",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "ماتشا",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "ملعب كرة القدم",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "طاولة البلياردو",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "قشر البطيخ",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "البطيخ من برا"
+    ]
+   },
+   {
+    "text": "عنب أخضر",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "فلفل حار أخضر",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "ببغاء أخضر",
+    "baseRarity": 0.0057
+   }
+  ],
+  "secret": "طاولة البلياردو",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/أخضر"
+  ]
+ },
+ {
+  "id": "cmp-flying",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر شي يطير",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "طائرة",
+    "baseRarity": 0.2233,
+    "aliases": [
+     "طيارة"
+    ]
+   },
+   {
+    "text": "طير",
+    "baseRarity": 0.1116,
+    "aliases": [
+     "طيور"
+    ]
+   },
+   {
+    "text": "عصفور",
+    "baseRarity": 0.0744
+   },
+   {
+    "text": "حمامة",
+    "baseRarity": 0.0558
+   },
+   {
+    "text": "صقر",
+    "baseRarity": 0.0447
+   },
+   {
+    "text": "نسر",
+    "baseRarity": 0.0372
+   },
+   {
+    "text": "غراب",
+    "baseRarity": 0.0319
+   },
+   {
+    "text": "بومة",
+    "baseRarity": 0.0279
+   },
+   {
+    "text": "نورس",
+    "baseRarity": 0.0248
+   },
+   {
+    "text": "ببغاء",
+    "baseRarity": 0.0223
+   },
+   {
+    "text": "بطة",
+    "baseRarity": 0.0203
+   },
+   {
+    "text": "هدهد",
+    "baseRarity": 0.0186
+   },
+   {
+    "text": "فراشة",
+    "baseRarity": 0.0172
+   },
+   {
+    "text": "نحلة",
+    "baseRarity": 0.0159
+   },
+   {
+    "text": "ذبابة",
+    "baseRarity": 0.0149
+   },
+   {
+    "text": "بعوضة",
+    "baseRarity": 0.014
+   },
+   {
+    "text": "خفاش",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "جراد",
+    "baseRarity": 0.0124
+   },
+   {
+    "text": "يعسوب",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "دبور",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "خنفساء الدعسوقة",
+    "baseRarity": 0.0106,
+    "aliases": [
+     "الدعسوقة"
+    ]
+   },
+   {
+    "text": "هليكوبتر",
+    "baseRarity": 0.0101,
+    "aliases": [
+     "مروحية"
+    ]
+   },
+   {
+    "text": "منطاد",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "طائرة ورقية",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "صاروخ",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "درون",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "طائرة بدون طيار"
+    ]
+   },
+   {
+    "text": "بالون",
+    "baseRarity": 0.0083,
+    "aliases": [
+     "بالون هيليوم"
+    ]
+   },
+   {
+    "text": "مظلة القفز",
+    "baseRarity": 0.008,
+    "aliases": [
+     "باراشوت"
+    ]
+   },
+   {
+    "text": "طائرة شراعية",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "مكوك فضائي",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "قمر صناعي",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "سنونو",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "لقلق",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "بجعة",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "عقاب",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "شاهين",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "طائر الطنان",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "كناري",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "حسون",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "بلبل",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "سمان",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "قطا",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "حبارى",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "السمك الطائر",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "السنجاب الطائر",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "ريشة",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "غبار",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "سحاب",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "غيم"
+    ]
+   },
+   {
+    "text": "فقاعة",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "فقاعات"
+    ]
+   }
+  ],
+  "secret": "المنطاد",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/طيران"
+  ]
+ },
+ {
+  "id": "cmp-wheels",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر شي له عجلات (كفرات)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "سيارة",
+    "baseRarity": 0.2324
+   },
+   {
+    "text": "دراجة",
+    "baseRarity": 0.1162,
+    "aliases": [
+     "سيكل"
+    ]
+   },
+   {
+    "text": "دباب",
+    "baseRarity": 0.0775,
+    "aliases": [
+     "دراجة نارية"
+    ]
+   },
+   {
+    "text": "باص",
+    "baseRarity": 0.0581,
+    "aliases": [
+     "حافلة"
+    ]
+   },
+   {
+    "text": "قطار",
+    "baseRarity": 0.0465
+   },
+   {
+    "text": "شاحنة",
+    "baseRarity": 0.0387,
+    "aliases": [
+     "تريلا"
+    ]
+   },
+   {
+    "text": "عربة أطفال",
+    "baseRarity": 0.0332
+   },
+   {
+    "text": "كرسي متحرك",
+    "baseRarity": 0.029
+   },
+   {
+    "text": "عربة التسوق",
+    "baseRarity": 0.0258,
+    "aliases": [
+     "عربية السوبرماركت"
+    ]
+   },
+   {
+    "text": "سكوتر",
+    "baseRarity": 0.0232
+   },
+   {
+    "text": "سكيت بورد",
+    "baseRarity": 0.0211,
+    "aliases": [
+     "لوح تزلج"
+    ]
+   },
+   {
+    "text": "حذاء التزلج",
+    "baseRarity": 0.0194,
+    "aliases": [
+     "باتيناج"
+    ]
+   },
+   {
+    "text": "طائرة",
+    "baseRarity": 0.0179
+   },
+   {
+    "text": "تراكتور",
+    "baseRarity": 0.0166,
+    "aliases": [
+     "جرار"
+    ]
+   },
+   {
+    "text": "جرافة",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "رافعة",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "سيارة إطفاء",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "سيارة إسعاف",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "تاكسي",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "ونيت",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "بيك أب"
+    ]
+   },
+   {
+    "text": "فان",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "كرفان",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "توك توك",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "عربة يد",
+    "baseRarity": 0.0097,
+    "aliases": [
+     "عربانة"
+    ]
+   },
+   {
+    "text": "شنطة سفر",
+    "baseRarity": 0.0093,
+    "aliases": [
+     "حقيبة سفر"
+    ]
+   },
+   {
+    "text": "كرسي مكتب",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "سرير المستشفى",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "عربة خيل",
+    "baseRarity": 0.0083,
+    "aliases": [
+     "حنطور"
+    ]
+   },
+   {
+    "text": "عربة كارو",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "مترو",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "ترام",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "دراجة ثلاثية",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "سيارة ريموت",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "سيارة لعبة",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "عربية أكل",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "فود ترك"
+    ]
+   },
+   {
+    "text": "عربة الغولف",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "آلة جز العشب",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "عربة الطعام في الطائرة",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "رافعة شوكية",
+    "baseRarity": 0.006,
+    "aliases": [
+     "فوركلفت"
+    ]
+   },
+   {
+    "text": "مدحلة",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "خلاطة إسمنت",
+    "baseRarity": 0.0057
+   }
+  ],
+  "secret": "عربة التسوق",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/عجلة"
+  ]
+ },
+ {
+  "id": "cmp-abd-names",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر اسم يبدأ بـ «عبد» مضاف لاسم من أسماء الله الحسنى",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "عبدالله",
+    "baseRarity": 0.1985,
+    "aliases": [
+     "عبد الله"
+    ]
+   },
+   {
+    "text": "عبدالرحمن",
+    "baseRarity": 0.0993,
+    "aliases": [
+     "عبد الرحمن"
+    ]
+   },
+   {
+    "text": "عبدالعزيز",
+    "baseRarity": 0.0662,
+    "aliases": [
+     "عبد العزيز"
+    ]
+   },
+   {
+    "text": "عبدالملك",
+    "baseRarity": 0.0496,
+    "aliases": [
+     "عبد الملك"
+    ]
+   },
+   {
+    "text": "عبدالكريم",
+    "baseRarity": 0.0397,
+    "aliases": [
+     "عبد الكريم"
+    ]
+   },
+   {
+    "text": "عبدالرحيم",
+    "baseRarity": 0.0331,
+    "aliases": [
+     "عبد الرحيم"
+    ]
+   },
+   {
+    "text": "عبدالمجيد",
+    "baseRarity": 0.0284,
+    "aliases": [
+     "عبد المجيد"
+    ]
+   },
+   {
+    "text": "عبداللطيف",
+    "baseRarity": 0.0248,
+    "aliases": [
+     "عبد اللطيف"
+    ]
+   },
+   {
+    "text": "عبدالحميد",
+    "baseRarity": 0.0221,
+    "aliases": [
+     "عبد الحميد"
+    ]
+   },
+   {
+    "text": "عبدالوهاب",
+    "baseRarity": 0.0199,
+    "aliases": [
+     "عبد الوهاب"
+    ]
+   },
+   {
+    "text": "عبدالسلام",
+    "baseRarity": 0.018,
+    "aliases": [
+     "عبد السلام"
+    ]
+   },
+   {
+    "text": "عبدالهادي",
+    "baseRarity": 0.0165,
+    "aliases": [
+     "عبد الهادي"
+    ]
+   },
+   {
+    "text": "عبدالحكيم",
+    "baseRarity": 0.0153,
+    "aliases": [
+     "عبد الحكيم"
+    ]
+   },
+   {
+    "text": "عبدالرزاق",
+    "baseRarity": 0.0142,
+    "aliases": [
+     "عبد الرزاق"
+    ]
+   },
+   {
+    "text": "عبدالقادر",
+    "baseRarity": 0.0132,
+    "aliases": [
+     "عبد القادر"
+    ]
+   },
+   {
+    "text": "عبدالغني",
+    "baseRarity": 0.0124,
+    "aliases": [
+     "عبد الغني"
+    ]
+   },
+   {
+    "text": "عبدالحليم",
+    "baseRarity": 0.0117,
+    "aliases": [
+     "عبد الحليم"
+    ]
+   },
+   {
+    "text": "عبدالجبار",
+    "baseRarity": 0.011,
+    "aliases": [
+     "عبد الجبار"
+    ]
+   },
+   {
+    "text": "عبدالخالق",
+    "baseRarity": 0.0104,
+    "aliases": [
+     "عبد الخالق"
+    ]
+   },
+   {
+    "text": "عبدالفتاح",
+    "baseRarity": 0.0099,
+    "aliases": [
+     "عبد الفتاح"
+    ]
+   },
+   {
+    "text": "عبدالباسط",
+    "baseRarity": 0.0095,
+    "aliases": [
+     "عبد الباسط"
+    ]
+   },
+   {
+    "text": "عبدالحي",
+    "baseRarity": 0.009,
+    "aliases": [
+     "عبد الحي"
+    ]
+   },
+   {
+    "text": "عبدالقوي",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "عبد القوي"
+    ]
+   },
+   {
+    "text": "عبدالمحسن",
+    "baseRarity": 0.0083,
+    "aliases": [
+     "عبد المحسن"
+    ]
+   },
+   {
+    "text": "عبدالقدوس",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "عبد القدوس"
+    ]
+   },
+   {
+    "text": "عبدالمؤمن",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "عبد المؤمن"
+    ]
+   },
+   {
+    "text": "عبدالمهيمن",
+    "baseRarity": 0.0074,
+    "aliases": [
+     "عبد المهيمن"
+    ]
+   },
+   {
+    "text": "عبدالبارئ",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "عبد البارئ"
+    ]
+   },
+   {
+    "text": "عبدالمصور",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "عبد المصور"
+    ]
+   },
+   {
+    "text": "عبدالغفار",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "عبد الغفار"
+    ]
+   },
+   {
+    "text": "عبدالقهار",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "عبد القهار"
+    ]
+   },
+   {
+    "text": "عبدالعليم",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "عبد العليم"
+    ]
+   },
+   {
+    "text": "عبدالرافع",
+    "baseRarity": 0.006,
+    "aliases": [
+     "عبد الرافع"
+    ]
+   },
+   {
+    "text": "عبدالمعز",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "عبد المعز"
+    ]
+   },
+   {
+    "text": "عبدالسميع",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "عبد السميع"
+    ]
+   },
+   {
+    "text": "عبدالبصير",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "عبد البصير"
+    ]
+   },
+   {
+    "text": "عبدالحكم",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "عبد الحكم"
+    ]
+   },
+   {
+    "text": "عبدالعدل",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "عبد العدل"
+    ]
+   },
+   {
+    "text": "عبدالخبير",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "عبد الخبير"
+    ]
+   },
+   {
+    "text": "عبدالعظيم",
+    "baseRarity": 0.005,
+    "aliases": [
+     "عبد العظيم"
+    ]
+   },
+   {
+    "text": "عبدالغفور",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "عبد الغفور"
+    ]
+   },
+   {
+    "text": "عبدالشكور",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "عبد الشكور"
+    ]
+   },
+   {
+    "text": "عبدالعلي",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "عبد العلي"
+    ]
+   },
+   {
+    "text": "عبدالكبير",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "عبد الكبير"
+    ]
+   },
+   {
+    "text": "عبدالحفيظ",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "عبد الحفيظ"
+    ]
+   },
+   {
+    "text": "عبدالمقيت",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "عبد المقيت"
+    ]
+   },
+   {
+    "text": "عبدالحسيب",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "عبد الحسيب"
+    ]
+   },
+   {
+    "text": "عبدالجليل",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "عبد الجليل"
+    ]
+   },
+   {
+    "text": "عبدالرقيب",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "عبد الرقيب"
+    ]
+   },
+   {
+    "text": "عبدالمجيب",
+    "baseRarity": 0.004,
+    "aliases": [
+     "عبد المجيب"
+    ]
+   },
+   {
+    "text": "عبدالواسع",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "عبد الواسع"
+    ]
+   },
+   {
+    "text": "عبدالودود",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "عبد الودود"
+    ]
+   },
+   {
+    "text": "عبدالباعث",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "عبد الباعث"
+    ]
+   },
+   {
+    "text": "عبدالشهيد",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "عبد الشهيد"
+    ]
+   },
+   {
+    "text": "عبدالحق",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "عبد الحق"
+    ]
+   },
+   {
+    "text": "عبدالوكيل",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "عبد الوكيل"
+    ]
+   },
+   {
+    "text": "عبدالمتين",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "عبد المتين"
+    ]
+   },
+   {
+    "text": "عبدالولي",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "عبد الولي"
+    ]
+   },
+   {
+    "text": "عبدالمحصي",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "عبد المحصي"
+    ]
+   },
+   {
+    "text": "عبدالمبدئ",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "عبد المبدئ"
+    ]
+   },
+   {
+    "text": "عبدالمعيد",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "عبد المعيد"
+    ]
+   },
+   {
+    "text": "عبدالمحيي",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "عبد المحيي"
+    ]
+   },
+   {
+    "text": "عبدالقيوم",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "عبد القيوم"
+    ]
+   },
+   {
+    "text": "عبدالواجد",
+    "baseRarity": 0.0031,
+    "aliases": [
+     "عبد الواجد"
+    ]
+   },
+   {
+    "text": "عبدالماجد",
+    "baseRarity": 0.0031,
+    "aliases": [
+     "عبد الماجد"
+    ]
+   },
+   {
+    "text": "عبدالواحد",
+    "baseRarity": 0.003,
+    "aliases": [
+     "عبد الواحد"
+    ]
+   },
+   {
+    "text": "عبدالصمد",
+    "baseRarity": 0.003,
+    "aliases": [
+     "عبد الصمد"
+    ]
+   },
+   {
+    "text": "عبدالمقتدر",
+    "baseRarity": 0.0029,
+    "aliases": [
+     "عبد المقتدر"
+    ]
+   },
+   {
+    "text": "عبدالأول",
+    "baseRarity": 0.0029,
+    "aliases": [
+     "عبد الأول"
+    ]
+   },
+   {
+    "text": "عبدالظاهر",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "عبد الظاهر"
+    ]
+   },
+   {
+    "text": "عبدالوالي",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "عبد الوالي"
+    ]
+   },
+   {
+    "text": "عبدالمتعالي",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "عبد المتعالي"
+    ]
+   },
+   {
+    "text": "عبدالبر",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "عبد البر"
+    ]
+   },
+   {
+    "text": "عبدالتواب",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "عبد التواب"
+    ]
+   },
+   {
+    "text": "عبدالعفو",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "عبد العفو"
+    ]
+   },
+   {
+    "text": "عبدالرؤوف",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "عبد الرؤوف"
+    ]
+   },
+   {
+    "text": "عبدالمقسط",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "عبد المقسط"
+    ]
+   },
+   {
+    "text": "عبدالجامع",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "عبد الجامع"
+    ]
+   },
+   {
+    "text": "عبدالمغني",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "عبد المغني"
+    ]
+   },
+   {
+    "text": "عبدالنافع",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "عبد النافع"
+    ]
+   },
+   {
+    "text": "عبدالنور",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "عبد النور"
+    ]
+   },
+   {
+    "text": "عبدالبديع",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "عبد البديع"
+    ]
+   },
+   {
+    "text": "عبدالباقي",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "عبد الباقي"
+    ]
+   },
+   {
+    "text": "عبدالوارث",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "عبد الوارث"
+    ]
+   },
+   {
+    "text": "عبدالرشيد",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "عبد الرشيد"
+    ]
+   },
+   {
+    "text": "عبدالصبور",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "عبد الصبور"
+    ]
+   }
+  ],
+  "secret": "عبدالمقيت",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/أسماء_الله_الحسنى"
+  ]
+ },
+ {
+  "id": "cmp-sky",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر شي تشوفه في السماء",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "شمس",
+    "baseRarity": 0.2275
+   },
+   {
+    "text": "قمر",
+    "baseRarity": 0.1138
+   },
+   {
+    "text": "نجوم",
+    "baseRarity": 0.0758,
+    "aliases": [
+     "نجمة"
+    ]
+   },
+   {
+    "text": "سحاب",
+    "baseRarity": 0.0569,
+    "aliases": [
+     "غيم",
+     "غيوم"
+    ]
+   },
+   {
+    "text": "طائرة",
+    "baseRarity": 0.0455,
+    "aliases": [
+     "طيارة"
+    ]
+   },
+   {
+    "text": "طيور",
+    "baseRarity": 0.0379,
+    "aliases": [
+     "طير"
+    ]
+   },
+   {
+    "text": "قوس قزح",
+    "baseRarity": 0.0325
+   },
+   {
+    "text": "برق",
+    "baseRarity": 0.0284
+   },
+   {
+    "text": "مطر",
+    "baseRarity": 0.0253
+   },
+   {
+    "text": "ثلج",
+    "baseRarity": 0.0228
+   },
+   {
+    "text": "شهاب",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "مذنب",
+    "baseRarity": 0.019
+   },
+   {
+    "text": "كواكب",
+    "baseRarity": 0.0175,
+    "aliases": [
+     "كوكب"
+    ]
+   },
+   {
+    "text": "المريخ",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "الزهرة",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "المشتري",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "زحل",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "درب التبانة",
+    "baseRarity": 0.0126,
+    "aliases": [
+     "المجرة"
+    ]
+   },
+   {
+    "text": "الثريا",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "سهيل",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "النجم القطبي",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "هلال",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "بدر",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "كسوف",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "خسوف",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "الشفق",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "الشفق القطبي",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "منطاد",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "طائرة ورقية",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "هليكوبتر",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "صاروخ",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "قمر صناعي",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "محطة الفضاء الدولية",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "درون",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "ألعاب نارية",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "بالون",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "مظلي",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "غبار",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "دخان",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "ضباب",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "فراشة",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "خفاش",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "ضوء الشمس",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "غروب",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "شروق",
+    "baseRarity": 0.0051
+   }
+  ],
+  "secret": "الشفق القطبي",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/سماء"
+  ]
+ },
+ {
+  "id": "cmp-electric",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر شي يشتغل بالكهرباء",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "جوال",
+    "baseRarity": 0.2108,
+    "aliases": [
+     "هاتف"
+    ]
+   },
+   {
+    "text": "كمبيوتر",
+    "baseRarity": 0.1054
+   },
+   {
+    "text": "لابتوب",
+    "baseRarity": 0.0703
+   },
+   {
+    "text": "تلفزيون",
+    "baseRarity": 0.0527
+   },
+   {
+    "text": "ثلاجة",
+    "baseRarity": 0.0422
+   },
+   {
+    "text": "مكيف",
+    "baseRarity": 0.0351
+   },
+   {
+    "text": "غسالة",
+    "baseRarity": 0.0301
+   },
+   {
+    "text": "مصعد",
+    "baseRarity": 0.0263
+   },
+   {
+    "text": "سيارة كهربائية",
+    "baseRarity": 0.0234,
+    "aliases": [
+     "تسلا"
+    ]
+   },
+   {
+    "text": "قطار كهربائي",
+    "baseRarity": 0.0211,
+    "aliases": [
+     "مترو"
+    ]
+   },
+   {
+    "text": "سلم كهربائي",
+    "baseRarity": 0.0192
+   },
+   {
+    "text": "إشارة مرور",
+    "baseRarity": 0.0176
+   },
+   {
+    "text": "مكبر صوت",
+    "baseRarity": 0.0162,
+    "aliases": [
+     "سماعة"
+    ]
+   },
+   {
+    "text": "ساعة رقمية",
+    "baseRarity": 0.0151
+   },
+   {
+    "text": "كاميرا",
+    "baseRarity": 0.0141
+   },
+   {
+    "text": "بلايستيشن",
+    "baseRarity": 0.0132
+   },
+   {
+    "text": "إكس بوكس",
+    "baseRarity": 0.0124
+   },
+   {
+    "text": "راوتر",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "شاحن",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "مكنسة روبوت",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "فرشاة أسنان كهربائية",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "ماكينة حلاقة",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "دريل",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "منشار كهربائي",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "مضخة ماء",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "دينمو ماء"
+    ]
+   },
+   {
+    "text": "باب أوتوماتيك",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "كاشير",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "آلة الكاشير"
+    ]
+   },
+   {
+    "text": "صراف آلي",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "جهاز أشعة",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "جهاز تخطيط القلب",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "مكنسة كهربائية",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "فرن",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "ميكروويف",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "مروحة",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "مكواة",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "سخان",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "سخان ماء"
+    ]
+   },
+   {
+    "text": "غسالة صحون",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "خلاط",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "محضرة طعام",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "كبة"
+    ]
+   },
+   {
+    "text": "عصارة",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "غلاية",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "سخان كهربائي"
+    ]
+   },
+   {
+    "text": "محمصة خبز",
+    "baseRarity": 0.005,
+    "aliases": [
+     "توستر"
+    ]
+   },
+   {
+    "text": "ماكينة قهوة",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "قلاية هوائية",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "إير فراير"
+    ]
+   },
+   {
+    "text": "مجفف شعر",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "سشوار"
+    ]
+   },
+   {
+    "text": "مكواة شعر",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "فريزر",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "مجمد"
+    ]
+   },
+   {
+    "text": "موقد",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "بوتاجاز",
+     "طباخ"
+    ]
+   },
+   {
+    "text": "شفاط",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "مجفف الملابس",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "نشافة"
+    ]
+   },
+   {
+    "text": "دفاية",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "مدفأة"
+    ]
+   },
+   {
+    "text": "مبرد ماء",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "برادة"
+    ]
+   },
+   {
+    "text": "طابعة",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "راديو",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "مصباح",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "لمبة"
+    ]
+   },
+   {
+    "text": "منقي هواء",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "مرطب هواء",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "خلاط يدوي",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "هاند ميكسر"
+    ]
+   },
+   {
+    "text": "عجانة",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "عجانة كهربائية"
+    ]
+   },
+   {
+    "text": "شواية كهربائية",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "صانعة الفشار",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "آلة الخبز",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "فرن كهربائي",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "روبوت مكنسة",
+    "baseRarity": 0.0033
+   }
+  ],
+  "secret": "المصعد",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/كهرباء"
+  ]
+ },
+ {
+  "id": "cmp-hospital",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر شي تلقاه في المستشفى",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "طبيب",
+    "baseRarity": 0.2009,
+    "aliases": [
+     "دكتور"
+    ]
+   },
+   {
+    "text": "ممرض",
+    "baseRarity": 0.1004,
+    "aliases": [
+     "ممرضة"
+    ]
+   },
+   {
+    "text": "مريض",
+    "baseRarity": 0.067
+   },
+   {
+    "text": "صيدلي",
+    "baseRarity": 0.0502
+   },
+   {
+    "text": "سرير",
+    "baseRarity": 0.0402
+   },
+   {
+    "text": "نقالة",
+    "baseRarity": 0.0335
+   },
+   {
+    "text": "كرسي متحرك",
+    "baseRarity": 0.0287
+   },
+   {
+    "text": "إسعاف",
+    "baseRarity": 0.0251,
+    "aliases": [
+     "سيارة إسعاف"
+    ]
+   },
+   {
+    "text": "طوارئ",
+    "baseRarity": 0.0223
+   },
+   {
+    "text": "غرفة عمليات",
+    "baseRarity": 0.0201
+   },
+   {
+    "text": "عيادة",
+    "baseRarity": 0.0183
+   },
+   {
+    "text": "صيدلية",
+    "baseRarity": 0.0167
+   },
+   {
+    "text": "مختبر",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "أشعة",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "استقبال",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "غرفة انتظار",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "ملف طبي",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "وصفة طبية",
+    "baseRarity": 0.0112,
+    "aliases": [
+     "روشتة"
+    ]
+   },
+   {
+    "text": "دواء",
+    "baseRarity": 0.0106,
+    "aliases": [
+     "أدوية"
+    ]
+   },
+   {
+    "text": "حبوب",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "شراب دواء",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "مغذي",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "محلول"
+    ]
+   },
+   {
+    "text": "إبرة",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "حقنة"
+    ]
+   },
+   {
+    "text": "ضماد",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "شاش"
+    ]
+   },
+   {
+    "text": "قطن",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "معقم",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "كحول"
+    ]
+   },
+   {
+    "text": "قفازات",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "كمامة",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "مريلة",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "لبس المستشفى"
+    ]
+   },
+   {
+    "text": "زيارة",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "زوار"
+    ]
+   },
+   {
+    "text": "ورد",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "سماعة الطبيب",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "السماعة الطبية"
+    ]
+   },
+   {
+    "text": "ميزان الحرارة",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "الترمومتر",
+     "مقياس الحرارة"
+    ]
+   },
+   {
+    "text": "جهاز قياس الضغط",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "جهاز الضغط"
+    ]
+   },
+   {
+    "text": "جهاز قياس السكر",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "جهاز السكر"
+    ]
+   },
+   {
+    "text": "المشرط",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "الملقط",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "المقص الجراحي",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "اللاصق الطبي",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "البلاستر"
+    ]
+   },
+   {
+    "text": "الجبيرة",
+    "baseRarity": 0.005,
+    "aliases": [
+     "الجبس"
+    ]
+   },
+   {
+    "text": "العكاز",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "جهاز الأشعة السينية",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "جهاز الرنين المغناطيسي",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "الرنين"
+    ]
+   },
+   {
+    "text": "الأشعة المقطعية",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "جهاز التصوير المقطعي"
+    ]
+   },
+   {
+    "text": "جهاز الموجات فوق الصوتية",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "السونار",
+     "الألتراساوند"
+    ]
+   },
+   {
+    "text": "جهاز تخطيط القلب",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "تخطيط القلب"
+    ]
+   },
+   {
+    "text": "جهاز تخطيط الدماغ",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "جهاز إزالة الرجفان",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "الصاعق الكهربائي"
+    ]
+   },
+   {
+    "text": "جهاز التنفس الصناعي",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "جهاز غسيل الكلى",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "جهاز تنظيم ضربات القلب",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "المنظار",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "جهاز المنظار"
+    ]
+   },
+   {
+    "text": "منظار المعدة",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "منظار الأذن",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "منظار العين",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "منظار الحنجرة",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "خافض اللسان",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "المحلول الوريدي",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "الكانيولا",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "القسطرة",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "الدعامة",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "السرير الطبي",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "جهاز الأكسجين",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "أسطوانة الأكسجين"
+    ]
+   },
+   {
+    "text": "جهاز البخار",
+    "baseRarity": 0.0031,
+    "aliases": [
+     "جهاز الاستنشاق",
+     "النيبولايزر"
+    ]
+   },
+   {
+    "text": "البخاخ",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "جهاز قياس الأكسجين",
+    "baseRarity": 0.003,
+    "aliases": [
+     "الأوكسيميتر"
+    ]
+   },
+   {
+    "text": "الحاضنة",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "السماعة الطبية للأذن",
+    "baseRarity": 0.003,
+    "aliases": [
+     "المعينات السمعية",
+     "سماعة الأذن"
+    ]
+   },
+   {
+    "text": "العدسات اللاصقة",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "النظارة الطبية",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "تقويم الأسنان",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "القفازات الطبية",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "مقياس الطول",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الميزان الطبي",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "جهاز الليزر",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "جهاز التعقيم",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "الأوتوكلاف"
+    ]
+   },
+   {
+    "text": "جهاز ضخ الأنسولين",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "مضخة الأنسولين"
+    ]
+   },
+   {
+    "text": "قلم الأنسولين",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "المثقب الجراحي",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "دعامة الرقبة",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "الطوق الطبي"
+    ]
+   },
+   {
+    "text": "حزام الظهر الطبي",
+    "baseRarity": 0.0025
+   }
+  ],
+  "secret": "جهاز تخطيط القلب",
+  "sources": [
+   "https://www.who.int/"
+  ]
+ },
+ {
+  "id": "cmp-wood",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر شي مصنوع من الخشب (في العادة)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "باب",
+    "baseRarity": 0.2275
+   },
+   {
+    "text": "طاولة",
+    "baseRarity": 0.1138
+   },
+   {
+    "text": "كرسي",
+    "baseRarity": 0.0758
+   },
+   {
+    "text": "سرير",
+    "baseRarity": 0.0569
+   },
+   {
+    "text": "دولاب",
+    "baseRarity": 0.0455,
+    "aliases": [
+     "خزانة"
+    ]
+   },
+   {
+    "text": "رف",
+    "baseRarity": 0.0379,
+    "aliases": [
+     "رفوف"
+    ]
+   },
+   {
+    "text": "مكتبة",
+    "baseRarity": 0.0325
+   },
+   {
+    "text": "قلم رصاص",
+    "baseRarity": 0.0284
+   },
+   {
+    "text": "عود ثقاب",
+    "baseRarity": 0.0253,
+    "aliases": [
+     "كبريت"
+    ]
+   },
+   {
+    "text": "ملعقة خشب",
+    "baseRarity": 0.0228
+   },
+   {
+    "text": "لوح تقطيع",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "عصا",
+    "baseRarity": 0.019
+   },
+   {
+    "text": "سلم",
+    "baseRarity": 0.0175
+   },
+   {
+    "text": "برواز",
+    "baseRarity": 0.0163,
+    "aliases": [
+     "إطار صورة"
+    ]
+   },
+   {
+    "text": "أرضية باركيه",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "باركيه"
+    ]
+   },
+   {
+    "text": "قارب",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "سفينة شراعية",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "بيت خشب",
+    "baseRarity": 0.0126,
+    "aliases": [
+     "كوخ"
+    ]
+   },
+   {
+    "text": "سياج",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "عود",
+    "baseRarity": 0.0114,
+    "aliases": [
+     "آلة العود"
+    ]
+   },
+   {
+    "text": "كمان",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "جيتار",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "بيانو",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "طبل",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "مضرب بيسبول",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "مضرب تنس طاولة",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "شطرنج",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "رقعة الشطرنج"
+    ]
+   },
+   {
+    "text": "دومينو",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "ليغو خشب",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "مكعبات خشب"
+    ]
+   },
+   {
+    "text": "حصان هزاز",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "عربة خشب",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "مسواك",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "مسبحة خشب",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "صندوق",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "صندوق خشب"
+    ]
+   },
+   {
+    "text": "برميل",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "فحم",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "حطب",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "ورق",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "كرتون",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "شماعة",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "مشط خشب",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "نعال خشب",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "قبقاب"
+    ]
+   },
+   {
+    "text": "تابوت",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "مبخرة",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "مبخر"
+    ]
+   },
+   {
+    "text": "منبر",
+    "baseRarity": 0.0051
+   }
+  ],
+  "secret": "المسواك",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/خشب"
+  ]
+ },
+ {
+  "id": "cmp-names-meem",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر اسم شخص (ولد أو بنت) يبدأ بحرف الميم",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "محمد",
+    "baseRarity": 0.2213,
+    "aliases": [
+     "محمّد"
+    ]
+   },
+   {
+    "text": "مشعل",
+    "baseRarity": 0.1106
+   },
+   {
+    "text": "ماجد",
+    "baseRarity": 0.0738
+   },
+   {
+    "text": "مبارك",
+    "baseRarity": 0.0553
+   },
+   {
+    "text": "مصطفى",
+    "baseRarity": 0.0443
+   },
+   {
+    "text": "محمود",
+    "baseRarity": 0.0369
+   },
+   {
+    "text": "مازن",
+    "baseRarity": 0.0316
+   },
+   {
+    "text": "منصور",
+    "baseRarity": 0.0277
+   },
+   {
+    "text": "معاذ",
+    "baseRarity": 0.0246
+   },
+   {
+    "text": "مشاري",
+    "baseRarity": 0.0221
+   },
+   {
+    "text": "متعب",
+    "baseRarity": 0.0201
+   },
+   {
+    "text": "مساعد",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "موسى",
+    "baseRarity": 0.017
+   },
+   {
+    "text": "مهند",
+    "baseRarity": 0.0158
+   },
+   {
+    "text": "مالك",
+    "baseRarity": 0.0148
+   },
+   {
+    "text": "ماهر",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "منذر",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "مروان",
+    "baseRarity": 0.0123
+   },
+   {
+    "text": "مجدي",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "محسن",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "مهدي",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "مؤيد",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "معتز",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "مراد",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "مصعب",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "منير",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "ممدوح",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "مختار",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "مأمون",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "مؤمن",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "معن",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "منيف",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "مريم",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "منى",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "مها",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "ميساء",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "ميار",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "مرام",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "ملاك",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "منيرة",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "موضي",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "مزنة",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "مشاعل",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "ميسون",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "مي",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "منار",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "مروة",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "ملك",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "منال",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "مرح",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "مودة",
+    "baseRarity": 0.0043
+   }
+  ],
+  "secret": "مزنة",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/أسماء_عربية"
+  ]
+ },
+ {
+  "id": "cmp-sea",
+  "category": "أسئلة مركبة",
+  "prompt": "اذكر شي تلقاه في البحر أو على الشاطئ",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "موج",
+    "baseRarity": 0.1823,
+    "aliases": [
+     "أمواج"
+    ]
+   },
+   {
+    "text": "ملح",
+    "baseRarity": 0.0911
+   },
+   {
+    "text": "رمل",
+    "baseRarity": 0.0608
+   },
+   {
+    "text": "صدف",
+    "baseRarity": 0.0456,
+    "aliases": [
+     "أصداف"
+    ]
+   },
+   {
+    "text": "قارب",
+    "baseRarity": 0.0365
+   },
+   {
+    "text": "سفينة",
+    "baseRarity": 0.0304
+   },
+   {
+    "text": "يخت",
+    "baseRarity": 0.026
+   },
+   {
+    "text": "جت سكي",
+    "baseRarity": 0.0228
+   },
+   {
+    "text": "مظلة",
+    "baseRarity": 0.0203
+   },
+   {
+    "text": "منشفة",
+    "baseRarity": 0.0182,
+    "aliases": [
+     "فوطة"
+    ]
+   },
+   {
+    "text": "نظارة شمسية",
+    "baseRarity": 0.0166
+   },
+   {
+    "text": "كريم شمس",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "واقي شمس"
+    ]
+   },
+   {
+    "text": "لوح ركوب الأمواج",
+    "baseRarity": 0.014
+   },
+   {
+    "text": "طوق نجاة",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "منقذ",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "منارة",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "ميناء",
+    "baseRarity": 0.0107,
+    "aliases": [
+     "مرفأ"
+    ]
+   },
+   {
+    "text": "رصيف",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "صنارة",
+    "baseRarity": 0.0096,
+    "aliases": [
+     "سنارة"
+    ]
+   },
+   {
+    "text": "شبكة صيد",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "مرساة",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "غواص",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "حوت",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "دلفين",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "أخطبوط",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "قنديل البحر",
+    "baseRarity": 0.007,
+    "aliases": [
+     "قناديل البحر"
+    ]
+   },
+   {
+    "text": "نجم البحر",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "نجمة البحر"
+    ]
+   },
+   {
+    "text": "سرطان البحر",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "سلطعون",
+     "كابوريا"
+    ]
+   },
+   {
+    "text": "روبيان",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "جمبري",
+     "ربيان"
+    ]
+   },
+   {
+    "text": "استاكوزا",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "كركند",
+     "لوبستر"
+    ]
+   },
+   {
+    "text": "حبار",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "السبيط"
+    ]
+   },
+   {
+    "text": "محار",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "بلح البحر",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "المحار الأزرق"
+    ]
+   },
+   {
+    "text": "إسفنج",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "الإسفنج البحري"
+    ]
+   },
+   {
+    "text": "مرجان",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "الشعاب المرجانية"
+    ]
+   },
+   {
+    "text": "قنفذ البحر",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "خيار البحر",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "شقائق النعمان البحرية",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "فقمة",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "أسد البحر",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "فظ",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "الفظ"
+    ]
+   },
+   {
+    "text": "خروف البحر",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "بقرة البحر",
+     "الأطوم"
+    ]
+   },
+   {
+    "text": "سلحفاة بحرية",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الأفعى البحرية",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "القواقع",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "الحلزون البحري"
+    ]
+   },
+   {
+    "text": "الحبار العملاق",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "نوتي",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "النوتيلوس"
+    ]
+   },
+   {
+    "text": "الكريل",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "الحوت الأزرق",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "الحوت القاتل",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "الأوركا"
+    ]
+   },
+   {
+    "text": "الحوت الأحدب",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "حوت العنبر",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "البيلوغا",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "الحوت الأبيض"
+    ]
+   },
+   {
+    "text": "الناروال",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "كركدن البحر"
+    ]
+   },
+   {
+    "text": "بطلينوس",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "البطلينوس"
+    ]
+   },
+   {
+    "text": "الإسكالوب",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "المحار المروحي"
+    ]
+   },
+   {
+    "text": "سرطان الناسك",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "سرطان الملك",
+    "baseRarity": 0.0031,
+    "aliases": [
+     "السلطعون الملكي"
+    ]
+   },
+   {
+    "text": "البرنقيل",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الكركند الشائك",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "الحلزون المخروطي",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "بزاق البحر",
+    "baseRarity": 0.0029,
+    "aliases": [
+     "البزاق البحري"
+    ]
+   },
+   {
+    "text": "دودة البحر",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "البلانكتون",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "العوالق"
+    ]
+   },
+   {
+    "text": "طحالب بحرية",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "الطحالب"
+    ]
+   },
+   {
+    "text": "عشب البحر",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "فيل البحر",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الفقمة الراهبة",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "ثعلب البحر",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "قضاعة البحر"
+    ]
+   },
+   {
+    "text": "البطريق",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "قنديل الصندوق",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "دبور البحر"
+    ]
+   },
+   {
+    "text": "محار اللؤلؤ",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الدولار الرملي",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "زنبق البحر",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الروبيان السرعوفي",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "قريدس فرس النبي"
+    ]
+   },
+   {
+    "text": "هامور",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "سلمون",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "تونة",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "التونا"
+    ]
+   },
+   {
+    "text": "سردين",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "قرش",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "سمك القرش"
+    ]
+   },
+   {
+    "text": "بلطي",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "بلطي نيلي"
+    ]
+   },
+   {
+    "text": "كنعد",
+    "baseRarity": 0.0022,
+    "aliases": [
+     "الكنعد",
+     "الكنعت"
+    ]
+   },
+   {
+    "text": "شعري",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "حريد",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "بياح",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "زبيدي",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "سبيطي",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "نويبي",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "شعور",
+    "baseRarity": 0.002,
+    "aliases": [
+     "الشعور"
+    ]
+   },
+   {
+    "text": "ناجل",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "صافي",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "جش",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "فسكر",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "كوفر",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "بوري",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "قاروص",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "القاروص",
+     "سي باس"
+    ]
+   },
+   {
+    "text": "دنيس",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "موسى",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "سمك موسى"
+    ]
+   },
+   {
+    "text": "ماكريل",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "الإسقمري",
+     "الماكريل"
+    ]
+   },
+   {
+    "text": "أنشوفة",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "الأنشوجة",
+     "الأنشوفي"
+    ]
+   },
+   {
+    "text": "قد",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "سمك القد",
+     "البكلاه"
+    ]
+   },
+   {
+    "text": "رنجة",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "تراوت",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "التروتة",
+     "السلمون المرقط"
+    ]
+   },
+   {
+    "text": "كارب",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "الشبوط",
+     "المبروك"
+    ]
+   },
+   {
+    "text": "قرموط",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "سمك القط",
+     "السلور"
+    ]
+   },
+   {
+    "text": "ثعبان البحر",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "الأنقليس",
+     "الحنكليس"
+    ]
+   },
+   {
+    "text": "سمك السيف",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "أبو سيف"
+    ]
+   },
+   {
+    "text": "مارلين",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "أبو شراع"
+    ]
+   },
+   {
+    "text": "باراكودا",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "الباراكودا"
+    ]
+   },
+   {
+    "text": "سمك المهرج",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "سمك النيمو",
+     "نيمو"
+    ]
+   },
+   {
+    "text": "سمك الببغاء",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "السمكة الجراحة",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "جراح"
+    ]
+   },
+   {
+    "text": "سمك الملاك",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "السمكة الذهبية",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "سمك الزينة الذهبي"
+    ]
+   },
+   {
+    "text": "سمك البالون",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "سمك النفيخ",
+     "الفوغو"
+    ]
+   },
+   {
+    "text": "سمك الراي",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "الراي اللاسع",
+     "اللخمة"
+    ]
+   },
+   {
+    "text": "سمك المنشار",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "سمك الشمس",
+    "baseRarity": 0.0015,
+    "aliases": [
+     "المولا"
+    ]
+   },
+   {
+    "text": "الزوري",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "سمك الحفش",
+    "baseRarity": 0.0015,
+    "aliases": [
+     "الحفش",
+     "سمك الكافيار"
+    ]
+   },
+   {
+    "text": "سمك الهلبوت",
+    "baseRarity": 0.0015,
+    "aliases": [
+     "الهلبوت"
+    ]
+   },
+   {
+    "text": "الفرخ النيلي",
+    "baseRarity": 0.0015,
+    "aliases": [
+     "قشر بياض"
+    ]
+   },
+   {
+    "text": "سمك النهاش",
+    "baseRarity": 0.0015,
+    "aliases": [
+     "النهاش"
+    ]
+   },
+   {
+    "text": "سمك الأسد",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "سمك العقرب",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "سمك الأرنب",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "صافي أرنب"
+    ]
+   },
+   {
+    "text": "سمك القوبيون",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "القوبيون"
+    ]
+   },
+   {
+    "text": "سمك الصول",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "السول"
+    ]
+   },
+   {
+    "text": "سمك الماهي ماهي",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "الدورادو",
+     "أبو ذيل"
+    ]
+   },
+   {
+    "text": "السمك الطائر",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "القرش الحوتي",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "قرش الحوت",
+     "البهلول"
+    ]
+   },
+   {
+    "text": "القرش الأبيض الكبير",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "قرش أبو مطرقة",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "القرش المطرقة"
+    ]
+   },
+   {
+    "text": "السمك الأعمى",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "سمك البربوني",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "البربوني",
+     "السلطان إبراهيم"
+    ]
+   }
+  ],
+  "secret": "نجم البحر",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/بحر"
+  ]
+ }
+]
