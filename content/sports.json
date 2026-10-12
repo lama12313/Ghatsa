@@ -1,0 +1,9222 @@
+[
+ {
+  "id": "sport-sports",
+  "category": "رياضة",
+  "prompt": "اذكر نوع رياضة",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "كرة القدم",
+    "baseRarity": 0.1999,
+    "aliases": [
+     "كورة",
+     "كرة قدم"
+    ]
+   },
+   {
+    "text": "كرة السلة",
+    "baseRarity": 0.1,
+    "aliases": [
+     "باسكتبول"
+    ]
+   },
+   {
+    "text": "كرة الطائرة",
+    "baseRarity": 0.0666,
+    "aliases": [
+     "الكرة الطائرة",
+     "فوليبول"
+    ]
+   },
+   {
+    "text": "كرة اليد",
+    "baseRarity": 0.05
+   },
+   {
+    "text": "التنس",
+    "baseRarity": 0.04,
+    "aliases": [
+     "التنس الأرضي"
+    ]
+   },
+   {
+    "text": "تنس الطاولة",
+    "baseRarity": 0.0333,
+    "aliases": [
+     "بينج بونج"
+    ]
+   },
+   {
+    "text": "السباحة",
+    "baseRarity": 0.0286
+   },
+   {
+    "text": "الجري",
+    "baseRarity": 0.025,
+    "aliases": [
+     "العدو",
+     "ألعاب القوى"
+    ]
+   },
+   {
+    "text": "الملاكمة",
+    "baseRarity": 0.0222
+   },
+   {
+    "text": "المصارعة",
+    "baseRarity": 0.02
+   },
+   {
+    "text": "الكاراتيه",
+    "baseRarity": 0.0182
+   },
+   {
+    "text": "التايكوندو",
+    "baseRarity": 0.0167
+   },
+   {
+    "text": "الجودو",
+    "baseRarity": 0.0154
+   },
+   {
+    "text": "الكونغ فو",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "ركوب الخيل",
+    "baseRarity": 0.0133,
+    "aliases": [
+     "الفروسية"
+    ]
+   },
+   {
+    "text": "سباق الخيل",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "سباق الهجن",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "الصيد بالصقور",
+    "baseRarity": 0.0111,
+    "aliases": [
+     "الصقارة"
+    ]
+   },
+   {
+    "text": "ركوب الدراجات",
+    "baseRarity": 0.0105,
+    "aliases": [
+     "الدراجات"
+    ]
+   },
+   {
+    "text": "السيارات",
+    "baseRarity": 0.01,
+    "aliases": [
+     "سباق السيارات"
+    ]
+   },
+   {
+    "text": "الفورمولا 1",
+    "baseRarity": 0.0095,
+    "aliases": [
+     "فورمولا ون"
+    ]
+   },
+   {
+    "text": "الغولف",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "الجولف"
+    ]
+   },
+   {
+    "text": "البولينج",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "البولنغ"
+    ]
+   },
+   {
+    "text": "البلياردو",
+    "baseRarity": 0.0083,
+    "aliases": [
+     "السنوكر"
+    ]
+   },
+   {
+    "text": "الشطرنج",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "الرماية",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "القوس والسهم",
+    "baseRarity": 0.0074,
+    "aliases": [
+     "الرماية بالقوس"
+    ]
+   },
+   {
+    "text": "المبارزة",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "الجمباز",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "رفع الأثقال",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "كمال الأجسام",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "اليوغا",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "التزلج على الجليد",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "التزلج على الثلج",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "هوكي الجليد",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "الهوكي",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "هوكي الميدان"
+    ]
+   },
+   {
+    "text": "البيسبول",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "الكريكيت",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "الرغبي",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "كرة القدم الأمريكية",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "الكرة الشاطئية",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "كرة القدم الشاطئية"
+    ]
+   },
+   {
+    "text": "الكرة الطائرة الشاطئية",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "البادل",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "الإسكواش",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "الريشة الطائرة",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "البادمنتون"
+    ]
+   },
+   {
+    "text": "الغوص",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "ركوب الأمواج",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "التجديف",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الإبحار",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "الشراع"
+    ]
+   },
+   {
+    "text": "التزلج المائي",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "كرة الماء",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "القفز بالمظلات",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "تسلق الجبال",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "تسلق الصخور",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "المشي",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "المشي السريع"
+    ]
+   },
+   {
+    "text": "الماراثون",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "الوثب الطويل",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "الوثب العالي",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "القفز بالزانة",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "رمي الرمح",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "رمي القرص",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "دفع الجلة",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "رمي المطرقة",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "سباق الحواجز",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "التتابع",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الترايثلون",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "الخماسي الحديث",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "العشاري",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الكيك بوكسينغ",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "المواي تاي",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الفنون القتالية المختلطة",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "إم إم إيه"
+    ]
+   },
+   {
+    "text": "الجوجيتسو",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الأيكيدو",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "السومو",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الكابويرا",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "التزلج على اللوح",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "السكيت بورد"
+    ]
+   },
+   {
+    "text": "الباركور",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "الرياضات الإلكترونية",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "الألعاب الإلكترونية"
+    ]
+   },
+   {
+    "text": "البولو",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الكيرلنغ",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الكرة الحديدية",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "البيتانك"
+    ]
+   },
+   {
+    "text": "السهام",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "الدارتس"
+    ]
+   },
+   {
+    "text": "الكانوي",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "الكاياك"
+    ]
+   }
+  ],
+  "secret": "الكيرلنغ",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_sports"
+  ]
+ },
+ {
+  "id": "sport-world-clubs",
+  "category": "رياضة",
+  "prompt": "اذكر نادي كرة قدم عالمي (غير عربي)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "ريال مدريد",
+    "baseRarity": 0.2029
+   },
+   {
+    "text": "برشلونة",
+    "baseRarity": 0.1015,
+    "aliases": [
+     "البارسا"
+    ]
+   },
+   {
+    "text": "مانشستر يونايتد",
+    "baseRarity": 0.0676,
+    "aliases": [
+     "اليونايتد",
+     "مان يونايتد"
+    ]
+   },
+   {
+    "text": "مانشستر سيتي",
+    "baseRarity": 0.0507,
+    "aliases": [
+     "السيتي",
+     "مان سيتي"
+    ]
+   },
+   {
+    "text": "ليفربول",
+    "baseRarity": 0.0406
+   },
+   {
+    "text": "تشيلسي",
+    "baseRarity": 0.0338
+   },
+   {
+    "text": "أرسنال",
+    "baseRarity": 0.029,
+    "aliases": [
+     "آرسنال"
+    ]
+   },
+   {
+    "text": "توتنهام",
+    "baseRarity": 0.0254
+   },
+   {
+    "text": "بايرن ميونخ",
+    "baseRarity": 0.0225,
+    "aliases": [
+     "البايرن"
+    ]
+   },
+   {
+    "text": "باريس سان جيرمان",
+    "baseRarity": 0.0203,
+    "aliases": [
+     "باريس",
+     "بي إس جي"
+    ]
+   },
+   {
+    "text": "يوفنتوس",
+    "baseRarity": 0.0184,
+    "aliases": [
+     "اليوفي"
+    ]
+   },
+   {
+    "text": "ميلان",
+    "baseRarity": 0.0169,
+    "aliases": [
+     "إيه سي ميلان"
+    ]
+   },
+   {
+    "text": "إنتر ميلان",
+    "baseRarity": 0.0156,
+    "aliases": [
+     "الإنتر"
+    ]
+   },
+   {
+    "text": "أتلتيكو مدريد",
+    "baseRarity": 0.0145,
+    "aliases": [
+     "أتلتيكو"
+    ]
+   },
+   {
+    "text": "بوروسيا دورتموند",
+    "baseRarity": 0.0135,
+    "aliases": [
+     "دورتموند"
+    ]
+   },
+   {
+    "text": "روما",
+    "baseRarity": 0.0127
+   },
+   {
+    "text": "نابولي",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "لاتسيو",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "أياكس",
+    "baseRarity": 0.0107,
+    "aliases": [
+     "أياكس أمستردام"
+    ]
+   },
+   {
+    "text": "بنفيكا",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "بورتو",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "سبورتنغ لشبونة",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "غلطة سراي",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "فنربخشة",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "بشكتاش",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "بوكا جونيورز",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "ريفر بليت",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "فلامنغو",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "سانتوس",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "بالميراس",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "إنتر ميامي",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "لوس أنجلوس غالاكسي",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "سيلتيك",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "رينجرز",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "باير ليفركوزن",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "ليفركوزن"
+    ]
+   },
+   {
+    "text": "لايبزيغ",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "آر بي لايبزيغ"
+    ]
+   },
+   {
+    "text": "شالكه",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "فولفسبورغ",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "إشبيلية",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "فالنسيا",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "فياريال",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "ريال بيتيس",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "بيتيس"
+    ]
+   },
+   {
+    "text": "أتلتيك بلباو",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "ريال سوسيداد",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "مارسيليا",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "أولمبيك مارسيليا"
+    ]
+   },
+   {
+    "text": "ليون",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "أولمبيك ليون"
+    ]
+   },
+   {
+    "text": "موناكو",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "ليل",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "نيوكاسل",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "أستون فيلا",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "وست هام",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "إيفرتون",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "ليستر سيتي",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "أتالانتا",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "فيورنتينا",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "تورينو",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "بي إس في آيندهوفن",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "آيندهوفن"
+    ]
+   },
+   {
+    "text": "فينورد",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "كلوب بروج",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "أندرلخت",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "سالزبورغ",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "ريد بول سالزبورغ"
+    ]
+   },
+   {
+    "text": "شاختار دونيتسك",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "شاختار"
+    ]
+   },
+   {
+    "text": "دينامو كييف",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "زينيت",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "سبارتاك موسكو",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "سيسكا موسكو",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "النجم الأحمر",
+    "baseRarity": 0.003,
+    "aliases": [
+     "ريد ستار"
+    ]
+   },
+   {
+    "text": "أولمبياكوس",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "باناثينايكوس",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "كورينثيانز",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "ساو باولو",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "بوتافوغو",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "غريميو",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "إنترناسيونال",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "أمريكا المكسيكي",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "كلوب أمريكا"
+    ]
+   },
+   {
+    "text": "تشيفاس",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "مونتيري",
+    "baseRarity": 0.0026
+   }
+  ],
+  "secret": "سيلتيك",
+  "sources": [
+   "https://www.uefa.com/nationalassociations/uefarankings/club/"
+  ]
+ },
+ {
+  "id": "sport-saudi-clubs",
+  "category": "رياضة",
+  "prompt": "اذكر نادي سعودي",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "الهلال",
+    "baseRarity": 0.2233
+   },
+   {
+    "text": "النصر",
+    "baseRarity": 0.1116
+   },
+   {
+    "text": "الاتحاد",
+    "baseRarity": 0.0744
+   },
+   {
+    "text": "الأهلي",
+    "baseRarity": 0.0558
+   },
+   {
+    "text": "الشباب",
+    "baseRarity": 0.0447
+   },
+   {
+    "text": "الاتفاق",
+    "baseRarity": 0.0372
+   },
+   {
+    "text": "الفيصلي",
+    "baseRarity": 0.0319
+   },
+   {
+    "text": "الفتح",
+    "baseRarity": 0.0279
+   },
+   {
+    "text": "التعاون",
+    "baseRarity": 0.0248
+   },
+   {
+    "text": "الرائد",
+    "baseRarity": 0.0223
+   },
+   {
+    "text": "الخليج",
+    "baseRarity": 0.0203
+   },
+   {
+    "text": "الفيحاء",
+    "baseRarity": 0.0186
+   },
+   {
+    "text": "ضمك",
+    "baseRarity": 0.0172
+   },
+   {
+    "text": "الوحدة",
+    "baseRarity": 0.0159
+   },
+   {
+    "text": "الطائي",
+    "baseRarity": 0.0149
+   },
+   {
+    "text": "الحزم",
+    "baseRarity": 0.014
+   },
+   {
+    "text": "أبها",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "الرياض",
+    "baseRarity": 0.0124
+   },
+   {
+    "text": "الأخدود",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "العروبة",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "القادسية",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "الخلود",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "النجمة",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "الباطن",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "الجبلين",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "العين",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "الكوكب",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "هجر",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "النهضة",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "الأنصار",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "أحد",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "الجيل",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "البكيرية",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "الساحل",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "العدالة",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "الأمل",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "الشعلة",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "الصفا",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "نجران",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "العربي",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "الزلفي",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "المجزل",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "الدرعية",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "جدة",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "حطين",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "القيصومة",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "الروضة",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "الثقبة",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "الوطني",
+    "baseRarity": 0.0046
+   }
+  ],
+  "secret": "الجبلين",
+  "sources": [
+   "https://www.spl.com.sa/"
+  ]
+ },
+ {
+  "id": "sport-arab-clubs",
+  "category": "رياضة",
+  "prompt": "اذكر نادي كرة قدم عربي (غير سعودي)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "الأهلي المصري",
+    "baseRarity": 0.2088,
+    "aliases": [
+     "الأهلي"
+    ]
+   },
+   {
+    "text": "الزمالك",
+    "baseRarity": 0.1044
+   },
+   {
+    "text": "الإسماعيلي",
+    "baseRarity": 0.0696
+   },
+   {
+    "text": "المصري البورسعيدي",
+    "baseRarity": 0.0522,
+    "aliases": [
+     "المصري"
+    ]
+   },
+   {
+    "text": "بيراميدز",
+    "baseRarity": 0.0418
+   },
+   {
+    "text": "الترجي",
+    "baseRarity": 0.0348,
+    "aliases": [
+     "الترجي التونسي"
+    ]
+   },
+   {
+    "text": "النجم الساحلي",
+    "baseRarity": 0.0298
+   },
+   {
+    "text": "النادي الإفريقي",
+    "baseRarity": 0.0261,
+    "aliases": [
+     "الإفريقي"
+    ]
+   },
+   {
+    "text": "الصفاقسي",
+    "baseRarity": 0.0232
+   },
+   {
+    "text": "الوداد",
+    "baseRarity": 0.0209,
+    "aliases": [
+     "الوداد البيضاوي"
+    ]
+   },
+   {
+    "text": "الرجاء",
+    "baseRarity": 0.019,
+    "aliases": [
+     "الرجاء البيضاوي"
+    ]
+   },
+   {
+    "text": "الجيش الملكي",
+    "baseRarity": 0.0174
+   },
+   {
+    "text": "نهضة بركان",
+    "baseRarity": 0.0161
+   },
+   {
+    "text": "المغرب الفاسي",
+    "baseRarity": 0.0149
+   },
+   {
+    "text": "شبيبة القبائل",
+    "baseRarity": 0.0139
+   },
+   {
+    "text": "مولودية الجزائر",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "اتحاد الجزائر",
+    "baseRarity": 0.0123
+   },
+   {
+    "text": "وفاق سطيف",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "شباب بلوزداد",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "الهلال السوداني",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "المريخ السوداني",
+    "baseRarity": 0.0099,
+    "aliases": [
+     "المريخ"
+    ]
+   },
+   {
+    "text": "الاتحاد الليبي",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "الأهلي طرابلس",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "الأهلي بنغازي",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "العين",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "الوصل",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "الشارقة",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "الجزيرة",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "الوحدة الإماراتي",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "شباب الأهلي",
+    "baseRarity": 0.007,
+    "aliases": [
+     "الأهلي دبي"
+    ]
+   },
+   {
+    "text": "النصر الإماراتي",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "بني ياس",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "السد",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "الدحيل",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "الريان",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "العربي القطري",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "العربي"
+    ]
+   },
+   {
+    "text": "الغرافة",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "الوكرة",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "قطر",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "الكويت",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "نادي الكويت"
+    ]
+   },
+   {
+    "text": "القادسية الكويتي",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "العربي الكويتي",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "السالمية",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "المحرق",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "الرفاع",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "الأهلي البحريني",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "الرفاع الشرقي",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "ظفار",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "السيب",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "النهضة العماني",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "فنجاء",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "الشرطة العراقي",
+    "baseRarity": 0.004,
+    "aliases": [
+     "الشرطة"
+    ]
+   },
+   {
+    "text": "الزوراء",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "القوة الجوية",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "الطلبة",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "الفيصلي الأردني",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "الوحدات",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "الجزيرة الأردني",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "الحسين إربد",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "الجيش السوري",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "الكرامة",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "تشرين",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "الاتحاد الحلبي",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "الوحدة السوري",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "العهد",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "الأنصار اللبناني",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "النجمة اللبناني",
+    "baseRarity": 0.0031
+   }
+  ],
+  "secret": "شبيبة القبائل",
+  "sources": [
+   "https://www.cafonline.com/"
+  ]
+ },
+ {
+  "id": "sport-world-players",
+  "category": "رياضة",
+  "prompt": "اذكر لاعب كرة قدم عالمي (غير عربي)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "ليونيل ميسي",
+    "baseRarity": 0.1981,
+    "aliases": [
+     "ميسي"
+    ]
+   },
+   {
+    "text": "كريستيانو رونالدو",
+    "baseRarity": 0.099,
+    "aliases": [
+     "رونالدو",
+     "كريستيانو"
+    ]
+   },
+   {
+    "text": "نيمار",
+    "baseRarity": 0.066
+   },
+   {
+    "text": "كيليان مبابي",
+    "baseRarity": 0.0495,
+    "aliases": [
+     "مبابي"
+    ]
+   },
+   {
+    "text": "إيرلينغ هالاند",
+    "baseRarity": 0.0396,
+    "aliases": [
+     "هالاند"
+    ]
+   },
+   {
+    "text": "بيليه",
+    "baseRarity": 0.033
+   },
+   {
+    "text": "مارادونا",
+    "baseRarity": 0.0283,
+    "aliases": [
+     "دييغو مارادونا"
+    ]
+   },
+   {
+    "text": "زين الدين زيدان",
+    "baseRarity": 0.0248,
+    "aliases": [
+     "زيدان"
+    ]
+   },
+   {
+    "text": "رونالدينيو",
+    "baseRarity": 0.022
+   },
+   {
+    "text": "رونالدو البرازيلي",
+    "baseRarity": 0.0198,
+    "aliases": [
+     "رونالدو نازاريو",
+     "الظاهرة"
+    ]
+   },
+   {
+    "text": "كاكا",
+    "baseRarity": 0.018
+   },
+   {
+    "text": "روبرتو كارلوس",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "ديفيد بيكهام",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "بيكهام"
+    ]
+   },
+   {
+    "text": "تييري هنري",
+    "baseRarity": 0.0141,
+    "aliases": [
+     "هنري"
+    ]
+   },
+   {
+    "text": "فرانك ليبارد",
+    "baseRarity": 0.0132,
+    "aliases": [
+     "ليبارد"
+    ]
+   },
+   {
+    "text": "ستيفن جيرارد",
+    "baseRarity": 0.0124,
+    "aliases": [
+     "جيرارد"
+    ]
+   },
+   {
+    "text": "واين روني",
+    "baseRarity": 0.0117,
+    "aliases": [
+     "روني"
+    ]
+   },
+   {
+    "text": "هاري كين",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "كيفين دي بروين",
+    "baseRarity": 0.0104,
+    "aliases": [
+     "دي بروين"
+    ]
+   },
+   {
+    "text": "لوكا مودريتش",
+    "baseRarity": 0.0099,
+    "aliases": [
+     "مودريتش"
+    ]
+   },
+   {
+    "text": "كريم بنزيما",
+    "baseRarity": 0.0094,
+    "aliases": [
+     "بنزيما"
+    ]
+   },
+   {
+    "text": "روبرت ليفاندوفسكي",
+    "baseRarity": 0.009,
+    "aliases": [
+     "ليفاندوفسكي"
+    ]
+   },
+   {
+    "text": "أندريس إنييستا",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "إنييستا"
+    ]
+   },
+   {
+    "text": "تشافي",
+    "baseRarity": 0.0083,
+    "aliases": [
+     "تشافي هيرنانديز"
+    ]
+   },
+   {
+    "text": "سيرخيو راموس",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "راموس"
+    ]
+   },
+   {
+    "text": "إيكر كاسياس",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "كاسياس"
+    ]
+   },
+   {
+    "text": "جيانلويجي بوفون",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "بوفون"
+    ]
+   },
+   {
+    "text": "باولو مالديني",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "مالديني"
+    ]
+   },
+   {
+    "text": "فرانشيسكو توتي",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "توتي"
+    ]
+   },
+   {
+    "text": "أندريا بيرلو",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "بيرلو"
+    ]
+   },
+   {
+    "text": "أليساندرو ديل بييرو",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "ديل بييرو"
+    ]
+   },
+   {
+    "text": "روبرتو باجيو",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "باجيو"
+    ]
+   },
+   {
+    "text": "يوهان كرويف",
+    "baseRarity": 0.006,
+    "aliases": [
+     "كرويف"
+    ]
+   },
+   {
+    "text": "فرانز بيكنباور",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "بيكنباور"
+    ]
+   },
+   {
+    "text": "غيرد مولر",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "لوثار ماتيوس",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "مانويل نوير",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "نوير"
+    ]
+   },
+   {
+    "text": "توماس مولر",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "فيرجيل فان دايك",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "فان دايك"
+    ]
+   },
+   {
+    "text": "أريين روبن",
+    "baseRarity": 0.005,
+    "aliases": [
+     "روبن"
+    ]
+   },
+   {
+    "text": "روبن فان بيرسي",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "فان بيرسي"
+    ]
+   },
+   {
+    "text": "زلاتان إبراهيموفيتش",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "زلاتان",
+     "إبراهيموفيتش"
+    ]
+   },
+   {
+    "text": "أنطوان غريزمان",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "غريزمان"
+    ]
+   },
+   {
+    "text": "بول بوغبا",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "بوغبا"
+    ]
+   },
+   {
+    "text": "نغولو كانتي",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "كانتي"
+    ]
+   },
+   {
+    "text": "ديدييه دروغبا",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "دروغبا"
+    ]
+   },
+   {
+    "text": "صامويل إيتو",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "إيتو"
+    ]
+   },
+   {
+    "text": "جورج وياه",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "وياه"
+    ]
+   },
+   {
+    "text": "ساديو ماني",
+    "baseRarity": 0.004,
+    "aliases": [
+     "ماني"
+    ]
+   },
+   {
+    "text": "فينيسيوس جونيور",
+    "baseRarity": 0.004,
+    "aliases": [
+     "فينيسيوس"
+    ]
+   },
+   {
+    "text": "جود بيلينغهام",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "بيلينغهام"
+    ]
+   },
+   {
+    "text": "لامين يامال",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "يامال"
+    ]
+   },
+   {
+    "text": "بيدري",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "غافي",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "إيدين هازارد",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "هازارد"
+    ]
+   },
+   {
+    "text": "لويس سواريز",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "سواريز"
+    ]
+   },
+   {
+    "text": "إدينسون كافاني",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "كافاني"
+    ]
+   },
+   {
+    "text": "سيرجيو أغويرو",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "أغويرو"
+    ]
+   },
+   {
+    "text": "أنخيل دي ماريا",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "دي ماريا"
+    ]
+   },
+   {
+    "text": "باولو ديبالا",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "ديبالا"
+    ]
+   },
+   {
+    "text": "لاوتارو مارتينيز",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "جوليان ألفاريز",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "إميليانو مارتينيز",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "بيتر تشيك",
+    "baseRarity": 0.0031,
+    "aliases": [
+     "تشيك"
+    ]
+   },
+   {
+    "text": "أوليفر كان",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "ليف ياشين",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "أوزيبيو",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "غارينشا",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "زيكو",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "سقراط",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "روماريو",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "ريفالدو",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "مارسيلو",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "داني ألفيس",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "كافو",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "تياغو سيلفا",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "كاسيميرو",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "فيليب لام",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "باستيان شفاينشتايغر",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "مسعود أوزيل",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "أوزيل"
+    ]
+   },
+   {
+    "text": "توني كروس",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "كروس"
+    ]
+   },
+   {
+    "text": "لويس فيغو",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "فيغو"
+    ]
+   },
+   {
+    "text": "بافيل نيدفيد",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "نيدفيد"
+    ]
+   },
+   {
+    "text": "أندريه شيفتشينكو",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "شيفتشينكو"
+    ]
+   },
+   {
+    "text": "ميشيل بلاتيني",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "بلاتيني"
+    ]
+   },
+   {
+    "text": "ماركو فان باستن",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "فان باستن"
+    ]
+   },
+   {
+    "text": "رود خوليت",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "خوليت"
+    ]
+   }
+  ],
+  "secret": "غارينشا",
+  "sources": [
+   "https://www.fifa.com/"
+  ]
+ },
+ {
+  "id": "sport-saudi-players",
+  "category": "رياضة",
+  "prompt": "اذكر لاعب كرة قدم سعودي (حالي أو سابق)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "ماجد عبدالله",
+    "baseRarity": 0.216
+   },
+   {
+    "text": "سامي الجابر",
+    "baseRarity": 0.108
+   },
+   {
+    "text": "سالم الدوسري",
+    "baseRarity": 0.072
+   },
+   {
+    "text": "محمد الدعيع",
+    "baseRarity": 0.054
+   },
+   {
+    "text": "ياسر القحطاني",
+    "baseRarity": 0.0432
+   },
+   {
+    "text": "نواف التمياط",
+    "baseRarity": 0.036
+   },
+   {
+    "text": "حمزة إدريس",
+    "baseRarity": 0.0309
+   },
+   {
+    "text": "محمد نور",
+    "baseRarity": 0.027
+   },
+   {
+    "text": "سعيد العويران",
+    "baseRarity": 0.024
+   },
+   {
+    "text": "فهد الهريفي",
+    "baseRarity": 0.0216
+   },
+   {
+    "text": "يوسف الثنيان",
+    "baseRarity": 0.0196
+   },
+   {
+    "text": "صالح النعيمة",
+    "baseRarity": 0.018
+   },
+   {
+    "text": "محمد الشلهوب",
+    "baseRarity": 0.0166
+   },
+   {
+    "text": "فؤاد أنور",
+    "baseRarity": 0.0154
+   },
+   {
+    "text": "عبدالله الدعيع",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "أحمد جميل",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "محمد الخليوي",
+    "baseRarity": 0.0127
+   },
+   {
+    "text": "خالد مسعد",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "عبدالرزاق أبو داود",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "أسامة هوساوي",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "تيسير الجاسم",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "ياسر الشهراني",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "صالح الشهري",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "فراس البريكان",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "سلمان الفرج",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "محمد كنو",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "عبدالله عطيف",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "سعود عبدالحميد",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "عبدالإله العمري",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "علي البليهي",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "محمد العويس",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "نواف العقيدي",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "هتان باهبري",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "عبدالرحمن غريب",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "فهد المولد",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "ناصر الشمراني",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "مالك معاذ",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "محمد السهلاوي",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "عمر هوساوي",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "عبدالله الزوري",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "حسين عبدالغني",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "رضا تكر",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "عبدالله الواكد",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "صالح الصقري",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "سعد الحارثي",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "عبدالله العنزي",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "خالد الغامدي",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "ياسر المسيليم",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "وليد عبدالله",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "نايف هزازي",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "مصطفى بصاص",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "عبدالفتاح عسيري",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "عبدالله الحمدان",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "مختار فلاتة",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "أيمن يحيى",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "حسان تمبكتي",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "مصعب الجوير",
+    "baseRarity": 0.0038
+   }
+  ],
+  "secret": "صالح النعيمة",
+  "sources": [
+   "https://www.saff.com.sa/"
+  ]
+ },
+ {
+  "id": "sport-arab-players",
+  "category": "رياضة",
+  "prompt": "اذكر لاعب كرة قدم عربي (غير سعودي)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "محمد صلاح",
+    "baseRarity": 0.2169
+   },
+   {
+    "text": "رياض محرز",
+    "baseRarity": 0.1084,
+    "aliases": [
+     "محرز"
+    ]
+   },
+   {
+    "text": "أشرف حكيمي",
+    "baseRarity": 0.0723,
+    "aliases": [
+     "حكيمي"
+    ]
+   },
+   {
+    "text": "حكيم زياش",
+    "baseRarity": 0.0542,
+    "aliases": [
+     "زياش"
+    ]
+   },
+   {
+    "text": "محمد أبو تريكة",
+    "baseRarity": 0.0434,
+    "aliases": [
+     "أبو تريكة"
+    ]
+   },
+   {
+    "text": "أحمد حسام ميدو",
+    "baseRarity": 0.0361,
+    "aliases": [
+     "ميدو"
+    ]
+   },
+   {
+    "text": "حسام حسن",
+    "baseRarity": 0.031
+   },
+   {
+    "text": "أحمد حسن",
+    "baseRarity": 0.0271
+   },
+   {
+    "text": "عصام الحضري",
+    "baseRarity": 0.0241,
+    "aliases": [
+     "الحضري"
+    ]
+   },
+   {
+    "text": "محمد زيدان",
+    "baseRarity": 0.0217
+   },
+   {
+    "text": "عمرو زكي",
+    "baseRarity": 0.0197
+   },
+   {
+    "text": "محمد النني",
+    "baseRarity": 0.0181,
+    "aliases": [
+     "النني"
+    ]
+   },
+   {
+    "text": "أكرم عفيف",
+    "baseRarity": 0.0167
+   },
+   {
+    "text": "المعز علي",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "حسن الهيدوس",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "يونس محمود",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "نشأت أكرم",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "أحمد راضي",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "عمر عبدالرحمن",
+    "baseRarity": 0.0114,
+    "aliases": [
+     "عموري"
+    ]
+   },
+   {
+    "text": "علي مبخوت",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "إسماعيل مطر",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "بدر المطوع",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "جاسم يعقوب",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "فيصل الدخيل",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "وهبي الخزري",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "يوسف المساكني",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "علي معلول",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "ياسين بونو",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "بونو"
+    ]
+   },
+   {
+    "text": "سفيان أمرابط",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "أمرابط"
+    ]
+   },
+   {
+    "text": "يوسف النصيري",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "النصيري"
+    ]
+   },
+   {
+    "text": "نصير مزراوي",
+    "baseRarity": 0.007,
+    "aliases": [
+     "مزراوي"
+    ]
+   },
+   {
+    "text": "مروان الشماخ",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "عادل تاعرابت",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "نور الدين نيبت",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "بادو الزاكي",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "مصطفى حجي",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "رابح ماجر",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "الأخضر بلومي",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "إسماعيل بن ناصر",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "بن ناصر"
+    ]
+   },
+   {
+    "text": "إسلام سليماني",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "سليماني"
+    ]
+   },
+   {
+    "text": "سفيان فيغولي",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "عمر السومة",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "السومة"
+    ]
+   },
+   {
+    "text": "فراس الخطيب",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "جهاد الحسين",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "موسى التعمري",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "عامر شفيع",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "حسن عبد الفتاح",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "عماد متعب",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "محمد بركات",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "شيكابالا",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "وائل جمعة",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "أحمد فتحي",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "مصطفى محمد",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "عمر مرموش",
+    "baseRarity": 0.004,
+    "aliases": [
+     "مرموش"
+    ]
+   },
+   {
+    "text": "تريزيغيه",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "إمام عاشور",
+    "baseRarity": 0.0039
+   }
+  ],
+  "secret": "الأخضر بلومي",
+  "sources": [
+   "https://www.the-afc.com/"
+  ]
+ },
+ {
+  "id": "sport-stadiums",
+  "category": "رياضة",
+  "prompt": "اذكر ملعب كرة قدم مشهور",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "كامب نو",
+    "baseRarity": 0.2137
+   },
+   {
+    "text": "سانتياغو برنابيو",
+    "baseRarity": 0.1068,
+    "aliases": [
+     "البرنابيو"
+    ]
+   },
+   {
+    "text": "أولد ترافورد",
+    "baseRarity": 0.0712
+   },
+   {
+    "text": "أنفيلد",
+    "baseRarity": 0.0534
+   },
+   {
+    "text": "ملعب الاتحاد",
+    "baseRarity": 0.0427
+   },
+   {
+    "text": "ستامفورد بريدج",
+    "baseRarity": 0.0356
+   },
+   {
+    "text": "ملعب الإمارات",
+    "baseRarity": 0.0305
+   },
+   {
+    "text": "ويمبلي",
+    "baseRarity": 0.0267
+   },
+   {
+    "text": "سان سيرو",
+    "baseRarity": 0.0237,
+    "aliases": [
+     "جوزيبي مياتزا"
+    ]
+   },
+   {
+    "text": "أليانز أرينا",
+    "baseRarity": 0.0214
+   },
+   {
+    "text": "سيغنال إيدونا بارك",
+    "baseRarity": 0.0194,
+    "aliases": [
+     "ويستفالن"
+    ]
+   },
+   {
+    "text": "بارك دي برانس",
+    "baseRarity": 0.0178
+   },
+   {
+    "text": "ستاد دو فرانس",
+    "baseRarity": 0.0164
+   },
+   {
+    "text": "ماراكانا",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "أزتيكا",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "لا بومبونيرا",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "مونومينتال",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "ستاد الملك فهد الدولي",
+    "baseRarity": 0.0119,
+    "aliases": [
+     "ستاد الملك فهد",
+     "الدرة"
+    ]
+   },
+   {
+    "text": "ملعب الجوهرة المشعة",
+    "baseRarity": 0.0112,
+    "aliases": [
+     "الجوهرة"
+    ]
+   },
+   {
+    "text": "مرسول بارك",
+    "baseRarity": 0.0107,
+    "aliases": [
+     "الأول بارك"
+    ]
+   },
+   {
+    "text": "ستاد الأمير فيصل بن فهد",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "ملعب المملكة أرينا",
+    "baseRarity": 0.0097,
+    "aliases": [
+     "المملكة أرينا"
+    ]
+   },
+   {
+    "text": "ملعب الأمير عبدالله الفيصل",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "ستاد لوسيل",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "لوسيل"
+    ]
+   },
+   {
+    "text": "استاد البيت",
+    "baseRarity": 0.0085,
+    "aliases": [
+     "البيت"
+    ]
+   },
+   {
+    "text": "استاد خليفة الدولي",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "خليفة الدولي"
+    ]
+   },
+   {
+    "text": "ملعب الجنوب",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "استاد الجنوب"
+    ]
+   },
+   {
+    "text": "استاد المدينة التعليمية",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "استاد الثمامة",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "استاد 974",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "974"
+    ]
+   },
+   {
+    "text": "استاد أحمد بن علي",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "ستاد القاهرة الدولي",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "استاد برج العرب",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "ستاد محمد الخامس",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "ملعب ابن بطوطة",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "ملعب طنجة الكبير"
+    ]
+   },
+   {
+    "text": "ملعب رادس",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "ستاد 5 جويلية",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "5 جويلية"
+    ]
+   },
+   {
+    "text": "ستاد هزاع بن زايد",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "ستاد مدينة زايد الرياضية",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "مدينة زايد"
+    ]
+   },
+   {
+    "text": "ستاد جابر الأحمد الدولي",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "ستاد البصرة الدولي",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "جذع النخلة"
+    ]
+   },
+   {
+    "text": "ملعب عمان الدولي",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "أليانز ستاديوم",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "ملعب واندا ميتروبوليتانو",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "ميتروبوليتانو"
+    ]
+   },
+   {
+    "text": "ملعب مستايا",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "يوهان كرويف أرينا",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "أمستردام أرينا"
+    ]
+   },
+   {
+    "text": "ملعب دا لوز",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "ملعب التنين",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "دراغاو"
+    ]
+   },
+   {
+    "text": "ملعب ترك تيليكوم",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "رامس بارك"
+    ]
+   },
+   {
+    "text": "توتنهام هوتسبير ستاديوم",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "سيلهرست بارك",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "غوديسون بارك",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "فيلا بارك",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "سانت جيمس بارك",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "ملعب أولمبيكو",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "الأولمبيكو"
+    ]
+   },
+   {
+    "text": "ملعب دييغو مارادونا",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "سان باولو"
+    ]
+   },
+   {
+    "text": "سيلتيك بارك",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "لوجنيكي",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "ملعب روز بول",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "ملعب سوكر سيتي",
+    "baseRarity": 0.0036
+   }
+  ],
+  "secret": "ملعب الجنوب",
+  "sources": [
+   "https://www.fifa.com/"
+  ]
+ },
+ {
+  "id": "sport-tournaments",
+  "category": "رياضة",
+  "prompt": "اذكر بطولة رياضية مشهورة",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "كأس العالم",
+    "baseRarity": 0.2186,
+    "aliases": [
+     "المونديال"
+    ]
+   },
+   {
+    "text": "دوري أبطال أوروبا",
+    "baseRarity": 0.1093,
+    "aliases": [
+     "التشامبيونز ليغ"
+    ]
+   },
+   {
+    "text": "الدوري الأوروبي",
+    "baseRarity": 0.0729,
+    "aliases": [
+     "اليوروبا ليغ"
+    ]
+   },
+   {
+    "text": "بطولة أمم أوروبا",
+    "baseRarity": 0.0546,
+    "aliases": [
+     "اليورو"
+    ]
+   },
+   {
+    "text": "كأس أمم آسيا",
+    "baseRarity": 0.0437,
+    "aliases": [
+     "كأس آسيا"
+    ]
+   },
+   {
+    "text": "كأس أمم أفريقيا",
+    "baseRarity": 0.0364
+   },
+   {
+    "text": "كوبا أمريكا",
+    "baseRarity": 0.0312
+   },
+   {
+    "text": "دوري أبطال آسيا",
+    "baseRarity": 0.0273
+   },
+   {
+    "text": "دوري أبطال أفريقيا",
+    "baseRarity": 0.0243
+   },
+   {
+    "text": "كأس الخليج",
+    "baseRarity": 0.0219,
+    "aliases": [
+     "خليجي"
+    ]
+   },
+   {
+    "text": "كأس العرب",
+    "baseRarity": 0.0199
+   },
+   {
+    "text": "دوري روشن",
+    "baseRarity": 0.0182,
+    "aliases": [
+     "الدوري السعودي"
+    ]
+   },
+   {
+    "text": "كأس الملك",
+    "baseRarity": 0.0168
+   },
+   {
+    "text": "كأس السوبر السعودي",
+    "baseRarity": 0.0156
+   },
+   {
+    "text": "كأس ولي العهد",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "الدوري الإنجليزي",
+    "baseRarity": 0.0137,
+    "aliases": [
+     "البريميرليغ"
+    ]
+   },
+   {
+    "text": "الدوري الإسباني",
+    "baseRarity": 0.0129,
+    "aliases": [
+     "الليغا"
+    ]
+   },
+   {
+    "text": "الدوري الإيطالي",
+    "baseRarity": 0.0121,
+    "aliases": [
+     "السيري آ"
+    ]
+   },
+   {
+    "text": "الدوري الألماني",
+    "baseRarity": 0.0115,
+    "aliases": [
+     "البوندسليغا"
+    ]
+   },
+   {
+    "text": "الدوري الفرنسي",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "كأس الاتحاد الإنجليزي",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "كأس العالم للأندية",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "السوبر الإسباني",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "الألعاب الأولمبية",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "الأولمبياد"
+    ]
+   },
+   {
+    "text": "الألعاب الآسيوية",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "الأسياد"
+    ]
+   },
+   {
+    "text": "الألعاب البارالمبية",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "ويمبلدون",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "رولان غاروس",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "بطولة فرنسا المفتوحة"
+    ]
+   },
+   {
+    "text": "بطولة أستراليا المفتوحة",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "بطولة أمريكا المفتوحة",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "فورمولا 1",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "بطولة العالم للفورمولا 1"
+    ]
+   },
+   {
+    "text": "رالي داكار",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "داكار"
+    ]
+   },
+   {
+    "text": "طواف فرنسا",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "تور دو فرانس"
+    ]
+   },
+   {
+    "text": "السوبر بول",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "دوري كرة السلة الأمريكي",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "إن بي إيه"
+    ]
+   },
+   {
+    "text": "كأس رايدر",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "الماسترز",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "بطولة العالم لألعاب القوى",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "كأس العالم للرغبي",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "كأس العالم للكريكيت",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "ماراثون بوسطن",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "ماراثون لندن",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "كأس ديفيز",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "بطولة الماسترز للسنوكر",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "ألعاب الكومنولث",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "الألعاب الأولمبية الشتوية",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "كأس دبي العالمي",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "كأس السعودية للخيل",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "كأس السعودية"
+    ]
+   },
+   {
+    "text": "بطولة غرب آسيا",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "كأس الكونفدرالية",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "كأس ستانلي",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "بطولة العالم للشطرنج",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "دورة الألعاب العربية",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "الدوري الأمريكي",
+    "baseRarity": 0.004,
+    "aliases": [
+     "إم إل إس"
+    ]
+   }
+  ],
+  "secret": "كأس ستانلي",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_sports_competitions"
+  ]
+ },
+ {
+  "id": "sport-world-cup-nations",
+  "category": "رياضة",
+  "prompt": "اذكر منتخب شارك في كأس العالم لكرة القدم (حتى ٢٠٢٢)",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "البرازيل",
+    "baseRarity": 0.2014
+   },
+   {
+    "text": "ألمانيا",
+    "baseRarity": 0.1007,
+    "aliases": [
+     "ألمانيا الغربية"
+    ]
+   },
+   {
+    "text": "إيطاليا",
+    "baseRarity": 0.0671
+   },
+   {
+    "text": "الأرجنتين",
+    "baseRarity": 0.0503
+   },
+   {
+    "text": "فرنسا",
+    "baseRarity": 0.0403
+   },
+   {
+    "text": "إنجلترا",
+    "baseRarity": 0.0336
+   },
+   {
+    "text": "إسبانيا",
+    "baseRarity": 0.0288
+   },
+   {
+    "text": "الأوروغواي",
+    "baseRarity": 0.0252
+   },
+   {
+    "text": "هولندا",
+    "baseRarity": 0.0224
+   },
+   {
+    "text": "المكسيك",
+    "baseRarity": 0.0201
+   },
+   {
+    "text": "السعودية",
+    "baseRarity": 0.0183
+   },
+   {
+    "text": "المغرب",
+    "baseRarity": 0.0168
+   },
+   {
+    "text": "تونس",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "مصر",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "الجزائر",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "قطر",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "البرتغال",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "بلجيكا",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "كرواتيا",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "اليابان",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "كوريا الجنوبية",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "الولايات المتحدة",
+    "baseRarity": 0.0092,
+    "aliases": [
+     "أمريكا"
+    ]
+   },
+   {
+    "text": "السويد",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "سويسرا",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "الدنمارك",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "بولندا",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "روسيا",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "الاتحاد السوفيتي"
+    ]
+   },
+   {
+    "text": "صربيا",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "يوغوسلافيا"
+    ]
+   },
+   {
+    "text": "تشيلي",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "كولومبيا",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "الإكوادور",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "البيرو",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "بيرو"
+    ]
+   },
+   {
+    "text": "الباراغواي",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "بوليفيا",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "كوستاريكا",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "هندوراس",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "السلفادور",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "بنما",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "جامايكا",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "هايتي",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "ترينيداد وتوباغو",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "كندا",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "كوبا",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "أستراليا",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "نيوزيلندا",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "إيران",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "العراق",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الكويت",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الإمارات",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "الصين",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "كوريا الشمالية",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "إندونيسيا",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "جزر الهند الشرقية الهولندية"
+    ]
+   },
+   {
+    "text": "إسرائيل",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "تركيا",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "اليونان",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "النمسا",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "المجر",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "تشيكيا",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "تشيكوسلوفاكيا"
+    ]
+   },
+   {
+    "text": "سلوفاكيا",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "سلوفينيا",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "البوسنة والهرسك",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "البوسنة"
+    ]
+   },
+   {
+    "text": "رومانيا",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "بلغاريا",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "أوكرانيا",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "النرويج",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "آيسلندا",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "أيرلندا",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "أيرلندا الشمالية",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "اسكتلندا",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "ويلز",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "ألمانيا الشرقية",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الكاميرون",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "نيجيريا",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "السنغال",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "غانا",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "ساحل العاج",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "جنوب أفريقيا",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "أنغولا",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "توغو",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "زائير",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "الكونغو الديمقراطية"
+    ]
+   }
+  ],
+  "secret": "ترينيداد وتوباغو",
+  "sources": [
+   "https://www.fifa.com/tournaments/mens/worldcup"
+  ]
+ },
+ {
+  "id": "sport-basketball-players",
+  "category": "رياضة",
+  "prompt": "اذكر لاعب كرة سلة مشهور",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "مايكل جوردان",
+    "baseRarity": 0.2243,
+    "aliases": [
+     "جوردان"
+    ]
+   },
+   {
+    "text": "ليبرون جيمس",
+    "baseRarity": 0.1121,
+    "aliases": [
+     "ليبرون"
+    ]
+   },
+   {
+    "text": "كوبي براينت",
+    "baseRarity": 0.0748,
+    "aliases": [
+     "كوبي"
+    ]
+   },
+   {
+    "text": "ستيفن كاري",
+    "baseRarity": 0.0561,
+    "aliases": [
+     "كاري"
+    ]
+   },
+   {
+    "text": "شاكيل أونيل",
+    "baseRarity": 0.0449,
+    "aliases": [
+     "شاك"
+    ]
+   },
+   {
+    "text": "كيفن دورانت",
+    "baseRarity": 0.0374,
+    "aliases": [
+     "دورانت"
+    ]
+   },
+   {
+    "text": "ماجيك جونسون",
+    "baseRarity": 0.032
+   },
+   {
+    "text": "لاري بيرد",
+    "baseRarity": 0.028
+   },
+   {
+    "text": "كريم عبد الجبار",
+    "baseRarity": 0.0249
+   },
+   {
+    "text": "تيم دنكان",
+    "baseRarity": 0.0224
+   },
+   {
+    "text": "ديرك نوفيتسكي",
+    "baseRarity": 0.0204
+   },
+   {
+    "text": "يانيس أنتيتوكونمبو",
+    "baseRarity": 0.0187,
+    "aliases": [
+     "يانيس"
+    ]
+   },
+   {
+    "text": "نيكولا يوكيتش",
+    "baseRarity": 0.0173,
+    "aliases": [
+     "يوكيتش"
+    ]
+   },
+   {
+    "text": "لوكا دونتشيتش",
+    "baseRarity": 0.016,
+    "aliases": [
+     "دونتشيتش"
+    ]
+   },
+   {
+    "text": "جيمس هاردن",
+    "baseRarity": 0.015,
+    "aliases": [
+     "هاردن"
+    ]
+   },
+   {
+    "text": "راسل ويستبروك",
+    "baseRarity": 0.014,
+    "aliases": [
+     "ويستبروك"
+    ]
+   },
+   {
+    "text": "كواي لينارد",
+    "baseRarity": 0.0132
+   },
+   {
+    "text": "جيسون تاتوم",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "جويل إمبيد",
+    "baseRarity": 0.0118,
+    "aliases": [
+     "إمبيد"
+    ]
+   },
+   {
+    "text": "فيكتور ويمبانياما",
+    "baseRarity": 0.0112,
+    "aliases": [
+     "ويمبانياما"
+    ]
+   },
+   {
+    "text": "ألين آيفرسون",
+    "baseRarity": 0.0107,
+    "aliases": [
+     "آيفرسون"
+    ]
+   },
+   {
+    "text": "ديون وايد",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "كيفن غارنيت",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "بول بيرس",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "كريس بول",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "داميان ليلارد",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "كايري إيرفينغ",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "أنتوني ديفيس",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "حكيم أولاجوان",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "باتريك يوينغ",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "ويلت تشامبرلين",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "بيل راسل",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "سكوتي بيبن",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "دينيس رودمان",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "كارل مالون",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "جون ستوكتون",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "تشارلز باركلي",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "ياو مينغ",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "مانو جينوبيلي",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "توني باركر",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "فينس كارتر",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "تريسي ماغرادي",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "ستيف ناش",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "جيا مورانت",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "ديفين بوكر",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "جيمي باتلر",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "كلاي طومسون",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "درايموند غرين",
+    "baseRarity": 0.0047
+   }
+  ],
+  "secret": "حكيم أولاجوان",
+  "sources": [
+   "https://www.nba.com/"
+  ]
+ },
+ {
+  "id": "sport-tennis-players",
+  "category": "رياضة",
+  "prompt": "اذكر لاعب أو لاعبة تنس مشهور",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "روجر فيدرر",
+    "baseRarity": 0.2299,
+    "aliases": [
+     "فيدرر"
+    ]
+   },
+   {
+    "text": "رافائيل نادال",
+    "baseRarity": 0.1149,
+    "aliases": [
+     "نادال"
+    ]
+   },
+   {
+    "text": "نوفاك ديوكوفيتش",
+    "baseRarity": 0.0766,
+    "aliases": [
+     "ديوكوفيتش"
+    ]
+   },
+   {
+    "text": "آندي موراي",
+    "baseRarity": 0.0575,
+    "aliases": [
+     "موراي"
+    ]
+   },
+   {
+    "text": "كارلوس ألكاراز",
+    "baseRarity": 0.046,
+    "aliases": [
+     "ألكاراز"
+    ]
+   },
+   {
+    "text": "يانيك سينر",
+    "baseRarity": 0.0383,
+    "aliases": [
+     "سينر"
+    ]
+   },
+   {
+    "text": "دانييل ميدفيديف",
+    "baseRarity": 0.0328,
+    "aliases": [
+     "ميدفيديف"
+    ]
+   },
+   {
+    "text": "ستيفانوس تسيتسيباس",
+    "baseRarity": 0.0287,
+    "aliases": [
+     "تسيتسيباس"
+    ]
+   },
+   {
+    "text": "ألكسندر زفيريف",
+    "baseRarity": 0.0255,
+    "aliases": [
+     "زفيريف"
+    ]
+   },
+   {
+    "text": "سيرينا ويليامز",
+    "baseRarity": 0.023,
+    "aliases": [
+     "سيرينا"
+    ]
+   },
+   {
+    "text": "فينوس ويليامز",
+    "baseRarity": 0.0209,
+    "aliases": [
+     "فينوس"
+    ]
+   },
+   {
+    "text": "ماريا شارابوفا",
+    "baseRarity": 0.0192,
+    "aliases": [
+     "شارابوفا"
+    ]
+   },
+   {
+    "text": "أنس جابر",
+    "baseRarity": 0.0177
+   },
+   {
+    "text": "ستيفي غراف",
+    "baseRarity": 0.0164,
+    "aliases": [
+     "غراف"
+    ]
+   },
+   {
+    "text": "مارتينا نافراتيلوفا",
+    "baseRarity": 0.0153,
+    "aliases": [
+     "نافراتيلوفا"
+    ]
+   },
+   {
+    "text": "بيت سامبراس",
+    "baseRarity": 0.0144,
+    "aliases": [
+     "سامبراس"
+    ]
+   },
+   {
+    "text": "أندريه أغاسي",
+    "baseRarity": 0.0135,
+    "aliases": [
+     "أغاسي"
+    ]
+   },
+   {
+    "text": "بيورن بورغ",
+    "baseRarity": 0.0128,
+    "aliases": [
+     "بورغ"
+    ]
+   },
+   {
+    "text": "جون ماكنرو",
+    "baseRarity": 0.0121,
+    "aliases": [
+     "ماكنرو"
+    ]
+   },
+   {
+    "text": "إيفان ليندل",
+    "baseRarity": 0.0115,
+    "aliases": [
+     "ليندل"
+    ]
+   },
+   {
+    "text": "بوريس بيكر",
+    "baseRarity": 0.0109,
+    "aliases": [
+     "بيكر"
+    ]
+   },
+   {
+    "text": "جيمي كونورز",
+    "baseRarity": 0.0104,
+    "aliases": [
+     "كونورز"
+    ]
+   },
+   {
+    "text": "رود لافر",
+    "baseRarity": 0.01,
+    "aliases": [
+     "لافر"
+    ]
+   },
+   {
+    "text": "آرثر آش",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "مونيكا سيليش",
+    "baseRarity": 0.0092,
+    "aliases": [
+     "سيليش"
+    ]
+   },
+   {
+    "text": "مارتينا هينغيس",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "هينغيس"
+    ]
+   },
+   {
+    "text": "جوستين هينان",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "كيم كلايسترز",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "فيكتوريا أزارينكا",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "إيغا شفيونتيك",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "شفيونتيك"
+    ]
+   },
+   {
+    "text": "أرينا سابالينكا",
+    "baseRarity": 0.0074,
+    "aliases": [
+     "سابالينكا"
+    ]
+   },
+   {
+    "text": "ناومي أوساكا",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "أوساكا"
+    ]
+   },
+   {
+    "text": "كوكو غوف",
+    "baseRarity": 0.007,
+    "aliases": [
+     "غوف"
+    ]
+   },
+   {
+    "text": "إيما رادوكانو",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "آشلي بارتي",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "بارتي"
+    ]
+   },
+   {
+    "text": "ستان فافرينكا",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "فافرينكا"
+    ]
+   },
+   {
+    "text": "خوان مارتن ديل بوترو",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "ديل بوترو"
+    ]
+   },
+   {
+    "text": "مارين تشيليتش",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "دومينيك ثيم",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "نيك كيريوس",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "لي نا",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "كارولين فوزنياكي",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "بيترا كفيتوفا",
+    "baseRarity": 0.0053
+   }
+  ],
+  "secret": "بيورن بورغ",
+  "sources": [
+   "https://www.atptour.com/"
+  ]
+ },
+ {
+  "id": "sport-f1",
+  "category": "رياضة",
+  "prompt": "اذكر سائق أو فريق في الفورمولا 1",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "لويس هاميلتون",
+    "baseRarity": 0.2275,
+    "aliases": [
+     "هاميلتون"
+    ]
+   },
+   {
+    "text": "مايكل شوماخر",
+    "baseRarity": 0.1138,
+    "aliases": [
+     "شوماخر"
+    ]
+   },
+   {
+    "text": "ماكس فيرستابن",
+    "baseRarity": 0.0758,
+    "aliases": [
+     "فيرستابن"
+    ]
+   },
+   {
+    "text": "فرناندو ألونسو",
+    "baseRarity": 0.0569,
+    "aliases": [
+     "ألونسو"
+    ]
+   },
+   {
+    "text": "سيباستيان فيتل",
+    "baseRarity": 0.0455,
+    "aliases": [
+     "فيتل"
+    ]
+   },
+   {
+    "text": "أيرتون سينا",
+    "baseRarity": 0.0379,
+    "aliases": [
+     "سينا"
+    ]
+   },
+   {
+    "text": "آلان بروست",
+    "baseRarity": 0.0325,
+    "aliases": [
+     "بروست"
+    ]
+   },
+   {
+    "text": "نيكي لاودا",
+    "baseRarity": 0.0284,
+    "aliases": [
+     "لاودا"
+    ]
+   },
+   {
+    "text": "كيمي رايكونن",
+    "baseRarity": 0.0253,
+    "aliases": [
+     "رايكونن"
+    ]
+   },
+   {
+    "text": "شارل لوكلير",
+    "baseRarity": 0.0228,
+    "aliases": [
+     "لوكلير"
+    ]
+   },
+   {
+    "text": "لاندو نوريس",
+    "baseRarity": 0.0207,
+    "aliases": [
+     "نوريس"
+    ]
+   },
+   {
+    "text": "جورج راسل",
+    "baseRarity": 0.019
+   },
+   {
+    "text": "كارلوس ساينز",
+    "baseRarity": 0.0175,
+    "aliases": [
+     "ساينز"
+    ]
+   },
+   {
+    "text": "سيرجيو بيريز",
+    "baseRarity": 0.0163,
+    "aliases": [
+     "بيريز"
+    ]
+   },
+   {
+    "text": "دانيال ريكاردو",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "ريكاردو"
+    ]
+   },
+   {
+    "text": "فالتيري بوتاس",
+    "baseRarity": 0.0142,
+    "aliases": [
+     "بوتاس"
+    ]
+   },
+   {
+    "text": "نيكو روزبرغ",
+    "baseRarity": 0.0134,
+    "aliases": [
+     "روزبرغ"
+    ]
+   },
+   {
+    "text": "جنسون باتون",
+    "baseRarity": 0.0126,
+    "aliases": [
+     "باتون"
+    ]
+   },
+   {
+    "text": "ميكا هاكينن",
+    "baseRarity": 0.012,
+    "aliases": [
+     "هاكينن"
+    ]
+   },
+   {
+    "text": "ديمون هيل",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "نايجل مانسل",
+    "baseRarity": 0.0108,
+    "aliases": [
+     "مانسل"
+    ]
+   },
+   {
+    "text": "خوان مانويل فانجيو",
+    "baseRarity": 0.0103,
+    "aliases": [
+     "فانجيو"
+    ]
+   },
+   {
+    "text": "جاكي ستيوارت",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "جيم كلارك",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "أوسكار بياستري",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "بياستري"
+    ]
+   },
+   {
+    "text": "بيير غاسلي",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "غاسلي"
+    ]
+   },
+   {
+    "text": "إستيبان أوكون",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "أوكون"
+    ]
+   },
+   {
+    "text": "لانس سترول",
+    "baseRarity": 0.0081,
+    "aliases": [
+     "سترول"
+    ]
+   },
+   {
+    "text": "كيمي أنتونيلي",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "أنتونيلي"
+    ]
+   },
+   {
+    "text": "فيراري",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "مرسيدس",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "ريد بول",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "ماكلارين",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "ويليامز",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "أستون مارتن",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "ألبين",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "رينو"
+    ]
+   },
+   {
+    "text": "ألفا روميو",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "هاس",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "ساوبر",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "لوتس",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "تويوتا",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "بي إم دبليو ساوبر",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "بينيتون",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "جوردان",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "براون جي بي",
+    "baseRarity": 0.0051
+   }
+  ],
+  "secret": "خوان مانويل فانجيو",
+  "sources": [
+   "https://www.formula1.com/"
+  ]
+ },
+ {
+  "id": "sport-fighters",
+  "category": "رياضة",
+  "prompt": "اذكر ملاكم أو مقاتل أو مصارع مشهور",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "محمد علي",
+    "baseRarity": 0.2299,
+    "aliases": [
+     "محمد علي كلاي"
+    ]
+   },
+   {
+    "text": "مايك تايسون",
+    "baseRarity": 0.1149,
+    "aliases": [
+     "تايسون"
+    ]
+   },
+   {
+    "text": "فلويد مايويذر",
+    "baseRarity": 0.0766,
+    "aliases": [
+     "مايويذر"
+    ]
+   },
+   {
+    "text": "ماني باكياو",
+    "baseRarity": 0.0575,
+    "aliases": [
+     "باكياو"
+    ]
+   },
+   {
+    "text": "جو فريزر",
+    "baseRarity": 0.046
+   },
+   {
+    "text": "جورج فورمان",
+    "baseRarity": 0.0383
+   },
+   {
+    "text": "إيفاندر هوليفيلد",
+    "baseRarity": 0.0328,
+    "aliases": [
+     "هوليفيلد"
+    ]
+   },
+   {
+    "text": "لينوكس لويس",
+    "baseRarity": 0.0287
+   },
+   {
+    "text": "فيتالي كليتشكو",
+    "baseRarity": 0.0255
+   },
+   {
+    "text": "فلاديمير كليتشكو",
+    "baseRarity": 0.023
+   },
+   {
+    "text": "أنتوني جوشوا",
+    "baseRarity": 0.0209,
+    "aliases": [
+     "جوشوا"
+    ]
+   },
+   {
+    "text": "تايسون فيوري",
+    "baseRarity": 0.0192,
+    "aliases": [
+     "فيوري"
+    ]
+   },
+   {
+    "text": "أوسيك",
+    "baseRarity": 0.0177,
+    "aliases": [
+     "أوليكساندر أوسيك"
+    ]
+   },
+   {
+    "text": "كانيلو ألفاريز",
+    "baseRarity": 0.0164,
+    "aliases": [
+     "كانيلو"
+    ]
+   },
+   {
+    "text": "شوغر راي ليونارد",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "شوغر راي روبنسون",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "روكي مارسيانو",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "جاك ديمبسي",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "جو لويس",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "أوسكار دي لا هويا",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "ناصيم حميد",
+    "baseRarity": 0.0109,
+    "aliases": [
+     "الأمير نسيم"
+    ]
+   },
+   {
+    "text": "خبيب نورماغوميدوف",
+    "baseRarity": 0.0104,
+    "aliases": [
+     "خبيب"
+    ]
+   },
+   {
+    "text": "كونور ماكغريغور",
+    "baseRarity": 0.01,
+    "aliases": [
+     "ماكغريغور"
+    ]
+   },
+   {
+    "text": "إسلام ماخاتشيف",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "جون جونز",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "أندرسون سيلفا",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "جورج سانت بيير",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "رونـدا راوزي",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "روندا روزي"
+    ]
+   },
+   {
+    "text": "فرانسيس نغانو",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "نغانو"
+    ]
+   },
+   {
+    "text": "إسرائيل أديسانيا",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "بروس لي",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "جيت لي",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "جاكي شان",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "تشاك نوريس",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "فان دام",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "جان كلود فان دام"
+    ]
+   },
+   {
+    "text": "بدر هاري",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "دوين جونسون",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "ذا روك"
+    ]
+   },
+   {
+    "text": "جون سينا",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "أندرتيكر",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "هالك هوغان",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "ستيف أوستن",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "ستون كولد"
+    ]
+   },
+   {
+    "text": "راي ميستيريو",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "إيدي غيريرو",
+    "baseRarity": 0.0053
+   }
+  ],
+  "secret": "روكي مارسيانو",
+  "sources": [
+   "https://www.boxrec.com/"
+  ]
+ },
+ {
+  "id": "sport-martial-arts",
+  "category": "رياضة",
+  "prompt": "اذكر فن قتالي",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "الكاراتيه",
+    "baseRarity": 0.2324
+   },
+   {
+    "text": "التايكوندو",
+    "baseRarity": 0.1162
+   },
+   {
+    "text": "الجودو",
+    "baseRarity": 0.0775
+   },
+   {
+    "text": "الكونغ فو",
+    "baseRarity": 0.0581
+   },
+   {
+    "text": "الملاكمة",
+    "baseRarity": 0.0465
+   },
+   {
+    "text": "المصارعة",
+    "baseRarity": 0.0387
+   },
+   {
+    "text": "الكيك بوكسينغ",
+    "baseRarity": 0.0332
+   },
+   {
+    "text": "المواي تاي",
+    "baseRarity": 0.029,
+    "aliases": [
+     "الملاكمة التايلاندية"
+    ]
+   },
+   {
+    "text": "الجوجيتسو",
+    "baseRarity": 0.0258,
+    "aliases": [
+     "الجوجيتسو البرازيلي"
+    ]
+   },
+   {
+    "text": "الأيكيدو",
+    "baseRarity": 0.0232
+   },
+   {
+    "text": "الكندو",
+    "baseRarity": 0.0211
+   },
+   {
+    "text": "السومو",
+    "baseRarity": 0.0194
+   },
+   {
+    "text": "الكابويرا",
+    "baseRarity": 0.0179
+   },
+   {
+    "text": "الويتشون",
+    "baseRarity": 0.0166,
+    "aliases": [
+     "وينغ تشون"
+    ]
+   },
+   {
+    "text": "التاي تشي",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "الشاولين",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "الساندا",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "الكراف ماغا",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "السامبو",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "الفنون القتالية المختلطة",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "إم إم إيه"
+    ]
+   },
+   {
+    "text": "المصارعة الحرة",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "المصارعة الرومانية",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "المصارعة الحرة الأمريكية",
+    "baseRarity": 0.0101,
+    "aliases": [
+     "مصارعة المحترفين"
+    ]
+   },
+   {
+    "text": "النينجوتسو",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "الهابكيدو",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "الجيت كون دو",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "الإسكريما",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "الأرنيس",
+     "الكالي"
+    ]
+   },
+   {
+    "text": "السيلات",
+    "baseRarity": 0.0083,
+    "aliases": [
+     "بنكاك سيلات"
+    ]
+   },
+   {
+    "text": "الكيوكوشن",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "الشوتوكان",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "الإيايدو",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "الكيودو",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "المبارزة",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "السافات",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "البوكاتور",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "التحطيب",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "البوجيتسو",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "الدفاع عن النفس",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "الجوجوتسو الياباني",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "الكوشتي",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "المصارعة الزيتية",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "يغلي غوريش"
+    ]
+   }
+  ],
+  "secret": "الكابويرا",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_martial_arts"
+  ]
+ },
+ {
+  "id": "sport-football-terms",
+  "category": "رياضة",
+  "prompt": "اذكر مصطلح من مصطلحات كرة القدم",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "هدف",
+    "baseRarity": 0.2144,
+    "aliases": [
+     "قول"
+    ]
+   },
+   {
+    "text": "ركلة جزاء",
+    "baseRarity": 0.1072,
+    "aliases": [
+     "بلنتي",
+     "ضربة جزاء"
+    ]
+   },
+   {
+    "text": "تسلل",
+    "baseRarity": 0.0715,
+    "aliases": [
+     "أوفسايد"
+    ]
+   },
+   {
+    "text": "ضربة حرة",
+    "baseRarity": 0.0536,
+    "aliases": [
+     "فاول",
+     "خطأ"
+    ]
+   },
+   {
+    "text": "ركنية",
+    "baseRarity": 0.0429,
+    "aliases": [
+     "كورنر",
+     "ضربة ركنية"
+    ]
+   },
+   {
+    "text": "بطاقة صفراء",
+    "baseRarity": 0.0357,
+    "aliases": [
+     "كرت أصفر"
+    ]
+   },
+   {
+    "text": "بطاقة حمراء",
+    "baseRarity": 0.0306,
+    "aliases": [
+     "كرت أحمر",
+     "طرد"
+    ]
+   },
+   {
+    "text": "حكم",
+    "baseRarity": 0.0268
+   },
+   {
+    "text": "حكم الفيديو",
+    "baseRarity": 0.0238,
+    "aliases": [
+     "الفار",
+     "VAR"
+    ]
+   },
+   {
+    "text": "حارس مرمى",
+    "baseRarity": 0.0214,
+    "aliases": [
+     "حارس",
+     "قولكيبر"
+    ]
+   },
+   {
+    "text": "مدافع",
+    "baseRarity": 0.0195
+   },
+   {
+    "text": "لاعب وسط",
+    "baseRarity": 0.0179,
+    "aliases": [
+     "وسط"
+    ]
+   },
+   {
+    "text": "مهاجم",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "جناح",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "ظهير",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "قلب دفاع",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "مرمى",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "عارضة",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "القائم",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "الشباك",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "خط التماس",
+    "baseRarity": 0.0102,
+    "aliases": [
+     "رمية تماس",
+     "آوت"
+    ]
+   },
+   {
+    "text": "ضربة مرمى",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "ركلات الترجيح",
+    "baseRarity": 0.0093,
+    "aliases": [
+     "ضربات الترجيح",
+     "ترجيح"
+    ]
+   },
+   {
+    "text": "وقت إضافي",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "الأشواط الإضافية"
+    ]
+   },
+   {
+    "text": "الوقت بدل الضائع",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "الوقت المحتسب بدل الضائع"
+    ]
+   },
+   {
+    "text": "الشوط الأول",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "الشوط الثاني",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "استراحة بين الشوطين",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "هاتريك",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "أسيست",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "تمريرة حاسمة"
+    ]
+   },
+   {
+    "text": "مراوغة",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "تكسير",
+     "دربلة"
+    ]
+   },
+   {
+    "text": "تمريرة",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "عرضية",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "تسديدة",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "رأسية",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "مقصية",
+    "baseRarity": 0.006,
+    "aliases": [
+     "دبل كيك"
+    ]
+   },
+   {
+    "text": "لوب",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "لوبية"
+    ]
+   },
+   {
+    "text": "كوبري",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "نفق"
+    ]
+   },
+   {
+    "text": "دفاع المنطقة",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "رقابة رجل لرجل",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "الضغط العالي",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "الهجمة المرتدة",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "الاستحواذ",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "تبديل",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "تغيير"
+    ]
+   },
+   {
+    "text": "كابتن",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "قائد الفريق"
+    ]
+   },
+   {
+    "text": "مدرب",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "تشكيلة",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "خطة",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "تكتيك"
+    ]
+   },
+   {
+    "text": "4-4-2",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "4-3-3",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "ميركاتو",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "سوق الانتقالات"
+    ]
+   },
+   {
+    "text": "انتقال حر",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "إعارة",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "الشرط الجزائي",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "ديربي",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "كلاسيكو",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "الكرة الذهبية",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "البالون دور"
+    ]
+   },
+   {
+    "text": "الحذاء الذهبي",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "هدف عكسي",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "هدف في مرماه"
+    ]
+   }
+  ],
+  "secret": "الضغط العالي",
+  "sources": [
+   "https://www.theifab.com/laws"
+  ]
+ },
+ {
+  "id": "sport-coaches",
+  "category": "رياضة",
+  "prompt": "اذكر مدرب كرة قدم مشهور",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "بيب غوارديولا",
+    "baseRarity": 0.2223,
+    "aliases": [
+     "غوارديولا"
+    ]
+   },
+   {
+    "text": "جوزيه مورينيو",
+    "baseRarity": 0.1111,
+    "aliases": [
+     "مورينيو"
+    ]
+   },
+   {
+    "text": "يورغن كلوب",
+    "baseRarity": 0.0741,
+    "aliases": [
+     "كلوب"
+    ]
+   },
+   {
+    "text": "كارلو أنشيلوتي",
+    "baseRarity": 0.0556,
+    "aliases": [
+     "أنشيلوتي"
+    ]
+   },
+   {
+    "text": "أليكس فيرغسون",
+    "baseRarity": 0.0445,
+    "aliases": [
+     "فيرغسون",
+     "السير أليكس"
+    ]
+   },
+   {
+    "text": "آرسين فينغر",
+    "baseRarity": 0.037,
+    "aliases": [
+     "فينغر"
+    ]
+   },
+   {
+    "text": "زين الدين زيدان",
+    "baseRarity": 0.0318,
+    "aliases": [
+     "زيدان"
+    ]
+   },
+   {
+    "text": "دييغو سيميوني",
+    "baseRarity": 0.0278,
+    "aliases": [
+     "سيميوني"
+    ]
+   },
+   {
+    "text": "ميكيل أرتيتا",
+    "baseRarity": 0.0247,
+    "aliases": [
+     "أرتيتا"
+    ]
+   },
+   {
+    "text": "لويس إنريكي",
+    "baseRarity": 0.0222,
+    "aliases": [
+     "إنريكي"
+    ]
+   },
+   {
+    "text": "تشافي هيرنانديز",
+    "baseRarity": 0.0202,
+    "aliases": [
+     "تشافي"
+    ]
+   },
+   {
+    "text": "أنطونيو كونتي",
+    "baseRarity": 0.0185,
+    "aliases": [
+     "كونتي"
+    ]
+   },
+   {
+    "text": "توماس توخيل",
+    "baseRarity": 0.0171,
+    "aliases": [
+     "توخيل"
+    ]
+   },
+   {
+    "text": "يوليان ناغلسمان",
+    "baseRarity": 0.0159,
+    "aliases": [
+     "ناغلسمان"
+    ]
+   },
+   {
+    "text": "ماوريسيو بوتشيتينو",
+    "baseRarity": 0.0148,
+    "aliases": [
+     "بوتشيتينو"
+    ]
+   },
+   {
+    "text": "روبرتو مانشيني",
+    "baseRarity": 0.0139,
+    "aliases": [
+     "مانشيني"
+    ]
+   },
+   {
+    "text": "مارسيلو ليبي",
+    "baseRarity": 0.0131,
+    "aliases": [
+     "ليبي"
+    ]
+   },
+   {
+    "text": "فابيو كابيلو",
+    "baseRarity": 0.0123,
+    "aliases": [
+     "كابيلو"
+    ]
+   },
+   {
+    "text": "لويس فان خال",
+    "baseRarity": 0.0117,
+    "aliases": [
+     "فان خال"
+    ]
+   },
+   {
+    "text": "يوهان كرويف",
+    "baseRarity": 0.0111,
+    "aliases": [
+     "كرويف"
+    ]
+   },
+   {
+    "text": "رينوس ميكلز",
+    "baseRarity": 0.0106,
+    "aliases": [
+     "ميكلز"
+    ]
+   },
+   {
+    "text": "أريغو ساكي",
+    "baseRarity": 0.0101,
+    "aliases": [
+     "ساكي"
+    ]
+   },
+   {
+    "text": "فيسنتي ديل بوسكي",
+    "baseRarity": 0.0097,
+    "aliases": [
+     "ديل بوسكي"
+    ]
+   },
+   {
+    "text": "يواكيم لوف",
+    "baseRarity": 0.0093,
+    "aliases": [
+     "لوف"
+    ]
+   },
+   {
+    "text": "ديدييه ديشامب",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "ديشامب"
+    ]
+   },
+   {
+    "text": "ليونيل سكالوني",
+    "baseRarity": 0.0085,
+    "aliases": [
+     "سكالوني"
+    ]
+   },
+   {
+    "text": "تيتي",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "لويز فيليبي سكولاري",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "سكولاري"
+    ]
+   },
+   {
+    "text": "هيرفي رينارد",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "رينارد"
+    ]
+   },
+   {
+    "text": "جورجي جيسوس",
+    "baseRarity": 0.0074,
+    "aliases": [
+     "جيسوس"
+    ]
+   },
+   {
+    "text": "رازفان لوشيسكو",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "خورخي سامباولي",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "مارسيلو بييلسا",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "بييلسا"
+    ]
+   },
+   {
+    "text": "رافائيل بينيتيز",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "بينيتيز"
+    ]
+   },
+   {
+    "text": "كلاوديو رانييري",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "رانييري"
+    ]
+   },
+   {
+    "text": "سفين غوران إريكسون",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "إريكسون"
+    ]
+   },
+   {
+    "text": "غاس هيدينك",
+    "baseRarity": 0.006,
+    "aliases": [
+     "هيدينك"
+    ]
+   },
+   {
+    "text": "بوبي روبسون",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "جوب هاينكس",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "أوتمار هيتسفيلد",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "هانز فليك",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "فليك"
+    ]
+   },
+   {
+    "text": "إريك تين هاغ",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "تين هاغ"
+    ]
+   },
+   {
+    "text": "أونا إيمري",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "إيمري"
+    ]
+   },
+   {
+    "text": "شابي ألونسو",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "خالد القروني",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "ناصر الجوهر",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "محمود الجوهري",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "حسن شحاتة",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "وليد الركراكي",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "الركراكي"
+    ]
+   },
+   {
+    "text": "جمال بلماضي",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "بلماضي"
+    ]
+   }
+  ],
+  "secret": "رينوس ميكلز",
+  "sources": [
+   "https://www.uefa.com/"
+  ]
+ },
+ {
+  "id": "sport-english-clubs",
+  "category": "رياضة",
+  "prompt": "اذكر نادي إنجليزي لكرة القدم",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "مانشستر يونايتد",
+    "baseRarity": 0.2253,
+    "aliases": [
+     "اليونايتد"
+    ]
+   },
+   {
+    "text": "مانشستر سيتي",
+    "baseRarity": 0.1127,
+    "aliases": [
+     "السيتي"
+    ]
+   },
+   {
+    "text": "ليفربول",
+    "baseRarity": 0.0751
+   },
+   {
+    "text": "تشيلسي",
+    "baseRarity": 0.0563
+   },
+   {
+    "text": "أرسنال",
+    "baseRarity": 0.0451,
+    "aliases": [
+     "آرسنال"
+    ]
+   },
+   {
+    "text": "توتنهام",
+    "baseRarity": 0.0376
+   },
+   {
+    "text": "نيوكاسل",
+    "baseRarity": 0.0322
+   },
+   {
+    "text": "أستون فيلا",
+    "baseRarity": 0.0282
+   },
+   {
+    "text": "وست هام",
+    "baseRarity": 0.025
+   },
+   {
+    "text": "إيفرتون",
+    "baseRarity": 0.0225
+   },
+   {
+    "text": "ليستر سيتي",
+    "baseRarity": 0.0205,
+    "aliases": [
+     "ليستر"
+    ]
+   },
+   {
+    "text": "برايتون",
+    "baseRarity": 0.0188
+   },
+   {
+    "text": "كريستال بالاس",
+    "baseRarity": 0.0173
+   },
+   {
+    "text": "وولفرهامبتون",
+    "baseRarity": 0.0161,
+    "aliases": [
+     "وولفز"
+    ]
+   },
+   {
+    "text": "فولهام",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "برينتفورد",
+    "baseRarity": 0.0141
+   },
+   {
+    "text": "بورنموث",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "نوتنغهام فورست",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "ساوثهامبتون",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "ليدز يونايتد",
+    "baseRarity": 0.0113,
+    "aliases": [
+     "ليدز"
+    ]
+   },
+   {
+    "text": "بيرنلي",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "شيفيلد يونايتد",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "شيفيلد وينزداي",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "لوتون تاون",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "إبسويتش",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "نورويتش",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "واتفورد",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "ويست بروميتش",
+    "baseRarity": 0.008,
+    "aliases": [
+     "وست بروم"
+    ]
+   },
+   {
+    "text": "ستوك سيتي",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "سوانزي",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "كارديف سيتي",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "هال سيتي",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "سندرلاند",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "ميدلزبره",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "بلاكبيرن روفرز",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "بلاكبيرن"
+    ]
+   },
+   {
+    "text": "بولتون",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "ويغان",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "كوينز بارك رينجرز",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "كيو بي آر"
+    ]
+   },
+   {
+    "text": "بورتسموث",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "ديربي كاونتي",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "بريستون",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "بلاكبول",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "كوفنتري",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "تشارلتون",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "بيرمنغهام سيتي",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "ريدينغ",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "ميلوول",
+    "baseRarity": 0.0048
+   }
+  ],
+  "secret": "نوتنغهام فورست",
+  "sources": [
+   "https://www.premierleague.com/clubs"
+  ]
+ },
+ {
+  "id": "sport-spanish-italian-german-clubs",
+  "category": "رياضة",
+  "prompt": "اذكر نادي إسباني أو إيطالي أو ألماني لكرة القدم",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "ريال مدريد",
+    "baseRarity": 0.2122
+   },
+   {
+    "text": "برشلونة",
+    "baseRarity": 0.1061
+   },
+   {
+    "text": "أتلتيكو مدريد",
+    "baseRarity": 0.0707
+   },
+   {
+    "text": "إشبيلية",
+    "baseRarity": 0.0531
+   },
+   {
+    "text": "فالنسيا",
+    "baseRarity": 0.0424
+   },
+   {
+    "text": "فياريال",
+    "baseRarity": 0.0354
+   },
+   {
+    "text": "ريال بيتيس",
+    "baseRarity": 0.0303
+   },
+   {
+    "text": "أتلتيك بلباو",
+    "baseRarity": 0.0265
+   },
+   {
+    "text": "ريال سوسيداد",
+    "baseRarity": 0.0236
+   },
+   {
+    "text": "سيلتا فيغو",
+    "baseRarity": 0.0212
+   },
+   {
+    "text": "خيتافي",
+    "baseRarity": 0.0193
+   },
+   {
+    "text": "أوساسونا",
+    "baseRarity": 0.0177
+   },
+   {
+    "text": "مايوركا",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "رايو فايكانو",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "ألافيس",
+    "baseRarity": 0.0141
+   },
+   {
+    "text": "جيرونا",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "لاس بالماس",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "إسبانيول",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "ديبورتيفو لاكورونيا",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "ريال سرقسطة",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "ملقة",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "ليفانتي",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "غرناطة",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "قادش",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "يوفنتوس",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "ميلان",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "إنتر ميلان",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "روما",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "لاتسيو",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "نابولي",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "أتالانتا",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "فيورنتينا",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "تورينو",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "بولونيا",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "جنوى",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "سامبدوريا",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "أودينيزي",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "ساسولو",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "كالياري",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "فيرونا",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "بارما",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "باليرمو",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "ليتشي",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "مونزا",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "بايرن ميونخ",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "بوروسيا دورتموند",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "باير ليفركوزن",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "آر بي لايبزيغ",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "شالكه",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "فولفسبورغ",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "فيردر بريمن",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "هامبورغ",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "شتوتغارت",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "آينتراخت فرانكفورت",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "بوروسيا مونشنغلادباخ",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "هيرتا برلين",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "يونيون برلين",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "فرايبورغ",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "هوفنهايم",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "كولن",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "ماينز",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "أوغسبورغ",
+    "baseRarity": 0.0034
+   }
+  ],
+  "secret": "سامبدوريا",
+  "sources": [
+   "https://www.laliga.com/"
+  ]
+ },
+ {
+  "id": "sport-ballon-dor",
+  "category": "رياضة",
+  "prompt": "اذكر لاعب فاز بالكرة الذهبية (البالون دور)",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "ليونيل ميسي",
+    "baseRarity": 0.2275,
+    "aliases": [
+     "ميسي"
+    ]
+   },
+   {
+    "text": "كريستيانو رونالدو",
+    "baseRarity": 0.1138,
+    "aliases": [
+     "كريستيانو"
+    ]
+   },
+   {
+    "text": "لوكا مودريتش",
+    "baseRarity": 0.0758,
+    "aliases": [
+     "مودريتش"
+    ]
+   },
+   {
+    "text": "كريم بنزيما",
+    "baseRarity": 0.0569,
+    "aliases": [
+     "بنزيما"
+    ]
+   },
+   {
+    "text": "رودري",
+    "baseRarity": 0.0455
+   },
+   {
+    "text": "كاكا",
+    "baseRarity": 0.0379
+   },
+   {
+    "text": "رونالدينيو",
+    "baseRarity": 0.0325
+   },
+   {
+    "text": "رونالدو البرازيلي",
+    "baseRarity": 0.0284,
+    "aliases": [
+     "رونالدو نازاريو"
+    ]
+   },
+   {
+    "text": "زين الدين زيدان",
+    "baseRarity": 0.0253,
+    "aliases": [
+     "زيدان"
+    ]
+   },
+   {
+    "text": "لويس فيغو",
+    "baseRarity": 0.0228,
+    "aliases": [
+     "فيغو"
+    ]
+   },
+   {
+    "text": "ريفالدو",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "مايكل أوين",
+    "baseRarity": 0.019,
+    "aliases": [
+     "أوين"
+    ]
+   },
+   {
+    "text": "بافيل نيدفيد",
+    "baseRarity": 0.0175,
+    "aliases": [
+     "نيدفيد"
+    ]
+   },
+   {
+    "text": "أندريه شيفتشينكو",
+    "baseRarity": 0.0163,
+    "aliases": [
+     "شيفتشينكو"
+    ]
+   },
+   {
+    "text": "فابيو كانافارو",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "كانافارو"
+    ]
+   },
+   {
+    "text": "جورج وياه",
+    "baseRarity": 0.0142,
+    "aliases": [
+     "وياه"
+    ]
+   },
+   {
+    "text": "ماتياس زامر",
+    "baseRarity": 0.0134,
+    "aliases": [
+     "زامر"
+    ]
+   },
+   {
+    "text": "هريستو ستويتشكوف",
+    "baseRarity": 0.0126,
+    "aliases": [
+     "ستويتشكوف"
+    ]
+   },
+   {
+    "text": "روبرتو باجيو",
+    "baseRarity": 0.012,
+    "aliases": [
+     "باجيو"
+    ]
+   },
+   {
+    "text": "جان بيير بابان",
+    "baseRarity": 0.0114,
+    "aliases": [
+     "بابان"
+    ]
+   },
+   {
+    "text": "لوثار ماتيوس",
+    "baseRarity": 0.0108,
+    "aliases": [
+     "ماتيوس"
+    ]
+   },
+   {
+    "text": "ماركو فان باستن",
+    "baseRarity": 0.0103,
+    "aliases": [
+     "فان باستن"
+    ]
+   },
+   {
+    "text": "رود خوليت",
+    "baseRarity": 0.0099,
+    "aliases": [
+     "خوليت"
+    ]
+   },
+   {
+    "text": "إيغور بيلانوف",
+    "baseRarity": 0.0095,
+    "aliases": [
+     "بيلانوف"
+    ]
+   },
+   {
+    "text": "ميشيل بلاتيني",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "بلاتيني"
+    ]
+   },
+   {
+    "text": "باولو روسي",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "روسي"
+    ]
+   },
+   {
+    "text": "كارل هاينز رومينيغه",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "رومينيغه"
+    ]
+   },
+   {
+    "text": "كيفن كيغان",
+    "baseRarity": 0.0081,
+    "aliases": [
+     "كيغان"
+    ]
+   },
+   {
+    "text": "آلان سيمونسن",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "سيمونسن"
+    ]
+   },
+   {
+    "text": "أوليغ بلوخين",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "بلوخين"
+    ]
+   },
+   {
+    "text": "فرانز بيكنباور",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "بيكنباور"
+    ]
+   },
+   {
+    "text": "يوهان كرويف",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "كرويف"
+    ]
+   },
+   {
+    "text": "غيرد مولر",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "مولر"
+    ]
+   },
+   {
+    "text": "جياني ريفيرا",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "ريفيرا"
+    ]
+   },
+   {
+    "text": "جورج بست",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "بست"
+    ]
+   },
+   {
+    "text": "فلوريان ألبرت",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "بوبي تشارلتون",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "تشارلتون"
+    ]
+   },
+   {
+    "text": "أوزيبيو",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "دينيس لو",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "ليف ياشين",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "ياشين"
+    ]
+   },
+   {
+    "text": "يوزيف ماسوبوست",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "ماسوبوست"
+    ]
+   },
+   {
+    "text": "عمر سيفوري",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "سيفوري"
+    ]
+   },
+   {
+    "text": "ريمون كوبا",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "كوبا"
+    ]
+   },
+   {
+    "text": "ألفريدو دي ستيفانو",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "دي ستيفانو"
+    ]
+   },
+   {
+    "text": "ستانلي ماثيوز",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "ماثيوز"
+    ]
+   }
+  ],
+  "secret": "عمر سيفوري",
+  "sources": [
+   "https://www.francefootball.fr/ballon-d-or/"
+  ]
+ },
+ {
+  "id": "sport-equipment",
+  "category": "رياضة",
+  "prompt": "اذكر أداة أو معدّة رياضية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "كرة",
+    "baseRarity": 0.2177
+   },
+   {
+    "text": "مضرب",
+    "baseRarity": 0.1088
+   },
+   {
+    "text": "شبكة",
+    "baseRarity": 0.0726
+   },
+   {
+    "text": "مرمى",
+    "baseRarity": 0.0544,
+    "aliases": [
+     "قول"
+    ]
+   },
+   {
+    "text": "صافرة",
+    "baseRarity": 0.0435
+   },
+   {
+    "text": "قفازات",
+    "baseRarity": 0.0363,
+    "aliases": [
+     "جوانتي"
+    ]
+   },
+   {
+    "text": "خوذة",
+    "baseRarity": 0.0311
+   },
+   {
+    "text": "حذاء رياضي",
+    "baseRarity": 0.0272,
+    "aliases": [
+     "جزمة رياضية",
+     "سبورت"
+    ]
+   },
+   {
+    "text": "كرامبون",
+    "baseRarity": 0.0242,
+    "aliases": [
+     "حذاء كرة القدم",
+     "سبايك"
+    ]
+   },
+   {
+    "text": "واقي الساق",
+    "baseRarity": 0.0218,
+    "aliases": [
+     "شين قارد"
+    ]
+   },
+   {
+    "text": "دمبل",
+    "baseRarity": 0.0198,
+    "aliases": [
+     "دمبلز",
+     "أثقال"
+    ]
+   },
+   {
+    "text": "بار",
+    "baseRarity": 0.0181,
+    "aliases": [
+     "البار الحديدي"
+    ]
+   },
+   {
+    "text": "جهاز المشي",
+    "baseRarity": 0.0167,
+    "aliases": [
+     "تريدميل",
+     "سير"
+    ]
+   },
+   {
+    "text": "دراجة ثابتة",
+    "baseRarity": 0.0155,
+    "aliases": [
+     "سيكل ثابت"
+    ]
+   },
+   {
+    "text": "حبل القفز",
+    "baseRarity": 0.0145,
+    "aliases": [
+     "نط الحبل"
+    ]
+   },
+   {
+    "text": "حصيرة يوغا",
+    "baseRarity": 0.0136,
+    "aliases": [
+     "مات"
+    ]
+   },
+   {
+    "text": "كيس الملاكمة",
+    "baseRarity": 0.0128,
+    "aliases": [
+     "كيس اللكم"
+    ]
+   },
+   {
+    "text": "قفازات الملاكمة",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "عصا الغولف",
+    "baseRarity": 0.0115,
+    "aliases": [
+     "مضرب الغولف"
+    ]
+   },
+   {
+    "text": "عصا الهوكي",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "مضرب البيسبول",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "مضرب تنس الطاولة",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "كرة الريشة",
+    "baseRarity": 0.0095,
+    "aliases": [
+     "ريشة"
+    ]
+   },
+   {
+    "text": "نظارة سباحة",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "قبعة سباحة",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "لوح التزلج",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "زلاجات",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "لوح ركوب الأمواج",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "قوس",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "سهم",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "سيف المبارزة",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "الزانة",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "الرمح",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "القرص",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "الجلة",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "الحواجز",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "سلة",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "لوحة الهدف",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "الدارتس"
+    ]
+   },
+   {
+    "text": "طاولة البلياردو",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "عصا البلياردو",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "الكيو"
+    ]
+   },
+   {
+    "text": "رقعة الشطرنج",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "ساعة توقيت",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "ستوب ووتش"
+    ]
+   },
+   {
+    "text": "سرج",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "لجام",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "دراجة",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "خوذة الدراجة",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "كرة طبية",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "ميديسن بول"
+    ]
+   },
+   {
+    "text": "حزام الوزن",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "الكيتل بيل",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "كيتلبل"
+    ]
+   },
+   {
+    "text": "أحزمة المقاومة",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "عقلة",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "بار العقلة"
+    ]
+   },
+   {
+    "text": "المتوازي",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "حصان القفز",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "الحلق",
+    "baseRarity": 0.004,
+    "aliases": [
+     "الحلقات"
+    ]
+   },
+   {
+    "text": "مقعد البنش",
+    "baseRarity": 0.004,
+    "aliases": [
+     "البنش"
+    ]
+   }
+  ],
+  "secret": "الزانة",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Sports_equipment"
+  ]
+ },
+ {
+  "id": "sport-athletes",
+  "category": "رياضة",
+  "prompt": "اذكر رياضي مشهور (في غير كرة القدم)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "أوسين بولت",
+    "baseRarity": 0.2243,
+    "aliases": [
+     "بولت"
+    ]
+   },
+   {
+    "text": "مايكل فيلبس",
+    "baseRarity": 0.1121,
+    "aliases": [
+     "فيلبس"
+    ]
+   },
+   {
+    "text": "محمد علي",
+    "baseRarity": 0.0748
+   },
+   {
+    "text": "مايكل جوردان",
+    "baseRarity": 0.0561
+   },
+   {
+    "text": "روجر فيدرر",
+    "baseRarity": 0.0449
+   },
+   {
+    "text": "سيرينا ويليامز",
+    "baseRarity": 0.0374
+   },
+   {
+    "text": "لويس هاميلتون",
+    "baseRarity": 0.032
+   },
+   {
+    "text": "تايغر وودز",
+    "baseRarity": 0.028,
+    "aliases": [
+     "وودز"
+    ]
+   },
+   {
+    "text": "ليبرون جيمس",
+    "baseRarity": 0.0249
+   },
+   {
+    "text": "مايك تايسون",
+    "baseRarity": 0.0224
+   },
+   {
+    "text": "رافائيل نادال",
+    "baseRarity": 0.0204
+   },
+   {
+    "text": "نوفاك ديوكوفيتش",
+    "baseRarity": 0.0187
+   },
+   {
+    "text": "مايكل شوماخر",
+    "baseRarity": 0.0173
+   },
+   {
+    "text": "كارل لويس",
+    "baseRarity": 0.016
+   },
+   {
+    "text": "جيسي أوينز",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "سيمون بايلز",
+    "baseRarity": 0.014,
+    "aliases": [
+     "بايلز"
+    ]
+   },
+   {
+    "text": "نادية كومانتشي",
+    "baseRarity": 0.0132
+   },
+   {
+    "text": "هشام الكروج",
+    "baseRarity": 0.0125,
+    "aliases": [
+     "الكروج"
+    ]
+   },
+   {
+    "text": "سعيد عويطة",
+    "baseRarity": 0.0118,
+    "aliases": [
+     "عويطة"
+    ]
+   },
+   {
+    "text": "نوال المتوكل",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "حسيبة بولمرقة",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "معتز برشم",
+    "baseRarity": 0.0102,
+    "aliases": [
+     "برشم"
+    ]
+   },
+   {
+    "text": "فريدة عثمان",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "محمد رشوان",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "كرم جابر",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "يزيد الراجحي",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "خالد العيد",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "ناصر العطية",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "إيليود كيبتشوغي",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "كيبتشوغي"
+    ]
+   },
+   {
+    "text": "موفاراح",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "مو فرح"
+    ]
+   },
+   {
+    "text": "هايلي جبريسيلاسي",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "ياو مينغ",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "ماجنوس كارلسن",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "كارلسن"
+    ]
+   },
+   {
+    "text": "غاري كاسباروف",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "كاسباروف"
+    ]
+   },
+   {
+    "text": "بوبي فيشر",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "توني هوك",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "شون وايت",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "كاتي ليديكي",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "إيان ثورب",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "مارك سبيتز",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "فلورنس غريفيث جوينر",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "سيرغي بوبكا",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "بوبكا"
+    ]
+   },
+   {
+    "text": "أرماند دوبلانتيس",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "دوبلانتيس"
+    ]
+   },
+   {
+    "text": "واين غريتسكي",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "توم برادي",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "فالنتينو روسي",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "روسي"
+    ]
+   },
+   {
+    "text": "مارك ماركيز",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "لانس أرمسترونغ",
+    "baseRarity": 0.0047
+   }
+  ],
+  "secret": "نادية كومانتشي",
+  "sources": [
+   "https://olympics.com/en/athletes"
+  ]
+ },
+ {
+  "id": "sport-olympic-sports",
+  "category": "رياضة",
+  "prompt": "اذكر رياضة أولمبية (صيفية أو شتوية)",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "ألعاب القوى",
+    "baseRarity": 0.2223
+   },
+   {
+    "text": "السباحة",
+    "baseRarity": 0.1111
+   },
+   {
+    "text": "الجمباز",
+    "baseRarity": 0.0741
+   },
+   {
+    "text": "كرة القدم",
+    "baseRarity": 0.0556
+   },
+   {
+    "text": "كرة السلة",
+    "baseRarity": 0.0445
+   },
+   {
+    "text": "كرة الطائرة",
+    "baseRarity": 0.037
+   },
+   {
+    "text": "كرة اليد",
+    "baseRarity": 0.0318
+   },
+   {
+    "text": "التنس",
+    "baseRarity": 0.0278
+   },
+   {
+    "text": "تنس الطاولة",
+    "baseRarity": 0.0247
+   },
+   {
+    "text": "الريشة الطائرة",
+    "baseRarity": 0.0222,
+    "aliases": [
+     "البادمنتون"
+    ]
+   },
+   {
+    "text": "الملاكمة",
+    "baseRarity": 0.0202
+   },
+   {
+    "text": "المصارعة",
+    "baseRarity": 0.0185
+   },
+   {
+    "text": "الجودو",
+    "baseRarity": 0.0171
+   },
+   {
+    "text": "التايكوندو",
+    "baseRarity": 0.0159
+   },
+   {
+    "text": "الكاراتيه",
+    "baseRarity": 0.0148
+   },
+   {
+    "text": "رفع الأثقال",
+    "baseRarity": 0.0139
+   },
+   {
+    "text": "الرماية",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "القوس والسهم",
+    "baseRarity": 0.0123,
+    "aliases": [
+     "الرماية بالقوس"
+    ]
+   },
+   {
+    "text": "المبارزة",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "الفروسية",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "الدراجات",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "التجديف",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "الكانوي والكاياك",
+    "baseRarity": 0.0097,
+    "aliases": [
+     "الكانوي"
+    ]
+   },
+   {
+    "text": "الإبحار",
+    "baseRarity": 0.0093,
+    "aliases": [
+     "الشراع"
+    ]
+   },
+   {
+    "text": "الغطس",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "القفز في الماء"
+    ]
+   },
+   {
+    "text": "كرة الماء",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "السباحة الفنية",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "السباحة التوقيعية"
+    ]
+   },
+   {
+    "text": "الترايثلون",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "الخماسي الحديث",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "الهوكي",
+    "baseRarity": 0.0074,
+    "aliases": [
+     "هوكي الميدان"
+    ]
+   },
+   {
+    "text": "الرغبي",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "الرغبي السباعي"
+    ]
+   },
+   {
+    "text": "الغولف",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "ركوب الأمواج",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "التزلج على اللوح",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "السكيت بورد"
+    ]
+   },
+   {
+    "text": "تسلق الجدران",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "التسلق الرياضي"
+    ]
+   },
+   {
+    "text": "البريك دانس",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "البريكينغ"
+    ]
+   },
+   {
+    "text": "كرة السلة 3×3",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "البيسبول",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "الكرة الطائرة الشاطئية",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "التزلج على الجليد",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "التزحلق الفني"
+    ]
+   },
+   {
+    "text": "التزلج الألبي",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "التزلج على الثلج",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "السنوبورد"
+    ]
+   },
+   {
+    "text": "هوكي الجليد",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "الكيرلنغ",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "البياثلون",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "الزلاجات الجماعية",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "البوبسليه"
+    ]
+   },
+   {
+    "text": "الزلاجة",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "اللوج"
+    ]
+   },
+   {
+    "text": "الهيكل العظمي",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "السكيليتون"
+    ]
+   },
+   {
+    "text": "القفز التزلجي",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "التزلج الريفي",
+    "baseRarity": 0.0044
+   }
+  ],
+  "secret": "الخماسي الحديث",
+  "sources": [
+   "https://olympics.com/en/sports/"
+  ]
+ },
+ {
+  "id": "sport-any-club",
+  "category": "رياضة",
+  "prompt": "اذكر أي نادي كرة قدم في العالم",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "الهلال",
+    "baseRarity": 0.1623
+   },
+   {
+    "text": "النصر",
+    "baseRarity": 0.0811
+   },
+   {
+    "text": "ريال مدريد",
+    "baseRarity": 0.0541
+   },
+   {
+    "text": "برشلونة",
+    "baseRarity": 0.0406
+   },
+   {
+    "text": "الاتحاد",
+    "baseRarity": 0.0325
+   },
+   {
+    "text": "الأهلي",
+    "baseRarity": 0.027
+   },
+   {
+    "text": "الشباب",
+    "baseRarity": 0.0232
+   },
+   {
+    "text": "الاتفاق",
+    "baseRarity": 0.0203
+   },
+   {
+    "text": "الفيصلي",
+    "baseRarity": 0.018
+   },
+   {
+    "text": "الفتح",
+    "baseRarity": 0.0162
+   },
+   {
+    "text": "التعاون",
+    "baseRarity": 0.0148
+   },
+   {
+    "text": "الرائد",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "الخليج",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "الفيحاء",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "ضمك",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "الوحدة",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "الطائي",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "الحزم",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "أبها",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "الرياض",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "الأخدود",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "العروبة",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "القادسية",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "الخلود",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "النجمة",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "الباطن",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "الجبلين",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "العين",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "الكوكب",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "هجر",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "النهضة",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "الأنصار",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "أحد",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "الجيل",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "البكيرية",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "الساحل",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "العدالة",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "الأمل",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الشعلة",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الصفا",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "نجران",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "العربي",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "الزلفي",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "المجزل",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "الدرعية",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "جدة",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "حطين",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "القيصومة",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "الروضة",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "الثقبة",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "الوطني",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "الأهلي المصري",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الزمالك",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الإسماعيلي",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "المصري البورسعيدي",
+    "baseRarity": 0.003,
+    "aliases": [
+     "المصري"
+    ]
+   },
+   {
+    "text": "بيراميدز",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الترجي",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "الترجي التونسي"
+    ]
+   },
+   {
+    "text": "النجم الساحلي",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "النادي الإفريقي",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "الإفريقي"
+    ]
+   },
+   {
+    "text": "الصفاقسي",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الوداد",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "الوداد البيضاوي"
+    ]
+   },
+   {
+    "text": "الرجاء",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "الرجاء البيضاوي"
+    ]
+   },
+   {
+    "text": "الجيش الملكي",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "نهضة بركان",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "المغرب الفاسي",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "شبيبة القبائل",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "مولودية الجزائر",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "اتحاد الجزائر",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "وفاق سطيف",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "شباب بلوزداد",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "الهلال السوداني",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "المريخ السوداني",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "المريخ"
+    ]
+   },
+   {
+    "text": "الاتحاد الليبي",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "الأهلي طرابلس",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "الأهلي بنغازي",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "الوصل",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "الشارقة",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "الجزيرة",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "الوحدة الإماراتي",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "شباب الأهلي",
+    "baseRarity": 0.002,
+    "aliases": [
+     "الأهلي دبي"
+    ]
+   },
+   {
+    "text": "النصر الإماراتي",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "بني ياس",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "السد",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الدحيل",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "الريان",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "العربي القطري",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "الغرافة",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "الوكرة",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "قطر",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "الكويت",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "نادي الكويت"
+    ]
+   },
+   {
+    "text": "القادسية الكويتي",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "العربي الكويتي",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "السالمية",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "المحرق",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "الرفاع",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "الأهلي البحريني",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "الرفاع الشرقي",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "ظفار",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "السيب",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "النهضة العماني",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "فنجاء",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "الشرطة العراقي",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "الشرطة"
+    ]
+   },
+   {
+    "text": "الزوراء",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "القوة الجوية",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "الطلبة",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "الفيصلي الأردني",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "الوحدات",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "الجزيرة الأردني",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "الحسين إربد",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "الجيش السوري",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "الكرامة",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "تشرين",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "الاتحاد الحلبي",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "الوحدة السوري",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "العهد",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "الأنصار اللبناني",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "النجمة اللبناني",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "مانشستر يونايتد",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "اليونايتد",
+     "مان يونايتد"
+    ]
+   },
+   {
+    "text": "مانشستر سيتي",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "السيتي",
+     "مان سيتي"
+    ]
+   },
+   {
+    "text": "ليفربول",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "تشيلسي",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "أرسنال",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "آرسنال"
+    ]
+   },
+   {
+    "text": "توتنهام",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "بايرن ميونخ",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "البايرن"
+    ]
+   },
+   {
+    "text": "باريس سان جيرمان",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "باريس",
+     "بي إس جي"
+    ]
+   },
+   {
+    "text": "يوفنتوس",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "اليوفي"
+    ]
+   },
+   {
+    "text": "ميلان",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "إيه سي ميلان"
+    ]
+   },
+   {
+    "text": "إنتر ميلان",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "الإنتر"
+    ]
+   },
+   {
+    "text": "أتلتيكو مدريد",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "أتلتيكو"
+    ]
+   },
+   {
+    "text": "بوروسيا دورتموند",
+    "baseRarity": 0.0012,
+    "aliases": [
+     "دورتموند"
+    ]
+   },
+   {
+    "text": "روما",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "نابولي",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "لاتسيو",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "أياكس",
+    "baseRarity": 0.0012,
+    "aliases": [
+     "أياكس أمستردام"
+    ]
+   },
+   {
+    "text": "بنفيكا",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "بورتو",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "سبورتنغ لشبونة",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "غلطة سراي",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "فنربخشة",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "بشكتاش",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "بوكا جونيورز",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "ريفر بليت",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "فلامنغو",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "سانتوس",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "بالميراس",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "إنتر ميامي",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "لوس أنجلوس غالاكسي",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "سيلتيك",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "رينجرز",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "باير ليفركوزن",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "ليفركوزن"
+    ]
+   },
+   {
+    "text": "لايبزيغ",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "آر بي لايبزيغ"
+    ]
+   },
+   {
+    "text": "شالكه",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "فولفسبورغ",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "إشبيلية",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "فالنسيا",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "فياريال",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "ريال بيتيس",
+    "baseRarity": 0.001,
+    "aliases": [
+     "بيتيس"
+    ]
+   },
+   {
+    "text": "أتلتيك بلباو",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "ريال سوسيداد",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "مارسيليا",
+    "baseRarity": 0.001,
+    "aliases": [
+     "أولمبيك مارسيليا"
+    ]
+   },
+   {
+    "text": "ليون",
+    "baseRarity": 0.001,
+    "aliases": [
+     "أولمبيك ليون"
+    ]
+   },
+   {
+    "text": "موناكو",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "ليل",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "نيوكاسل",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "أستون فيلا",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "وست هام",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "إيفرتون",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "ليستر سيتي",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "أتالانتا",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "فيورنتينا",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "تورينو",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "بي إس في آيندهوفن",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "آيندهوفن"
+    ]
+   },
+   {
+    "text": "فينورد",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "كلوب بروج",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "أندرلخت",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "سالزبورغ",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "ريد بول سالزبورغ"
+    ]
+   },
+   {
+    "text": "شاختار دونيتسك",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "شاختار"
+    ]
+   },
+   {
+    "text": "دينامو كييف",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "زينيت",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "سبارتاك موسكو",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "سيسكا موسكو",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "النجم الأحمر",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "ريد ستار"
+    ]
+   },
+   {
+    "text": "أولمبياكوس",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "باناثينايكوس",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "كورينثيانز",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "ساو باولو",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "بوتافوغو",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "غريميو",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "إنترناسيونال",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "أمريكا المكسيكي",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "كلوب أمريكا"
+    ]
+   },
+   {
+    "text": "تشيفاس",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "مونتيري",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "برايتون",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "كريستال بالاس",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "وولفرهامبتون",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "وولفز"
+    ]
+   },
+   {
+    "text": "فولهام",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "برينتفورد",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "بورنموث",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "نوتنغهام فورست",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "ساوثهامبتون",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "ليدز يونايتد",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "ليدز"
+    ]
+   },
+   {
+    "text": "بيرنلي",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "شيفيلد يونايتد",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "شيفيلد وينزداي",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "لوتون تاون",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "إبسويتش",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "نورويتش",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "واتفورد",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "ويست بروميتش",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "وست بروم"
+    ]
+   },
+   {
+    "text": "ستوك سيتي",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "سوانزي",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "كارديف سيتي",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "هال سيتي",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "سندرلاند",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "ميدلزبره",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "بلاكبيرن روفرز",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "بلاكبيرن"
+    ]
+   },
+   {
+    "text": "بولتون",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ويغان",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "كوينز بارك رينجرز",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "كيو بي آر"
+    ]
+   },
+   {
+    "text": "بورتسموث",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ديربي كاونتي",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "بريستون",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "بلاكبول",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "كوفنتري",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "تشارلتون",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "بيرمنغهام سيتي",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ريدينغ",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ميلوول",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "سيلتا فيغو",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "خيتافي",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "أوساسونا",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "مايوركا",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "رايو فايكانو",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ألافيس",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "جيرونا",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "لاس بالماس",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "إسبانيول",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ديبورتيفو لاكورونيا",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ريال سرقسطة",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ملقة",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ليفانتي",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "غرناطة",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "قادش",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "بولونيا",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "جنوى",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "سامبدوريا",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "أودينيزي",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ساسولو",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "كالياري",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "فيرونا",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "بارما",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "باليرمو",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "ليتشي",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "مونزا",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "فيردر بريمن",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "هامبورغ",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "شتوتغارت",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "آينتراخت فرانكفورت",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "بوروسيا مونشنغلادباخ",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "هيرتا برلين",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "يونيون برلين",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "فرايبورغ",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "هوفنهايم",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "كولن",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "ماينز",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "أوغسبورغ",
+    "baseRarity": 0.0006
+   }
+  ],
+  "secret": "سامبدوريا",
+  "sources": [
+   "https://www.fifa.com/"
+  ]
+ },
+ {
+  "id": "sport-any-player",
+  "category": "رياضة",
+  "prompt": "اذكر أي لاعب كرة قدم (عربي أو عالمي)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "ليونيل ميسي",
+    "baseRarity": 0.1672,
+    "aliases": [
+     "ميسي"
+    ]
+   },
+   {
+    "text": "كريستيانو رونالدو",
+    "baseRarity": 0.0836,
+    "aliases": [
+     "رونالدو",
+     "كريستيانو"
+    ]
+   },
+   {
+    "text": "محمد صلاح",
+    "baseRarity": 0.0557
+   },
+   {
+    "text": "سالم الدوسري",
+    "baseRarity": 0.0418
+   },
+   {
+    "text": "ماجد عبدالله",
+    "baseRarity": 0.0334
+   },
+   {
+    "text": "سامي الجابر",
+    "baseRarity": 0.0279
+   },
+   {
+    "text": "نيمار",
+    "baseRarity": 0.0239
+   },
+   {
+    "text": "كيليان مبابي",
+    "baseRarity": 0.0209,
+    "aliases": [
+     "مبابي"
+    ]
+   },
+   {
+    "text": "إيرلينغ هالاند",
+    "baseRarity": 0.0186,
+    "aliases": [
+     "هالاند"
+    ]
+   },
+   {
+    "text": "بيليه",
+    "baseRarity": 0.0167
+   },
+   {
+    "text": "مارادونا",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "دييغو مارادونا"
+    ]
+   },
+   {
+    "text": "زين الدين زيدان",
+    "baseRarity": 0.0139,
+    "aliases": [
+     "زيدان"
+    ]
+   },
+   {
+    "text": "رونالدينيو",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "رونالدو البرازيلي",
+    "baseRarity": 0.0119,
+    "aliases": [
+     "رونالدو نازاريو",
+     "الظاهرة"
+    ]
+   },
+   {
+    "text": "كاكا",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "روبرتو كارلوس",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "ديفيد بيكهام",
+    "baseRarity": 0.0098,
+    "aliases": [
+     "بيكهام"
+    ]
+   },
+   {
+    "text": "تييري هنري",
+    "baseRarity": 0.0093,
+    "aliases": [
+     "هنري"
+    ]
+   },
+   {
+    "text": "فرانك ليبارد",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "ليبارد"
+    ]
+   },
+   {
+    "text": "ستيفن جيرارد",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "جيرارد"
+    ]
+   },
+   {
+    "text": "واين روني",
+    "baseRarity": 0.008,
+    "aliases": [
+     "روني"
+    ]
+   },
+   {
+    "text": "هاري كين",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "كيفين دي بروين",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "دي بروين"
+    ]
+   },
+   {
+    "text": "لوكا مودريتش",
+    "baseRarity": 0.007,
+    "aliases": [
+     "مودريتش"
+    ]
+   },
+   {
+    "text": "كريم بنزيما",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "بنزيما"
+    ]
+   },
+   {
+    "text": "روبرت ليفاندوفسكي",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "ليفاندوفسكي"
+    ]
+   },
+   {
+    "text": "أندريس إنييستا",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "إنييستا"
+    ]
+   },
+   {
+    "text": "تشافي",
+    "baseRarity": 0.006,
+    "aliases": [
+     "تشافي هيرنانديز"
+    ]
+   },
+   {
+    "text": "سيرخيو راموس",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "راموس"
+    ]
+   },
+   {
+    "text": "إيكر كاسياس",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "كاسياس"
+    ]
+   },
+   {
+    "text": "جيانلويجي بوفون",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "بوفون"
+    ]
+   },
+   {
+    "text": "باولو مالديني",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "مالديني"
+    ]
+   },
+   {
+    "text": "فرانشيسكو توتي",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "توتي"
+    ]
+   },
+   {
+    "text": "أندريا بيرلو",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "بيرلو"
+    ]
+   },
+   {
+    "text": "أليساندرو ديل بييرو",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "ديل بييرو"
+    ]
+   },
+   {
+    "text": "روبرتو باجيو",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "باجيو"
+    ]
+   },
+   {
+    "text": "يوهان كرويف",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "كرويف"
+    ]
+   },
+   {
+    "text": "فرانز بيكنباور",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "بيكنباور"
+    ]
+   },
+   {
+    "text": "غيرد مولر",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "لوثار ماتيوس",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "مانويل نوير",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "نوير"
+    ]
+   },
+   {
+    "text": "توماس مولر",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "فيرجيل فان دايك",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "فان دايك"
+    ]
+   },
+   {
+    "text": "أريين روبن",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "روبن"
+    ]
+   },
+   {
+    "text": "روبن فان بيرسي",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "فان بيرسي"
+    ]
+   },
+   {
+    "text": "زلاتان إبراهيموفيتش",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "زلاتان",
+     "إبراهيموفيتش"
+    ]
+   },
+   {
+    "text": "أنطوان غريزمان",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "غريزمان"
+    ]
+   },
+   {
+    "text": "بول بوغبا",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "بوغبا"
+    ]
+   },
+   {
+    "text": "نغولو كانتي",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "كانتي"
+    ]
+   },
+   {
+    "text": "ديدييه دروغبا",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "دروغبا"
+    ]
+   },
+   {
+    "text": "صامويل إيتو",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "إيتو"
+    ]
+   },
+   {
+    "text": "جورج وياه",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "وياه"
+    ]
+   },
+   {
+    "text": "ساديو ماني",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "ماني"
+    ]
+   },
+   {
+    "text": "فينيسيوس جونيور",
+    "baseRarity": 0.0031,
+    "aliases": [
+     "فينيسيوس"
+    ]
+   },
+   {
+    "text": "جود بيلينغهام",
+    "baseRarity": 0.003,
+    "aliases": [
+     "بيلينغهام"
+    ]
+   },
+   {
+    "text": "لامين يامال",
+    "baseRarity": 0.003,
+    "aliases": [
+     "يامال"
+    ]
+   },
+   {
+    "text": "بيدري",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "غافي",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "إيدين هازارد",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "هازارد"
+    ]
+   },
+   {
+    "text": "لويس سواريز",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "سواريز"
+    ]
+   },
+   {
+    "text": "إدينسون كافاني",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "كافاني"
+    ]
+   },
+   {
+    "text": "سيرجيو أغويرو",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "أغويرو"
+    ]
+   },
+   {
+    "text": "أنخيل دي ماريا",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "دي ماريا"
+    ]
+   },
+   {
+    "text": "باولو ديبالا",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "ديبالا"
+    ]
+   },
+   {
+    "text": "لاوتارو مارتينيز",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "جوليان ألفاريز",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "إميليانو مارتينيز",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "بيتر تشيك",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "تشيك"
+    ]
+   },
+   {
+    "text": "أوليفر كان",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "ليف ياشين",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "أوزيبيو",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "غارينشا",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "زيكو",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "سقراط",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "روماريو",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "ريفالدو",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "مارسيلو",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "داني ألفيس",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "كافو",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "تياغو سيلفا",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "كاسيميرو",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "فيليب لام",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "باستيان شفاينشتايغر",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "مسعود أوزيل",
+    "baseRarity": 0.002,
+    "aliases": [
+     "أوزيل"
+    ]
+   },
+   {
+    "text": "توني كروس",
+    "baseRarity": 0.002,
+    "aliases": [
+     "كروس"
+    ]
+   },
+   {
+    "text": "لويس فيغو",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "فيغو"
+    ]
+   },
+   {
+    "text": "بافيل نيدفيد",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "نيدفيد"
+    ]
+   },
+   {
+    "text": "أندريه شيفتشينكو",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "شيفتشينكو"
+    ]
+   },
+   {
+    "text": "ميشيل بلاتيني",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "بلاتيني"
+    ]
+   },
+   {
+    "text": "ماركو فان باستن",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "فان باستن"
+    ]
+   },
+   {
+    "text": "رود خوليت",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "خوليت"
+    ]
+   },
+   {
+    "text": "محمد الدعيع",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "ياسر القحطاني",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "نواف التمياط",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "حمزة إدريس",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "محمد نور",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "سعيد العويران",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "فهد الهريفي",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "يوسف الثنيان",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "صالح النعيمة",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "محمد الشلهوب",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "فؤاد أنور",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "عبدالله الدعيع",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "أحمد جميل",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "محمد الخليوي",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "خالد مسعد",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "عبدالرزاق أبو داود",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "أسامة هوساوي",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "تيسير الجاسم",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "ياسر الشهراني",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "صالح الشهري",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "فراس البريكان",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "سلمان الفرج",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "محمد كنو",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "عبدالله عطيف",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "سعود عبدالحميد",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "عبدالإله العمري",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "علي البليهي",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "محمد العويس",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "نواف العقيدي",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "هتان باهبري",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "عبدالرحمن غريب",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "فهد المولد",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "ناصر الشمراني",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "مالك معاذ",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "محمد السهلاوي",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "عمر هوساوي",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "عبدالله الزوري",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "حسين عبدالغني",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "رضا تكر",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "عبدالله الواكد",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "صالح الصقري",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "سعد الحارثي",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "عبدالله العنزي",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "خالد الغامدي",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "ياسر المسيليم",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "وليد عبدالله",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "نايف هزازي",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "مصطفى بصاص",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "عبدالفتاح عسيري",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "عبدالله الحمدان",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "مختار فلاتة",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "أيمن يحيى",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "حسان تمبكتي",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "مصعب الجوير",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "رياض محرز",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "محرز"
+    ]
+   },
+   {
+    "text": "أشرف حكيمي",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "حكيمي"
+    ]
+   },
+   {
+    "text": "حكيم زياش",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "زياش"
+    ]
+   },
+   {
+    "text": "محمد أبو تريكة",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "أبو تريكة"
+    ]
+   },
+   {
+    "text": "أحمد حسام ميدو",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "ميدو"
+    ]
+   },
+   {
+    "text": "حسام حسن",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "أحمد حسن",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "عصام الحضري",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "الحضري"
+    ]
+   },
+   {
+    "text": "محمد زيدان",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "عمرو زكي",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "محمد النني",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "النني"
+    ]
+   },
+   {
+    "text": "أكرم عفيف",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "المعز علي",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "حسن الهيدوس",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "يونس محمود",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "نشأت أكرم",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "أحمد راضي",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "عمر عبدالرحمن",
+    "baseRarity": 0.001,
+    "aliases": [
+     "عموري"
+    ]
+   },
+   {
+    "text": "علي مبخوت",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "إسماعيل مطر",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "بدر المطوع",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "جاسم يعقوب",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "فيصل الدخيل",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "وهبي الخزري",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "يوسف المساكني",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "علي معلول",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "ياسين بونو",
+    "baseRarity": 0.001,
+    "aliases": [
+     "بونو"
+    ]
+   },
+   {
+    "text": "سفيان أمرابط",
+    "baseRarity": 0.001,
+    "aliases": [
+     "أمرابط"
+    ]
+   },
+   {
+    "text": "يوسف النصيري",
+    "baseRarity": 0.001,
+    "aliases": [
+     "النصيري"
+    ]
+   },
+   {
+    "text": "نصير مزراوي",
+    "baseRarity": 0.001,
+    "aliases": [
+     "مزراوي"
+    ]
+   },
+   {
+    "text": "مروان الشماخ",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "عادل تاعرابت",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "نور الدين نيبت",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "بادو الزاكي",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "مصطفى حجي",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "رابح ماجر",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "الأخضر بلومي",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "إسماعيل بن ناصر",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "بن ناصر"
+    ]
+   },
+   {
+    "text": "إسلام سليماني",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "سليماني"
+    ]
+   },
+   {
+    "text": "سفيان فيغولي",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "عمر السومة",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "السومة"
+    ]
+   },
+   {
+    "text": "فراس الخطيب",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "جهاد الحسين",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "موسى التعمري",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "عامر شفيع",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "حسن عبد الفتاح",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "عماد متعب",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "محمد بركات",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "شيكابالا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "وائل جمعة",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "أحمد فتحي",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "مصطفى محمد",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "عمر مرموش",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "مرموش"
+    ]
+   },
+   {
+    "text": "تريزيغيه",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "إمام عاشور",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "رودري",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "مايكل أوين",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "أوين"
+    ]
+   },
+   {
+    "text": "فابيو كانافارو",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "كانافارو"
+    ]
+   },
+   {
+    "text": "ماتياس زامر",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "زامر"
+    ]
+   },
+   {
+    "text": "هريستو ستويتشكوف",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "ستويتشكوف"
+    ]
+   },
+   {
+    "text": "جان بيير بابان",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "بابان"
+    ]
+   },
+   {
+    "text": "إيغور بيلانوف",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "بيلانوف"
+    ]
+   },
+   {
+    "text": "باولو روسي",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "روسي"
+    ]
+   },
+   {
+    "text": "كارل هاينز رومينيغه",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "رومينيغه"
+    ]
+   },
+   {
+    "text": "كيفن كيغان",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "كيغان"
+    ]
+   },
+   {
+    "text": "آلان سيمونسن",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "سيمونسن"
+    ]
+   },
+   {
+    "text": "أوليغ بلوخين",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "بلوخين"
+    ]
+   },
+   {
+    "text": "جياني ريفيرا",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "ريفيرا"
+    ]
+   },
+   {
+    "text": "جورج بست",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "بست"
+    ]
+   },
+   {
+    "text": "فلوريان ألبرت",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "بوبي تشارلتون",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "تشارلتون"
+    ]
+   },
+   {
+    "text": "دينيس لو",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "يوزيف ماسوبوست",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "ماسوبوست"
+    ]
+   },
+   {
+    "text": "عمر سيفوري",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "سيفوري"
+    ]
+   },
+   {
+    "text": "ريمون كوبا",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "كوبا"
+    ]
+   },
+   {
+    "text": "ألفريدو دي ستيفانو",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "دي ستيفانو"
+    ]
+   },
+   {
+    "text": "ستانلي ماثيوز",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "ماثيوز"
+    ]
+   }
+  ],
+  "secret": "يوزيف ماسوبوست",
+  "sources": [
+   "https://www.fifa.com/"
+  ]
+ }
+]
