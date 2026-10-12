@@ -1,0 +1,7638 @@
+[
+ {
+  "id": "lang-jahili-poets",
+  "category": "لغة وأدب",
+  "prompt": "اذكر شاعر جاهلي أو مخضرم",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "امرؤ القيس",
+    "baseRarity": 0.2311
+   },
+   {
+    "text": "عنترة بن شداد",
+    "baseRarity": 0.1156,
+    "aliases": [
+     "عنترة"
+    ]
+   },
+   {
+    "text": "زهير بن أبي سلمى",
+    "baseRarity": 0.077,
+    "aliases": [
+     "زهير"
+    ]
+   },
+   {
+    "text": "طرفة بن العبد",
+    "baseRarity": 0.0578,
+    "aliases": [
+     "طرفة"
+    ]
+   },
+   {
+    "text": "لبيد بن ربيعة",
+    "baseRarity": 0.0462,
+    "aliases": [
+     "لبيد"
+    ]
+   },
+   {
+    "text": "عمرو بن كلثوم",
+    "baseRarity": 0.0385
+   },
+   {
+    "text": "الحارث بن حلزة",
+    "baseRarity": 0.033
+   },
+   {
+    "text": "النابغة الذبياني",
+    "baseRarity": 0.0289,
+    "aliases": [
+     "النابغة"
+    ]
+   },
+   {
+    "text": "الأعشى",
+    "baseRarity": 0.0257,
+    "aliases": [
+     "ميمون بن قيس"
+    ]
+   },
+   {
+    "text": "عبيد بن الأبرص",
+    "baseRarity": 0.0231
+   },
+   {
+    "text": "الخنساء",
+    "baseRarity": 0.021
+   },
+   {
+    "text": "حاتم الطائي",
+    "baseRarity": 0.0193
+   },
+   {
+    "text": "الشنفرى",
+    "baseRarity": 0.0178
+   },
+   {
+    "text": "تأبط شرا",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "عروة بن الورد",
+    "baseRarity": 0.0154
+   },
+   {
+    "text": "السليك بن السلكة",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "الزير سالم",
+    "baseRarity": 0.0136,
+    "aliases": [
+     "المهلهل"
+    ]
+   },
+   {
+    "text": "علقمة الفحل",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "أوس بن حجر",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "المتلمس",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "المرقش الأكبر",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "المرقش الأصغر",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "الحطيئة",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "كعب بن زهير",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "حسان بن ثابت",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "الشماخ بن ضرار",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "عامر بن الطفيل",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "دريد بن الصمة",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "أمية بن أبي الصلت",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "السموأل",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "قيس بن الخطيم",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "عدي بن زيد",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "لقيط بن يعمر",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "عمرو بن قميئة",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "بشر بن أبي خازم",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "النابغة الجعدي",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "عبد الله بن رواحة",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "كعب بن مالك",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "أبو ذؤيب الهذلي",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "متمم بن نويرة",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "الخرنق بنت بدر",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "الأفوه الأودي",
+    "baseRarity": 0.0055
+   }
+  ],
+  "secret": "الشنفرى",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/الشعر_الجاهلي"
+  ]
+ },
+ {
+  "id": "lang-umayyad-poets",
+  "category": "لغة وأدب",
+  "prompt": "اذكر شاعر من العصر الأموي",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "جرير",
+    "baseRarity": 0.2337
+   },
+   {
+    "text": "الفرزدق",
+    "baseRarity": 0.1169
+   },
+   {
+    "text": "الأخطل",
+    "baseRarity": 0.0779
+   },
+   {
+    "text": "عمر بن أبي ربيعة",
+    "baseRarity": 0.0584
+   },
+   {
+    "text": "جميل بثينة",
+    "baseRarity": 0.0467,
+    "aliases": [
+     "جميل بن معمر"
+    ]
+   },
+   {
+    "text": "كثير عزة",
+    "baseRarity": 0.039
+   },
+   {
+    "text": "قيس بن الملوح",
+    "baseRarity": 0.0334,
+    "aliases": [
+     "مجنون ليلى"
+    ]
+   },
+   {
+    "text": "قيس بن ذريح",
+    "baseRarity": 0.0292,
+    "aliases": [
+     "قيس لبنى"
+    ]
+   },
+   {
+    "text": "ذو الرمة",
+    "baseRarity": 0.026
+   },
+   {
+    "text": "الكميت بن زيد",
+    "baseRarity": 0.0234,
+    "aliases": [
+     "الكميت"
+    ]
+   },
+   {
+    "text": "الطرماح",
+    "baseRarity": 0.0212
+   },
+   {
+    "text": "الراعي النميري",
+    "baseRarity": 0.0195
+   },
+   {
+    "text": "الأحوص",
+    "baseRarity": 0.018
+   },
+   {
+    "text": "العرجي",
+    "baseRarity": 0.0167
+   },
+   {
+    "text": "وضاح اليمن",
+    "baseRarity": 0.0156
+   },
+   {
+    "text": "ليلى الأخيلية",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "توبة بن الحمير",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "عبيد الله بن قيس الرقيات",
+    "baseRarity": 0.013,
+    "aliases": [
+     "ابن قيس الرقيات"
+    ]
+   },
+   {
+    "text": "نصيب بن رباح",
+    "baseRarity": 0.0123,
+    "aliases": [
+     "نصيب"
+    ]
+   },
+   {
+    "text": "القطامي",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "عدي بن الرقاع",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "رؤبة بن العجاج",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "العجاج",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "أبو النجم العجلي",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "مسكين الدارمي",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "يزيد بن مفرغ",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "ابن الدمينة",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "الصمة القشيري",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "مالك بن الريب",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "الوليد بن يزيد",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "أعشى همدان",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "ابن ميادة",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "عمر بن لجأ",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "عروة بن أذينة",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "عبد الله بن الزبير الأسدي",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "أبو صخر الهذلي",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "ابن مقبل",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "البعيث",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "سراقة البارقي",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "حميد بن ثور",
+    "baseRarity": 0.0058
+   }
+  ],
+  "secret": "الصمة القشيري",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/الشعر_في_العصر_الأموي"
+  ]
+ },
+ {
+  "id": "lang-abbasid-poets",
+  "category": "لغة وأدب",
+  "prompt": "اذكر شاعر من العصر العباسي",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "المتنبي",
+    "baseRarity": 0.2311,
+    "aliases": [
+     "أبو الطيب المتنبي"
+    ]
+   },
+   {
+    "text": "أبو تمام",
+    "baseRarity": 0.1156
+   },
+   {
+    "text": "البحتري",
+    "baseRarity": 0.077
+   },
+   {
+    "text": "أبو نواس",
+    "baseRarity": 0.0578
+   },
+   {
+    "text": "أبو العلاء المعري",
+    "baseRarity": 0.0462,
+    "aliases": [
+     "المعري"
+    ]
+   },
+   {
+    "text": "بشار بن برد",
+    "baseRarity": 0.0385
+   },
+   {
+    "text": "أبو العتاهية",
+    "baseRarity": 0.033
+   },
+   {
+    "text": "ابن الرومي",
+    "baseRarity": 0.0289
+   },
+   {
+    "text": "ابن المعتز",
+    "baseRarity": 0.0257
+   },
+   {
+    "text": "أبو فراس الحمداني",
+    "baseRarity": 0.0231
+   },
+   {
+    "text": "الشريف الرضي",
+    "baseRarity": 0.021
+   },
+   {
+    "text": "مهيار الديلمي",
+    "baseRarity": 0.0193
+   },
+   {
+    "text": "ابن زريق البغدادي",
+    "baseRarity": 0.0178
+   },
+   {
+    "text": "ديك الجن",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "العباس بن الأحنف",
+    "baseRarity": 0.0154
+   },
+   {
+    "text": "مسلم بن الوليد",
+    "baseRarity": 0.0144,
+    "aliases": [
+     "صريع الغواني"
+    ]
+   },
+   {
+    "text": "دعبل الخزاعي",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "علي بن الجهم",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "أبو دلامة",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "ابن هانئ",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "السري الرفاء",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "كشاجم",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "الصنوبري",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "ابن الفارض",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "البهاء زهير",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "ابن سناء الملك",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "الطغرائي",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "ابن الخياط",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "الأبيوردي",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "ابن حيوس",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "الخبز أرزي",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "ابن لنكك",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "أبو الشيص",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "ربيعة الرقي",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "منصور النمري",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "محمود الوراق",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "الحسين بن الضحاك",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "ابن الحجاج",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "إسحاق الموصلي",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "ابن عنين",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "العتابي",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "كلثوم بن عمرو العتابي"
+    ]
+   },
+   {
+    "text": "أشجع السلمي",
+    "baseRarity": 0.0055
+   }
+  ],
+  "secret": "ابن الرومي",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/الشعر_العباسي"
+  ]
+ },
+ {
+  "id": "lang-modern-poets",
+  "category": "لغة وأدب",
+  "prompt": "اذكر شاعر عربي من العصر الحديث",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "نزار قباني",
+    "baseRarity": 0.2122
+   },
+   {
+    "text": "محمود درويش",
+    "baseRarity": 0.1061
+   },
+   {
+    "text": "أحمد شوقي",
+    "baseRarity": 0.0707
+   },
+   {
+    "text": "حافظ إبراهيم",
+    "baseRarity": 0.0531
+   },
+   {
+    "text": "أبو القاسم الشابي",
+    "baseRarity": 0.0424,
+    "aliases": [
+     "الشابي"
+    ]
+   },
+   {
+    "text": "بدر شاكر السياب",
+    "baseRarity": 0.0354,
+    "aliases": [
+     "السياب"
+    ]
+   },
+   {
+    "text": "نازك الملائكة",
+    "baseRarity": 0.0303
+   },
+   {
+    "text": "إيليا أبو ماضي",
+    "baseRarity": 0.0265
+   },
+   {
+    "text": "جبران خليل جبران",
+    "baseRarity": 0.0236,
+    "aliases": [
+     "جبران"
+    ]
+   },
+   {
+    "text": "أمل دنقل",
+    "baseRarity": 0.0212
+   },
+   {
+    "text": "أحمد مطر",
+    "baseRarity": 0.0193
+   },
+   {
+    "text": "تميم البرغوثي",
+    "baseRarity": 0.0177
+   },
+   {
+    "text": "مريد البرغوثي",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "فاروق جويدة",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "صلاح عبد الصبور",
+    "baseRarity": 0.0141
+   },
+   {
+    "text": "عبد الوهاب البياتي",
+    "baseRarity": 0.0133,
+    "aliases": [
+     "البياتي"
+    ]
+   },
+   {
+    "text": "محمد مهدي الجواهري",
+    "baseRarity": 0.0125,
+    "aliases": [
+     "الجواهري"
+    ]
+   },
+   {
+    "text": "معروف الرصافي",
+    "baseRarity": 0.0118,
+    "aliases": [
+     "الرصافي"
+    ]
+   },
+   {
+    "text": "جميل صدقي الزهاوي",
+    "baseRarity": 0.0112,
+    "aliases": [
+     "الزهاوي"
+    ]
+   },
+   {
+    "text": "عمر أبو ريشة",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "بدوي الجبل",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "أدونيس",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "سميح القاسم",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "توفيق زياد",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "فدوى طوقان",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "إبراهيم طوقان",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "إبراهيم ناجي",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "علي محمود طه",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "خليل مطران",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "أحمد زكي أبو شادي",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "محمود سامي البارودي",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "البارودي"
+    ]
+   },
+   {
+    "text": "عباس محمود العقاد",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "العقاد"
+    ]
+   },
+   {
+    "text": "مصطفى صادق الرافعي",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "الرافعي"
+    ]
+   },
+   {
+    "text": "بشارة الخوري",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "الأخطل الصغير"
+    ]
+   },
+   {
+    "text": "ميخائيل نعيمة",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "أمين الريحاني",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "إلياس أبو شبكة",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "سعيد عقل",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "أنسي الحاج",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "محمد الماغوط",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "الماغوط"
+    ]
+   },
+   {
+    "text": "غازي القصيبي",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "القصيبي"
+    ]
+   },
+   {
+    "text": "محمد الثبيتي",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "الثبيتي"
+    ]
+   },
+   {
+    "text": "عبد الله البردوني",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "البردوني"
+    ]
+   },
+   {
+    "text": "عبد العزيز المقالح",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "سعاد الصباح",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "الأمير عبدالله الفيصل",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "عبدالله الفيصل"
+    ]
+   },
+   {
+    "text": "خالد الفيصل",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "الأمير بدر بن عبدالمحسن",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "بدر بن عبدالمحسن"
+    ]
+   },
+   {
+    "text": "حمزة شحاتة",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "عبد الرحمن العشماوي",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "العشماوي"
+    ]
+   },
+   {
+    "text": "مظفر النواب",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "سعدي يوسف",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "عبد الرزاق عبد الواحد",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "أحمد رامي",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "بيرم التونسي",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "صلاح جاهين",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "عبد الرحمن الأبنودي",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "الأبنودي"
+    ]
+   },
+   {
+    "text": "أحمد فؤاد نجم",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "هاشم الرفاعي",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "محمود حسن إسماعيل",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "مفدي زكريا",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "محمد العيد آل خليفة",
+    "baseRarity": 0.0034
+   }
+  ],
+  "secret": "بدوي الجبل",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/الشعر_العربي_الحديث"
+  ]
+ },
+ {
+  "id": "lang-arab-novelists",
+  "category": "لغة وأدب",
+  "prompt": "اذكر روائي أو كاتب عربي",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "نجيب محفوظ",
+    "baseRarity": 0.2069
+   },
+   {
+    "text": "طه حسين",
+    "baseRarity": 0.1035
+   },
+   {
+    "text": "توفيق الحكيم",
+    "baseRarity": 0.069
+   },
+   {
+    "text": "يوسف إدريس",
+    "baseRarity": 0.0517
+   },
+   {
+    "text": "إحسان عبد القدوس",
+    "baseRarity": 0.0414
+   },
+   {
+    "text": "يوسف السباعي",
+    "baseRarity": 0.0345
+   },
+   {
+    "text": "الطيب صالح",
+    "baseRarity": 0.0296
+   },
+   {
+    "text": "غسان كنفاني",
+    "baseRarity": 0.0259
+   },
+   {
+    "text": "عبد الرحمن منيف",
+    "baseRarity": 0.023
+   },
+   {
+    "text": "جبران خليل جبران",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "ميخائيل نعيمة",
+    "baseRarity": 0.0188
+   },
+   {
+    "text": "مصطفى لطفي المنفلوطي",
+    "baseRarity": 0.0172,
+    "aliases": [
+     "المنفلوطي"
+    ]
+   },
+   {
+    "text": "عباس محمود العقاد",
+    "baseRarity": 0.0159,
+    "aliases": [
+     "العقاد"
+    ]
+   },
+   {
+    "text": "مصطفى صادق الرافعي",
+    "baseRarity": 0.0148,
+    "aliases": [
+     "الرافعي"
+    ]
+   },
+   {
+    "text": "أحمد خالد توفيق",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "علاء الأسواني",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "يوسف زيدان",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "أحلام مستغانمي",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "رضوى عاشور",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "غادة السمان",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "حنان الشيخ",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "إبراهيم الكوني",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "الطاهر وطار",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "محمد ديب",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "رشيد بوجدرة",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "عبد الحميد بن هدوقة",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "محمد شكري",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "الطاهر بن جلون",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "أمين معلوف",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "إلياس خوري",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "حنا مينه",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "جبرا إبراهيم جبرا",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "إميل حبيبي",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "سحر خليفة",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "إبراهيم نصر الله",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "صنع الله إبراهيم",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "بهاء طاهر",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "جمال الغيطاني",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "خيري شلبي",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "إبراهيم أصلان",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "محمد البساطي",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "أحمد سعداوي",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "سعود السنعوسي",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "بثينة العيسى",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "ليلى العثمان",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "إسماعيل فهد إسماعيل",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "غازي القصيبي",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "تركي الحمد",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "عبده خال",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "رجاء عالم",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "محمد حسن علوان",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "يوسف المحيميد",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "أحمد أبو دهمان",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "رجاء الصانع",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "أسامة المسلم",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "أثير عبدالله النشمي",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "أيمن العتوم",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "أحمد مراد",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "محمد المنسي قنديل",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "واسيني الأعرج",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "محمود تيمور",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "يحيى حقي",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "عبد الرحمن الشرقاوي",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "فتحي غانم",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "نوال السعداوي",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "مي زيادة",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "زكي نجيب محمود",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "أنيس منصور",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "مصطفى محمود",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "علي الطنطاوي",
+    "baseRarity": 0.003
+   }
+  ],
+  "secret": "إبراهيم الكوني",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/الرواية_العربية"
+  ]
+ },
+ {
+  "id": "lang-world-writers",
+  "category": "لغة وأدب",
+  "prompt": "اذكر كاتب أو أديب عالمي (غير عربي)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "شكسبير",
+    "baseRarity": 0.2057,
+    "aliases": [
+     "وليام شكسبير"
+    ]
+   },
+   {
+    "text": "تولستوي",
+    "baseRarity": 0.1029,
+    "aliases": [
+     "ليو تولستوي"
+    ]
+   },
+   {
+    "text": "دوستويفسكي",
+    "baseRarity": 0.0686
+   },
+   {
+    "text": "فيكتور هوغو",
+    "baseRarity": 0.0514,
+    "aliases": [
+     "هوغو"
+    ]
+   },
+   {
+    "text": "تشارلز ديكنز",
+    "baseRarity": 0.0411,
+    "aliases": [
+     "ديكنز"
+    ]
+   },
+   {
+    "text": "أغاثا كريستي",
+    "baseRarity": 0.0343
+   },
+   {
+    "text": "جورج أورويل",
+    "baseRarity": 0.0294,
+    "aliases": [
+     "أورويل"
+    ]
+   },
+   {
+    "text": "إرنست همنغواي",
+    "baseRarity": 0.0257,
+    "aliases": [
+     "همنغواي"
+    ]
+   },
+   {
+    "text": "غابرييل غارسيا ماركيز",
+    "baseRarity": 0.0229,
+    "aliases": [
+     "ماركيز"
+    ]
+   },
+   {
+    "text": "فرانز كافكا",
+    "baseRarity": 0.0206,
+    "aliases": [
+     "كافكا"
+    ]
+   },
+   {
+    "text": "باولو كويلو",
+    "baseRarity": 0.0187,
+    "aliases": [
+     "كويلو"
+    ]
+   },
+   {
+    "text": "ألبير كامو",
+    "baseRarity": 0.0171,
+    "aliases": [
+     "كامو"
+    ]
+   },
+   {
+    "text": "جين أوستن",
+    "baseRarity": 0.0158
+   },
+   {
+    "text": "مارك توين",
+    "baseRarity": 0.0147
+   },
+   {
+    "text": "ج. ك. رولينغ",
+    "baseRarity": 0.0137,
+    "aliases": [
+     "رولينغ"
+    ]
+   },
+   {
+    "text": "تشيخوف",
+    "baseRarity": 0.0129,
+    "aliases": [
+     "أنطون تشيخوف"
+    ]
+   },
+   {
+    "text": "غوته",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "دانتي",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "سرفانتس",
+    "baseRarity": 0.0108,
+    "aliases": [
+     "ميغيل دي ثربانتس",
+     "ثربانتس"
+    ]
+   },
+   {
+    "text": "هوميروس",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "إدغار آلان بو",
+    "baseRarity": 0.0098,
+    "aliases": [
+     "آلان بو"
+    ]
+   },
+   {
+    "text": "أوسكار وايلد",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "جول فيرن",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "ألكسندر دوما",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "دوما"
+    ]
+   },
+   {
+    "text": "أرثر كونان دويل",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "كونان دويل"
+    ]
+   },
+   {
+    "text": "ستيفن كينغ",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "دان براون",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "جورج آر آر مارتن",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "تولكين",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "جيه آر آر تولكين"
+    ]
+   },
+   {
+    "text": "سي إس لويس",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "روالد دال",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "أنطوان دو سانت إكزوبيري",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "سانت إكزوبيري"
+    ]
+   },
+   {
+    "text": "ألكسندر بوشكين",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "بوشكين"
+    ]
+   },
+   {
+    "text": "نيكولاي غوغول",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "غوغول"
+    ]
+   },
+   {
+    "text": "مكسيم غوركي",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "غوركي"
+    ]
+   },
+   {
+    "text": "بوريس باسترناك",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "ألكسندر سولجنيتسين",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "فلاديمير نابوكوف",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "نابوكوف"
+    ]
+   },
+   {
+    "text": "جيمس جويس",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "فرجينيا وولف",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "توماس مان",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "هيرمان هيسه",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "هيسه"
+    ]
+   },
+   {
+    "text": "بلزاك",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "أونوريه دي بلزاك"
+    ]
+   },
+   {
+    "text": "غوستاف فلوبير",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "فلوبير"
+    ]
+   },
+   {
+    "text": "إميل زولا",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "زولا"
+    ]
+   },
+   {
+    "text": "ستندال",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "موليير",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "فولتير",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "جان بول سارتر",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "ميلان كونديرا",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "كونديرا"
+    ]
+   },
+   {
+    "text": "خورخي لويس بورخيس",
+    "baseRarity": 0.004,
+    "aliases": [
+     "بورخيس"
+    ]
+   },
+   {
+    "text": "بابلو نيرودا",
+    "baseRarity": 0.004,
+    "aliases": [
+     "نيرودا"
+    ]
+   },
+   {
+    "text": "أوكتافيو باث",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "إيزابيل الليندي",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "هاروكي موراكامي",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "موراكامي"
+    ]
+   },
+   {
+    "text": "أورهان باموق",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "باموق"
+    ]
+   },
+   {
+    "text": "إليف شافاق",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "جلال الدين الرومي",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "الرومي"
+    ]
+   },
+   {
+    "text": "حافظ الشيرازي",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "عمر الخيام",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "طاغور",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "رابندرانات طاغور"
+    ]
+   },
+   {
+    "text": "جون شتاينبك",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "شتاينبك"
+    ]
+   },
+   {
+    "text": "ويليام فوكنر",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "فوكنر"
+    ]
+   },
+   {
+    "text": "سكوت فيتزجيرالد",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "فيتزجيرالد"
+    ]
+   },
+   {
+    "text": "هيرمان ملفيل",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "ملفيل"
+    ]
+   },
+   {
+    "text": "توني موريسون",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "مايا أنجيلو",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "إتش جي ويلز",
+    "baseRarity": 0.003,
+    "aliases": [
+     "ويلز"
+    ]
+   },
+   {
+    "text": "ألدوس هكسلي",
+    "baseRarity": 0.003,
+    "aliases": [
+     "هكسلي"
+    ]
+   },
+   {
+    "text": "تشينوا أتشيبي",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "وول سوينكا",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "لويس كارول",
+    "baseRarity": 0.0029
+   }
+  ],
+  "secret": "ميلان كونديرا",
+  "sources": [
+   "https://www.nobelprize.org/prizes/lists/all-nobel-prizes-in-literature/"
+  ]
+ },
+ {
+  "id": "lang-arabic-novels",
+  "category": "لغة وأدب",
+  "prompt": "اذكر رواية عربية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "موسم الهجرة إلى الشمال",
+    "baseRarity": 0.2051
+   },
+   {
+    "text": "بين القصرين",
+    "baseRarity": 0.1026
+   },
+   {
+    "text": "قصر الشوق",
+    "baseRarity": 0.0684
+   },
+   {
+    "text": "السكرية",
+    "baseRarity": 0.0513
+   },
+   {
+    "text": "الثلاثية",
+    "baseRarity": 0.041,
+    "aliases": [
+     "ثلاثية نجيب محفوظ"
+    ]
+   },
+   {
+    "text": "أولاد حارتنا",
+    "baseRarity": 0.0342
+   },
+   {
+    "text": "اللص والكلاب",
+    "baseRarity": 0.0293
+   },
+   {
+    "text": "زقاق المدق",
+    "baseRarity": 0.0256
+   },
+   {
+    "text": "الحرافيش",
+    "baseRarity": 0.0228,
+    "aliases": [
+     "ملحمة الحرافيش"
+    ]
+   },
+   {
+    "text": "ميرامار",
+    "baseRarity": 0.0205
+   },
+   {
+    "text": "السمان والخريف",
+    "baseRarity": 0.0186
+   },
+   {
+    "text": "عزازيل",
+    "baseRarity": 0.0171
+   },
+   {
+    "text": "ساق البامبو",
+    "baseRarity": 0.0158
+   },
+   {
+    "text": "شقة الحرية",
+    "baseRarity": 0.0147
+   },
+   {
+    "text": "مدن الملح",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "الخبز الحافي",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "رجال في الشمس",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "عائد إلى حيفا",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "ذاكرة الجسد",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "فوضى الحواس",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "عابر سرير",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "الأسود يليق بك",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "الأيام",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "دعاء الكروان",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "عمارة يعقوبيان",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "رد قلبي",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "في بيتنا رجل",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "الأرض",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "يوميات نائب في الأرياف",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "عصفور من الشرق",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "قنديل أم هاشم",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "الطنطورية",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "ثلاثية غرناطة",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "فرانكشتاين في بغداد",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "بنات الرياض",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "ترمي بشرر",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "طوق الحمام",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "القوقعة",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "موت صغير",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "الحزام",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "شرق المتوسط",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "النهايات",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "أرض السواد",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "العصفورية",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "الجنية",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "الحمام لا يطير في بريدة",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "فخاخ الرائحة",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "أحببتك أكثر مما ينبغي",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "فئران أمي حصة",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "البحث عن وليد مسعود",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "التبر",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "نزيف الحجر",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "اللاز",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "ريح الجنوب",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "باب الشمس",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "رامة والتنين",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "واحة الغروب",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "الكرنك",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "ثرثرة فوق النيل",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "الطريق",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "الشحاذ",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "رحلة ابن فطومة",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "ليالي ألف ليلة",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "بداية ونهاية",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "خان الخليلي",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "القاهرة الجديدة",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "السراب",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "يوتوبيا",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "الفيل الأزرق",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "تراب الماس",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "هيبتا",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "أرض زيكولا",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "خوف",
+    "baseRarity": 0.0028
+   }
+  ],
+  "secret": "التبر",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_أفضل_مئة_رواية_عربية"
+  ]
+ },
+ {
+  "id": "lang-world-novels",
+  "category": "لغة وأدب",
+  "prompt": "اذكر رواية أو كتاب أدبي عالمي",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "البؤساء",
+    "baseRarity": 0.2063
+   },
+   {
+    "text": "الحرب والسلام",
+    "baseRarity": 0.1032
+   },
+   {
+    "text": "آنا كارنينا",
+    "baseRarity": 0.0688
+   },
+   {
+    "text": "الجريمة والعقاب",
+    "baseRarity": 0.0516
+   },
+   {
+    "text": "الإخوة كارامازوف",
+    "baseRarity": 0.0413
+   },
+   {
+    "text": "الأبله",
+    "baseRarity": 0.0344
+   },
+   {
+    "text": "1984",
+    "baseRarity": 0.0295,
+    "aliases": [
+     "ألف وتسعمئة وأربعة وثمانون"
+    ]
+   },
+   {
+    "text": "مزرعة الحيوان",
+    "baseRarity": 0.0258
+   },
+   {
+    "text": "الشيخ والبحر",
+    "baseRarity": 0.0229
+   },
+   {
+    "text": "مائة عام من العزلة",
+    "baseRarity": 0.0206
+   },
+   {
+    "text": "الحب في زمن الكوليرا",
+    "baseRarity": 0.0188
+   },
+   {
+    "text": "الخيميائي",
+    "baseRarity": 0.0172
+   },
+   {
+    "text": "المسخ",
+    "baseRarity": 0.0159,
+    "aliases": [
+     "التحول"
+    ]
+   },
+   {
+    "text": "المحاكمة",
+    "baseRarity": 0.0147
+   },
+   {
+    "text": "الغريب",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "الطاعون",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "كبرياء وتحامل",
+    "baseRarity": 0.0121,
+    "aliases": [
+     "كبرياء وهوى"
+    ]
+   },
+   {
+    "text": "أوليفر تويست",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "قصة مدينتين",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "آمال عظيمة",
+    "baseRarity": 0.0103,
+    "aliases": [
+     "الآمال الكبرى"
+    ]
+   },
+   {
+    "text": "مغامرات توم سوير",
+    "baseRarity": 0.0098,
+    "aliases": [
+     "توم سوير"
+    ]
+   },
+   {
+    "text": "هاري بوتر",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "سيد الخواتم",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "الهوبيت",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "الأمير الصغير",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "دون كيشوت",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "الكونت دي مونت كريستو",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "الفرسان الثلاثة",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "أحدب نوتردام",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "ذهب مع الريح",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "جين إير",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "مرتفعات ويذرينغ",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "فرانكشتاين",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "دراكولا",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "موبي ديك",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "غاتسبي العظيم",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "لمن تقرع الأجراس",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "وداعا للسلاح",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "عناقيد الغضب",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "الحارس في حقل الشوفان",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "أن تقتل طائرا بريئا",
+    "baseRarity": 0.005,
+    "aliases": [
+     "لا تقتل عصفورا ساخرا"
+    ]
+   },
+   {
+    "text": "عالم جديد شجاع",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "فهرنهايت 451",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "رحلات جليفر",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "روبنسون كروزو",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "جزيرة الكنز",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "عشرون ألف فرسخ تحت البحر",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "حول العالم في ثمانين يوما",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "أليس في بلاد العجائب",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "شيفرة دافنشي",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "لعبة العروش",
+    "baseRarity": 0.004,
+    "aliases": [
+     "أغنية الجليد والنار"
+    ]
+   },
+   {
+    "text": "مدام بوفاري",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "الأحمر والأسود",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "الكوميديا الإلهية",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "الإلياذة",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "الأوديسة",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "فاوست",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "آلام فيرتر",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "قلب الظلام",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "يوليسيس",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "الصخب والعنف",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "لوليتا",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "دكتور جيفاغو",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "الدون الهادئ",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "الأم",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "الأشياء تتداعى",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "اسم الوردة",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "العمى",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "كافكا على الشاطئ",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "الغثيان",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "البحث عن الزمن المفقود",
+    "baseRarity": 0.0029
+   }
+  ],
+  "secret": "الإخوة كارامازوف",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_best-selling_books"
+  ]
+ },
+ {
+  "id": "lang-male-names",
+  "category": "لغة وأدب",
+  "prompt": "اذكر اسم عربي لولد",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "محمد",
+    "baseRarity": 0.1759,
+    "aliases": [
+     "محمّد"
+    ]
+   },
+   {
+    "text": "أحمد",
+    "baseRarity": 0.0879
+   },
+   {
+    "text": "عبدالله",
+    "baseRarity": 0.0586,
+    "aliases": [
+     "عبد الله"
+    ]
+   },
+   {
+    "text": "عبدالرحمن",
+    "baseRarity": 0.044,
+    "aliases": [
+     "عبد الرحمن"
+    ]
+   },
+   {
+    "text": "خالد",
+    "baseRarity": 0.0352
+   },
+   {
+    "text": "فهد",
+    "baseRarity": 0.0293
+   },
+   {
+    "text": "سعود",
+    "baseRarity": 0.0251
+   },
+   {
+    "text": "فيصل",
+    "baseRarity": 0.022
+   },
+   {
+    "text": "سلطان",
+    "baseRarity": 0.0195
+   },
+   {
+    "text": "عمر",
+    "baseRarity": 0.0176
+   },
+   {
+    "text": "علي",
+    "baseRarity": 0.016
+   },
+   {
+    "text": "يوسف",
+    "baseRarity": 0.0147
+   },
+   {
+    "text": "إبراهيم",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "عبدالعزيز",
+    "baseRarity": 0.0126,
+    "aliases": [
+     "عبد العزيز"
+    ]
+   },
+   {
+    "text": "سعد",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "ناصر",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "تركي",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "بندر",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "مشعل",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "نايف",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "سلمان",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "ماجد",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "راشد",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "حمد",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "مبارك",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "صالح",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "حسن",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "حسين",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "مصطفى",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "محمود",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "طارق",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "زياد",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "وليد",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "هشام",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "ياسر",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "عادل",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "سامي",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "رامي",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "مازن",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "باسل",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "نواف",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "بدر",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "منصور",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "عثمان",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "أنس",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "عمرو",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "بلال",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "حمزة",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "معاذ",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "أسامة",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "إياد",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "عبدالملك",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "عبد الملك"
+    ]
+   },
+   {
+    "text": "عبدالمجيد",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "عبد المجيد"
+    ]
+   },
+   {
+    "text": "عبدالكريم",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "عبد الكريم"
+    ]
+   },
+   {
+    "text": "عبداللطيف",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "عبد اللطيف"
+    ]
+   },
+   {
+    "text": "عبدالإله",
+    "baseRarity": 0.0031,
+    "aliases": [
+     "عبد الإله"
+    ]
+   },
+   {
+    "text": "عبدالمحسن",
+    "baseRarity": 0.0031,
+    "aliases": [
+     "عبد المحسن"
+    ]
+   },
+   {
+    "text": "عبدالرحيم",
+    "baseRarity": 0.003,
+    "aliases": [
+     "عبد الرحيم"
+    ]
+   },
+   {
+    "text": "عبدالوهاب",
+    "baseRarity": 0.003,
+    "aliases": [
+     "عبد الوهاب"
+    ]
+   },
+   {
+    "text": "عبدالحميد",
+    "baseRarity": 0.0029,
+    "aliases": [
+     "عبد الحميد"
+    ]
+   },
+   {
+    "text": "عبدالهادي",
+    "baseRarity": 0.0029,
+    "aliases": [
+     "عبد الهادي"
+    ]
+   },
+   {
+    "text": "عبدالعليم",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "عبد العليم"
+    ]
+   },
+   {
+    "text": "عبدالسلام",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "عبد السلام"
+    ]
+   },
+   {
+    "text": "فارس",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "غازي",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "ثامر",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "تميم",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "راكان",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "ريان",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "سيف",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "صقر",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "فواز",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "مشاري",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "متعب",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "مساعد",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "بسام",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "جمال",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "كمال",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "نبيل",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "وائل",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "هاني",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "هاشم",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "قاسم",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "جاسم",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "جابر",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "جعفر",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "زكريا",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "يحيى",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "عيسى",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "موسى",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "هارون",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "داود",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "سليمان",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "إسماعيل",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "إسحاق",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "يعقوب",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "آدم",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "نوح",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "إلياس",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "يونس",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "أيوب",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "شعيب",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "صلاح",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "فؤاد",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "رياض",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "شادي",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "فادي",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "مهند",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "حازم",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "عصام",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "هيثم",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "أيمن",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "رائد",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "زيد",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "عبيدة",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "حذيفة",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "البراء",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "مالك",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "أنور",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "سامر",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "ماهر",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "منذر",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "مروان",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "عمار",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "ياسين",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "طلال",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "نزار",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "لؤي",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "شريف",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "رضا",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "عماد",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "أشرف",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "مجدي",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "حمدي",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "فهمي",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "رشيد",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "حامد",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "حميد",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "محسن",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "مهدي",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "هادي",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "زين",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "قصي",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "غسان",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "عزام",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "نادر",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "وسام",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "ضياء",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "رعد",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "عدنان",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "قيس",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "ليث",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "حاتم",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "عزيز",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "مؤيد",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "معتز",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "مراد",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "جواد",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "شاكر",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "صابر",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "صبري",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "عبدالحكيم",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "عبد الحكيم"
+    ]
+   },
+   {
+    "text": "تامر",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "عمران",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "حارث",
+    "baseRarity": 0.0011
+   }
+  ],
+  "secret": "قصي",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/أسماء_عربية"
+  ]
+ },
+ {
+  "id": "lang-female-names",
+  "category": "لغة وأدب",
+  "prompt": "اذكر اسم عربي لبنت",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "فاطمة",
+    "baseRarity": 0.1806
+   },
+   {
+    "text": "عائشة",
+    "baseRarity": 0.0903
+   },
+   {
+    "text": "مريم",
+    "baseRarity": 0.0602
+   },
+   {
+    "text": "نورة",
+    "baseRarity": 0.0452
+   },
+   {
+    "text": "سارة",
+    "baseRarity": 0.0361
+   },
+   {
+    "text": "ريم",
+    "baseRarity": 0.0301
+   },
+   {
+    "text": "هند",
+    "baseRarity": 0.0258
+   },
+   {
+    "text": "لولوة",
+    "baseRarity": 0.0226,
+    "aliases": [
+     "لؤلؤة"
+    ]
+   },
+   {
+    "text": "منى",
+    "baseRarity": 0.0201
+   },
+   {
+    "text": "هيا",
+    "baseRarity": 0.0181
+   },
+   {
+    "text": "العنود",
+    "baseRarity": 0.0164
+   },
+   {
+    "text": "الجوهرة",
+    "baseRarity": 0.0151
+   },
+   {
+    "text": "نوف",
+    "baseRarity": 0.0139
+   },
+   {
+    "text": "شهد",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "جود",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "لمى",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "ليان",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "رنا",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "دانة",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "أمل",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "أسماء",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "خديجة",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "زينب",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "حفصة",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "رقية",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "آمنة",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "حليمة",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "سمية",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "صفية",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "جميلة",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "سلمى",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "ليلى",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "هدى",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "نور",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "نجلاء",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "نوال",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "وفاء",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "ابتسام",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "إيمان",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "أميرة",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "بشرى",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "بدرية",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "تهاني",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "حنان",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "حصة",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "دلال",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "رحاب",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "رهف",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "روان",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "رزان",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "ريما",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "ريهام",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "سعاد",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "سميرة",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "سهام",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "شيماء",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "صفاء",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "عبير",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "عفاف",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "غادة",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "غدير",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "فرح",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "فدوى",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "لطيفة",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "لينا",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "مها",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "ميساء",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "ميار",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "نادية",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "نجوى",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "نسرين",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "نهى",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "هالة",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "هبة",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "هيفاء",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "وعد",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "ياسمين",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "يارا",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "جنى",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "تالا",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "لجين",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "ديما",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "دعاء",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "رغد",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "أريج",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "أسيل",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "بسمة",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "بيان",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "تسنيم",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "جوري",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "حلا",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "رنيم",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "ريناد",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "سديم",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "سلاف",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "شوق",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "غلا",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "لين",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "مرام",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "ملاك",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "منيرة",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "موضي",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "نوير",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "هتون",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "وجدان",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "وئام",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "آلاء",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "إسراء",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "آية",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "بتول",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "جنان",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "حنين",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "رؤى",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "ريتاج",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "زهرة",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "سلوى",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "عزيزة",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "عفراء",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "غيداء",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "فجر",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "كوثر",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "ليال",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "نبيلة",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "نسيبة",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "هاجر",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "وداد",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "يسرى",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "أروى",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "بلقيس",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "خلود",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "سجى",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "شذى",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "عهود",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "لبنى",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "مزنة",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "مشاعل",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "نجود",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "وضحى",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "جواهر",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "ثريا",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "سكينة",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "رباب",
+    "baseRarity": 0.0013
+   }
+  ],
+  "secret": "سلاف",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/أسماء_عربية"
+  ]
+ },
+ {
+  "id": "lang-grammar-terms",
+  "category": "لغة وأدب",
+  "prompt": "اذكر مصطلح من مصطلحات النحو أو الصرف العربي",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "الفاعل",
+    "baseRarity": 0.2046
+   },
+   {
+    "text": "المفعول به",
+    "baseRarity": 0.1023
+   },
+   {
+    "text": "المبتدأ",
+    "baseRarity": 0.0682
+   },
+   {
+    "text": "الخبر",
+    "baseRarity": 0.0511
+   },
+   {
+    "text": "الفعل",
+    "baseRarity": 0.0409
+   },
+   {
+    "text": "الاسم",
+    "baseRarity": 0.0341
+   },
+   {
+    "text": "الحرف",
+    "baseRarity": 0.0292
+   },
+   {
+    "text": "الفعل الماضي",
+    "baseRarity": 0.0256
+   },
+   {
+    "text": "الفعل المضارع",
+    "baseRarity": 0.0227
+   },
+   {
+    "text": "فعل الأمر",
+    "baseRarity": 0.0205
+   },
+   {
+    "text": "المرفوع",
+    "baseRarity": 0.0186,
+    "aliases": [
+     "الرفع"
+    ]
+   },
+   {
+    "text": "المنصوب",
+    "baseRarity": 0.017,
+    "aliases": [
+     "النصب"
+    ]
+   },
+   {
+    "text": "المجرور",
+    "baseRarity": 0.0157,
+    "aliases": [
+     "الجر"
+    ]
+   },
+   {
+    "text": "المجزوم",
+    "baseRarity": 0.0146,
+    "aliases": [
+     "الجزم"
+    ]
+   },
+   {
+    "text": "الضمة",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "الفتحة",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "الكسرة",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "السكون",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "التنوين",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "الشدة",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "الحال",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "التمييز",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "المفعول المطلق",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "المفعول لأجله",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "المفعول فيه",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "الظرف"
+    ]
+   },
+   {
+    "text": "المفعول معه",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "النعت",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "الصفة"
+    ]
+   },
+   {
+    "text": "البدل",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "التوكيد",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "العطف",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "المضاف",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "المضاف إليه",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "نائب الفاعل",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "كان وأخواتها",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "إن وأخواتها",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "ظن وأخواتها",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "الجملة الاسمية",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "الجملة الفعلية",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "شبه الجملة",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "الضمير",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "اسم الإشارة",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "الاسم الموصول",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "الممنوع من الصرف",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "المثنى",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "جمع المذكر السالم",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "جمع المؤنث السالم",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "جمع التكسير",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "الاسم المقصور",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الاسم المنقوص",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الاسم الممدود",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "الأسماء الخمسة",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "الأفعال الخمسة",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "الفعل اللازم",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "الفعل المتعدي",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "المبني للمجهول",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "المبني للمعلوم",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "الفعل الصحيح",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "الفعل المعتل",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "الميزان الصرفي",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "المصدر",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "اسم الفاعل",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "اسم المفعول",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "الصفة المشبهة",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "اسم التفضيل",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "اسم الآلة",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "اسم المكان",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "اسم الزمان",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "المنادى",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "الاستثناء",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "التعجب",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "النفي",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الشرط",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الإعراب",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "البناء",
+    "baseRarity": 0.0028
+   }
+  ],
+  "secret": "الممنوع من الصرف",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/نحو_عربي"
+  ]
+ },
+ {
+  "id": "lang-classical-books",
+  "category": "لغة وأدب",
+  "prompt": "اذكر كتاب عربي تراثي مشهور",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "ألف ليلة وليلة",
+    "baseRarity": 0.2144
+   },
+   {
+    "text": "كليلة ودمنة",
+    "baseRarity": 0.1072
+   },
+   {
+    "text": "البخلاء",
+    "baseRarity": 0.0715
+   },
+   {
+    "text": "البيان والتبيين",
+    "baseRarity": 0.0536
+   },
+   {
+    "text": "الحيوان",
+    "baseRarity": 0.0429
+   },
+   {
+    "text": "مقدمة ابن خلدون",
+    "baseRarity": 0.0357
+   },
+   {
+    "text": "الأغاني",
+    "baseRarity": 0.0306
+   },
+   {
+    "text": "العقد الفريد",
+    "baseRarity": 0.0268
+   },
+   {
+    "text": "طوق الحمامة",
+    "baseRarity": 0.0238
+   },
+   {
+    "text": "رسالة الغفران",
+    "baseRarity": 0.0214
+   },
+   {
+    "text": "مقامات الحريري",
+    "baseRarity": 0.0195
+   },
+   {
+    "text": "مقامات بديع الزمان الهمذاني",
+    "baseRarity": 0.0179,
+    "aliases": [
+     "مقامات الهمذاني"
+    ]
+   },
+   {
+    "text": "لسان العرب",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "القاموس المحيط",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "الكامل في التاريخ",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "تاريخ الطبري",
+    "baseRarity": 0.0134,
+    "aliases": [
+     "تاريخ الرسل والملوك"
+    ]
+   },
+   {
+    "text": "البداية والنهاية",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "سيرة ابن هشام",
+    "baseRarity": 0.0119,
+    "aliases": [
+     "السيرة النبوية لابن هشام"
+    ]
+   },
+   {
+    "text": "الكامل في اللغة والأدب",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "أدب الكاتب",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "الشعر والشعراء",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "طبقات فحول الشعراء",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "المستطرف في كل فن مستظرف",
+    "baseRarity": 0.0093,
+    "aliases": [
+     "المستطرف"
+    ]
+   },
+   {
+    "text": "نهج البلاغة",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "الإمتاع والمؤانسة",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "حي بن يقظان",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "تهافت الفلاسفة",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "تهافت التهافت",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "إحياء علوم الدين",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "القانون في الطب",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "الشفاء",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "كتاب المناظر",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "الجبر والمقابلة",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "نزهة المشتاق",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "رحلة ابن بطوطة",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "تحفة النظار"
+    ]
+   },
+   {
+    "text": "معجم البلدان",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "وفيات الأعيان",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "الفهرست",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "صبح الأعشى",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "نفح الطيب",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "الخطط المقريزية",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "المواعظ والاعتبار"
+    ]
+   },
+   {
+    "text": "عجائب الآثار",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "الكتاب",
+    "baseRarity": 0.005,
+    "aliases": [
+     "كتاب سيبويه"
+    ]
+   },
+   {
+    "text": "الخصائص",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "ألفية ابن مالك",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "الأجرومية",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "مغني اللبيب",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "دلائل الإعجاز",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "أسرار البلاغة",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "المثل السائر",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "يتيمة الدهر",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الأمالي",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "زهر الآداب",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "مروج الذهب",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "عيون الأخبار",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "الأحكام السلطانية",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "تاريخ بغداد",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "سير أعلام النبلاء",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "الأدب المفرد",
+    "baseRarity": 0.0036
+   }
+  ],
+  "secret": "يتيمة الدهر",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/التراث_العربي"
+  ]
+ },
+ {
+  "id": "lang-literary-terms",
+  "category": "لغة وأدب",
+  "prompt": "اذكر فن أو مصطلح أدبي",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "رواية",
+    "baseRarity": 0.2177
+   },
+   {
+    "text": "قصة قصيرة",
+    "baseRarity": 0.1088
+   },
+   {
+    "text": "قصة",
+    "baseRarity": 0.0726
+   },
+   {
+    "text": "شعر",
+    "baseRarity": 0.0544
+   },
+   {
+    "text": "مسرحية",
+    "baseRarity": 0.0435
+   },
+   {
+    "text": "مقالة",
+    "baseRarity": 0.0363,
+    "aliases": [
+     "مقال"
+    ]
+   },
+   {
+    "text": "خاطرة",
+    "baseRarity": 0.0311
+   },
+   {
+    "text": "سيرة ذاتية",
+    "baseRarity": 0.0272
+   },
+   {
+    "text": "سيرة غيرية",
+    "baseRarity": 0.0242
+   },
+   {
+    "text": "رسالة",
+    "baseRarity": 0.0218,
+    "aliases": [
+     "فن الرسائل"
+    ]
+   },
+   {
+    "text": "خطبة",
+    "baseRarity": 0.0198,
+    "aliases": [
+     "الخطابة"
+    ]
+   },
+   {
+    "text": "مقامة",
+    "baseRarity": 0.0181
+   },
+   {
+    "text": "ملحمة",
+    "baseRarity": 0.0167
+   },
+   {
+    "text": "أسطورة",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "حكاية",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "خرافة",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "نثر",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "قصيدة",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "نقد أدبي",
+    "baseRarity": 0.0115,
+    "aliases": [
+     "النقد"
+    ]
+   },
+   {
+    "text": "أدب الرحلات",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "أدب الأطفال",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "أدب الخيال العلمي",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "أدب السجون",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "أدب المهجر",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "الرمزية",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "الرومانسية",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "الواقعية",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "الكلاسيكية",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "السريالية",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "الحداثة",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "ما بعد الحداثة",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "الكوميديا",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "التراجيديا",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "المأساة"
+    ]
+   },
+   {
+    "text": "الدراما",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "المونولوج",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "الحوار",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "الحبكة",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "العقدة",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "الشخصية",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "السرد",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "الراوي",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "الذروة",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "الحل",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "الخاتمة"
+    ]
+   },
+   {
+    "text": "المفارقة",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "السخرية",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "الهجاء",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "المدح",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "الرثاء",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "الغزل",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "الفخر",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "الوصف",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الحكمة",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الزهد",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "القصة الومضة",
+    "baseRarity": 0.004,
+    "aliases": [
+     "القصة القصيرة جدا"
+    ]
+   },
+   {
+    "text": "الرواية التاريخية",
+    "baseRarity": 0.004
+   }
+  ],
+  "secret": "المقامة",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/أدب"
+  ]
+ },
+ {
+  "id": "lang-rhetoric",
+  "category": "لغة وأدب",
+  "prompt": "اذكر مصطلح من مصطلحات البلاغة العربية",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "تشبيه",
+    "baseRarity": 0.2275
+   },
+   {
+    "text": "استعارة",
+    "baseRarity": 0.1138
+   },
+   {
+    "text": "كناية",
+    "baseRarity": 0.0758
+   },
+   {
+    "text": "مجاز",
+    "baseRarity": 0.0569
+   },
+   {
+    "text": "جناس",
+    "baseRarity": 0.0455
+   },
+   {
+    "text": "طباق",
+    "baseRarity": 0.0379
+   },
+   {
+    "text": "مقابلة",
+    "baseRarity": 0.0325
+   },
+   {
+    "text": "سجع",
+    "baseRarity": 0.0284
+   },
+   {
+    "text": "تورية",
+    "baseRarity": 0.0253
+   },
+   {
+    "text": "التشبيه البليغ",
+    "baseRarity": 0.0228
+   },
+   {
+    "text": "التشبيه التمثيلي",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "التشبيه الضمني",
+    "baseRarity": 0.019
+   },
+   {
+    "text": "الاستعارة المكنية",
+    "baseRarity": 0.0175
+   },
+   {
+    "text": "الاستعارة التصريحية",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "المجاز المرسل",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "المجاز العقلي",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "الجناس التام",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "الجناس الناقص",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "حسن التعليل",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "تأكيد المدح بما يشبه الذم",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "رد العجز على الصدر",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "الالتفات",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "الإيجاز",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "الإطناب",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "المساواة",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "القصر",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "الخبر",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "الإنشاء",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "الأمر",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "النهي",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "الاستفهام",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "التمني",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "النداء",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "الفصل والوصل",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "التقديم والتأخير",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "الحذف",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "علم المعاني",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "علم البيان",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "علم البديع",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "الاقتباس",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "التضمين",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "اللف والنشر",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "المبالغة",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "الإرصاد",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "مراعاة النظير",
+    "baseRarity": 0.0051
+   }
+  ],
+  "secret": "حسن التعليل",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/بلاغة"
+  ]
+ },
+ {
+  "id": "lang-prosody",
+  "category": "لغة وأدب",
+  "prompt": "اذكر بحر من بحور الشعر العربي أو مصطلح من العروض والقافية",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "الطويل",
+    "baseRarity": 0.2299
+   },
+   {
+    "text": "المديد",
+    "baseRarity": 0.1149
+   },
+   {
+    "text": "البسيط",
+    "baseRarity": 0.0766
+   },
+   {
+    "text": "الوافر",
+    "baseRarity": 0.0575
+   },
+   {
+    "text": "الكامل",
+    "baseRarity": 0.046
+   },
+   {
+    "text": "الهزج",
+    "baseRarity": 0.0383
+   },
+   {
+    "text": "الرجز",
+    "baseRarity": 0.0328
+   },
+   {
+    "text": "الرمل",
+    "baseRarity": 0.0287
+   },
+   {
+    "text": "السريع",
+    "baseRarity": 0.0255
+   },
+   {
+    "text": "المنسرح",
+    "baseRarity": 0.023
+   },
+   {
+    "text": "الخفيف",
+    "baseRarity": 0.0209
+   },
+   {
+    "text": "المضارع",
+    "baseRarity": 0.0192
+   },
+   {
+    "text": "المقتضب",
+    "baseRarity": 0.0177
+   },
+   {
+    "text": "المجتث",
+    "baseRarity": 0.0164
+   },
+   {
+    "text": "المتقارب",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "المتدارك",
+    "baseRarity": 0.0144,
+    "aliases": [
+     "الخبب"
+    ]
+   },
+   {
+    "text": "القافية",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "الروي",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "الوزن",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "التفعيلة",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "الشطر",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "الصدر",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "العجز",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "البيت",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "القصيدة",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "المعلقة",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "المعلقات"
+    ]
+   },
+   {
+    "text": "الموشح",
+    "baseRarity": 0.0085,
+    "aliases": [
+     "الموشحات"
+    ]
+   },
+   {
+    "text": "الزجل",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "المخمس",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "الرباعيات",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "الرباعية"
+    ]
+   },
+   {
+    "text": "شعر التفعيلة",
+    "baseRarity": 0.0074,
+    "aliases": [
+     "الشعر الحر"
+    ]
+   },
+   {
+    "text": "قصيدة النثر",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "الشعر العمودي",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "الزحاف",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "العلة",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "التدوير",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "التصريع",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "الضرب",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "العروض",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "الوتد",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "السبب",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "الفاصلة",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "الكتابة العروضية",
+    "baseRarity": 0.0053
+   }
+  ],
+  "secret": "المقتضب",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/علم_العروض"
+  ]
+ },
+ {
+  "id": "lang-particles",
+  "category": "لغة وأدب",
+  "prompt": "اذكر حرف أو أداة في النحو العربي (مثل: حروف الجر والنصب والجزم والعطف)",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "من",
+    "baseRarity": 0.2233
+   },
+   {
+    "text": "إلى",
+    "baseRarity": 0.1116
+   },
+   {
+    "text": "عن",
+    "baseRarity": 0.0744
+   },
+   {
+    "text": "على",
+    "baseRarity": 0.0558
+   },
+   {
+    "text": "في",
+    "baseRarity": 0.0447
+   },
+   {
+    "text": "الباء",
+    "baseRarity": 0.0372,
+    "aliases": [
+     "ب"
+    ]
+   },
+   {
+    "text": "اللام",
+    "baseRarity": 0.0319,
+    "aliases": [
+     "ل"
+    ]
+   },
+   {
+    "text": "الكاف",
+    "baseRarity": 0.0279,
+    "aliases": [
+     "ك"
+    ]
+   },
+   {
+    "text": "حتى",
+    "baseRarity": 0.0248
+   },
+   {
+    "text": "منذ",
+    "baseRarity": 0.0223
+   },
+   {
+    "text": "مذ",
+    "baseRarity": 0.0203
+   },
+   {
+    "text": "رب",
+    "baseRarity": 0.0186
+   },
+   {
+    "text": "خلا",
+    "baseRarity": 0.0172
+   },
+   {
+    "text": "عدا",
+    "baseRarity": 0.0159
+   },
+   {
+    "text": "حاشا",
+    "baseRarity": 0.0149
+   },
+   {
+    "text": "واو القسم",
+    "baseRarity": 0.014,
+    "aliases": [
+     "و"
+    ]
+   },
+   {
+    "text": "تاء القسم",
+    "baseRarity": 0.0131,
+    "aliases": [
+     "ت"
+    ]
+   },
+   {
+    "text": "إن",
+    "baseRarity": 0.0124
+   },
+   {
+    "text": "كأن",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "لكن",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "ليت",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "لعل",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "لا",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "لم",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "لن",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "لما",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "كي",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "إذن",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "ما",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "هل",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "الهمزة",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "أ"
+    ]
+   },
+   {
+    "text": "أم",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "أو",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "ثم",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "الفاء",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "ف"
+    ]
+   },
+   {
+    "text": "بل",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "لو",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "لولا",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "إذا",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "إذ",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "قد",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "سوف",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "السين",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "س"
+    ]
+   },
+   {
+    "text": "يا",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "أيا",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "هيا",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "نعم",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "بلى",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "كلا",
+    "baseRarity": 0.0046
+   }
+  ],
+  "secret": "رب",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/حروف_المعاني"
+  ]
+ },
+ {
+  "id": "lang-folk-stories",
+  "category": "لغة وأدب",
+  "prompt": "اذكر حكاية أو قصة شعبية مشهورة",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "سندريلا",
+    "baseRarity": 0.2275
+   },
+   {
+    "text": "ليلى والذئب",
+    "baseRarity": 0.1138,
+    "aliases": [
+     "ذات الرداء الأحمر",
+     "ليلى والذيب"
+    ]
+   },
+   {
+    "text": "علاء الدين",
+    "baseRarity": 0.0758,
+    "aliases": [
+     "علاء الدين والمصباح السحري"
+    ]
+   },
+   {
+    "text": "علي بابا والأربعين حرامي",
+    "baseRarity": 0.0569,
+    "aliases": [
+     "علي بابا"
+    ]
+   },
+   {
+    "text": "السندباد البحري",
+    "baseRarity": 0.0455,
+    "aliases": [
+     "سندباد"
+    ]
+   },
+   {
+    "text": "بياض الثلج",
+    "baseRarity": 0.0379,
+    "aliases": [
+     "سنو وايت",
+     "بياض الثلج والأقزام السبعة"
+    ]
+   },
+   {
+    "text": "الجميلة والوحش",
+    "baseRarity": 0.0325
+   },
+   {
+    "text": "الجميلة النائمة",
+    "baseRarity": 0.0284
+   },
+   {
+    "text": "رابونزل",
+    "baseRarity": 0.0253,
+    "aliases": [
+     "ذات الشعر الطويل"
+    ]
+   },
+   {
+    "text": "هانسل وغريتل",
+    "baseRarity": 0.0228
+   },
+   {
+    "text": "عقلة الإصبع",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "بينوكيو",
+    "baseRarity": 0.019
+   },
+   {
+    "text": "بيتر بان",
+    "baseRarity": 0.0175
+   },
+   {
+    "text": "أليس في بلاد العجائب",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "الأمير الضفدع",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "البطة القبيحة",
+    "baseRarity": 0.0142,
+    "aliases": [
+     "فرخ البط القبيح"
+    ]
+   },
+   {
+    "text": "حورية البحر الصغيرة",
+    "baseRarity": 0.0134,
+    "aliases": [
+     "الحورية الصغيرة"
+    ]
+   },
+   {
+    "text": "جاك وشجرة الفاصولياء",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "الخنازير الثلاثة",
+    "baseRarity": 0.012,
+    "aliases": [
+     "الخنازير الثلاثة الصغيرة"
+    ]
+   },
+   {
+    "text": "الأرنب والسلحفاة",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "نوادر جحا",
+    "baseRarity": 0.0108,
+    "aliases": [
+     "جحا"
+    ]
+   },
+   {
+    "text": "عنترة وعبلة",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "قيس وليلى",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "الشاطر حسن",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "ست الحسن والجمال",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "أبو زيد الهلالي",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "السيرة الهلالية",
+     "تغريبة بني هلال"
+    ]
+   },
+   {
+    "text": "سيرة سيف بن ذي يزن",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "سيرة الزير سالم",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "الأميرة وحبة البازلاء",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "ثياب الإمبراطور الجديدة",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "الملك العاري"
+    ]
+   },
+   {
+    "text": "بائعة الكبريت",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "روبن هود",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "الملك آرثر",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "فرسان المائدة المستديرة"
+    ]
+   },
+   {
+    "text": "كتاب الأدغال",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "ماوكلي"
+    ]
+   },
+   {
+    "text": "ذات الحذاء الأحمر",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "القط ذو الحذاء",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "القط أبو جزمة"
+    ]
+   },
+   {
+    "text": "الصياد والعفريت",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "شهرزاد وشهريار",
+    "baseRarity": 0.006,
+    "aliases": [
+     "شهرزاد"
+    ]
+   },
+   {
+    "text": "الثعلب والعنب",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "الراعي الكذاب",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "النملة والجندب",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "النملة والصرصار"
+    ]
+   },
+   {
+    "text": "الغراب والثعلب",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "الأسد والفأر",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "الأقزام والإسكافي",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "السعلوة",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "أم السعف والليف"
+    ]
+   }
+  ],
+  "secret": "الأميرة وحبة البازلاء",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_fairy_tales"
+  ]
+ },
+ {
+  "id": "lang-plays",
+  "category": "لغة وأدب",
+  "prompt": "اذكر مسرحية مشهورة (عربية أو عالمية)",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "هاملت",
+    "baseRarity": 0.2204
+   },
+   {
+    "text": "روميو وجولييت",
+    "baseRarity": 0.1102
+   },
+   {
+    "text": "عطيل",
+    "baseRarity": 0.0735
+   },
+   {
+    "text": "ماكبث",
+    "baseRarity": 0.0551
+   },
+   {
+    "text": "الملك لير",
+    "baseRarity": 0.0441
+   },
+   {
+    "text": "تاجر البندقية",
+    "baseRarity": 0.0367
+   },
+   {
+    "text": "حلم ليلة صيف",
+    "baseRarity": 0.0315
+   },
+   {
+    "text": "يوليوس قيصر",
+    "baseRarity": 0.0275
+   },
+   {
+    "text": "العاصفة",
+    "baseRarity": 0.0245
+   },
+   {
+    "text": "الليلة الثانية عشرة",
+    "baseRarity": 0.022
+   },
+   {
+    "text": "ترويض النمرة",
+    "baseRarity": 0.02
+   },
+   {
+    "text": "انتظار غودو",
+    "baseRarity": 0.0184,
+    "aliases": [
+     "في انتظار غودو"
+    ]
+   },
+   {
+    "text": "بيت الدمية",
+    "baseRarity": 0.017,
+    "aliases": [
+     "بيت الدمى"
+    ]
+   },
+   {
+    "text": "أوديب ملكا",
+    "baseRarity": 0.0157,
+    "aliases": [
+     "أوديب"
+    ]
+   },
+   {
+    "text": "أنتيغون",
+    "baseRarity": 0.0147
+   },
+   {
+    "text": "عربة اسمها الرغبة",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "موت بائع متجول",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "البخيل",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "طرطوف",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "سيرانو دي برجراك",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "مجنون ليلى",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "مصرع كليوباترا",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "أهل الكهف",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "شهرزاد",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "السلطان الحائر",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "يا طالع الشجرة",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "بجماليون",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "الملك هو الملك",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "مغامرة رأس المملوك جابر",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "مدرسة المشاغبين",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "العيال كبرت",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "شاهد ماشافش حاجة",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "الواد سيد الشغال",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "سك على بناتك",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "الزعيم",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "ريا وسكينة",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "المتزوجون",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "باي باي لندن",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "على هامان يا فرعون",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "حامي الديار",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "فرسان المناخ",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "سيف العرب",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "كاسك يا وطن",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "غربة",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "ضيعة تشرين",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "بياع الخواتم",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "هالة والملك",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "ميس الريم",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "شبح الأوبرا",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "البؤساء",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "ماما ميا",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الأسد الملك",
+    "baseRarity": 0.0042
+   }
+  ],
+  "secret": "السلطان الحائر",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_plays"
+  ]
+ },
+ {
+  "id": "lang-saudi-writers",
+  "category": "لغة وأدب",
+  "prompt": "اذكر أديب أو شاعر سعودي",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "غازي القصيبي",
+    "baseRarity": 0.2233
+   },
+   {
+    "text": "عبدالرحمن منيف",
+    "baseRarity": 0.1116
+   },
+   {
+    "text": "تركي الحمد",
+    "baseRarity": 0.0744
+   },
+   {
+    "text": "عبده خال",
+    "baseRarity": 0.0558
+   },
+   {
+    "text": "رجاء عالم",
+    "baseRarity": 0.0447
+   },
+   {
+    "text": "محمد حسن علوان",
+    "baseRarity": 0.0372
+   },
+   {
+    "text": "يوسف المحيميد",
+    "baseRarity": 0.0319
+   },
+   {
+    "text": "أحمد أبو دهمان",
+    "baseRarity": 0.0279
+   },
+   {
+    "text": "رجاء الصانع",
+    "baseRarity": 0.0248
+   },
+   {
+    "text": "أسامة المسلم",
+    "baseRarity": 0.0223
+   },
+   {
+    "text": "أثير عبدالله النشمي",
+    "baseRarity": 0.0203
+   },
+   {
+    "text": "محمد الثبيتي",
+    "baseRarity": 0.0186
+   },
+   {
+    "text": "الأمير بدر بن عبدالمحسن",
+    "baseRarity": 0.0172,
+    "aliases": [
+     "بدر بن عبدالمحسن"
+    ]
+   },
+   {
+    "text": "الأمير خالد الفيصل",
+    "baseRarity": 0.0159,
+    "aliases": [
+     "خالد الفيصل"
+    ]
+   },
+   {
+    "text": "الأمير عبدالله الفيصل",
+    "baseRarity": 0.0149,
+    "aliases": [
+     "عبدالله الفيصل"
+    ]
+   },
+   {
+    "text": "حمزة شحاتة",
+    "baseRarity": 0.014
+   },
+   {
+    "text": "طاهر زمخشري",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "أحمد قنديل",
+    "baseRarity": 0.0124
+   },
+   {
+    "text": "محمد حسن عواد",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "حسن القرشي",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "عبدالرحمن العشماوي",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "عبدالله بن خميس",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "حمد الجاسر",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "عبدالله الغذامي",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "عبدالكريم الجهيمان",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "عزيز ضياء",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "أحمد السباعي",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "محمد حسين زيدان",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "عبدالقدوس الأنصاري",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "محمد سرور الصبان",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "عبدالله عبدالجبار",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "إبراهيم الناصر الحميدان",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "عبدالعزيز مشري",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "عبدالله الجفري",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "عبدالله باخشوين",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "عبدالله ثابت",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "أميمة الخميس",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "بدرية البشر",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "زينب حفني",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "قماشة العليان",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "مقبول العلوي",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "محمد العلي",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "علي الدميني",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "محمد جبر الحربي",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "جاسم الصحيح",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "إبراهيم الوافي",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "خالد اليوسف",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "فهد العتيق",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "عواض العصيمي",
+    "baseRarity": 0.0046
+   }
+  ],
+  "secret": "حمزة شحاتة",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/الأدب_السعودي"
+  ]
+ },
+ {
+  "id": "lang-days-months",
+  "category": "لغة وأدب",
+  "prompt": "اذكر اسم يوم من أيام الأسبوع أو شهر (هجري أو ميلادي أو سرياني)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "الجمعة",
+    "baseRarity": 0.2299
+   },
+   {
+    "text": "السبت",
+    "baseRarity": 0.1149
+   },
+   {
+    "text": "الأحد",
+    "baseRarity": 0.0766
+   },
+   {
+    "text": "الاثنين",
+    "baseRarity": 0.0575,
+    "aliases": [
+     "الإثنين"
+    ]
+   },
+   {
+    "text": "الثلاثاء",
+    "baseRarity": 0.046
+   },
+   {
+    "text": "الأربعاء",
+    "baseRarity": 0.0383
+   },
+   {
+    "text": "الخميس",
+    "baseRarity": 0.0328
+   },
+   {
+    "text": "رمضان",
+    "baseRarity": 0.0287
+   },
+   {
+    "text": "شعبان",
+    "baseRarity": 0.0255
+   },
+   {
+    "text": "شوال",
+    "baseRarity": 0.023
+   },
+   {
+    "text": "ذو الحجة",
+    "baseRarity": 0.0209
+   },
+   {
+    "text": "محرم",
+    "baseRarity": 0.0192
+   },
+   {
+    "text": "صفر",
+    "baseRarity": 0.0177
+   },
+   {
+    "text": "ربيع الأول",
+    "baseRarity": 0.0164
+   },
+   {
+    "text": "ربيع الآخر",
+    "baseRarity": 0.0153,
+    "aliases": [
+     "ربيع الثاني"
+    ]
+   },
+   {
+    "text": "جمادى الأولى",
+    "baseRarity": 0.0144,
+    "aliases": [
+     "جمادى الأول"
+    ]
+   },
+   {
+    "text": "جمادى الآخرة",
+    "baseRarity": 0.0135,
+    "aliases": [
+     "جمادى الثانية"
+    ]
+   },
+   {
+    "text": "رجب",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "ذو القعدة",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "يناير",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "فبراير",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "مارس",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "أبريل",
+    "baseRarity": 0.01,
+    "aliases": [
+     "إبريل"
+    ]
+   },
+   {
+    "text": "مايو",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "يونيو",
+    "baseRarity": 0.0092,
+    "aliases": [
+     "يونيه"
+    ]
+   },
+   {
+    "text": "يوليو",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "يوليه"
+    ]
+   },
+   {
+    "text": "أغسطس",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "سبتمبر",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "أكتوبر",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "نوفمبر",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "ديسمبر",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "كانون الثاني",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "شباط",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "آذار",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "نيسان",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "أيار",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "حزيران",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "تموز",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "آب",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "أيلول",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "تشرين الأول",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "تشرين الثاني",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "كانون الأول",
+    "baseRarity": 0.0053
+   }
+  ],
+  "secret": "ذو القعدة",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/تقويم"
+  ]
+ },
+ {
+  "id": "lang-fictional-characters",
+  "category": "لغة وأدب",
+  "prompt": "اذكر شخصية خيالية مشهورة من رواية أو قصة",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "شيرلوك هولمز",
+    "baseRarity": 0.2204
+   },
+   {
+    "text": "هاري بوتر",
+    "baseRarity": 0.1102
+   },
+   {
+    "text": "دون كيشوت",
+    "baseRarity": 0.0735
+   },
+   {
+    "text": "روبنسون كروزو",
+    "baseRarity": 0.0551
+   },
+   {
+    "text": "دراكولا",
+    "baseRarity": 0.0441
+   },
+   {
+    "text": "فرانكشتاين",
+    "baseRarity": 0.0367
+   },
+   {
+    "text": "طرزان",
+    "baseRarity": 0.0315
+   },
+   {
+    "text": "بينوكيو",
+    "baseRarity": 0.0275
+   },
+   {
+    "text": "أليس",
+    "baseRarity": 0.0245
+   },
+   {
+    "text": "بيتر بان",
+    "baseRarity": 0.022
+   },
+   {
+    "text": "روبن هود",
+    "baseRarity": 0.02
+   },
+   {
+    "text": "السندباد",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "علاء الدين",
+    "baseRarity": 0.017
+   },
+   {
+    "text": "علي بابا",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "شهرزاد",
+    "baseRarity": 0.0147
+   },
+   {
+    "text": "شهريار",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "هاملت",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "روميو",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "جولييت",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "عطيل",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "ماكبث",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "جان فالجان",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "أحدب نوتردام",
+    "baseRarity": 0.0096,
+    "aliases": [
+     "كوازيمودو"
+    ]
+   },
+   {
+    "text": "الكونت دي مونت كريستو",
+    "baseRarity": 0.0092,
+    "aliases": [
+     "إدموند دانتيس"
+    ]
+   },
+   {
+    "text": "الفرسان الثلاثة",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "دارتانيان"
+    ]
+   },
+   {
+    "text": "توم سوير",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "هكلبيري فين",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "أوليفر تويست",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "ديفيد كوبرفيلد",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "سكروج",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "غاتسبي",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "آنا كارنينا",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "راسكولنيكوف",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "هيركيول بوارو",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "بوارو"
+    ]
+   },
+   {
+    "text": "الآنسة ماربل",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "جيمس بوند",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "غاندالف",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "فرودو",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "غولوم",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "أراغورن",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "الأمير الصغير",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "ماوكلي",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "أرسين لوبين",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "فاوست",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "جين إير",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "إليزابيث بينيت",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "السيد دارسي",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "أهاب",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "الكابتن أهاب"
+    ]
+   },
+   {
+    "text": "السيد أحمد عبد الجواد",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "سي السيد"
+    ]
+   },
+   {
+    "text": "سعيد مهران",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "جحا",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "أشعب",
+    "baseRarity": 0.0042
+   }
+  ],
+  "secret": "أهاب",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lists_of_fictional_characters"
+  ]
+ },
+ {
+  "id": "lang-newspapers",
+  "category": "لغة وأدب",
+  "prompt": "اذكر صحيفة أو مجلة عربية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "الرياض",
+    "baseRarity": 0.2194
+   },
+   {
+    "text": "عكاظ",
+    "baseRarity": 0.1097
+   },
+   {
+    "text": "الجزيرة",
+    "baseRarity": 0.0731
+   },
+   {
+    "text": "الشرق الأوسط",
+    "baseRarity": 0.0549
+   },
+   {
+    "text": "الحياة",
+    "baseRarity": 0.0439
+   },
+   {
+    "text": "الأهرام",
+    "baseRarity": 0.0366
+   },
+   {
+    "text": "الأخبار",
+    "baseRarity": 0.0313
+   },
+   {
+    "text": "الجمهورية",
+    "baseRarity": 0.0274
+   },
+   {
+    "text": "المصري اليوم",
+    "baseRarity": 0.0244
+   },
+   {
+    "text": "الوطن",
+    "baseRarity": 0.0219
+   },
+   {
+    "text": "اليوم",
+    "baseRarity": 0.0199
+   },
+   {
+    "text": "المدينة",
+    "baseRarity": 0.0183
+   },
+   {
+    "text": "البلاد",
+    "baseRarity": 0.0169
+   },
+   {
+    "text": "النهار",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "السفير",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "القبس",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "الرأي",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "الخليج",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "البيان",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "الاتحاد",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "الراية",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "الشرق",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "الأيام",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "الدستور",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "الغد",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "العرب",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "القدس العربي",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "الشروق",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "الوفد",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "روز اليوسف",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "صباح الخير",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "آخر ساعة",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "المصور",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "العربي",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "المجلة",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "سيدتي",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "زهرة الخليج",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "لها",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "ماجد",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "باسم",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "العربي الصغير",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "سمير",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "ميكي",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "اليمامة",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "الفيصل",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "القافلة",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "المنهل",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "الهلال",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "الرسالة",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "المقتطف",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "الأنباء",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الجريدة",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الصباح",
+    "baseRarity": 0.0041
+   }
+  ],
+  "secret": "المنهل",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_الصحف_العربية"
+  ]
+ },
+ {
+  "id": "lang-linguists",
+  "category": "لغة وأدب",
+  "prompt": "اذكر عالم من علماء اللغة العربية والنحو",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "سيبويه",
+    "baseRarity": 0.2287
+   },
+   {
+    "text": "الخليل بن أحمد الفراهيدي",
+    "baseRarity": 0.1143,
+    "aliases": [
+     "الفراهيدي",
+     "الخليل"
+    ]
+   },
+   {
+    "text": "أبو الأسود الدؤلي",
+    "baseRarity": 0.0762
+   },
+   {
+    "text": "الكسائي",
+    "baseRarity": 0.0572
+   },
+   {
+    "text": "الفراء",
+    "baseRarity": 0.0457
+   },
+   {
+    "text": "المبرد",
+    "baseRarity": 0.0381
+   },
+   {
+    "text": "ثعلب",
+    "baseRarity": 0.0327
+   },
+   {
+    "text": "ابن جني",
+    "baseRarity": 0.0286
+   },
+   {
+    "text": "ابن مالك",
+    "baseRarity": 0.0254
+   },
+   {
+    "text": "ابن هشام الأنصاري",
+    "baseRarity": 0.0229,
+    "aliases": [
+     "ابن هشام"
+    ]
+   },
+   {
+    "text": "الأصمعي",
+    "baseRarity": 0.0208
+   },
+   {
+    "text": "أبو عمرو بن العلاء",
+    "baseRarity": 0.0191
+   },
+   {
+    "text": "الأخفش",
+    "baseRarity": 0.0176
+   },
+   {
+    "text": "الزجاج",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "ابن السراج",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "أبو علي الفارسي",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "ابن منظور",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "الفيروزآبادي",
+    "baseRarity": 0.0127
+   },
+   {
+    "text": "الجوهري",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "الزمخشري",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "عبد القاهر الجرجاني",
+    "baseRarity": 0.0109,
+    "aliases": [
+     "الجرجاني"
+    ]
+   },
+   {
+    "text": "السكاكي",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "ابن قتيبة",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "الجاحظ",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "ابن دريد",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "الأزهري",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "ابن فارس",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "الثعالبي",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "ابن عقيل",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "ابن آجروم",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "الحريري",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "بديع الزمان الهمذاني",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "ابن الأنباري",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "السيرافي",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "ابن يعيش",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "الرضي الأستراباذي",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "ابن خالويه",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "نفطويه",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "ابن الحاجب",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "الزبيدي",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "ابن السكيت",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "أبو علي القالي",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "القالي"
+    ]
+   },
+   {
+    "text": "ابن عصفور",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "أبو عبيدة معمر بن المثنى",
+    "baseRarity": 0.0052
+   }
+  ],
+  "secret": "ابن خالويه",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/نحاة_العرب"
+  ]
+ },
+ {
+  "id": "lang-women-writers",
+  "category": "لغة وأدب",
+  "prompt": "اذكر أديبة أو شاعرة عربية",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "الخنساء",
+    "baseRarity": 0.2311
+   },
+   {
+    "text": "رابعة العدوية",
+    "baseRarity": 0.1156
+   },
+   {
+    "text": "ولادة بنت المستكفي",
+    "baseRarity": 0.077
+   },
+   {
+    "text": "ليلى الأخيلية",
+    "baseRarity": 0.0578
+   },
+   {
+    "text": "مي زيادة",
+    "baseRarity": 0.0462
+   },
+   {
+    "text": "نازك الملائكة",
+    "baseRarity": 0.0385
+   },
+   {
+    "text": "فدوى طوقان",
+    "baseRarity": 0.033
+   },
+   {
+    "text": "سعاد الصباح",
+    "baseRarity": 0.0289
+   },
+   {
+    "text": "غادة السمان",
+    "baseRarity": 0.0257
+   },
+   {
+    "text": "أحلام مستغانمي",
+    "baseRarity": 0.0231
+   },
+   {
+    "text": "رضوى عاشور",
+    "baseRarity": 0.021
+   },
+   {
+    "text": "نوال السعداوي",
+    "baseRarity": 0.0193
+   },
+   {
+    "text": "ليلى بعلبكي",
+    "baseRarity": 0.0178
+   },
+   {
+    "text": "حنان الشيخ",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "هدى بركات",
+    "baseRarity": 0.0154
+   },
+   {
+    "text": "سحر خليفة",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "رجاء عالم",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "رجاء الصانع",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "بثينة العيسى",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "ليلى العثمان",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "لطيفة الزيات",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "سهير القلماوي",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "بنت الشاطئ",
+    "baseRarity": 0.01,
+    "aliases": [
+     "عائشة عبد الرحمن"
+    ]
+   },
+   {
+    "text": "كوليت خوري",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "إملي نصر الله",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "سلوى بكر",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "ميرال الطحاوي",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "منصورة عز الدين",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "إنعام كجه جي",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "علوية صبح",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "جمانة حداد",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "فاطمة المرنيسي",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "آسيا جبار",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "عائشة التيمورية",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "ملك حفني ناصف",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "باحثة البادية"
+    ]
+   },
+   {
+    "text": "قماشة العليان",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "أميمة الخميس",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "بدرية البشر",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "زينب حفني",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "أثير عبدالله النشمي",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "لميعة عباس عمارة",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "سلمى الخضراء الجيوسي",
+    "baseRarity": 0.0055
+   }
+  ],
+  "secret": "عائشة التيمورية",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/أدب_نسوي"
+  ]
+ },
+ {
+  "id": "lang-arab-poets",
+  "category": "لغة وأدب",
+  "prompt": "اذكر أي شاعر عربي (من أي عصر)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "المتنبي",
+    "baseRarity": 0.1722,
+    "aliases": [
+     "أبو الطيب المتنبي"
+    ]
+   },
+   {
+    "text": "نزار قباني",
+    "baseRarity": 0.0861
+   },
+   {
+    "text": "أحمد شوقي",
+    "baseRarity": 0.0574
+   },
+   {
+    "text": "محمود درويش",
+    "baseRarity": 0.0431
+   },
+   {
+    "text": "امرؤ القيس",
+    "baseRarity": 0.0344
+   },
+   {
+    "text": "عنترة بن شداد",
+    "baseRarity": 0.0287,
+    "aliases": [
+     "عنترة"
+    ]
+   },
+   {
+    "text": "حافظ إبراهيم",
+    "baseRarity": 0.0246
+   },
+   {
+    "text": "أبو القاسم الشابي",
+    "baseRarity": 0.0215,
+    "aliases": [
+     "الشابي"
+    ]
+   },
+   {
+    "text": "بدر شاكر السياب",
+    "baseRarity": 0.0191,
+    "aliases": [
+     "السياب"
+    ]
+   },
+   {
+    "text": "نازك الملائكة",
+    "baseRarity": 0.0172
+   },
+   {
+    "text": "إيليا أبو ماضي",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "جبران خليل جبران",
+    "baseRarity": 0.0144,
+    "aliases": [
+     "جبران"
+    ]
+   },
+   {
+    "text": "أمل دنقل",
+    "baseRarity": 0.0132
+   },
+   {
+    "text": "أحمد مطر",
+    "baseRarity": 0.0123
+   },
+   {
+    "text": "تميم البرغوثي",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "مريد البرغوثي",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "فاروق جويدة",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "صلاح عبد الصبور",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "عبد الوهاب البياتي",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "البياتي"
+    ]
+   },
+   {
+    "text": "محمد مهدي الجواهري",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "الجواهري"
+    ]
+   },
+   {
+    "text": "معروف الرصافي",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "الرصافي"
+    ]
+   },
+   {
+    "text": "جميل صدقي الزهاوي",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "الزهاوي"
+    ]
+   },
+   {
+    "text": "عمر أبو ريشة",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "بدوي الجبل",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "أدونيس",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "سميح القاسم",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "توفيق زياد",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "فدوى طوقان",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "إبراهيم طوقان",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "إبراهيم ناجي",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "علي محمود طه",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "خليل مطران",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "أحمد زكي أبو شادي",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "محمود سامي البارودي",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "البارودي"
+    ]
+   },
+   {
+    "text": "عباس محمود العقاد",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "العقاد"
+    ]
+   },
+   {
+    "text": "مصطفى صادق الرافعي",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "الرافعي"
+    ]
+   },
+   {
+    "text": "بشارة الخوري",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "الأخطل الصغير"
+    ]
+   },
+   {
+    "text": "ميخائيل نعيمة",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "أمين الريحاني",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "إلياس أبو شبكة",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "سعيد عقل",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "أنسي الحاج",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "محمد الماغوط",
+    "baseRarity": 0.004,
+    "aliases": [
+     "الماغوط"
+    ]
+   },
+   {
+    "text": "غازي القصيبي",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "القصيبي"
+    ]
+   },
+   {
+    "text": "محمد الثبيتي",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "الثبيتي"
+    ]
+   },
+   {
+    "text": "عبد الله البردوني",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "البردوني"
+    ]
+   },
+   {
+    "text": "عبد العزيز المقالح",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "سعاد الصباح",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "الأمير عبدالله الفيصل",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "عبدالله الفيصل"
+    ]
+   },
+   {
+    "text": "خالد الفيصل",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "الأمير بدر بن عبدالمحسن",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "بدر بن عبدالمحسن"
+    ]
+   },
+   {
+    "text": "حمزة شحاتة",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "عبد الرحمن العشماوي",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "العشماوي"
+    ]
+   },
+   {
+    "text": "مظفر النواب",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "سعدي يوسف",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "عبد الرزاق عبد الواحد",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "أحمد رامي",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "بيرم التونسي",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "صلاح جاهين",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "عبد الرحمن الأبنودي",
+    "baseRarity": 0.0029,
+    "aliases": [
+     "الأبنودي"
+    ]
+   },
+   {
+    "text": "أحمد فؤاد نجم",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "هاشم الرفاعي",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "محمود حسن إسماعيل",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "مفدي زكريا",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "محمد العيد آل خليفة",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "أبو تمام",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "البحتري",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "أبو نواس",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "أبو العلاء المعري",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "المعري"
+    ]
+   },
+   {
+    "text": "بشار بن برد",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "أبو العتاهية",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "ابن الرومي",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "ابن المعتز",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "أبو فراس الحمداني",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "الشريف الرضي",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "مهيار الديلمي",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "ابن زريق البغدادي",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "ديك الجن",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "العباس بن الأحنف",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "مسلم بن الوليد",
+    "baseRarity": 0.0022,
+    "aliases": [
+     "صريع الغواني"
+    ]
+   },
+   {
+    "text": "دعبل الخزاعي",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "علي بن الجهم",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "أبو دلامة",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "ابن هانئ",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "السري الرفاء",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "كشاجم",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الصنوبري",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "ابن الفارض",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "البهاء زهير",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "ابن سناء الملك",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "الطغرائي",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "ابن الخياط",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "الأبيوردي",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "ابن حيوس",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "الخبز أرزي",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "ابن لنكك",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "أبو الشيص",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "ربيعة الرقي",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "منصور النمري",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "محمود الوراق",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "الحسين بن الضحاك",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "ابن الحجاج",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "إسحاق الموصلي",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "ابن عنين",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "العتابي",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "كلثوم بن عمرو العتابي"
+    ]
+   },
+   {
+    "text": "أشجع السلمي",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "زهير بن أبي سلمى",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "زهير"
+    ]
+   },
+   {
+    "text": "طرفة بن العبد",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "طرفة"
+    ]
+   },
+   {
+    "text": "لبيد بن ربيعة",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "لبيد"
+    ]
+   },
+   {
+    "text": "عمرو بن كلثوم",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "الحارث بن حلزة",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "النابغة الذبياني",
+    "baseRarity": 0.0015,
+    "aliases": [
+     "النابغة"
+    ]
+   },
+   {
+    "text": "الأعشى",
+    "baseRarity": 0.0015,
+    "aliases": [
+     "ميمون بن قيس"
+    ]
+   },
+   {
+    "text": "عبيد بن الأبرص",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "الخنساء",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "حاتم الطائي",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "الشنفرى",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "تأبط شرا",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "عروة بن الورد",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "السليك بن السلكة",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "الزير سالم",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "المهلهل"
+    ]
+   },
+   {
+    "text": "علقمة الفحل",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "أوس بن حجر",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "المتلمس",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "المرقش الأكبر",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "المرقش الأصغر",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "الحطيئة",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "كعب بن زهير",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "حسان بن ثابت",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "الشماخ بن ضرار",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "عامر بن الطفيل",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "دريد بن الصمة",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "أمية بن أبي الصلت",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "السموأل",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "قيس بن الخطيم",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "عدي بن زيد",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "لقيط بن يعمر",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "عمرو بن قميئة",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "بشر بن أبي خازم",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "النابغة الجعدي",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "عبد الله بن رواحة",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "كعب بن مالك",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "أبو ذؤيب الهذلي",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "متمم بن نويرة",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "الخرنق بنت بدر",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "الأفوه الأودي",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "جرير",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "الفرزدق",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "الأخطل",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "عمر بن أبي ربيعة",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "جميل بثينة",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "جميل بن معمر"
+    ]
+   },
+   {
+    "text": "كثير عزة",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "قيس بن الملوح",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "مجنون ليلى"
+    ]
+   },
+   {
+    "text": "قيس بن ذريح",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "قيس لبنى"
+    ]
+   },
+   {
+    "text": "ذو الرمة",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "الكميت بن زيد",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "الكميت"
+    ]
+   },
+   {
+    "text": "الطرماح",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "الراعي النميري",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "الأحوص",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "العرجي",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "وضاح اليمن",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "ليلى الأخيلية",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "توبة بن الحمير",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "عبيد الله بن قيس الرقيات",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "ابن قيس الرقيات"
+    ]
+   },
+   {
+    "text": "نصيب بن رباح",
+    "baseRarity": 0.001,
+    "aliases": [
+     "نصيب"
+    ]
+   },
+   {
+    "text": "القطامي",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "عدي بن الرقاع",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "رؤبة بن العجاج",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "العجاج",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "أبو النجم العجلي",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "مسكين الدارمي",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "يزيد بن مفرغ",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "ابن الدمينة",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "الصمة القشيري",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "مالك بن الريب",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "الوليد بن يزيد",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "أعشى همدان",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "ابن ميادة",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "عمر بن لجأ",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "عروة بن أذينة",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "عبد الله بن الزبير الأسدي",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "أبو صخر الهذلي",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "ابن مقبل",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "البعيث",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "سراقة البارقي",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "حميد بن ثور",
+    "baseRarity": 0.0009
+   }
+  ],
+  "secret": "ابن الرومي",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/الشعر_العربي"
+  ]
+ }
+]
