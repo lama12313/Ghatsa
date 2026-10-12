@@ -13,6 +13,8 @@ mkdirSync(OUT, { recursive: true });
 
 const questions = loadQuestions();
 const metas: QuestionMeta[] = [];
+// نسخة الرابط (Claude Artifact) تحمّل كل الأجوبة المشفرة من ملف واحد بسبب حد عدد الملفات
+const bundle: Record<string, string> | null = process.env.VITE_ARTIFACT ? {} : null;
 const hash = createHash('sha1');
 
 for (const q of questions) {
@@ -21,6 +23,7 @@ for (const q of questions) {
   const file = fileNameFor(q.id);
   const data = encodeAnswerSet({ id: q.id, answers: q.answers, secretIndex, exact: q.exact });
   writeFileSync(join(OUT, file), data);
+  if (bundle) bundle[file] = data;
   hash.update(q.id + data);
   metas.push({ id: q.id, category: q.category, prompt: q.prompt, difficulty: q.difficulty, file });
 }
@@ -31,4 +34,5 @@ const index: ContentIndex = {
   questions: metas,
 };
 writeFileSync(join(OUT, 'index.json'), JSON.stringify(index));
+if (bundle) writeFileSync(join(OUT, 'bundle.json'), JSON.stringify(bundle));
 console.log(`📦 ${metas.length} سؤال → public/q (نسخة ${index.version})`);

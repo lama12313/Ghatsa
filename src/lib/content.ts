@@ -16,16 +16,28 @@ export function loadIndex(): Promise<ContentIndex> {
   return indexPromise;
 }
 
+let bundlePromise: Promise<Record<string, string>> | null = null;
+
+function fetchEncoded(file: string): Promise<string> {
+  // نسخة الرابط: ملف واحد فيه كل الأجوبة (مشفرة برضو)
+  if (import.meta.env.VITE_ARTIFACT) {
+    bundlePromise ??= fetch(`${BASE}q/bundle.json`).then((r) => r.json() as Promise<Record<string, string>>);
+    return bundlePromise.then((b) => {
+      if (!(file in b)) throw new Error('ما قدرنا نحمّل السؤال');
+      return b[file];
+    });
+  }
+  return fetch(`${BASE}q/${file}`).then((r) => {
+    if (!r.ok) throw new Error('ما قدرنا نحمّل السؤال');
+    return r.text();
+  });
+}
+
 /** يحمّل أجوبة سؤال واحد بس وقت ما ينعرض */
 export function loadAnswers(meta: QuestionMeta): Promise<AnswerSet> {
   let p = answerCache.get(meta.id);
   if (!p) {
-    p = fetch(`${BASE}q/${meta.file}`)
-      .then((r) => {
-        if (!r.ok) throw new Error('ما قدرنا نحمّل السؤال');
-        return r.text();
-      })
-      .then((t) => decodeAnswerSet(meta.id, t));
+    p = fetchEncoded(meta.file).then((t) => decodeAnswerSet(meta.id, t));
     p.catch(() => answerCache.delete(meta.id));
     answerCache.set(meta.id, p);
   }
