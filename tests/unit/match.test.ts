@@ -162,6 +162,12 @@ describe('AnswerMatcher: رفض', () => {
     expect(m.match(input)).toBeNull();
   });
 
+  it('الأرقام ما فيها تسامح إملائي', () => {
+    const nums = new AnswerMatcher([a('10000'), a('12345')]);
+    expect(nums.match('10001')).toBeNull();
+    expect(nums.match('١٠٠٠٠')).not.toBeNull();
+  });
+
   it('يبين إذا كان التطابق تقريبي', () => {
     expect(m.match('مصر')?.fuzzy).toBe(false);
     expect(m.match('موريتانا')?.fuzzy).toBe(true);

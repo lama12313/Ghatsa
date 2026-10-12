@@ -558,5 +558,8643 @@
    "https://ar.wikipedia.org/wiki/جدول_دوري",
    "https://iupac.org/what-we-do/periodic-table-of-elements/"
   ]
+ },
+ {
+  "id": "sci-body-parts",
+  "category": "علوم",
+  "prompt": "اذكر عضو أو جزء من جسم الإنسان",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "القلب",
+    "baseRarity": 0.188
+   },
+   {
+    "text": "العين",
+    "baseRarity": 0.094
+   },
+   {
+    "text": "اليد",
+    "baseRarity": 0.0627
+   },
+   {
+    "text": "الرأس",
+    "baseRarity": 0.047
+   },
+   {
+    "text": "الأنف",
+    "baseRarity": 0.0376
+   },
+   {
+    "text": "الفم",
+    "baseRarity": 0.0313
+   },
+   {
+    "text": "الأذن",
+    "baseRarity": 0.0269
+   },
+   {
+    "text": "الرجل",
+    "baseRarity": 0.0235
+   },
+   {
+    "text": "القدم",
+    "baseRarity": 0.0209
+   },
+   {
+    "text": "المخ",
+    "baseRarity": 0.0188,
+    "aliases": [
+     "الدماغ"
+    ]
+   },
+   {
+    "text": "الكبد",
+    "baseRarity": 0.0171
+   },
+   {
+    "text": "الرئة",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "الكلية",
+    "baseRarity": 0.0145,
+    "aliases": [
+     "الكلى"
+    ]
+   },
+   {
+    "text": "المعدة",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "اللسان",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "الأسنان",
+    "baseRarity": 0.0118,
+    "aliases": [
+     "السن"
+    ]
+   },
+   {
+    "text": "الشعر",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "الجلد",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "الظهر",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "البطن",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "الصدر",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "الرقبة",
+    "baseRarity": 0.0085,
+    "aliases": [
+     "العنق"
+    ]
+   },
+   {
+    "text": "الكتف",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "الذراع",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "الإصبع",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "الأصابع",
+     "الصبع"
+    ]
+   },
+   {
+    "text": "الركبة",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "الكوع",
+    "baseRarity": 0.007,
+    "aliases": [
+     "المرفق"
+    ]
+   },
+   {
+    "text": "الأظافر",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "الظفر"
+    ]
+   },
+   {
+    "text": "الشفة",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "الشفايف"
+    ]
+   },
+   {
+    "text": "الحاجب",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "الرموش",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "الرمش"
+    ]
+   },
+   {
+    "text": "الخد",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "الجبهة",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "الذقن",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "الحلق",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "البلعوم",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "المريء",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "الأمعاء",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "المصران"
+    ]
+   },
+   {
+    "text": "الأمعاء الدقيقة",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "الأمعاء الغليظة",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "القولون",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "الزائدة الدودية",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "الزايدة"
+    ]
+   },
+   {
+    "text": "المرارة",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "البنكرياس",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الطحال",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "المثانة",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "الرحم",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "الغدة الدرقية",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "الغدة النخامية",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "الغدة الكظرية",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "الغدة الصنوبرية",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "الحنجرة",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "القصبة الهوائية",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "الحجاب الحاجز",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "العمود الفقري",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "الجمجمة",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "الأضلاع",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "الضلع"
+    ]
+   },
+   {
+    "text": "الحوض",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "الفخذ",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "الساق",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الكاحل",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الكعب",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "الرسغ",
+    "baseRarity": 0.003,
+    "aliases": [
+     "المعصم"
+    ]
+   },
+   {
+    "text": "الكف",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الإبهام",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "السبابة",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الخنصر",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "البنصر",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الوسطى",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الأذين",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "البطين",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "الشريان",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "الوريد",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "الشعيرات الدموية",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الأعصاب",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "العصب"
+    ]
+   },
+   {
+    "text": "النخاع الشوكي",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "المخيخ",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "جذع الدماغ",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "القرنية",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "الشبكية",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "القزحية",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "البؤبؤ",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "الحدقة"
+    ]
+   },
+   {
+    "text": "العدسة",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "طبلة الأذن",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "القوقعة",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "اللثة",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "اللوزتين",
+    "baseRarity": 0.0022,
+    "aliases": [
+     "اللوز"
+    ]
+   },
+   {
+    "text": "الحنك",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "اللهاة",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "السرة",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "الإبط",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "الخصر",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الورك",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "العضلات",
+    "baseRarity": 0.002,
+    "aliases": [
+     "العضلة"
+    ]
+   },
+   {
+    "text": "الأوتار",
+    "baseRarity": 0.002,
+    "aliases": [
+     "الوتر"
+    ]
+   },
+   {
+    "text": "الأربطة",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الغضاريف",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "الغضروف"
+    ]
+   },
+   {
+    "text": "العظام",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "العظم"
+    ]
+   },
+   {
+    "text": "الدم",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "البلازما",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "الصفائح الدموية",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "كريات الدم الحمراء",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "كريات الدم البيضاء",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "الخلايا",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "الجهاز الليمفاوي",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "الغدد الليمفاوية"
+    ]
+   },
+   {
+    "text": "الاثنا عشر",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "الاثني عشر"
+    ]
+   },
+   {
+    "text": "المستقيم",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "البروستاتا",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "المبيض",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "الخصية",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "الثدي",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "الجفن",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "الصدغ",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "القفا",
+    "baseRarity": 0.0016
+   }
+  ],
+  "secret": "الغدة الصنوبرية",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/جسم_الإنسان"
+  ]
+ },
+ {
+  "id": "sci-bones",
+  "category": "علوم",
+  "prompt": "اذكر عظمة من عظام جسم الإنسان",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "الجمجمة",
+    "baseRarity": 0.2204
+   },
+   {
+    "text": "عظم الفخذ",
+    "baseRarity": 0.1102,
+    "aliases": [
+     "الفخذ"
+    ]
+   },
+   {
+    "text": "الأضلاع",
+    "baseRarity": 0.0735,
+    "aliases": [
+     "الضلع"
+    ]
+   },
+   {
+    "text": "العمود الفقري",
+    "baseRarity": 0.0551,
+    "aliases": [
+     "الفقرات",
+     "فقرة"
+    ]
+   },
+   {
+    "text": "الترقوة",
+    "baseRarity": 0.0441
+   },
+   {
+    "text": "لوح الكتف",
+    "baseRarity": 0.0367,
+    "aliases": [
+     "عظم الكتف"
+    ]
+   },
+   {
+    "text": "عظم القص",
+    "baseRarity": 0.0315,
+    "aliases": [
+     "القص"
+    ]
+   },
+   {
+    "text": "الحوض",
+    "baseRarity": 0.0275
+   },
+   {
+    "text": "العصعص",
+    "baseRarity": 0.0245
+   },
+   {
+    "text": "العجز",
+    "baseRarity": 0.022
+   },
+   {
+    "text": "عظم العضد",
+    "baseRarity": 0.02,
+    "aliases": [
+     "العضد"
+    ]
+   },
+   {
+    "text": "الكعبرة",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "الزند",
+    "baseRarity": 0.017
+   },
+   {
+    "text": "الرضفة",
+    "baseRarity": 0.0157,
+    "aliases": [
+     "صابونة الركبة"
+    ]
+   },
+   {
+    "text": "الظنبوب",
+    "baseRarity": 0.0147,
+    "aliases": [
+     "القصبة"
+    ]
+   },
+   {
+    "text": "الشظية",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "الفك السفلي",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "الفك العلوي",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "عظم الأنف",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "العظم الأنفي"
+    ]
+   },
+   {
+    "text": "عظم الوجنة",
+    "baseRarity": 0.011,
+    "aliases": [
+     "العظم الوجني"
+    ]
+   },
+   {
+    "text": "العظم الجبهي",
+    "baseRarity": 0.0105,
+    "aliases": [
+     "عظم الجبهة"
+    ]
+   },
+   {
+    "text": "العظم الجداري",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "العظم القذالي",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "العظم الصدغي",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "العظم الوتدي",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "العظم الغربالي",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "العظم الدمعي",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "العظم الحنكي",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "الميكعة",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "المطرقة",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "السندان",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "الركاب",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "العظم اللامي",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "الأطلس",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "الفقرة الأولى"
+    ]
+   },
+   {
+    "text": "المحور",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "الفقرة الثانية"
+    ]
+   },
+   {
+    "text": "الحرقفة",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "عظم الحرقفة"
+    ]
+   },
+   {
+    "text": "عظم العانة",
+    "baseRarity": 0.006,
+    "aliases": [
+     "العانة"
+    ]
+   },
+   {
+    "text": "الورك",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "عظم الورك"
+    ]
+   },
+   {
+    "text": "عظم الكاحل",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "الكاحل",
+     "القنزعي"
+    ]
+   },
+   {
+    "text": "عظم العقب",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "العقب",
+     "الكعب"
+    ]
+   },
+   {
+    "text": "العظم الزورقي",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "العظم النردي",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "العظام الإسفينية",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "الإسفيني"
+    ]
+   },
+   {
+    "text": "عظام مشط القدم",
+    "baseRarity": 0.005,
+    "aliases": [
+     "مشط القدم"
+    ]
+   },
+   {
+    "text": "عظام مشط اليد",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "مشط اليد"
+    ]
+   },
+   {
+    "text": "السلاميات",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "السلامية"
+    ]
+   },
+   {
+    "text": "عظام الرسغ",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "الرسغ"
+    ]
+   },
+   {
+    "text": "العظم الهلالي",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "العظم الحمصي",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "العظم الكلابي",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "العظم المثلثي",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "العظم القرني الأنفي",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "القرين الأنفي"
+    ]
+   }
+  ],
+  "secret": "العظم اللامي",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_عظام_الهيكل_العظمي_للإنسان"
+  ]
+ },
+ {
+  "id": "sci-diseases",
+  "category": "علوم",
+  "prompt": "اذكر مرض",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "السكري",
+    "baseRarity": 0.1924,
+    "aliases": [
+     "السكر"
+    ]
+   },
+   {
+    "text": "ضغط الدم",
+    "baseRarity": 0.0962,
+    "aliases": [
+     "ارتفاع ضغط الدم",
+     "الضغط"
+    ]
+   },
+   {
+    "text": "السرطان",
+    "baseRarity": 0.0641
+   },
+   {
+    "text": "الإنفلونزا",
+    "baseRarity": 0.0481,
+    "aliases": [
+     "الانفلونزا",
+     "الأنفلونزا"
+    ]
+   },
+   {
+    "text": "كورونا",
+    "baseRarity": 0.0385,
+    "aliases": [
+     "كوفيد",
+     "كوفيد 19"
+    ]
+   },
+   {
+    "text": "الزكام",
+    "baseRarity": 0.0321,
+    "aliases": [
+     "البرد",
+     "نزلة برد"
+    ]
+   },
+   {
+    "text": "الربو",
+    "baseRarity": 0.0275
+   },
+   {
+    "text": "الحصبة",
+    "baseRarity": 0.0241
+   },
+   {
+    "text": "الجدري",
+    "baseRarity": 0.0214
+   },
+   {
+    "text": "جدري الماء",
+    "baseRarity": 0.0192,
+    "aliases": [
+     "العنقز"
+    ]
+   },
+   {
+    "text": "الملاريا",
+    "baseRarity": 0.0175
+   },
+   {
+    "text": "الكوليرا",
+    "baseRarity": 0.016
+   },
+   {
+    "text": "السل",
+    "baseRarity": 0.0148,
+    "aliases": [
+     "الدرن"
+    ]
+   },
+   {
+    "text": "الإيدز",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "التهاب الكبد",
+    "baseRarity": 0.0128,
+    "aliases": [
+     "الكبد الوبائي",
+     "فيروس سي"
+    ]
+   },
+   {
+    "text": "الأنيميا",
+    "baseRarity": 0.012,
+    "aliases": [
+     "فقر الدم"
+    ]
+   },
+   {
+    "text": "الزهايمر",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "الباركنسون",
+    "baseRarity": 0.0107,
+    "aliases": [
+     "الشلل الرعاشي"
+    ]
+   },
+   {
+    "text": "الصرع",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "الشلل",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "شلل الأطفال",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "السكتة الدماغية",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "الجلطة الدماغية"
+    ]
+   },
+   {
+    "text": "الجلطة",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "الذبحة الصدرية"
+    ]
+   },
+   {
+    "text": "النقرس",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "الروماتيزم",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "هشاشة العظام",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "التهاب المفاصل",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "الصداع النصفي",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "الشقيقة"
+    ]
+   },
+   {
+    "text": "الاكتئاب",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "التوحد",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "الفصام",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "الشيزوفرينيا"
+    ]
+   },
+   {
+    "text": "القلق",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "الوسواس القهري",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "السمنة",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "النحافة",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "سوء التغذية"
+    ]
+   },
+   {
+    "text": "الإسقربوط",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "الكساح",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "البري بري",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "الطاعون",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "التيفوئيد",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "الحمى الصفراء",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "حمى الضنك",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "إيبولا",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "الجذام",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "الكزاز",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "التيتانوس"
+    ]
+   },
+   {
+    "text": "الدفتيريا",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "الخناق"
+    ]
+   },
+   {
+    "text": "السعال الديكي",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "النكاف",
+    "baseRarity": 0.004,
+    "aliases": [
+     "أبو كعب"
+    ]
+   },
+   {
+    "text": "الحصبة الألمانية",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "التهاب السحايا",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "الحمى الشوكية"
+    ]
+   },
+   {
+    "text": "التهاب الرئة",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "الالتهاب الرئوي"
+    ]
+   },
+   {
+    "text": "التهاب الزائدة",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "الزايدة"
+    ]
+   },
+   {
+    "text": "التهاب اللوزتين",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "حصى الكلى",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "الفشل الكلوي",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "تليف الكبد",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "القرحة",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "القولون العصبي",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "البواسير",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "الإسهال",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "الإمساك",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "الحساسية",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الأكزيما",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الصدفية",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "حب الشباب",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "البهاق",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الثعلبة",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الصلع",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الجرب",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "القمل",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الماء الأبيض",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "الكتاراكت",
+     "الساد"
+    ]
+   },
+   {
+    "text": "الماء الأزرق",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "الجلوكوما",
+     "الزرق"
+    ]
+   },
+   {
+    "text": "قصر النظر",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "طول النظر",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "الاستجماتيزم",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "عمى الألوان",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الحول",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الصمم",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "التهاب الأذن",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "الجيوب الأنفية",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "التهاب الحلق",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "الهيموفيليا",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "الناعور"
+    ]
+   },
+   {
+    "text": "الثلاسيميا",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "الأنيميا المنجلية",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "فقر الدم المنجلي"
+    ]
+   },
+   {
+    "text": "اللوكيميا",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "سرطان الدم"
+    ]
+   },
+   {
+    "text": "التصلب اللويحي",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "الذئبة الحمراء",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "الغدة الدرقية",
+    "baseRarity": 0.0022,
+    "aliases": [
+     "قصور الغدة الدرقية"
+    ]
+   },
+   {
+    "text": "الدوالي",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "الفتق",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "الانزلاق الغضروفي",
+    "baseRarity": 0.0021,
+    "aliases": [
+     "الديسك"
+    ]
+   },
+   {
+    "text": "عرق النسا",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "الكوليسترول",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "تصلب الشرايين",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "النوبة القلبية",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "داء الكلب",
+    "baseRarity": 0.002,
+    "aliases": [
+     "السعار"
+    ]
+   },
+   {
+    "text": "داء الفيل",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "البلهارسيا",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الليشمانيا",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "حبة بغداد"
+    ]
+   },
+   {
+    "text": "حمى البحر الأبيض المتوسط",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "متلازمة داون",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "منغولي"
+    ]
+   }
+  ],
+  "secret": "داء الفيل",
+  "sources": [
+   "https://www.who.int/health-topics"
+  ]
+ },
+ {
+  "id": "sci-units",
+  "category": "علوم",
+  "prompt": "اذكر وحدة قياس",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "متر",
+    "baseRarity": 0.1994
+   },
+   {
+    "text": "كيلومتر",
+    "baseRarity": 0.0997,
+    "aliases": [
+     "كيلو متر"
+    ]
+   },
+   {
+    "text": "سنتيمتر",
+    "baseRarity": 0.0665,
+    "aliases": [
+     "سنتي"
+    ]
+   },
+   {
+    "text": "مليمتر",
+    "baseRarity": 0.0499,
+    "aliases": [
+     "ملي"
+    ]
+   },
+   {
+    "text": "كيلوغرام",
+    "baseRarity": 0.0399,
+    "aliases": [
+     "كيلو",
+     "كيلوجرام"
+    ]
+   },
+   {
+    "text": "غرام",
+    "baseRarity": 0.0332,
+    "aliases": [
+     "جرام"
+    ]
+   },
+   {
+    "text": "طن",
+    "baseRarity": 0.0285
+   },
+   {
+    "text": "لتر",
+    "baseRarity": 0.0249
+   },
+   {
+    "text": "مليلتر",
+    "baseRarity": 0.0222
+   },
+   {
+    "text": "ميل",
+    "baseRarity": 0.0199
+   },
+   {
+    "text": "قدم",
+    "baseRarity": 0.0181
+   },
+   {
+    "text": "بوصة",
+    "baseRarity": 0.0166,
+    "aliases": [
+     "إنش",
+     "انش"
+    ]
+   },
+   {
+    "text": "ياردة",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "رطل",
+    "baseRarity": 0.0142,
+    "aliases": [
+     "باوند"
+    ]
+   },
+   {
+    "text": "أونصة",
+    "baseRarity": 0.0133,
+    "aliases": [
+     "أوقية"
+    ]
+   },
+   {
+    "text": "غالون",
+    "baseRarity": 0.0125,
+    "aliases": [
+     "جالون"
+    ]
+   },
+   {
+    "text": "ثانية",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "دقيقة",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "ساعة",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "يوم",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "أسبوع",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "شهر",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "سنة",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "درجة مئوية",
+    "baseRarity": 0.0083,
+    "aliases": [
+     "سيليزيوس",
+     "سلسيوس"
+    ]
+   },
+   {
+    "text": "فهرنهايت",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "كلفن",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "نيوتن",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "جول",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "واط",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "فولت",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "أمبير",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "أوم",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "هيرتز",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "باسكال",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "بار",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "سعرة حرارية",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "كالوري"
+    ]
+   },
+   {
+    "text": "قدرة حصانية",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "حصان"
+    ]
+   },
+   {
+    "text": "كيلوواط ساعة",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "كولوم",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "فاراد",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "هنري",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "تسلا",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "ويبر",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "سيمنز",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "كانديلا",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "شمعة"
+    ]
+   },
+   {
+    "text": "مول",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "لومن",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "لوكس",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "بيكريل",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "غراي",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "سيفرت",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "ديسيبل",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "بايت",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "بت",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "كيلوبايت",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "ميغابايت",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "ميجابايت"
+    ]
+   },
+   {
+    "text": "غيغابايت",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "جيجا",
+     "جيجابايت"
+    ]
+   },
+   {
+    "text": "تيرابايت",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "سنة ضوئية",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "فرسخ فلكي",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "بارسك"
+    ]
+   },
+   {
+    "text": "وحدة فلكية",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "عقدة",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "ميل بحري",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "هكتار",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "فدان",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "دونم",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "أكر",
+    "baseRarity": 0.003,
+    "aliases": [
+     "إيكر"
+    ]
+   },
+   {
+    "text": "قيراط",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "ذراع",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "شبر",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "فرسخ",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "صاع",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "مد",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "مثقال",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "برميل",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "ميكرومتر",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "ميكرون"
+    ]
+   },
+   {
+    "text": "نانومتر",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "أنغستروم",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "ضغط جوي",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "أتموسفير"
+    ]
+   },
+   {
+    "text": "تور",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "راديان",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "درجة",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "قنطار",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "دسيلتر",
+    "baseRarity": 0.0024
+   }
+  ],
+  "secret": "أنغستروم",
+  "sources": [
+   "https://www.bipm.org/en/measurement-units"
+  ]
+ },
+ {
+  "id": "sci-scientists",
+  "category": "علوم",
+  "prompt": "اذكر عالم مشهور في العلوم أو الرياضيات أو الطب",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "أينشتاين",
+    "baseRarity": 0.1931,
+    "aliases": [
+     "ألبرت أينشتاين",
+     "آينشتاين"
+    ]
+   },
+   {
+    "text": "نيوتن",
+    "baseRarity": 0.0966,
+    "aliases": [
+     "إسحاق نيوتن"
+    ]
+   },
+   {
+    "text": "أديسون",
+    "baseRarity": 0.0644,
+    "aliases": [
+     "توماس أديسون"
+    ]
+   },
+   {
+    "text": "ابن سينا",
+    "baseRarity": 0.0483
+   },
+   {
+    "text": "الخوارزمي",
+    "baseRarity": 0.0386
+   },
+   {
+    "text": "غاليليو",
+    "baseRarity": 0.0322,
+    "aliases": [
+     "جاليليو"
+    ]
+   },
+   {
+    "text": "داروين",
+    "baseRarity": 0.0276,
+    "aliases": [
+     "تشارلز داروين"
+    ]
+   },
+   {
+    "text": "نيكولا تسلا",
+    "baseRarity": 0.0241,
+    "aliases": [
+     "تسلا"
+    ]
+   },
+   {
+    "text": "ستيفن هوكينغ",
+    "baseRarity": 0.0215,
+    "aliases": [
+     "هوكينغ"
+    ]
+   },
+   {
+    "text": "ماري كوري",
+    "baseRarity": 0.0193
+   },
+   {
+    "text": "ابن الهيثم",
+    "baseRarity": 0.0176
+   },
+   {
+    "text": "أرخميدس",
+    "baseRarity": 0.0161
+   },
+   {
+    "text": "فيثاغورس",
+    "baseRarity": 0.0149
+   },
+   {
+    "text": "إقليدس",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "أرسطو",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "باستير",
+    "baseRarity": 0.0121,
+    "aliases": [
+     "لويس باستير"
+    ]
+   },
+   {
+    "text": "مندليف",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "نوبل",
+    "baseRarity": 0.0107,
+    "aliases": [
+     "ألفريد نوبل"
+    ]
+   },
+   {
+    "text": "كوبرنيكوس",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "كبلر",
+    "baseRarity": 0.0097,
+    "aliases": [
+     "يوهانس كبلر"
+    ]
+   },
+   {
+    "text": "فاراداي",
+    "baseRarity": 0.0092,
+    "aliases": [
+     "مايكل فاراداي"
+    ]
+   },
+   {
+    "text": "ماكسويل",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "بور",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "نيلز بور"
+    ]
+   },
+   {
+    "text": "رذرفورد",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "ماكس بلانك",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "بلانك"
+    ]
+   },
+   {
+    "text": "هايزنبرغ",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "شرودنغر",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "فاينمان",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "ديراك",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "فرمي",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "إنريكو فيرمي"
+    ]
+   },
+   {
+    "text": "أوبنهايمر",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "مندل",
+    "baseRarity": 0.006,
+    "aliases": [
+     "غريغور مندل"
+    ]
+   },
+   {
+    "text": "ألكسندر فليمنغ",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "فليمنغ"
+    ]
+   },
+   {
+    "text": "جيمس واط",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "واط"
+    ]
+   },
+   {
+    "text": "غراهام بيل",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "ألكسندر غراهام بيل"
+    ]
+   },
+   {
+    "text": "ماركوني",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "الأخوان رايت",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "الأخوين رايت"
+    ]
+   },
+   {
+    "text": "دافنشي",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "ليوناردو دافنشي"
+    ]
+   },
+   {
+    "text": "ديكارت",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "باسكال",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "بليز باسكال"
+    ]
+   },
+   {
+    "text": "فيرما",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "أويلر",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "غاوس",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "لايبنتز",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "ريمان",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "هيلبرت",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "تورينغ",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "آلان تورينغ"
+    ]
+   },
+   {
+    "text": "فون نيومان",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "جون ناش",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "غودل",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "كورت غودل"
+    ]
+   },
+   {
+    "text": "بوانكاريه",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "لافوازييه",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "بويل",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "روبرت بويل"
+    ]
+   },
+   {
+    "text": "دالتون",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "أفوجادرو",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "لينيوس",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "هارفي",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "ويليام هارفي"
+    ]
+   },
+   {
+    "text": "جينر",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "إدوارد جينر"
+    ]
+   },
+   {
+    "text": "كوخ",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "روبرت كوخ"
+    ]
+   },
+   {
+    "text": "فرويد",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "سيغموند فرويد"
+    ]
+   },
+   {
+    "text": "بافلوف",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "هابل",
+    "baseRarity": 0.0031,
+    "aliases": [
+     "إدوين هابل"
+    ]
+   },
+   {
+    "text": "كارل ساغان",
+    "baseRarity": 0.0031,
+    "aliases": [
+     "ساغان"
+    ]
+   },
+   {
+    "text": "أحمد زويل",
+    "baseRarity": 0.003,
+    "aliases": [
+     "زويل"
+    ]
+   },
+   {
+    "text": "مصطفى مشرفة",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "فاروق الباز",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "جابر بن حيان",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الرازي",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "أبو بكر الرازي"
+    ]
+   },
+   {
+    "text": "البيروني",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الفارابي",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الكندي",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "ابن النفيس",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الزهراوي",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "ابن رشد",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "عمر الخيام",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "نصير الدين الطوسي",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "الطوسي"
+    ]
+   },
+   {
+    "text": "البتاني",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الإدريسي",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "ثابت بن قرة",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "الجزري",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "بديع الزمان الجزري"
+    ]
+   },
+   {
+    "text": "عباس بن فرناس",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "رامانوجان",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "روزاليند فرانكلين",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "واتسون وكريك",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "جيمس واتسون",
+     "فرانسيس كريك"
+    ]
+   },
+   {
+    "text": "هوك",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "روبرت هوك"
+    ]
+   },
+   {
+    "text": "فان ليفينهوك",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "رونتجن",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "بيكريل",
+    "baseRarity": 0.0022,
+    "aliases": [
+     "هنري بيكريل"
+    ]
+   },
+   {
+    "text": "هيرتز",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "أمبير",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "فولتا",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "أوم",
+    "baseRarity": 0.0021,
+    "aliases": [
+     "جورج أوم"
+    ]
+   },
+   {
+    "text": "كلفن",
+    "baseRarity": 0.0021,
+    "aliases": [
+     "اللورد كلفن"
+    ]
+   },
+   {
+    "text": "جول",
+    "baseRarity": 0.0021,
+    "aliases": [
+     "جيمس جول"
+    ]
+   },
+   {
+    "text": "هالي",
+    "baseRarity": 0.002,
+    "aliases": [
+     "إدموند هالي"
+    ]
+   },
+   {
+    "text": "تيكو براهي",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "بطليموس",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "أبقراط",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "جالينوس",
+    "baseRarity": 0.002
+   }
+  ],
+  "secret": "رامانوجان",
+  "sources": [
+   "https://www.britannica.com/"
+  ]
+ },
+ {
+  "id": "sci-primes",
+  "category": "علوم",
+  "prompt": "اذكر عدد أولي أصغر من ٥٠٠",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "2",
+    "baseRarity": 0.1947
+   },
+   {
+    "text": "3",
+    "baseRarity": 0.0973
+   },
+   {
+    "text": "5",
+    "baseRarity": 0.0649
+   },
+   {
+    "text": "7",
+    "baseRarity": 0.0487
+   },
+   {
+    "text": "11",
+    "baseRarity": 0.0389
+   },
+   {
+    "text": "13",
+    "baseRarity": 0.0324
+   },
+   {
+    "text": "17",
+    "baseRarity": 0.0278
+   },
+   {
+    "text": "19",
+    "baseRarity": 0.0243
+   },
+   {
+    "text": "23",
+    "baseRarity": 0.0216
+   },
+   {
+    "text": "29",
+    "baseRarity": 0.0195
+   },
+   {
+    "text": "31",
+    "baseRarity": 0.0177
+   },
+   {
+    "text": "37",
+    "baseRarity": 0.0162
+   },
+   {
+    "text": "41",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "43",
+    "baseRarity": 0.0139
+   },
+   {
+    "text": "47",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "53",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "59",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "61",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "67",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "71",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "73",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "79",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "83",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "89",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "97",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "101",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "103",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "107",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "109",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "113",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "127",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "131",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "137",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "139",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "149",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "151",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "157",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "163",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "167",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "173",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "179",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "181",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "191",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "193",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "197",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "199",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "211",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "223",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "227",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "229",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "233",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "239",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "241",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "251",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "257",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "263",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "269",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "271",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "277",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "281",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "283",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "293",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "307",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "311",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "313",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "317",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "331",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "337",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "347",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "349",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "353",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "359",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "367",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "373",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "379",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "383",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "389",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "397",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "401",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "409",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "419",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "421",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "431",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "433",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "439",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "443",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "449",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "457",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "461",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "463",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "467",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "479",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "487",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "491",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "499",
+    "baseRarity": 0.002
+   }
+  ],
+  "secret": "487",
+  "sources": [
+   "https://oeis.org/A000040"
+  ]
+ },
+ {
+  "id": "sci-squares",
+  "category": "علوم",
+  "prompt": "اذكر عدد مربع كامل (مربع عدد صحيح) أصغر من ١٠٠٠٠",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "1",
+    "baseRarity": 0.1931
+   },
+   {
+    "text": "4",
+    "baseRarity": 0.0966
+   },
+   {
+    "text": "9",
+    "baseRarity": 0.0644
+   },
+   {
+    "text": "16",
+    "baseRarity": 0.0483
+   },
+   {
+    "text": "25",
+    "baseRarity": 0.0386
+   },
+   {
+    "text": "36",
+    "baseRarity": 0.0322
+   },
+   {
+    "text": "49",
+    "baseRarity": 0.0276
+   },
+   {
+    "text": "64",
+    "baseRarity": 0.0241
+   },
+   {
+    "text": "81",
+    "baseRarity": 0.0215
+   },
+   {
+    "text": "100",
+    "baseRarity": 0.0193
+   },
+   {
+    "text": "121",
+    "baseRarity": 0.0176
+   },
+   {
+    "text": "144",
+    "baseRarity": 0.0161
+   },
+   {
+    "text": "169",
+    "baseRarity": 0.0149
+   },
+   {
+    "text": "196",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "225",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "256",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "289",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "324",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "361",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "400",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "441",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "484",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "529",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "576",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "625",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "676",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "729",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "784",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "841",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "900",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "961",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "1024",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "1089",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "1156",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "1225",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "1296",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "1369",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "1444",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "1521",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "1600",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "1681",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "1764",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "1849",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "1936",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "2025",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "2116",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "2209",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "2304",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "2401",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "2500",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "2601",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "2704",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "2809",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "2916",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "3025",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "3136",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "3249",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "3364",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "3481",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "3600",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "3721",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "3844",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "3969",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "4096",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "4225",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "4356",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "4489",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "4624",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "4761",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "4900",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "5041",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "5184",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "5329",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "5476",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "5625",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "5776",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "5929",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "6084",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "6241",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "6400",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "6561",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "6724",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "6889",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "7056",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "7225",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "7396",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "7569",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "7744",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "7921",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "8100",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "8281",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "8464",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "8649",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "8836",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "9025",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "9216",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "9409",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "9604",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "9801",
+    "baseRarity": 0.002
+   }
+  ],
+  "secret": "7921",
+  "sources": [
+   "https://oeis.org/A000290"
+  ]
+ },
+ {
+  "id": "sci-medical-specialties",
+  "category": "علوم",
+  "prompt": "اذكر تخصص طبي",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "طب الأطفال",
+    "baseRarity": 0.2213,
+    "aliases": [
+     "أطفال"
+    ]
+   },
+   {
+    "text": "طب الأسنان",
+    "baseRarity": 0.1106,
+    "aliases": [
+     "أسنان"
+    ]
+   },
+   {
+    "text": "الجراحة العامة",
+    "baseRarity": 0.0738,
+    "aliases": [
+     "جراحة"
+    ]
+   },
+   {
+    "text": "طب العيون",
+    "baseRarity": 0.0553,
+    "aliases": [
+     "عيون"
+    ]
+   },
+   {
+    "text": "النساء والولادة",
+    "baseRarity": 0.0443,
+    "aliases": [
+     "نساء وولادة"
+    ]
+   },
+   {
+    "text": "الباطنية",
+    "baseRarity": 0.0369,
+    "aliases": [
+     "الطب الباطني",
+     "باطنة"
+    ]
+   },
+   {
+    "text": "الجلدية",
+    "baseRarity": 0.0316,
+    "aliases": [
+     "الأمراض الجلدية",
+     "جلدية"
+    ]
+   },
+   {
+    "text": "الأنف والأذن والحنجرة",
+    "baseRarity": 0.0277
+   },
+   {
+    "text": "العظام",
+    "baseRarity": 0.0246,
+    "aliases": [
+     "جراحة العظام"
+    ]
+   },
+   {
+    "text": "القلب",
+    "baseRarity": 0.0221,
+    "aliases": [
+     "أمراض القلب"
+    ]
+   },
+   {
+    "text": "الطب النفسي",
+    "baseRarity": 0.0201,
+    "aliases": [
+     "نفسية"
+    ]
+   },
+   {
+    "text": "الأعصاب",
+    "baseRarity": 0.0184,
+    "aliases": [
+     "طب الأعصاب"
+    ]
+   },
+   {
+    "text": "جراحة المخ والأعصاب",
+    "baseRarity": 0.017
+   },
+   {
+    "text": "الأشعة",
+    "baseRarity": 0.0158,
+    "aliases": [
+     "الأشعة التشخيصية"
+    ]
+   },
+   {
+    "text": "التخدير",
+    "baseRarity": 0.0148
+   },
+   {
+    "text": "طب الطوارئ",
+    "baseRarity": 0.0138,
+    "aliases": [
+     "الطوارئ"
+    ]
+   },
+   {
+    "text": "طب الأسرة",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "المسالك البولية",
+    "baseRarity": 0.0123
+   },
+   {
+    "text": "الكلى",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "أمراض الكلى"
+    ]
+   },
+   {
+    "text": "الجهاز الهضمي",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "الصدرية",
+    "baseRarity": 0.0105,
+    "aliases": [
+     "الأمراض الصدرية"
+    ]
+   },
+   {
+    "text": "الغدد الصماء",
+    "baseRarity": 0.0101,
+    "aliases": [
+     "الغدد"
+    ]
+   },
+   {
+    "text": "الأورام",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "أمراض الدم",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "الروماتيزم",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "الأمراض المعدية",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "جراحة التجميل",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "التجميل"
+    ]
+   },
+   {
+    "text": "جراحة القلب",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "جراحة الأوعية الدموية",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "جراحة الأطفال",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "الطب الرياضي",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "العلاج الطبيعي",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "الطب النووي",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "علم الأمراض",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "الباثولوجيا"
+    ]
+   },
+   {
+    "text": "الطب الشرعي",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "طب المسنين",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "طب الشيخوخة"
+    ]
+   },
+   {
+    "text": "حديثي الولادة",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "العناية المركزة",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "تقويم الأسنان",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "علاج الجذور",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "جراحة الوجه والفكين",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "الطب الوقائي",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "الصحة العامة",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "طب المجتمع",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "طب الطيران",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "الطب البيطري",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "الأشعة التداخلية",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "الحساسية والمناعة",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "السمعيات",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "طب النوم",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "جراحة الصدر",
+    "baseRarity": 0.0043
+   }
+  ],
+  "secret": "الطب النووي",
+  "sources": [
+   "https://www.scfhs.org.sa/"
+  ]
+ },
+ {
+  "id": "sci-branches",
+  "category": "علوم",
+  "prompt": "اذكر فرع من فروع العلم",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "الفيزياء",
+    "baseRarity": 0.2019
+   },
+   {
+    "text": "الكيمياء",
+    "baseRarity": 0.1009
+   },
+   {
+    "text": "الأحياء",
+    "baseRarity": 0.0673,
+    "aliases": [
+     "علم الأحياء",
+     "البيولوجيا"
+    ]
+   },
+   {
+    "text": "الرياضيات",
+    "baseRarity": 0.0505
+   },
+   {
+    "text": "الفلك",
+    "baseRarity": 0.0404,
+    "aliases": [
+     "علم الفلك"
+    ]
+   },
+   {
+    "text": "الجيولوجيا",
+    "baseRarity": 0.0336,
+    "aliases": [
+     "علم الأرض"
+    ]
+   },
+   {
+    "text": "الطب",
+    "baseRarity": 0.0288
+   },
+   {
+    "text": "الهندسة",
+    "baseRarity": 0.0252
+   },
+   {
+    "text": "الجغرافيا",
+    "baseRarity": 0.0224
+   },
+   {
+    "text": "علم النفس",
+    "baseRarity": 0.0202
+   },
+   {
+    "text": "علم الاجتماع",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "الاقتصاد",
+    "baseRarity": 0.0168
+   },
+   {
+    "text": "التاريخ",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "الفلسفة",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "علوم الحاسب",
+    "baseRarity": 0.0135,
+    "aliases": [
+     "علوم الكمبيوتر"
+    ]
+   },
+   {
+    "text": "الإحصاء",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "الجبر",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "الهندسة الرياضية",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "حساب المثلثات",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "التفاضل والتكامل",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "علم النبات",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "علم الحيوان",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "علم الوراثة",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "الوراثة"
+    ]
+   },
+   {
+    "text": "علم الأحياء الدقيقة",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "الميكروبيولوجيا"
+    ]
+   },
+   {
+    "text": "الكيمياء الحيوية",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "الكيمياء العضوية",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "الكيمياء التحليلية",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "الفيزياء النووية",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "فيزياء الكم",
+    "baseRarity": 0.007,
+    "aliases": [
+     "ميكانيكا الكم"
+    ]
+   },
+   {
+    "text": "الديناميكا الحرارية",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "البصريات",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "الصوتيات",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "الميكانيكا",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "الكهرومغناطيسية",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "علم الأرصاد الجوية",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "الأرصاد"
+    ]
+   },
+   {
+    "text": "علم المحيطات",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "علم البيئة",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "علم الإنسان",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "الأنثروبولوجيا"
+    ]
+   },
+   {
+    "text": "علم الآثار",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "علم اللغة",
+    "baseRarity": 0.005,
+    "aliases": [
+     "اللسانيات"
+    ]
+   },
+   {
+    "text": "علم المناعة",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "علم التشريح",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "التشريح"
+    ]
+   },
+   {
+    "text": "علم وظائف الأعضاء",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "الفسيولوجيا"
+    ]
+   },
+   {
+    "text": "علم الأدوية",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "علم الأوبئة",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "علم الأعصاب",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "علم الحشرات",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "علم الطيور",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "علم الفطريات",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "علم الخلية",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "علم الأجنة",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "علم الحفريات",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "الأحافير"
+    ]
+   },
+   {
+    "text": "علم الزلازل",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "علم البراكين",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "علم المعادن",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "علم البلورات",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "علم الفضاء",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "الفيزياء الفلكية",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "علم الكونيات",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "الذكاء الاصطناعي",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "علم البيانات",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "الروبوتات",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "الإلكترونيات",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "الهندسة الوراثية",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "التقنية الحيوية",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "تقنية النانو",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "علم المواد",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "علم التغذية",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "الصيدلة",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "التمريض",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "علم الجريمة",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "علم السياسة",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "القانون",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "المحاسبة",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الإدارة",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "التسويق",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "علم المكتبات",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "علم الخرائط",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "علم المناخ",
+    "baseRarity": 0.0026
+   }
+  ],
+  "secret": "علم الحفريات",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Branches_of_science"
+  ]
+ },
+ {
+  "id": "sci-shapes",
+  "category": "علوم",
+  "prompt": "اذكر شكل هندسي",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "مربع",
+    "baseRarity": 0.2243
+   },
+   {
+    "text": "دائرة",
+    "baseRarity": 0.1121
+   },
+   {
+    "text": "مثلث",
+    "baseRarity": 0.0748
+   },
+   {
+    "text": "مستطيل",
+    "baseRarity": 0.0561
+   },
+   {
+    "text": "معين",
+    "baseRarity": 0.0449
+   },
+   {
+    "text": "متوازي أضلاع",
+    "baseRarity": 0.0374
+   },
+   {
+    "text": "شبه منحرف",
+    "baseRarity": 0.032
+   },
+   {
+    "text": "خماسي",
+    "baseRarity": 0.028,
+    "aliases": [
+     "مخمس"
+    ]
+   },
+   {
+    "text": "سداسي",
+    "baseRarity": 0.0249,
+    "aliases": [
+     "مسدس"
+    ]
+   },
+   {
+    "text": "سباعي",
+    "baseRarity": 0.0224,
+    "aliases": [
+     "مسبع"
+    ]
+   },
+   {
+    "text": "ثماني",
+    "baseRarity": 0.0204,
+    "aliases": [
+     "مثمن"
+    ]
+   },
+   {
+    "text": "تساعي",
+    "baseRarity": 0.0187
+   },
+   {
+    "text": "عشاري",
+    "baseRarity": 0.0173
+   },
+   {
+    "text": "مضلع",
+    "baseRarity": 0.016
+   },
+   {
+    "text": "نجمة",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "قلب",
+    "baseRarity": 0.014
+   },
+   {
+    "text": "بيضاوي",
+    "baseRarity": 0.0132,
+    "aliases": [
+     "قطع ناقص",
+     "إهليلج"
+    ]
+   },
+   {
+    "text": "هلال",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "نصف دائرة",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "قطاع دائري",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "مكعب",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "كرة",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "أسطوانة",
+    "baseRarity": 0.0098,
+    "aliases": [
+     "اسطوانه"
+    ]
+   },
+   {
+    "text": "مخروط",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "هرم",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "منشور",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "متوازي مستطيلات",
+    "baseRarity": 0.0083,
+    "aliases": [
+     "متوازي السطوح"
+    ]
+   },
+   {
+    "text": "هرم رباعي",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "رباعي الأوجه",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "ثماني الأوجه",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "ذو الاثني عشر وجها",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "عشريني الأوجه",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "مثلث متساوي الأضلاع",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "مثلث متساوي الساقين",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "مثلث قائم الزاوية",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "مثلث قائم"
+    ]
+   },
+   {
+    "text": "مثلث مختلف الأضلاع",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "مثلث حاد الزوايا",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "مثلث منفرج الزاوية",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "الطائرة الورقية",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "قطع مكافئ",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "قطع زائد",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "حلقة",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "طارة"
+    ]
+   },
+   {
+    "text": "خط مستقيم",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "نقطة",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "شعاع",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "زاوية",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "قوس",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "حلزون",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "لولب"
+    ]
+   }
+  ],
+  "secret": "ذو الاثني عشر وجها",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/شكل_هندسي"
+  ]
+ },
+ {
+  "id": "sci-programming-languages",
+  "category": "علوم",
+  "prompt": "اذكر لغة برمجة",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "بايثون",
+    "baseRarity": 0.2169,
+    "aliases": [
+     "python"
+    ]
+   },
+   {
+    "text": "جافا",
+    "baseRarity": 0.1084,
+    "aliases": [
+     "java"
+    ]
+   },
+   {
+    "text": "جافاسكربت",
+    "baseRarity": 0.0723,
+    "aliases": [
+     "جافا سكريبت",
+     "javascript",
+     "js"
+    ]
+   },
+   {
+    "text": "سي",
+    "baseRarity": 0.0542,
+    "aliases": [
+     "c"
+    ]
+   },
+   {
+    "text": "سي بلس بلس",
+    "baseRarity": 0.0434
+   },
+   {
+    "text": "سي شارب",
+    "baseRarity": 0.0361
+   },
+   {
+    "text": "بي إتش بي",
+    "baseRarity": 0.031,
+    "aliases": [
+     "php"
+    ]
+   },
+   {
+    "text": "روبي",
+    "baseRarity": 0.0271,
+    "aliases": [
+     "ruby"
+    ]
+   },
+   {
+    "text": "سويفت",
+    "baseRarity": 0.0241,
+    "aliases": [
+     "swift"
+    ]
+   },
+   {
+    "text": "كوتلن",
+    "baseRarity": 0.0217,
+    "aliases": [
+     "kotlin"
+    ]
+   },
+   {
+    "text": "غو",
+    "baseRarity": 0.0197,
+    "aliases": [
+     "جو",
+     "go",
+     "golang"
+    ]
+   },
+   {
+    "text": "راست",
+    "baseRarity": 0.0181,
+    "aliases": [
+     "rust"
+    ]
+   },
+   {
+    "text": "تايب سكربت",
+    "baseRarity": 0.0167,
+    "aliases": [
+     "typescript"
+    ]
+   },
+   {
+    "text": "إتش تي إم إل",
+    "baseRarity": 0.0155,
+    "aliases": [
+     "html"
+    ]
+   },
+   {
+    "text": "سي إس إس",
+    "baseRarity": 0.0145,
+    "aliases": [
+     "css"
+    ]
+   },
+   {
+    "text": "إس كيو إل",
+    "baseRarity": 0.0136,
+    "aliases": [
+     "sql"
+    ]
+   },
+   {
+    "text": "آر",
+    "baseRarity": 0.0128,
+    "aliases": [
+     "r"
+    ]
+   },
+   {
+    "text": "ماتلاب",
+    "baseRarity": 0.012,
+    "aliases": [
+     "matlab"
+    ]
+   },
+   {
+    "text": "بيرل",
+    "baseRarity": 0.0114,
+    "aliases": [
+     "perl"
+    ]
+   },
+   {
+    "text": "سكالا",
+    "baseRarity": 0.0108,
+    "aliases": [
+     "scala"
+    ]
+   },
+   {
+    "text": "هاسكل",
+    "baseRarity": 0.0103,
+    "aliases": [
+     "haskell"
+    ]
+   },
+   {
+    "text": "لوا",
+    "baseRarity": 0.0099,
+    "aliases": [
+     "lua"
+    ]
+   },
+   {
+    "text": "دارت",
+    "baseRarity": 0.0094,
+    "aliases": [
+     "dart"
+    ]
+   },
+   {
+    "text": "جوليا",
+    "baseRarity": 0.009,
+    "aliases": [
+     "julia"
+    ]
+   },
+   {
+    "text": "فورتران",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "fortran"
+    ]
+   },
+   {
+    "text": "كوبول",
+    "baseRarity": 0.0083,
+    "aliases": [
+     "cobol"
+    ]
+   },
+   {
+    "text": "باسكال",
+    "baseRarity": 0.008,
+    "aliases": [
+     "pascal"
+    ]
+   },
+   {
+    "text": "بيسك",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "basic"
+    ]
+   },
+   {
+    "text": "فيجوال بيسك",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "visual basic",
+     "vb"
+    ]
+   },
+   {
+    "text": "دلفي",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "delphi"
+    ]
+   },
+   {
+    "text": "أسمبلي",
+    "baseRarity": 0.007,
+    "aliases": [
+     "لغة التجميع",
+     "assembly"
+    ]
+   },
+   {
+    "text": "ليسب",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "lisp"
+    ]
+   },
+   {
+    "text": "برولوج",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "prolog"
+    ]
+   },
+   {
+    "text": "أوبجكتف سي",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "objective-c"
+    ]
+   },
+   {
+    "text": "إرلانغ",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "erlang"
+    ]
+   },
+   {
+    "text": "إليكسير",
+    "baseRarity": 0.006,
+    "aliases": [
+     "elixir"
+    ]
+   },
+   {
+    "text": "كلوجر",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "clojure"
+    ]
+   },
+   {
+    "text": "إف شارب",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "f#"
+    ]
+   },
+   {
+    "text": "سكراتش",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "scratch"
+    ]
+   },
+   {
+    "text": "لوجو",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "logo"
+    ]
+   },
+   {
+    "text": "آدا",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "ada"
+    ]
+   },
+   {
+    "text": "سمول توك",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "smalltalk"
+    ]
+   },
+   {
+    "text": "باش",
+    "baseRarity": 0.005,
+    "aliases": [
+     "bash",
+     "شل"
+    ]
+   },
+   {
+    "text": "باورشيل",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "powershell"
+    ]
+   },
+   {
+    "text": "غروفي",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "groovy"
+    ]
+   },
+   {
+    "text": "في بي إيه",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "vba"
+    ]
+   },
+   {
+    "text": "سوليديتي",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "solidity"
+    ]
+   },
+   {
+    "text": "زيغ",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "zig"
+    ]
+   },
+   {
+    "text": "نيم",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "nim"
+    ]
+   },
+   {
+    "text": "كريستال",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "crystal"
+    ]
+   },
+   {
+    "text": "أوكامل",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "ocaml"
+    ]
+   },
+   {
+    "text": "ألغول",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "algol"
+    ]
+   },
+   {
+    "text": "سيمولا",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "simula"
+    ]
+   },
+   {
+    "text": "ماثماتيكا",
+    "baseRarity": 0.004,
+    "aliases": [
+     "mathematica"
+    ]
+   },
+   {
+    "text": "إكس إم إل",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "xml"
+    ]
+   },
+   {
+    "text": "جيسون",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "json"
+    ]
+   }
+  ],
+  "secret": "كوبول",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_programming_languages"
+  ]
+ },
+ {
+  "id": "sci-computer-parts",
+  "category": "علوم",
+  "prompt": "اذكر قطعة من مكونات الكمبيوتر أو ملحقاته",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "الشاشة",
+    "baseRarity": 0.2253
+   },
+   {
+    "text": "الكيبورد",
+    "baseRarity": 0.1127,
+    "aliases": [
+     "لوحة المفاتيح"
+    ]
+   },
+   {
+    "text": "الماوس",
+    "baseRarity": 0.0751,
+    "aliases": [
+     "الفأرة"
+    ]
+   },
+   {
+    "text": "المعالج",
+    "baseRarity": 0.0563,
+    "aliases": [
+     "البروسيسور",
+     "cpu"
+    ]
+   },
+   {
+    "text": "الرام",
+    "baseRarity": 0.0451,
+    "aliases": [
+     "الذاكرة العشوائية",
+     "ram"
+    ]
+   },
+   {
+    "text": "الهارديسك",
+    "baseRarity": 0.0376,
+    "aliases": [
+     "القرص الصلب",
+     "الهارد"
+    ]
+   },
+   {
+    "text": "اللوحة الأم",
+    "baseRarity": 0.0322,
+    "aliases": [
+     "المذربورد",
+     "الماذربورد"
+    ]
+   },
+   {
+    "text": "كرت الشاشة",
+    "baseRarity": 0.0282,
+    "aliases": [
+     "بطاقة الرسومات",
+     "gpu"
+    ]
+   },
+   {
+    "text": "السماعات",
+    "baseRarity": 0.025
+   },
+   {
+    "text": "الطابعة",
+    "baseRarity": 0.0225
+   },
+   {
+    "text": "الكاميرا",
+    "baseRarity": 0.0205,
+    "aliases": [
+     "الويب كام"
+    ]
+   },
+   {
+    "text": "المايكروفون",
+    "baseRarity": 0.0188,
+    "aliases": [
+     "الميكروفون",
+     "المايك"
+    ]
+   },
+   {
+    "text": "الفلاش",
+    "baseRarity": 0.0173,
+    "aliases": [
+     "الفلاش ميموري",
+     "يو إس بي"
+    ]
+   },
+   {
+    "text": "مزود الطاقة",
+    "baseRarity": 0.0161,
+    "aliases": [
+     "الباور سبلاي"
+    ]
+   },
+   {
+    "text": "المروحة",
+    "baseRarity": 0.015,
+    "aliases": [
+     "مروحة التبريد"
+    ]
+   },
+   {
+    "text": "الكيس",
+    "baseRarity": 0.0141,
+    "aliases": [
+     "صندوق الكمبيوتر"
+    ]
+   },
+   {
+    "text": "إس إس دي",
+    "baseRarity": 0.0133,
+    "aliases": [
+     "ssd"
+    ]
+   },
+   {
+    "text": "الماسح الضوئي",
+    "baseRarity": 0.0125,
+    "aliases": [
+     "السكانر"
+    ]
+   },
+   {
+    "text": "الراوتر",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "الكيبل",
+    "baseRarity": 0.0113,
+    "aliases": [
+     "الكابل",
+     "سلك الشاحن"
+    ]
+   },
+   {
+    "text": "الشاحن",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "البطارية",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "لوحة اللمس",
+    "baseRarity": 0.0098,
+    "aliases": [
+     "التاتش باد"
+    ]
+   },
+   {
+    "text": "مشغل الأقراص",
+    "baseRarity": 0.0094,
+    "aliases": [
+     "الدي في دي"
+    ]
+   },
+   {
+    "text": "كرت الصوت",
+    "baseRarity": 0.009,
+    "aliases": [
+     "بطاقة الصوت"
+    ]
+   },
+   {
+    "text": "كرت الشبكة",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "بطاقة الشبكة"
+    ]
+   },
+   {
+    "text": "المودم",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "الهيدفون",
+    "baseRarity": 0.008,
+    "aliases": [
+     "سماعة الرأس"
+    ]
+   },
+   {
+    "text": "ذراع التحكم",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "الجويستيك"
+    ]
+   },
+   {
+    "text": "قلم اللمس",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "لوحة الرسم",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "البروجكتور",
+    "baseRarity": 0.007,
+    "aliases": [
+     "جهاز العرض"
+    ]
+   },
+   {
+    "text": "المشتت الحراري",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "الهيت سنك"
+    ]
+   },
+   {
+    "text": "المعجون الحراري",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "الذاكرة المخبئية",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "الكاش"
+    ]
+   },
+   {
+    "text": "البيوس",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "bios"
+    ]
+   },
+   {
+    "text": "منفذ يو إس بي",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "منفذ usb"
+    ]
+   },
+   {
+    "text": "منفذ إتش دي إم آي",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "hdmi"
+    ]
+   },
+   {
+    "text": "الهب",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "موزع المنافذ"
+    ]
+   },
+   {
+    "text": "قارئ البطاقات",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "الذاكرة الخارجية",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "الهارد الخارجي"
+    ]
+   },
+   {
+    "text": "ماوس باد",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "لوحة الماوس"
+    ]
+   },
+   {
+    "text": "الواي فاي",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "كرت الواي فاي"
+    ]
+   },
+   {
+    "text": "البلوتوث",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "مبرد الماء",
+    "baseRarity": 0.005,
+    "aliases": [
+     "التبريد المائي"
+    ]
+   },
+   {
+    "text": "الشاشة اللمسية",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "جهاز عدم انقطاع الطاقة",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "يو بي إس",
+     "ups"
+    ]
+   }
+  ],
+  "secret": "المشتت الحراري",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Computer_hardware"
+  ]
+ },
+ {
+  "id": "sci-celestial-bodies",
+  "category": "علوم",
+  "prompt": "اذكر جرم سماوي باسمه (كوكب، قمر، نجم، مجرة، مذنب...)",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "الشمس",
+    "baseRarity": 0.2101
+   },
+   {
+    "text": "القمر",
+    "baseRarity": 0.1051
+   },
+   {
+    "text": "الأرض",
+    "baseRarity": 0.07
+   },
+   {
+    "text": "المريخ",
+    "baseRarity": 0.0525
+   },
+   {
+    "text": "المشتري",
+    "baseRarity": 0.042
+   },
+   {
+    "text": "زحل",
+    "baseRarity": 0.035
+   },
+   {
+    "text": "عطارد",
+    "baseRarity": 0.03
+   },
+   {
+    "text": "الزهرة",
+    "baseRarity": 0.0263
+   },
+   {
+    "text": "أورانوس",
+    "baseRarity": 0.0233
+   },
+   {
+    "text": "نبتون",
+    "baseRarity": 0.021
+   },
+   {
+    "text": "بلوتو",
+    "baseRarity": 0.0191
+   },
+   {
+    "text": "سيريس",
+    "baseRarity": 0.0175
+   },
+   {
+    "text": "إيريس",
+    "baseRarity": 0.0162
+   },
+   {
+    "text": "هاوميا",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "ماكيماكي",
+    "baseRarity": 0.014
+   },
+   {
+    "text": "فوبوس",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "ديموس",
+    "baseRarity": 0.0124
+   },
+   {
+    "text": "آيو",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "أوروبا",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "غانيميد",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "كاليستو",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "تيتان",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "إنسيلادوس",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "ميماس",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "ريا",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "ديون",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "تيثيس",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "يابيتوس",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "ميراندا",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "أرييل",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "أومبريل",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "تيتانيا",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "أوبيرون",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "تريتون",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "نيريد",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "شارون",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "سهيل",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "كانوبس"
+    ]
+   },
+   {
+    "text": "الشعرى اليمانية",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "سيريوس",
+     "الشعرى"
+    ]
+   },
+   {
+    "text": "منكب الجوزاء",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "بيتلجوز"
+    ]
+   },
+   {
+    "text": "رجل الجبار",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "ريجل"
+    ]
+   },
+   {
+    "text": "النسر الواقع",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "فيغا"
+    ]
+   },
+   {
+    "text": "الدبران",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "السماك الرامح",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "قلب العقرب",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "النجم القطبي",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "الجدي",
+     "بولاريس"
+    ]
+   },
+   {
+    "text": "رجل القنطور",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "ألفا قنطورس"
+    ]
+   },
+   {
+    "text": "بروكسيما قنطورس",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "العيوق",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "النسر الطائر",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "السماك الأعزل",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "ذنب الدجاجة",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "فم الحوت",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "الشعرى الشامية",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "الثريا",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "درب التبانة",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "مجرة درب التبانة"
+    ]
+   },
+   {
+    "text": "مجرة أندروميدا",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "المرأة المسلسلة",
+     "أندروميدا"
+    ]
+   },
+   {
+    "text": "سحابة ماجلان الكبرى",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "سحابة ماجلان الصغرى",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "مذنب هالي",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "مذنب هيل بوب",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "فيستا",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "بالاس",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "جونو",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "أبوفيس",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "سديم الجبار",
+    "baseRarity": 0.0032
+   }
+  ],
+  "secret": "إنسيلادوس",
+  "sources": [
+   "https://solarsystem.nasa.gov/"
+  ]
+ },
+ {
+  "id": "sci-inventions",
+  "category": "علوم",
+  "prompt": "اذكر اختراع غيّر العالم",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "الكهرباء",
+    "baseRarity": 0.2057,
+    "aliases": [
+     "المصباح الكهربائي",
+     "اللمبة"
+    ]
+   },
+   {
+    "text": "الهاتف",
+    "baseRarity": 0.1029,
+    "aliases": [
+     "التلفون"
+    ]
+   },
+   {
+    "text": "الإنترنت",
+    "baseRarity": 0.0686
+   },
+   {
+    "text": "الكمبيوتر",
+    "baseRarity": 0.0514,
+    "aliases": [
+     "الحاسوب"
+    ]
+   },
+   {
+    "text": "السيارة",
+    "baseRarity": 0.0411
+   },
+   {
+    "text": "الطائرة",
+    "baseRarity": 0.0343
+   },
+   {
+    "text": "العجلة",
+    "baseRarity": 0.0294
+   },
+   {
+    "text": "الطباعة",
+    "baseRarity": 0.0257,
+    "aliases": [
+     "آلة الطباعة",
+     "المطبعة"
+    ]
+   },
+   {
+    "text": "التلفزيون",
+    "baseRarity": 0.0229,
+    "aliases": [
+     "التلفاز"
+    ]
+   },
+   {
+    "text": "الراديو",
+    "baseRarity": 0.0206,
+    "aliases": [
+     "المذياع"
+    ]
+   },
+   {
+    "text": "الجوال",
+    "baseRarity": 0.0187,
+    "aliases": [
+     "الهاتف المحمول"
+    ]
+   },
+   {
+    "text": "القطار",
+    "baseRarity": 0.0171
+   },
+   {
+    "text": "الساعة",
+    "baseRarity": 0.0158
+   },
+   {
+    "text": "الكاميرا",
+    "baseRarity": 0.0147
+   },
+   {
+    "text": "الثلاجة",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "المكيف",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "البوصلة",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "الورق",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "البارود",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "المجهر",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "التلسكوب",
+    "baseRarity": 0.0098,
+    "aliases": [
+     "المنظار"
+    ]
+   },
+   {
+    "text": "النظارة",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "البنسلين",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "المضاد الحيوي"
+    ]
+   },
+   {
+    "text": "اللقاح",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "الأشعة السينية",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "أشعة إكس"
+    ]
+   },
+   {
+    "text": "المحرك البخاري",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "الآلة البخارية"
+    ]
+   },
+   {
+    "text": "محرك الاحتراق الداخلي",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "البطارية",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "الترانزستور",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "الليزر",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "الرادار",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "الأقمار الصناعية",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "القمر الصناعي"
+    ]
+   },
+   {
+    "text": "الصاروخ",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "الغواصة",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "السفينة البخارية",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "الدراجة",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "السيكل"
+    ]
+   },
+   {
+    "text": "الغسالة",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "المكنسة الكهربائية",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "الميكروويف",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "الآلة الحاسبة",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "التلغراف",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "الفونوغراف",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "الجرامافون"
+    ]
+   },
+   {
+    "text": "السينما",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "الكاميرا السينمائية"
+    ]
+   },
+   {
+    "text": "الآلة الكاتبة",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "البريد الإلكتروني",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "الإيميل"
+    ]
+   },
+   {
+    "text": "الهاتف الذكي",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "نظام تحديد المواقع",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "جي بي إس",
+     "gps"
+    ]
+   },
+   {
+    "text": "الطاقة الشمسية",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "الألواح الشمسية"
+    ]
+   },
+   {
+    "text": "المفاعل النووي",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الخرسانة",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "الإسمنت"
+    ]
+   },
+   {
+    "text": "الزجاج",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "النقود الورقية",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "المحراث",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "الإسطرلاب",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "الساعة المائية",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "الطاحونة الهوائية",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "السد",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "الصابون",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "المظلة",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "الشمسية"
+    ]
+   },
+   {
+    "text": "الولاعة",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "الكبريت",
+     "عود الثقاب"
+    ]
+   },
+   {
+    "text": "المصعد",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "السلم الكهربائي",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "الروبوت",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "الذكاء الاصطناعي",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "الطابعة ثلاثية الأبعاد",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "البلاستيك",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "السلك الشائك",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الترموستات",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "جهاز تنظيم ضربات القلب",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "الأسبرين",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "التخدير",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الرنين المغناطيسي",
+    "baseRarity": 0.0029
+   }
+  ],
+  "secret": "الإسطرلاب",
+  "sources": [
+   "https://www.britannica.com/technology"
+  ]
+ },
+ {
+  "id": "sci-compounds",
+  "category": "علوم",
+  "prompt": "اذكر مركب كيميائي (بالاسم العلمي أو الشائع)",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "الماء",
+    "baseRarity": 0.216,
+    "aliases": [
+     "أكسيد الهيدروجين"
+    ]
+   },
+   {
+    "text": "ملح الطعام",
+    "baseRarity": 0.108,
+    "aliases": [
+     "كلوريد الصوديوم"
+    ]
+   },
+   {
+    "text": "ثاني أكسيد الكربون",
+    "baseRarity": 0.072
+   },
+   {
+    "text": "أول أكسيد الكربون",
+    "baseRarity": 0.054
+   },
+   {
+    "text": "الأمونيا",
+    "baseRarity": 0.0432,
+    "aliases": [
+     "النشادر"
+    ]
+   },
+   {
+    "text": "الميثان",
+    "baseRarity": 0.036
+   },
+   {
+    "text": "الإيثانول",
+    "baseRarity": 0.0309,
+    "aliases": [
+     "الكحول الإيثيلي"
+    ]
+   },
+   {
+    "text": "الميثانول",
+    "baseRarity": 0.027
+   },
+   {
+    "text": "حمض الكبريتيك",
+    "baseRarity": 0.024,
+    "aliases": [
+     "حامض الكبريتيك"
+    ]
+   },
+   {
+    "text": "حمض الهيدروكلوريك",
+    "baseRarity": 0.0216,
+    "aliases": [
+     "حمض الكلور",
+     "ماء النار"
+    ]
+   },
+   {
+    "text": "حمض النيتريك",
+    "baseRarity": 0.0196
+   },
+   {
+    "text": "حمض الخليك",
+    "baseRarity": 0.018,
+    "aliases": [
+     "حمض الأسيتيك",
+     "الخل"
+    ]
+   },
+   {
+    "text": "حمض الستريك",
+    "baseRarity": 0.0166,
+    "aliases": [
+     "ملح الليمون"
+    ]
+   },
+   {
+    "text": "بيكربونات الصوديوم",
+    "baseRarity": 0.0154,
+    "aliases": [
+     "بيكنج صودا",
+     "صودا الخبز"
+    ]
+   },
+   {
+    "text": "كربونات الكالسيوم",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "هيدروكسيد الصوديوم",
+    "baseRarity": 0.0135,
+    "aliases": [
+     "الصودا الكاوية"
+    ]
+   },
+   {
+    "text": "فوق أكسيد الهيدروجين",
+    "baseRarity": 0.0127,
+    "aliases": [
+     "ماء الأكسجين"
+    ]
+   },
+   {
+    "text": "الجلوكوز",
+    "baseRarity": 0.012,
+    "aliases": [
+     "الغلوكوز"
+    ]
+   },
+   {
+    "text": "السكروز",
+    "baseRarity": 0.0114,
+    "aliases": [
+     "سكر المائدة"
+    ]
+   },
+   {
+    "text": "الفركتوز",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "اللاكتوز",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "النشا",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "السليلوز",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "الأوزون",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "البروبان",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "البيوتان",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "الأسيتون",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "البنزين",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "البنزين العطري"
+    ]
+   },
+   {
+    "text": "الإيثيلين",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "الأسيتيلين",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "الفورمالديهايد",
+    "baseRarity": 0.007,
+    "aliases": [
+     "الفورمالين"
+    ]
+   },
+   {
+    "text": "الكلوروفورم",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "الكافيين",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "النيكوتين",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "الأسبرين",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "حمض الأسيتيل ساليسيليك"
+    ]
+   },
+   {
+    "text": "الباراسيتامول",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "اليوريا",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "الجلسرين",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "الغليسرين"
+    ]
+   },
+   {
+    "text": "البوتاس",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "كربونات البوتاسيوم"
+    ]
+   },
+   {
+    "text": "نترات البوتاسيوم",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "كبريتات النحاس",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "أكسيد الحديد",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "الصدأ"
+    ]
+   },
+   {
+    "text": "الجبس",
+    "baseRarity": 0.005,
+    "aliases": [
+     "كبريتات الكالسيوم"
+    ]
+   },
+   {
+    "text": "الجير",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "أكسيد الكالسيوم"
+    ]
+   },
+   {
+    "text": "السيليكا",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "ثاني أكسيد السيليكون"
+    ]
+   },
+   {
+    "text": "أكسيد النيتروز",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "الغاز المضحك"
+    ]
+   },
+   {
+    "text": "ثاني أكسيد الكبريت",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "كبريتيد الهيدروجين",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "ثاني كبريتيد الكربون",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "الكلوروفيل",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الهيموجلوبين",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "DNA",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "الحمض النووي",
+     "دي إن إيه"
+    ]
+   },
+   {
+    "text": "الكولسترول",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "الكوليسترول"
+    ]
+   },
+   {
+    "text": "فلوريد الصوديوم",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "كلوريد الكالسيوم",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "نترات الأمونيوم",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "هيبوكلوريت الصوديوم",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "الكلوركس"
+    ]
+   }
+  ],
+  "secret": "ثاني كبريتيد الكربون",
+  "sources": [
+   "https://pubchem.ncbi.nlm.nih.gov/"
+  ]
+ },
+ {
+  "id": "sci-math-terms",
+  "category": "علوم",
+  "prompt": "اذكر مصطلح من مصطلحات الرياضيات",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "الجمع",
+    "baseRarity": 0.2035
+   },
+   {
+    "text": "الطرح",
+    "baseRarity": 0.1017
+   },
+   {
+    "text": "الضرب",
+    "baseRarity": 0.0678
+   },
+   {
+    "text": "القسمة",
+    "baseRarity": 0.0509
+   },
+   {
+    "text": "الكسر",
+    "baseRarity": 0.0407
+   },
+   {
+    "text": "النسبة المئوية",
+    "baseRarity": 0.0339
+   },
+   {
+    "text": "المعادلة",
+    "baseRarity": 0.0291
+   },
+   {
+    "text": "المتغير",
+    "baseRarity": 0.0254
+   },
+   {
+    "text": "الدالة",
+    "baseRarity": 0.0226
+   },
+   {
+    "text": "المجموعة",
+    "baseRarity": 0.0203
+   },
+   {
+    "text": "المصفوفة",
+    "baseRarity": 0.0185
+   },
+   {
+    "text": "المتجه",
+    "baseRarity": 0.017
+   },
+   {
+    "text": "الجذر التربيعي",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "الأس",
+    "baseRarity": 0.0145,
+    "aliases": [
+     "القوة"
+    ]
+   },
+   {
+    "text": "اللوغاريتم",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "المشتقة",
+    "baseRarity": 0.0127,
+    "aliases": [
+     "الاشتقاق"
+    ]
+   },
+   {
+    "text": "التكامل",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "النهاية",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "المتتالية",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "المتسلسلة",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "الاحتمال",
+    "baseRarity": 0.0097,
+    "aliases": [
+     "الاحتمالات"
+    ]
+   },
+   {
+    "text": "المتوسط الحسابي",
+    "baseRarity": 0.0092,
+    "aliases": [
+     "المتوسط"
+    ]
+   },
+   {
+    "text": "الوسيط",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "المنوال",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "الانحراف المعياري",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "التباين",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "المحيط",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "المساحة",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "الحجم",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "الزاوية",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "الوتر",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "القطر",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "نصف القطر",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "باي",
+    "baseRarity": 0.006,
+    "aliases": [
+     "ط"
+    ]
+   },
+   {
+    "text": "المماس",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "الجيب",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "جا"
+    ]
+   },
+   {
+    "text": "جيب التمام",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "جتا"
+    ]
+   },
+   {
+    "text": "الظل",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "ظا"
+    ]
+   },
+   {
+    "text": "النظرية",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "البرهان",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "المسلمة",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "العدد الأولي",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "العدد النسبي",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "العدد غير النسبي",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "العدد الصحيح",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "العدد الحقيقي",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "العدد المركب",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "العدد الطبيعي",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الصفر",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "اللانهاية",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "ما لا نهاية"
+    ]
+   },
+   {
+    "text": "المضاعف المشترك الأصغر",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "القاسم المشترك الأكبر",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "العامل",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "التحليل إلى عوامل"
+    ]
+   },
+   {
+    "text": "كثيرة الحدود",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "المعادلة التربيعية",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "المتباينة",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "القيمة المطلقة",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "المحور",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "الإحداثيات",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "الميل",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "التناظر",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "التشابه",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "التطابق",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "المستقيم",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "المستوى",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "المنحنى",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "المحددة",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "التبديل",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "التوافيق",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "المضروب",
+    "baseRarity": 0.0029,
+    "aliases": [
+     "العاملي"
+    ]
+   },
+   {
+    "text": "النسبة والتناسب",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الكسر العشري",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "البسط",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "المقام",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الناتج",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الباقي",
+    "baseRarity": 0.0027
+   }
+  ],
+  "secret": "اللوغاريتم",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/رياضيات"
+  ]
+ },
+ {
+  "id": "sci-arab-scientists",
+  "category": "علوم",
+  "prompt": "اذكر عالم عربي أو مسلم من العصور الإسلامية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "ابن سينا",
+    "baseRarity": 0.2129
+   },
+   {
+    "text": "الخوارزمي",
+    "baseRarity": 0.1065
+   },
+   {
+    "text": "ابن الهيثم",
+    "baseRarity": 0.071
+   },
+   {
+    "text": "جابر بن حيان",
+    "baseRarity": 0.0532
+   },
+   {
+    "text": "الرازي",
+    "baseRarity": 0.0426,
+    "aliases": [
+     "أبو بكر الرازي"
+    ]
+   },
+   {
+    "text": "البيروني",
+    "baseRarity": 0.0355
+   },
+   {
+    "text": "الفارابي",
+    "baseRarity": 0.0304
+   },
+   {
+    "text": "الكندي",
+    "baseRarity": 0.0266
+   },
+   {
+    "text": "ابن النفيس",
+    "baseRarity": 0.0237
+   },
+   {
+    "text": "الزهراوي",
+    "baseRarity": 0.0213,
+    "aliases": [
+     "أبو القاسم الزهراوي"
+    ]
+   },
+   {
+    "text": "ابن رشد",
+    "baseRarity": 0.0194
+   },
+   {
+    "text": "ابن خلدون",
+    "baseRarity": 0.0177
+   },
+   {
+    "text": "عمر الخيام",
+    "baseRarity": 0.0164
+   },
+   {
+    "text": "الإدريسي",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "عباس بن فرناس",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "الجزري",
+    "baseRarity": 0.0133,
+    "aliases": [
+     "بديع الزمان الجزري"
+    ]
+   },
+   {
+    "text": "ثابت بن قرة",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "البتاني",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "نصير الدين الطوسي",
+    "baseRarity": 0.0112,
+    "aliases": [
+     "الطوسي"
+    ]
+   },
+   {
+    "text": "الغزالي",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "ابن بطوطة",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "المسعودي",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "ابن البيطار",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "ابن الشاطر",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "الكرجي",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "البوزجاني",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "أبو الوفاء البوزجاني"
+    ]
+   },
+   {
+    "text": "الفرغاني",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "الصوفي",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "عبد الرحمن الصوفي"
+    ]
+   },
+   {
+    "text": "ابن يونس",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "الزرقالي",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "البطروجي",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "ابن باجة",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "ابن طفيل",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "ابن زهر",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "ابن الجزار",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "علي بن عيسى الكحال",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "عمار الموصلي",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "حنين بن إسحاق",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "ابن ماسويه",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "الدينوري",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "ابن وحشية",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "الجاحظ",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "القزويني",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "ياقوت الحموي",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "المقدسي",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "ابن حوقل",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "الإصطخري",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "ابن جبير",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "البلخي",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الكاشي",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "غياث الدين الكاشي"
+    ]
+   },
+   {
+    "text": "ابن البناء",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "السموأل المغربي",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "الماهاني",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "ابن الهائم",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "بنو موسى",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "أبناء موسى بن شاكر"
+    ]
+   },
+   {
+    "text": "الخازني",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "قطب الدين الشيرازي",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "ابن العوام",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "ابن سهل",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "تقي الدين الشامي",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "تقي الدين بن معروف"
+    ]
+   },
+   {
+    "text": "مريم الأسطرلابي",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "العجلية"
+    ]
+   }
+  ],
+  "secret": "ابن الشاطر",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/العلوم_في_العصر_الذهبي_للإسلام"
+  ]
+ },
+ {
+  "id": "sci-lab-tools",
+  "category": "علوم",
+  "prompt": "اذكر أداة أو جهاز يُستخدم في المختبر العلمي",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "المجهر",
+    "baseRarity": 0.2169,
+    "aliases": [
+     "الميكروسكوب"
+    ]
+   },
+   {
+    "text": "أنبوب الاختبار",
+    "baseRarity": 0.1084,
+    "aliases": [
+     "أنابيب الاختبار"
+    ]
+   },
+   {
+    "text": "الكأس الزجاجية",
+    "baseRarity": 0.0723,
+    "aliases": [
+     "البيكر"
+    ]
+   },
+   {
+    "text": "الدورق المخروطي",
+    "baseRarity": 0.0542,
+    "aliases": [
+     "دورق إرلنماير"
+    ]
+   },
+   {
+    "text": "الدورق",
+    "baseRarity": 0.0434
+   },
+   {
+    "text": "الماصة",
+    "baseRarity": 0.0361
+   },
+   {
+    "text": "السحاحة",
+    "baseRarity": 0.031
+   },
+   {
+    "text": "المخبار المدرج",
+    "baseRarity": 0.0271
+   },
+   {
+    "text": "موقد بنزن",
+    "baseRarity": 0.0241,
+    "aliases": [
+     "لهب بنزن"
+    ]
+   },
+   {
+    "text": "الميزان الحساس",
+    "baseRarity": 0.0217,
+    "aliases": [
+     "الميزان"
+    ]
+   },
+   {
+    "text": "ميزان الحرارة",
+    "baseRarity": 0.0197,
+    "aliases": [
+     "الترمومتر"
+    ]
+   },
+   {
+    "text": "القمع",
+    "baseRarity": 0.0181
+   },
+   {
+    "text": "ورق الترشيح",
+    "baseRarity": 0.0167
+   },
+   {
+    "text": "طبق بتري",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "الشريحة الزجاجية",
+    "baseRarity": 0.0145,
+    "aliases": [
+     "الشريحة"
+    ]
+   },
+   {
+    "text": "غطاء الشريحة",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "الملقط",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "الماسك",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "الحامل",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "المشبك",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "حامل الأنابيب",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "القطارة",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "زجاجة الساعة",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "الجفنة",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "الهاون",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "الهاون والمدقة"
+    ]
+   },
+   {
+    "text": "جهاز الطرد المركزي",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "الحاضنة",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "الفرن",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "فرن التجفيف"
+    ]
+   },
+   {
+    "text": "المعقم",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "الأوتوكلاف"
+    ]
+   },
+   {
+    "text": "جهاز التقطير",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "المكثف",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "دورق التقطير",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "جهاز قياس الحموضة",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "مقياس الأس الهيدروجيني",
+     "ph meter"
+    ]
+   },
+   {
+    "text": "ورق تباع الشمس",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "المطياف",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "المحرك المغناطيسي",
+    "baseRarity": 0.006,
+    "aliases": [
+     "الخلاط المغناطيسي"
+    ]
+   },
+   {
+    "text": "النظارات الواقية",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "القفازات",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "المعطف",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "معطف المختبر"
+    ]
+   },
+   {
+    "text": "خزانة الأبخرة",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "شفاط الأبخرة"
+    ]
+   },
+   {
+    "text": "الملعقة",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "قضيب التقليب",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "ساق زجاجية"
+    ]
+   },
+   {
+    "text": "الفولتميتر",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "الأميتر",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "الملتيميتر",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "الأوسيلوسكوب",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "راسم الإشارة"
+    ]
+   },
+   {
+    "text": "المغناطيس",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "المنشور",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "العدسة",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "البوصلة",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "المقياس الزنبركي",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "ميزان نابضي"
+    ]
+   },
+   {
+    "text": "القدمة ذات الورنية",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "الورنية"
+    ]
+   },
+   {
+    "text": "الميكرومتر",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "ساعة الإيقاف",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "البارومتر",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "الهيدرومتر",
+    "baseRarity": 0.0039
+   }
+  ],
+  "secret": "الدورق المخروطي",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_laboratory_equipment"
+  ]
+ },
+ {
+  "id": "sci-tech-terms",
+  "category": "علوم",
+  "prompt": "اذكر مصطلح تقني أو مصطلح من عالم الإنترنت",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "واي فاي",
+    "baseRarity": 0.2035,
+    "aliases": [
+     "wifi"
+    ]
+   },
+   {
+    "text": "بلوتوث",
+    "baseRarity": 0.1017
+   },
+   {
+    "text": "إنترنت",
+    "baseRarity": 0.0678
+   },
+   {
+    "text": "إيميل",
+    "baseRarity": 0.0509,
+    "aliases": [
+     "بريد إلكتروني"
+    ]
+   },
+   {
+    "text": "موقع إلكتروني",
+    "baseRarity": 0.0407,
+    "aliases": [
+     "ويب سايت"
+    ]
+   },
+   {
+    "text": "تطبيق",
+    "baseRarity": 0.0339,
+    "aliases": [
+     "أبلكيشن"
+    ]
+   },
+   {
+    "text": "برنامج",
+    "baseRarity": 0.0291
+   },
+   {
+    "text": "فيروس",
+    "baseRarity": 0.0254
+   },
+   {
+    "text": "هاكر",
+    "baseRarity": 0.0226,
+    "aliases": [
+     "اختراق"
+    ]
+   },
+   {
+    "text": "كلمة المرور",
+    "baseRarity": 0.0203,
+    "aliases": [
+     "باسورد",
+     "كلمة السر"
+    ]
+   },
+   {
+    "text": "تحميل",
+    "baseRarity": 0.0185,
+    "aliases": [
+     "داونلود"
+    ]
+   },
+   {
+    "text": "رفع",
+    "baseRarity": 0.017,
+    "aliases": [
+     "أبلود"
+    ]
+   },
+   {
+    "text": "متصفح",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "محرك بحث",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "خادم",
+    "baseRarity": 0.0136,
+    "aliases": [
+     "سيرفر"
+    ]
+   },
+   {
+    "text": "سحابة",
+    "baseRarity": 0.0127,
+    "aliases": [
+     "الحوسبة السحابية",
+     "كلاود"
+    ]
+   },
+   {
+    "text": "قاعدة بيانات",
+    "baseRarity": 0.012,
+    "aliases": [
+     "داتابيس"
+    ]
+   },
+   {
+    "text": "خوارزمية",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "ذكاء اصطناعي",
+    "baseRarity": 0.0107,
+    "aliases": [
+     "ai"
+    ]
+   },
+   {
+    "text": "تعلم الآلة",
+    "baseRarity": 0.0102,
+    "aliases": [
+     "ماشين ليرننق"
+    ]
+   },
+   {
+    "text": "روبوت",
+    "baseRarity": 0.0097,
+    "aliases": [
+     "بوت"
+    ]
+   },
+   {
+    "text": "بلوك تشين",
+    "baseRarity": 0.0092,
+    "aliases": [
+     "سلسلة الكتل"
+    ]
+   },
+   {
+    "text": "عملة رقمية",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "كريبتو"
+    ]
+   },
+   {
+    "text": "بيتكوين",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "هاشتاق",
+    "baseRarity": 0.0081,
+    "aliases": [
+     "وسم"
+    ]
+   },
+   {
+    "text": "ترند",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "بودكاست",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "بث مباشر",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "لايف"
+    ]
+   },
+   {
+    "text": "ستريمنق",
+    "baseRarity": 0.007,
+    "aliases": [
+     "البث"
+    ]
+   },
+   {
+    "text": "يوتيوبر",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "مؤثر",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "إنفلونسر"
+    ]
+   },
+   {
+    "text": "سوشال ميديا",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "التواصل الاجتماعي"
+    ]
+   },
+   {
+    "text": "رابط",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "لينك"
+    ]
+   },
+   {
+    "text": "نطاق",
+    "baseRarity": 0.006,
+    "aliases": [
+     "دومين"
+    ]
+   },
+   {
+    "text": "استضافة",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "آي بي",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "عنوان آي بي",
+     "ip"
+    ]
+   },
+   {
+    "text": "راوتر",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "بروتوكول",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "تشفير",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "جدار ناري",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "فايروول"
+    ]
+   },
+   {
+    "text": "باك أب",
+    "baseRarity": 0.005,
+    "aliases": [
+     "نسخ احتياطي"
+    ]
+   },
+   {
+    "text": "تحديث",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "أبديت"
+    ]
+   },
+   {
+    "text": "نظام تشغيل",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "واجهة مستخدم",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "يو آي"
+    ]
+   },
+   {
+    "text": "تجربة المستخدم",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "يو إكس"
+    ]
+   },
+   {
+    "text": "كود",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "برمجة"
+    ]
+   },
+   {
+    "text": "باغ",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "خلل برمجي"
+    ]
+   },
+   {
+    "text": "ميتافيرس",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الواقع الافتراضي",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "في آر"
+    ]
+   },
+   {
+    "text": "الواقع المعزز",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "إيه آر"
+    ]
+   },
+   {
+    "text": "إنترنت الأشياء",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "الجيل الخامس",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "فايف جي",
+     "5g"
+    ]
+   },
+   {
+    "text": "بيانات ضخمة",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "بيغ داتا"
+    ]
+   },
+   {
+    "text": "الأمن السيبراني",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "تصيد",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "فيشينغ"
+    ]
+   },
+   {
+    "text": "كوكيز",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "كاش",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "بكسل",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "دقة الشاشة",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "ريزولوشن"
+    ]
+   },
+   {
+    "text": "ميجابكسل",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "جيجابايت",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "باندويث",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "عرض النطاق"
+    ]
+   },
+   {
+    "text": "بنق",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "ping"
+    ]
+   },
+   {
+    "text": "سبام",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "رسائل مزعجة"
+    ]
+   },
+   {
+    "text": "كابتشا",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "QR",
+    "baseRarity": 0.0031,
+    "aliases": [
+     "كيو آر",
+     "باركود"
+    ]
+   },
+   {
+    "text": "إن إف سي",
+    "baseRarity": 0.003,
+    "aliases": [
+     "nfc"
+    ]
+   },
+   {
+    "text": "تطبيق ويب",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "API",
+    "baseRarity": 0.0029,
+    "aliases": [
+     "واجهة برمجة التطبيقات",
+     "إيه بي آي"
+    ]
+   },
+   {
+    "text": "مفتوح المصدر",
+    "baseRarity": 0.0029,
+    "aliases": [
+     "أوبن سورس"
+    ]
+   },
+   {
+    "text": "لينكس",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "جيت",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "git"
+    ]
+   },
+   {
+    "text": "الحوسبة الكمية",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الحوسبة الطرفية",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "ديب فيك",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "التزييف العميق"
+    ]
+   },
+   {
+    "text": "شات بوت",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "روبوت محادثة"
+    ]
+   }
+  ],
+  "secret": "الحوسبة الكمية",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Glossary_of_computer_science"
+  ]
+ },
+ {
+  "id": "sci-medical-devices",
+  "category": "علوم",
+  "prompt": "اذكر جهاز أو أداة طبية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "سماعة الطبيب",
+    "baseRarity": 0.2177,
+    "aliases": [
+     "السماعة الطبية"
+    ]
+   },
+   {
+    "text": "ميزان الحرارة",
+    "baseRarity": 0.1088,
+    "aliases": [
+     "الترمومتر",
+     "مقياس الحرارة"
+    ]
+   },
+   {
+    "text": "جهاز قياس الضغط",
+    "baseRarity": 0.0726,
+    "aliases": [
+     "جهاز الضغط"
+    ]
+   },
+   {
+    "text": "جهاز قياس السكر",
+    "baseRarity": 0.0544,
+    "aliases": [
+     "جهاز السكر"
+    ]
+   },
+   {
+    "text": "الإبرة",
+    "baseRarity": 0.0435,
+    "aliases": [
+     "الحقنة",
+     "السرنجة"
+    ]
+   },
+   {
+    "text": "المشرط",
+    "baseRarity": 0.0363
+   },
+   {
+    "text": "الملقط",
+    "baseRarity": 0.0311
+   },
+   {
+    "text": "المقص الجراحي",
+    "baseRarity": 0.0272
+   },
+   {
+    "text": "الضماد",
+    "baseRarity": 0.0242,
+    "aliases": [
+     "الشاش"
+    ]
+   },
+   {
+    "text": "اللاصق الطبي",
+    "baseRarity": 0.0218,
+    "aliases": [
+     "البلاستر"
+    ]
+   },
+   {
+    "text": "الجبيرة",
+    "baseRarity": 0.0198,
+    "aliases": [
+     "الجبس"
+    ]
+   },
+   {
+    "text": "العكاز",
+    "baseRarity": 0.0181
+   },
+   {
+    "text": "الكرسي المتحرك",
+    "baseRarity": 0.0167,
+    "aliases": [
+     "كرسي متحرك"
+    ]
+   },
+   {
+    "text": "جهاز الأشعة السينية",
+    "baseRarity": 0.0155,
+    "aliases": [
+     "الأشعة"
+    ]
+   },
+   {
+    "text": "جهاز الرنين المغناطيسي",
+    "baseRarity": 0.0145,
+    "aliases": [
+     "الرنين"
+    ]
+   },
+   {
+    "text": "الأشعة المقطعية",
+    "baseRarity": 0.0136,
+    "aliases": [
+     "جهاز التصوير المقطعي"
+    ]
+   },
+   {
+    "text": "جهاز الموجات فوق الصوتية",
+    "baseRarity": 0.0128,
+    "aliases": [
+     "السونار",
+     "الألتراساوند"
+    ]
+   },
+   {
+    "text": "جهاز تخطيط القلب",
+    "baseRarity": 0.0121,
+    "aliases": [
+     "تخطيط القلب"
+    ]
+   },
+   {
+    "text": "جهاز تخطيط الدماغ",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "جهاز إزالة الرجفان",
+    "baseRarity": 0.0109,
+    "aliases": [
+     "الصاعق الكهربائي"
+    ]
+   },
+   {
+    "text": "جهاز التنفس الصناعي",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "جهاز غسيل الكلى",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "جهاز تنظيم ضربات القلب",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "المنظار",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "جهاز المنظار"
+    ]
+   },
+   {
+    "text": "منظار المعدة",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "منظار الأذن",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "منظار العين",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "منظار الحنجرة",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "خافض اللسان",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "المحلول الوريدي",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "المغذي"
+    ]
+   },
+   {
+    "text": "الكانيولا",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "القسطرة",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "الدعامة",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "السرير الطبي",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "النقالة",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "جهاز الأكسجين",
+    "baseRarity": 0.006,
+    "aliases": [
+     "أسطوانة الأكسجين"
+    ]
+   },
+   {
+    "text": "جهاز البخار",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "جهاز الاستنشاق",
+     "النيبولايزر"
+    ]
+   },
+   {
+    "text": "البخاخ",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "جهاز قياس الأكسجين",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "الأوكسيميتر"
+    ]
+   },
+   {
+    "text": "الحاضنة",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "السماعة الطبية للأذن",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "المعينات السمعية",
+     "سماعة الأذن"
+    ]
+   },
+   {
+    "text": "العدسات اللاصقة",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "النظارة الطبية",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "تقويم الأسنان",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "الكمامة",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "القفازات الطبية",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "مقياس الطول",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "الميزان الطبي",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "جهاز الليزر",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "جهاز التعقيم",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "الأوتوكلاف"
+    ]
+   },
+   {
+    "text": "جهاز ضخ الأنسولين",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "مضخة الأنسولين"
+    ]
+   },
+   {
+    "text": "قلم الأنسولين",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "المثقب الجراحي",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "دعامة الرقبة",
+    "baseRarity": 0.004,
+    "aliases": [
+     "الطوق الطبي"
+    ]
+   },
+   {
+    "text": "حزام الظهر الطبي",
+    "baseRarity": 0.004
+   }
+  ],
+  "secret": "منظار الحنجرة",
+  "sources": [
+   "https://www.who.int/health-topics/medical-devices"
+  ]
+ },
+ {
+  "id": "sci-laws-theories",
+  "category": "علوم",
+  "prompt": "اذكر قانون أو نظرية أو مبدأ علمي مشهور",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "النظرية النسبية",
+    "baseRarity": 0.2186,
+    "aliases": [
+     "النسبية"
+    ]
+   },
+   {
+    "text": "قانون الجاذبية",
+    "baseRarity": 0.1093,
+    "aliases": [
+     "الجاذبية"
+    ]
+   },
+   {
+    "text": "قوانين نيوتن",
+    "baseRarity": 0.0729,
+    "aliases": [
+     "قانون نيوتن"
+    ]
+   },
+   {
+    "text": "قانون أوم",
+    "baseRarity": 0.0546
+   },
+   {
+    "text": "قاعدة أرخميدس",
+    "baseRarity": 0.0437,
+    "aliases": [
+     "مبدأ أرخميدس"
+    ]
+   },
+   {
+    "text": "نظرية فيثاغورس",
+    "baseRarity": 0.0364
+   },
+   {
+    "text": "نظرية التطور",
+    "baseRarity": 0.0312,
+    "aliases": [
+     "التطور"
+    ]
+   },
+   {
+    "text": "نظرية الانفجار العظيم",
+    "baseRarity": 0.0273,
+    "aliases": [
+     "الانفجار العظيم"
+    ]
+   },
+   {
+    "text": "قانون بويل",
+    "baseRarity": 0.0243
+   },
+   {
+    "text": "قانون شارل",
+    "baseRarity": 0.0219
+   },
+   {
+    "text": "قانون حفظ الطاقة",
+    "baseRarity": 0.0199
+   },
+   {
+    "text": "قانون حفظ الكتلة",
+    "baseRarity": 0.0182
+   },
+   {
+    "text": "قانون حفظ الزخم",
+    "baseRarity": 0.0168
+   },
+   {
+    "text": "قوانين كبلر",
+    "baseRarity": 0.0156
+   },
+   {
+    "text": "مبدأ عدم اليقين",
+    "baseRarity": 0.0146,
+    "aliases": [
+     "مبدأ الريبة"
+    ]
+   },
+   {
+    "text": "نظرية الكم",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "نظرية الأوتار",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "قانون كولوم",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "قانون فاراداي",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "قانون لنز",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "قوانين كيرشوف",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "قانون هوك",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "قانون سنل",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "مبدأ باسكال",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "مبدأ برنولي",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "تأثير دوبلر",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "قوانين الديناميكا الحرارية",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "قانون أفوجادرو",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "الجدول الدوري",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "قانون مندل",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "قوانين مندل"
+    ]
+   },
+   {
+    "text": "النظرية الخلوية",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "نظرية الجراثيم",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "الصفائح التكتونية",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "تكتونية الصفائح"
+    ]
+   },
+   {
+    "text": "الانجراف القاري",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "قانون هابل",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "معادلة أينشتاين",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "e=mc2"
+    ]
+   },
+   {
+    "text": "التأثير الكهروضوئي",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "مبدأ باولي للاستبعاد",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "قانون غاوس",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "قانون أمبير",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "معادلات ماكسويل",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "نظرية الفوضى",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "تأثير الفراشة",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "نظرية الألعاب",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "مبرهنة فيرما الأخيرة",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "فرضية ريمان",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "مبرهنة عدم الاكتمال",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "نظرية الاحتمالات",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "قانون الأعداد الكبيرة",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "قانون العرض والطلب",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "شفرة أوكام",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "نصل أوكام"
+    ]
+   },
+   {
+    "text": "قانون مور",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "تأثير البيت الزجاجي",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "الاحتباس الحراري"
+    ]
+   },
+   {
+    "text": "قانون التربيع العكسي",
+    "baseRarity": 0.004
+   }
+  ],
+  "secret": "مبدأ باولي للاستبعاد",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Scientific_law"
+  ]
+ },
+ {
+  "id": "sci-software",
+  "category": "علوم",
+  "prompt": "اذكر برنامج أو نظام تشغيل أو تطبيق مشهور",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "ويندوز",
+    "baseRarity": 0.2094,
+    "aliases": [
+     "windows"
+    ]
+   },
+   {
+    "text": "آيفون",
+    "baseRarity": 0.1047,
+    "aliases": [
+     "ios",
+     "آي أو إس"
+    ]
+   },
+   {
+    "text": "أندرويد",
+    "baseRarity": 0.0698,
+    "aliases": [
+     "android"
+    ]
+   },
+   {
+    "text": "ماك",
+    "baseRarity": 0.0524,
+    "aliases": [
+     "macos",
+     "ماك أو إس"
+    ]
+   },
+   {
+    "text": "لينكس",
+    "baseRarity": 0.0419,
+    "aliases": [
+     "linux"
+    ]
+   },
+   {
+    "text": "وورد",
+    "baseRarity": 0.0349,
+    "aliases": [
+     "word"
+    ]
+   },
+   {
+    "text": "إكسل",
+    "baseRarity": 0.0299,
+    "aliases": [
+     "excel"
+    ]
+   },
+   {
+    "text": "باوربوينت",
+    "baseRarity": 0.0262,
+    "aliases": [
+     "powerpoint"
+    ]
+   },
+   {
+    "text": "فوتوشوب",
+    "baseRarity": 0.0233,
+    "aliases": [
+     "photoshop"
+    ]
+   },
+   {
+    "text": "واتساب",
+    "baseRarity": 0.0209,
+    "aliases": [
+     "واتس اب",
+     "whatsapp"
+    ]
+   },
+   {
+    "text": "سناب شات",
+    "baseRarity": 0.019,
+    "aliases": [
+     "سناب",
+     "snapchat"
+    ]
+   },
+   {
+    "text": "إنستغرام",
+    "baseRarity": 0.0175,
+    "aliases": [
+     "انستقرام",
+     "instagram"
+    ]
+   },
+   {
+    "text": "تيك توك",
+    "baseRarity": 0.0161,
+    "aliases": [
+     "tiktok"
+    ]
+   },
+   {
+    "text": "تويتر",
+    "baseRarity": 0.015,
+    "aliases": [
+     "إكس",
+     "x"
+    ]
+   },
+   {
+    "text": "فيسبوك",
+    "baseRarity": 0.014,
+    "aliases": [
+     "facebook"
+    ]
+   },
+   {
+    "text": "يوتيوب",
+    "baseRarity": 0.0131,
+    "aliases": [
+     "youtube"
+    ]
+   },
+   {
+    "text": "تيليجرام",
+    "baseRarity": 0.0123,
+    "aliases": [
+     "تلقرام",
+     "telegram"
+    ]
+   },
+   {
+    "text": "جوجل كروم",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "كروم",
+     "chrome"
+    ]
+   },
+   {
+    "text": "فايرفوكس",
+    "baseRarity": 0.011,
+    "aliases": [
+     "firefox"
+    ]
+   },
+   {
+    "text": "سفاري",
+    "baseRarity": 0.0105,
+    "aliases": [
+     "safari"
+    ]
+   },
+   {
+    "text": "زوم",
+    "baseRarity": 0.01,
+    "aliases": [
+     "zoom"
+    ]
+   },
+   {
+    "text": "تيمز",
+    "baseRarity": 0.0095,
+    "aliases": [
+     "teams"
+    ]
+   },
+   {
+    "text": "سكايب",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "skype"
+    ]
+   },
+   {
+    "text": "ديسكورد",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "discord"
+    ]
+   },
+   {
+    "text": "سبوتيفاي",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "spotify"
+    ]
+   },
+   {
+    "text": "نتفليكس",
+    "baseRarity": 0.0081,
+    "aliases": [
+     "netflix"
+    ]
+   },
+   {
+    "text": "شاهد",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "جوجل مابس",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "قوقل ماب",
+     "خرائط جوجل"
+    ]
+   },
+   {
+    "text": "أوبر",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "uber"
+    ]
+   },
+   {
+    "text": "كريم",
+    "baseRarity": 0.007,
+    "aliases": [
+     "careem"
+    ]
+   },
+   {
+    "text": "توكلنا",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "أبشر",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "صحتي",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "نفاذ",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "هنقرستيشن",
+    "baseRarity": 0.006,
+    "aliases": [
+     "hungerstation"
+    ]
+   },
+   {
+    "text": "جاهز",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "مرسول",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "تشات جي بي تي",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "chatgpt"
+    ]
+   },
+   {
+    "text": "كلود",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "claude"
+    ]
+   },
+   {
+    "text": "جيميني",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "gemini"
+    ]
+   },
+   {
+    "text": "أوتلوك",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "outlook"
+    ]
+   },
+   {
+    "text": "جيميل",
+    "baseRarity": 0.005,
+    "aliases": [
+     "gmail"
+    ]
+   },
+   {
+    "text": "دروب بوكس",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "dropbox"
+    ]
+   },
+   {
+    "text": "جوجل درايف",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "درايف"
+    ]
+   },
+   {
+    "text": "ون درايف",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "onedrive"
+    ]
+   },
+   {
+    "text": "إليستريتور",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "illustrator"
+    ]
+   },
+   {
+    "text": "بريمير",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "premiere"
+    ]
+   },
+   {
+    "text": "أفتر إفكتس",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "after effects"
+    ]
+   },
+   {
+    "text": "فاينل كت",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "final cut"
+    ]
+   },
+   {
+    "text": "كاب كت",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "capcut"
+    ]
+   },
+   {
+    "text": "كانفا",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "canva"
+    ]
+   },
+   {
+    "text": "فيغما",
+    "baseRarity": 0.004,
+    "aliases": [
+     "figma"
+    ]
+   },
+   {
+    "text": "أوتوكاد",
+    "baseRarity": 0.004,
+    "aliases": [
+     "autocad"
+    ]
+   },
+   {
+    "text": "ماتلاب",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "matlab"
+    ]
+   },
+   {
+    "text": "فيجوال ستوديو",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "visual studio",
+     "vs code"
+    ]
+   },
+   {
+    "text": "أكروبات",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "أدوبي أكروبات",
+     "pdf reader"
+    ]
+   },
+   {
+    "text": "فوتوشوب لايت روم",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "لايت روم",
+     "lightroom"
+    ]
+   },
+   {
+    "text": "وين رار",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "winrar"
+    ]
+   },
+   {
+    "text": "في إل سي",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "vlc"
+    ]
+   },
+   {
+    "text": "لينكد إن",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "linkedin"
+    ]
+   },
+   {
+    "text": "بنترست",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "pinterest"
+    ]
+   },
+   {
+    "text": "ريديت",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "reddit"
+    ]
+   },
+   {
+    "text": "كلاب هاوس",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "ثريدز",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "threads"
+    ]
+   },
+   {
+    "text": "آبل ميوزك",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "apple music"
+    ]
+   },
+   {
+    "text": "أنغامي",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "anghami"
+    ]
+   }
+  ],
+  "secret": "أوتوكاد",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_software"
+  ]
+ },
+ {
+  "id": "sci-natural-phenomena",
+  "category": "علوم",
+  "prompt": "اذكر ظاهرة طبيعية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "المطر",
+    "baseRarity": 0.2194
+   },
+   {
+    "text": "الثلج",
+    "baseRarity": 0.1097
+   },
+   {
+    "text": "البرق",
+    "baseRarity": 0.0731
+   },
+   {
+    "text": "الرعد",
+    "baseRarity": 0.0549
+   },
+   {
+    "text": "الزلزال",
+    "baseRarity": 0.0439
+   },
+   {
+    "text": "البركان",
+    "baseRarity": 0.0366
+   },
+   {
+    "text": "الإعصار",
+    "baseRarity": 0.0313
+   },
+   {
+    "text": "العاصفة",
+    "baseRarity": 0.0274
+   },
+   {
+    "text": "الفيضان",
+    "baseRarity": 0.0244
+   },
+   {
+    "text": "التسونامي",
+    "baseRarity": 0.0219
+   },
+   {
+    "text": "قوس قزح",
+    "baseRarity": 0.0199,
+    "aliases": [
+     "قوس المطر"
+    ]
+   },
+   {
+    "text": "الكسوف",
+    "baseRarity": 0.0183
+   },
+   {
+    "text": "الخسوف",
+    "baseRarity": 0.0169
+   },
+   {
+    "text": "المد والجزر",
+    "baseRarity": 0.0157,
+    "aliases": [
+     "المد",
+     "الجزر"
+    ]
+   },
+   {
+    "text": "الضباب",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "الندى",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "البرد",
+    "baseRarity": 0.0129,
+    "aliases": [
+     "حبات البرد"
+    ]
+   },
+   {
+    "text": "الصقيع",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "الرياح",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "الغبار",
+    "baseRarity": 0.011,
+    "aliases": [
+     "العاصفة الترابية",
+     "الهبوب"
+    ]
+   },
+   {
+    "text": "السراب",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "الشفق القطبي",
+    "baseRarity": 0.01,
+    "aliases": [
+     "الأضواء الشمالية"
+    ]
+   },
+   {
+    "text": "الانهيار الجليدي",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "الانهيار الأرضي",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "الجفاف",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "التصحر",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "الاحتباس الحراري",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "النيازك",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "زخات الشهب",
+     "الشهب"
+    ]
+   },
+   {
+    "text": "الشفق",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "الغروب",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "الشروق",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "السحب",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "الغيوم"
+    ]
+   },
+   {
+    "text": "الإعصار القمعي",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "التورنادو"
+    ]
+   },
+   {
+    "text": "الهوريكان",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "التيفون",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "الموجة الحارة",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "الموجة الباردة",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "حرائق الغابات",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "السيل",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "النينيو",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "الصواعق",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "الكثبان الرملية",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "الينابيع الحارة",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "الفوهات الحارة",
+    "baseRarity": 0.005,
+    "aliases": [
+     "الجيزر",
+     "النوافير الحارة"
+    ]
+   },
+   {
+    "text": "هجرة الطيور",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "تفتح الأزهار",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "تساقط أوراق الشجر",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "الخريف"
+    ]
+   },
+   {
+    "text": "البيات الشتوي",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "التبخر",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "التكثف",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "تآكل الصخور",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "التعرية"
+    ]
+   },
+   {
+    "text": "الهالة الشمسية",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "الهالة"
+    ]
+   },
+   {
+    "text": "الطيف الشمسي",
+    "baseRarity": 0.0041
+   }
+  ],
+  "secret": "الشفق القطبي",
+  "sources": [
+   "https://www.noaa.gov/"
+  ]
+ },
+ {
+  "id": "sci-astronomy-terms",
+  "category": "علوم",
+  "prompt": "اذكر مصطلح فلكي أو من علوم الفضاء",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "مجرة",
+    "baseRarity": 0.2129
+   },
+   {
+    "text": "كوكب",
+    "baseRarity": 0.1065
+   },
+   {
+    "text": "نجم",
+    "baseRarity": 0.071
+   },
+   {
+    "text": "قمر",
+    "baseRarity": 0.0532
+   },
+   {
+    "text": "ثقب أسود",
+    "baseRarity": 0.0426
+   },
+   {
+    "text": "سديم",
+    "baseRarity": 0.0355
+   },
+   {
+    "text": "مذنب",
+    "baseRarity": 0.0304
+   },
+   {
+    "text": "نيزك",
+    "baseRarity": 0.0266
+   },
+   {
+    "text": "كويكب",
+    "baseRarity": 0.0237
+   },
+   {
+    "text": "شهاب",
+    "baseRarity": 0.0213
+   },
+   {
+    "text": "كسوف",
+    "baseRarity": 0.0194
+   },
+   {
+    "text": "خسوف",
+    "baseRarity": 0.0177
+   },
+   {
+    "text": "مدار",
+    "baseRarity": 0.0164
+   },
+   {
+    "text": "مجموعة شمسية",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "المجموعة الشمسية"
+    ]
+   },
+   {
+    "text": "سنة ضوئية",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "جاذبية",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "فضاء",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "رائد فضاء",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "مكوك فضائي",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "محطة الفضاء الدولية",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "قمر صناعي",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "تلسكوب",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "مرصد",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "كوكبة",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "برج فلكي"
+    ]
+   },
+   {
+    "text": "انفجار عظيم",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "مستعر أعظم",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "سوبرنوفا"
+    ]
+   },
+   {
+    "text": "قزم أبيض",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "عملاق أحمر",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "نجم نيوتروني",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "نجم نابض",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "بلسار"
+    ]
+   },
+   {
+    "text": "كوازار",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "المادة المظلمة",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "الطاقة المظلمة",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "أفق الحدث",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "حزام الكويكبات",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "حزام كايبر",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "سحابة أورت",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "الاعتدال الربيعي",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "الاعتدال"
+    ]
+   },
+   {
+    "text": "الانقلاب الشمسي",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "الأوج",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "الحضيض",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "البدر",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "الهلال",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "المحاق",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "التربيع",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "خط الاستواء السماوي",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "الكرة السماوية",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "خسوف كلي",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "الكسوف الحلقي",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الرياح الشمسية",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "البقع الشمسية",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "التوهج الشمسي",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "الإكليل الشمسي",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "الغلاف الجوي",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "انعدام الوزن",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "سرعة الإفلات",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "مسبار",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "مركبة فضائية",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "وكالة ناسا",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "ناسا"
+    ]
+   },
+   {
+    "text": "صاروخ",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "منصة إطلاق",
+    "baseRarity": 0.0035
+   }
+  ],
+  "secret": "أفق الحدث",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/علم_الفلك"
+  ]
  }
 ]

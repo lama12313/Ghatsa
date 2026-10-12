@@ -67,7 +67,8 @@ export class AnswerMatcher {
     let best: { index: number; dist: number } | null = null;
     let runnerUp = Infinity; // أقرب مسافة لجواب مختلف
     for (const { key, index } of this.keys) {
-      const tol = tolerance(key.length);
+      // الأرقام لازم تكون مضبوطة (١٠٠٠١ ≠ ١٠٠٠٠)
+      const tol = /^\d+$/.test(key) ? 0 : tolerance(key.length);
       if (tol === 0) continue;
       const d = levenshtein(n, key, tol);
       if (d > tol) continue;
