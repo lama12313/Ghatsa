@@ -9,3 +9,9 @@ npm test          # اختبارات الوحدة
 npm run build     # تحقق المحتوى + بناء dist/
 npm run preview   # تجربة النسخة النهائية
 ```
+
+## النشر
+
+```bash
+./scripts/deploy-pages.sh   # يبني ويرفع على فرع gh-pages ← https://lama12313.github.io/Ghatsa/
+```
