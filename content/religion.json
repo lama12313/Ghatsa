@@ -499,5 +499,7027 @@
    "https://quran.com",
    "https://ar.wikipedia.org/wiki/قائمة_سور_القرآن"
   ]
+ },
+ {
+  "id": "rel-names-of-allah",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر اسم من أسماء الله الحسنى",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "الله",
+    "baseRarity": 0.1931
+   },
+   {
+    "text": "الرحمن",
+    "baseRarity": 0.0966
+   },
+   {
+    "text": "الرحيم",
+    "baseRarity": 0.0644
+   },
+   {
+    "text": "الملك",
+    "baseRarity": 0.0483
+   },
+   {
+    "text": "القدوس",
+    "baseRarity": 0.0386
+   },
+   {
+    "text": "السلام",
+    "baseRarity": 0.0322
+   },
+   {
+    "text": "المؤمن",
+    "baseRarity": 0.0276
+   },
+   {
+    "text": "المهيمن",
+    "baseRarity": 0.0241
+   },
+   {
+    "text": "العزيز",
+    "baseRarity": 0.0215
+   },
+   {
+    "text": "الجبار",
+    "baseRarity": 0.0193
+   },
+   {
+    "text": "المتكبر",
+    "baseRarity": 0.0176
+   },
+   {
+    "text": "الخالق",
+    "baseRarity": 0.0161
+   },
+   {
+    "text": "البارئ",
+    "baseRarity": 0.0149
+   },
+   {
+    "text": "المصور",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "الغفار",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "القهار",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "الوهاب",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "الرزاق",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "الفتاح",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "العليم",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "القابض",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "الباسط",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "الخافض",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "الرافع",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "المعز",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "المذل",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "السميع",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "البصير",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "الحكم",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "العدل",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "اللطيف",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "الخبير",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "الحليم",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "العظيم",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "الغفور",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "الشكور",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "العلي",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "الكبير",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "الحفيظ",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "المقيت",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "الحسيب",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "الجليل",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "الكريم",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "الرقيب",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "المجيب",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الواسع",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الحكيم",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "الودود",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "المجيد",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "الباعث",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "الشهيد",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "الحق",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "الوكيل",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "القوي",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "المتين",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "الولي",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "الحميد",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "المحصي",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "المبدئ",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "المعيد",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "المحيي",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "المميت",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الحي",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "القيوم",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "الواجد",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "الماجد",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الواحد",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الصمد",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "القادر",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "المقتدر",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "المقدم",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "المؤخر",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الأول",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "الآخر",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "الظاهر",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "الباطن",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الوالي",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "المتعالي",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "البر",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "التواب",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "المنتقم",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "العفو",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "الرؤوف",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "مالك الملك",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "ذو الجلال والإكرام",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "المقسط",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "الجامع",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "الغني",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "المغني",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "المانع",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "الضار",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "النافع",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "النور",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "الهادي",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "البديع",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الباقي",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الوارث",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الرشيد",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الصبور",
+    "baseRarity": 0.002
+   }
+  ],
+  "secret": "الصبور",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/أسماء_الله_الحسنى"
+  ]
+ },
+ {
+  "id": "rel-sahaba",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر صحابي",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "أبو بكر الصديق",
+    "baseRarity": 0.2019,
+    "aliases": [
+     "أبو بكر"
+    ]
+   },
+   {
+    "text": "عمر بن الخطاب",
+    "baseRarity": 0.1009,
+    "aliases": [
+     "عمر"
+    ]
+   },
+   {
+    "text": "عثمان بن عفان",
+    "baseRarity": 0.0673,
+    "aliases": [
+     "عثمان"
+    ]
+   },
+   {
+    "text": "علي بن أبي طالب",
+    "baseRarity": 0.0505,
+    "aliases": [
+     "علي"
+    ]
+   },
+   {
+    "text": "خالد بن الوليد",
+    "baseRarity": 0.0404
+   },
+   {
+    "text": "بلال بن رباح",
+    "baseRarity": 0.0336,
+    "aliases": [
+     "بلال"
+    ]
+   },
+   {
+    "text": "سعد بن أبي وقاص",
+    "baseRarity": 0.0288
+   },
+   {
+    "text": "أبو هريرة",
+    "baseRarity": 0.0252
+   },
+   {
+    "text": "عبد الله بن عباس",
+    "baseRarity": 0.0224,
+    "aliases": [
+     "ابن عباس"
+    ]
+   },
+   {
+    "text": "عبد الله بن عمر",
+    "baseRarity": 0.0202,
+    "aliases": [
+     "ابن عمر"
+    ]
+   },
+   {
+    "text": "معاذ بن جبل",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "أبو عبيدة بن الجراح",
+    "baseRarity": 0.0168,
+    "aliases": [
+     "أبو عبيدة"
+    ]
+   },
+   {
+    "text": "الزبير بن العوام",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "طلحة بن عبيد الله",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "عبد الرحمن بن عوف",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "سعيد بن زيد",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "حمزة بن عبد المطلب",
+    "baseRarity": 0.0119,
+    "aliases": [
+     "حمزة"
+    ]
+   },
+   {
+    "text": "العباس بن عبد المطلب",
+    "baseRarity": 0.0112,
+    "aliases": [
+     "العباس"
+    ]
+   },
+   {
+    "text": "جعفر بن أبي طالب",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "سلمان الفارسي",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "صهيب الرومي",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "عمار بن ياسر",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "أبو ذر الغفاري",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "مصعب بن عمير",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "عبد الله بن مسعود",
+    "baseRarity": 0.0081,
+    "aliases": [
+     "ابن مسعود"
+    ]
+   },
+   {
+    "text": "أنس بن مالك",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "أبي بن كعب",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "زيد بن ثابت",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "زيد بن حارثة",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "أسامة بن زيد",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "عمرو بن العاص",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "معاوية بن أبي سفيان",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "أبو سفيان بن حرب",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "أبو سفيان"
+    ]
+   },
+   {
+    "text": "الحسن بن علي",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "الحسن"
+    ]
+   },
+   {
+    "text": "الحسين بن علي",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "الحسين"
+    ]
+   },
+   {
+    "text": "عبد الله بن الزبير",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "عبد الله بن عمرو بن العاص",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "أبو موسى الأشعري",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "أبو الدرداء",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "أبو أيوب الأنصاري",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "سعد بن معاذ",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "سعد بن عبادة",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "حذيفة بن اليمان",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "جابر بن عبد الله",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "أبو سعيد الخدري",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "البراء بن مالك",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "البراء بن عازب",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "خبيب بن عدي",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "عبد الله بن رواحة",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "عكرمة بن أبي جهل",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "عمرو بن الجموح",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "حنظلة بن أبي عامر",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "غسيل الملائكة"
+    ]
+   },
+   {
+    "text": "سهيل بن عمرو",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "ثابت بن قيس",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "حسان بن ثابت",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "كعب بن مالك",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "عثمان بن مظعون",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "عبد الله بن جحش",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "المقداد بن عمرو",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "المقداد بن الأسود"
+    ]
+   },
+   {
+    "text": "خباب بن الأرت",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "عبد الله بن أم مكتوم",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "ابن أم مكتوم"
+    ]
+   },
+   {
+    "text": "النعمان بن بشير",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "المغيرة بن شعبة",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "أبو طلحة الأنصاري",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "أبو دجانة",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "القعقاع بن عمرو",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "ضرار بن الأزور",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "شرحبيل بن حسنة",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "يزيد بن أبي سفيان",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "عمير بن سعد",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "عتبة بن غزوان",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الأرقم بن أبي الأرقم",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "عبد الله بن سلام",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "تميم الداري",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "وحشي بن حرب",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "أبو قتادة",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "سلمة بن الأكوع",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "عقبة بن عامر",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "عبادة بن الصامت",
+    "baseRarity": 0.0026
+   }
+  ],
+  "secret": "البراء بن مالك",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_الصحابة"
+  ]
+ },
+ {
+  "id": "rel-sahabiyat",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر صحابية أو إحدى أمهات المؤمنين",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "خديجة بنت خويلد",
+    "baseRarity": 0.2299,
+    "aliases": [
+     "خديجة"
+    ]
+   },
+   {
+    "text": "عائشة بنت أبي بكر",
+    "baseRarity": 0.1149,
+    "aliases": [
+     "عائشة"
+    ]
+   },
+   {
+    "text": "فاطمة الزهراء",
+    "baseRarity": 0.0766,
+    "aliases": [
+     "فاطمة"
+    ]
+   },
+   {
+    "text": "حفصة بنت عمر",
+    "baseRarity": 0.0575,
+    "aliases": [
+     "حفصة"
+    ]
+   },
+   {
+    "text": "أم سلمة",
+    "baseRarity": 0.046
+   },
+   {
+    "text": "زينب بنت جحش",
+    "baseRarity": 0.0383
+   },
+   {
+    "text": "سودة بنت زمعة",
+    "baseRarity": 0.0328
+   },
+   {
+    "text": "صفية بنت حيي",
+    "baseRarity": 0.0287
+   },
+   {
+    "text": "جويرية بنت الحارث",
+    "baseRarity": 0.0255
+   },
+   {
+    "text": "ميمونة بنت الحارث",
+    "baseRarity": 0.023
+   },
+   {
+    "text": "أم حبيبة",
+    "baseRarity": 0.0209,
+    "aliases": [
+     "رملة بنت أبي سفيان"
+    ]
+   },
+   {
+    "text": "زينب بنت خزيمة",
+    "baseRarity": 0.0192
+   },
+   {
+    "text": "مارية القبطية",
+    "baseRarity": 0.0177
+   },
+   {
+    "text": "أسماء بنت أبي بكر",
+    "baseRarity": 0.0164,
+    "aliases": [
+     "ذات النطاقين"
+    ]
+   },
+   {
+    "text": "سمية بنت خياط",
+    "baseRarity": 0.0153,
+    "aliases": [
+     "سمية"
+    ]
+   },
+   {
+    "text": "نسيبة بنت كعب",
+    "baseRarity": 0.0144,
+    "aliases": [
+     "أم عمارة"
+    ]
+   },
+   {
+    "text": "أم سليم",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "أم أيمن",
+    "baseRarity": 0.0128,
+    "aliases": [
+     "بركة"
+    ]
+   },
+   {
+    "text": "رقية بنت محمد",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "أم كلثوم بنت محمد",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "زينب بنت محمد",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "صفية بنت عبد المطلب",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "الخنساء",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "أم حرام بنت ملحان",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "الشفاء بنت عبد الله",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "خولة بنت الأزور",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "خولة بنت ثعلبة",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "أسماء بنت عميس",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "الربيع بنت معوذ",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "أم عطية الأنصارية",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "أم الفضل",
+    "baseRarity": 0.0074,
+    "aliases": [
+     "لبابة بنت الحارث"
+    ]
+   },
+   {
+    "text": "أم شريك",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "فاطمة بنت أسد",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "أم هانئ",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "رفيدة الأسلمية",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "أم رومان",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "سلمى بنت قيس",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "أسماء بنت يزيد",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "فاطمة بنت الخطاب",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "أم الدرداء",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "أم كلثوم بنت عقبة",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "زينب بنت علي",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "هند بنت عتبة",
+    "baseRarity": 0.0053
+   }
+  ],
+  "secret": "نسيبة بنت كعب",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_الصحابيات"
+  ]
+ },
+ {
+  "id": "rel-quran-names",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر شخصية أو نبي ورد اسمه صراحة في القرآن الكريم",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "محمد",
+    "baseRarity": 0.2243,
+    "aliases": [
+     "أحمد"
+    ]
+   },
+   {
+    "text": "عيسى",
+    "baseRarity": 0.1121,
+    "aliases": [
+     "المسيح"
+    ]
+   },
+   {
+    "text": "موسى",
+    "baseRarity": 0.0748
+   },
+   {
+    "text": "إبراهيم",
+    "baseRarity": 0.0561
+   },
+   {
+    "text": "نوح",
+    "baseRarity": 0.0449
+   },
+   {
+    "text": "آدم",
+    "baseRarity": 0.0374
+   },
+   {
+    "text": "يوسف",
+    "baseRarity": 0.032
+   },
+   {
+    "text": "يعقوب",
+    "baseRarity": 0.028,
+    "aliases": [
+     "إسرائيل"
+    ]
+   },
+   {
+    "text": "إسحاق",
+    "baseRarity": 0.0249
+   },
+   {
+    "text": "إسماعيل",
+    "baseRarity": 0.0224
+   },
+   {
+    "text": "يونس",
+    "baseRarity": 0.0204,
+    "aliases": [
+     "ذو النون"
+    ]
+   },
+   {
+    "text": "أيوب",
+    "baseRarity": 0.0187
+   },
+   {
+    "text": "داود",
+    "baseRarity": 0.0173
+   },
+   {
+    "text": "سليمان",
+    "baseRarity": 0.016
+   },
+   {
+    "text": "زكريا",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "يحيى",
+    "baseRarity": 0.014
+   },
+   {
+    "text": "هود",
+    "baseRarity": 0.0132
+   },
+   {
+    "text": "صالح",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "شعيب",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "لوط",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "هارون",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "إدريس",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "إلياس",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "اليسع",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "ذو الكفل",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "مريم",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "عمران",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "لقمان",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "ذو القرنين",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "فرعون",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "هامان",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "قارون",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "آزر",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "طالوت",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "جالوت",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "عزير",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "زيد",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "أبو لهب",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "السامري",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "جبريل",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "جبرائيل"
+    ]
+   },
+   {
+    "text": "ميكال",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "ميكائيل"
+    ]
+   },
+   {
+    "text": "مالك",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "هاروت",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "ماروت",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "إبليس",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "يأجوج",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "مأجوج",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "تبع",
+    "baseRarity": 0.0047
+   }
+  ],
+  "secret": "عزير",
+  "sources": [
+   "https://quran.com"
+  ]
+ },
+ {
+  "id": "rel-mosques",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر مسجد مشهور في العالم",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "المسجد الحرام",
+    "baseRarity": 0.2213,
+    "aliases": [
+     "الحرم المكي"
+    ]
+   },
+   {
+    "text": "المسجد النبوي",
+    "baseRarity": 0.1106
+   },
+   {
+    "text": "المسجد الأقصى",
+    "baseRarity": 0.0738
+   },
+   {
+    "text": "مسجد قباء",
+    "baseRarity": 0.0553
+   },
+   {
+    "text": "مسجد القبلتين",
+    "baseRarity": 0.0443
+   },
+   {
+    "text": "قبة الصخرة",
+    "baseRarity": 0.0369,
+    "aliases": [
+     "مسجد قبة الصخرة"
+    ]
+   },
+   {
+    "text": "الجامع الأموي",
+    "baseRarity": 0.0316,
+    "aliases": [
+     "المسجد الأموي"
+    ]
+   },
+   {
+    "text": "الجامع الأزهر",
+    "baseRarity": 0.0277,
+    "aliases": [
+     "الأزهر"
+    ]
+   },
+   {
+    "text": "جامع الشيخ زايد",
+    "baseRarity": 0.0246
+   },
+   {
+    "text": "جامع الحسن الثاني",
+    "baseRarity": 0.0221
+   },
+   {
+    "text": "جامع عقبة بن نافع",
+    "baseRarity": 0.0201,
+    "aliases": [
+     "جامع القيروان"
+    ]
+   },
+   {
+    "text": "جامع الزيتونة",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "جامع القرويين",
+    "baseRarity": 0.017
+   },
+   {
+    "text": "جامع قرطبة",
+    "baseRarity": 0.0158,
+    "aliases": [
+     "مسجد قرطبة"
+    ]
+   },
+   {
+    "text": "الجامع الأزرق",
+    "baseRarity": 0.0148,
+    "aliases": [
+     "جامع السلطان أحمد"
+    ]
+   },
+   {
+    "text": "آيا صوفيا",
+    "baseRarity": 0.0138,
+    "aliases": [
+     "جامع آيا صوفيا"
+    ]
+   },
+   {
+    "text": "جامع السليمانية",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "جامع السلطان قابوس الأكبر",
+    "baseRarity": 0.0123
+   },
+   {
+    "text": "جامع محمد علي",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "جامع عمرو بن العاص",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "جامع أحمد بن طولون",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "مسجد الحسين",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "مسجد السيدة زينب",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "جامع السلطان حسن",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "مسجد الكوفة",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "جامع سامراء الكبير",
+    "baseRarity": 0.0085,
+    "aliases": [
+     "المسجد الجامع في سامراء"
+    ]
+   },
+   {
+    "text": "المسجد الجامع في أصفهان",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "مسجد الشاه"
+    ]
+   },
+   {
+    "text": "مسجد بادشاهي",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "المسجد الجامع في دلهي",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "جامع مسجد"
+    ]
+   },
+   {
+    "text": "مسجد فيصل",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "مسجد الاستقلال",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "مسجد الاستقلال جاكرتا"
+    ]
+   },
+   {
+    "text": "مسجد الكتبية",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "مسجد الخيف",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "مسجد نمرة",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "المسجد الجامع في جني",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "مسجد جني"
+    ]
+   },
+   {
+    "text": "مسجد الرحمة",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "مسجد الجمعة",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "مسجد الغمامة",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "مسجد الفتح",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "المساجد السبعة",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "مسجد عائشة",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "مسجد التنعيم"
+    ]
+   },
+   {
+    "text": "مسجد الجن",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "مسجد الراية",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "مسجد البيعة",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "مسجد الإمام تركي بن عبدالله",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "جامع الإمام تركي"
+    ]
+   },
+   {
+    "text": "مسجد كريستال",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "المسجد البلوري"
+    ]
+   },
+   {
+    "text": "جامع الأمير عبد القادر",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "الجامع الكبير في الجزائر",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "جامع الجزائر"
+    ]
+   },
+   {
+    "text": "جامع الكويت الكبير",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "المسجد الكبير"
+    ]
+   },
+   {
+    "text": "مسجد خالد بن الوليد",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "الجامع النوري",
+    "baseRarity": 0.0043
+   }
+  ],
+  "secret": "جامع الزيتونة",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_المساجد"
+  ]
+ },
+ {
+  "id": "rel-scholars",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر عالم أو إمام من علماء المسلمين",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "أبو حنيفة",
+    "baseRarity": 0.2108,
+    "aliases": [
+     "الإمام أبو حنيفة"
+    ]
+   },
+   {
+    "text": "مالك بن أنس",
+    "baseRarity": 0.1054,
+    "aliases": [
+     "الإمام مالك"
+    ]
+   },
+   {
+    "text": "الشافعي",
+    "baseRarity": 0.0703,
+    "aliases": [
+     "الإمام الشافعي"
+    ]
+   },
+   {
+    "text": "أحمد بن حنبل",
+    "baseRarity": 0.0527,
+    "aliases": [
+     "الإمام أحمد"
+    ]
+   },
+   {
+    "text": "البخاري",
+    "baseRarity": 0.0422,
+    "aliases": [
+     "الإمام البخاري"
+    ]
+   },
+   {
+    "text": "مسلم",
+    "baseRarity": 0.0351,
+    "aliases": [
+     "الإمام مسلم"
+    ]
+   },
+   {
+    "text": "الترمذي",
+    "baseRarity": 0.0301
+   },
+   {
+    "text": "أبو داود",
+    "baseRarity": 0.0263
+   },
+   {
+    "text": "النسائي",
+    "baseRarity": 0.0234
+   },
+   {
+    "text": "ابن ماجه",
+    "baseRarity": 0.0211
+   },
+   {
+    "text": "ابن تيمية",
+    "baseRarity": 0.0192
+   },
+   {
+    "text": "ابن القيم",
+    "baseRarity": 0.0176
+   },
+   {
+    "text": "ابن كثير",
+    "baseRarity": 0.0162
+   },
+   {
+    "text": "الطبري",
+    "baseRarity": 0.0151
+   },
+   {
+    "text": "القرطبي",
+    "baseRarity": 0.0141
+   },
+   {
+    "text": "النووي",
+    "baseRarity": 0.0132
+   },
+   {
+    "text": "ابن حجر العسقلاني",
+    "baseRarity": 0.0124,
+    "aliases": [
+     "ابن حجر"
+    ]
+   },
+   {
+    "text": "السيوطي",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "الغزالي",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "ابن باز",
+    "baseRarity": 0.0105,
+    "aliases": [
+     "عبدالعزيز بن باز"
+    ]
+   },
+   {
+    "text": "ابن عثيمين",
+    "baseRarity": 0.01,
+    "aliases": [
+     "محمد بن صالح العثيمين"
+    ]
+   },
+   {
+    "text": "الألباني",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "محمد بن عبد الوهاب",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "الشعراوي",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "محمد متولي الشعراوي"
+    ]
+   },
+   {
+    "text": "ابن رجب الحنبلي",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "الذهبي",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "ابن عبد البر",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "ابن حزم",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "ابن قدامة",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "الشاطبي",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "السرخسي",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "الكاساني",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "ابن عابدين",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "الشوكاني",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "الصنعاني",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "ابن الجوزي",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "الحسن البصري",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "سفيان الثوري",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "الأوزاعي",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "الليث بن سعد",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "عبد الله بن المبارك",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "الدارمي",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "الدارقطني",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "الحاكم",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "البيهقي",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "الطحاوي",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "ابن خزيمة",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "ابن حبان",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "البغوي",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الزمخشري",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الرازي",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "فخر الدين الرازي"
+    ]
+   },
+   {
+    "text": "ابن العربي",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "المزي",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "ابن الصلاح",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "العز بن عبد السلام",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "ابن دقيق العيد",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "صالح الفوزان",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "عبدالله بن جبرين",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "بكر أبو زيد",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "السعدي",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "عبد الرحمن السعدي"
+    ]
+   },
+   {
+    "text": "محمد الأمين الشنقيطي",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "الشنقيطي"
+    ]
+   },
+   {
+    "text": "عبد الرزاق عفيفي",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "محمد بن إبراهيم آل الشيخ",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "مقبل الوادعي",
+    "baseRarity": 0.0033
+   }
+  ],
+  "secret": "ابن رجب الحنبلي",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/علماء_الإسلام"
+  ]
+ },
+ {
+  "id": "rel-hadith-books",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر كتاب من كتب الحديث أو شروحه",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "صحيح البخاري",
+    "baseRarity": 0.2275,
+    "aliases": [
+     "البخاري"
+    ]
+   },
+   {
+    "text": "صحيح مسلم",
+    "baseRarity": 0.1138,
+    "aliases": [
+     "مسلم"
+    ]
+   },
+   {
+    "text": "سنن أبي داود",
+    "baseRarity": 0.0758
+   },
+   {
+    "text": "سنن الترمذي",
+    "baseRarity": 0.0569,
+    "aliases": [
+     "جامع الترمذي"
+    ]
+   },
+   {
+    "text": "سنن النسائي",
+    "baseRarity": 0.0455
+   },
+   {
+    "text": "سنن ابن ماجه",
+    "baseRarity": 0.0379
+   },
+   {
+    "text": "موطأ مالك",
+    "baseRarity": 0.0325,
+    "aliases": [
+     "الموطأ"
+    ]
+   },
+   {
+    "text": "مسند أحمد",
+    "baseRarity": 0.0284,
+    "aliases": [
+     "مسند الإمام أحمد"
+    ]
+   },
+   {
+    "text": "سنن الدارمي",
+    "baseRarity": 0.0253
+   },
+   {
+    "text": "صحيح ابن خزيمة",
+    "baseRarity": 0.0228
+   },
+   {
+    "text": "صحيح ابن حبان",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "المستدرك على الصحيحين",
+    "baseRarity": 0.019,
+    "aliases": [
+     "المستدرك"
+    ]
+   },
+   {
+    "text": "السنن الكبرى للبيهقي",
+    "baseRarity": 0.0175,
+    "aliases": [
+     "سنن البيهقي"
+    ]
+   },
+   {
+    "text": "سنن الدارقطني",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "مصنف عبد الرزاق",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "مصنف ابن أبي شيبة",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "المعجم الكبير للطبراني",
+    "baseRarity": 0.0134,
+    "aliases": [
+     "المعجم الكبير"
+    ]
+   },
+   {
+    "text": "المعجم الأوسط",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "المعجم الصغير",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "مسند أبي يعلى",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "مسند البزار",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "مسند الشافعي",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "مسند الطيالسي",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "مسند الحميدي",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "رياض الصالحين",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "الأربعون النووية",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "بلوغ المرام",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "عمدة الأحكام",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "مشكاة المصابيح",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "جامع الأصول",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "مجمع الزوائد",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "الترغيب والترهيب",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "الأدب المفرد",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "الشمائل المحمدية",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "شرح السنة",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "فتح الباري",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "شرح صحيح مسلم للنووي",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "المنهاج شرح صحيح مسلم"
+    ]
+   },
+   {
+    "text": "نيل الأوطار",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "سبل السلام",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "تحفة الأحوذي",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "عون المعبود",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "اللؤلؤ والمرجان",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "الجامع الصغير",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "كنز العمال",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "سلسلة الأحاديث الصحيحة",
+    "baseRarity": 0.0051
+   }
+  ],
+  "secret": "مصنف عبد الرزاق",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/كتب_الحديث"
+  ]
+ },
+ {
+  "id": "rel-tafsir-books",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر كتاب في تفسير القرآن أو علومه",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "تفسير ابن كثير",
+    "baseRarity": 0.2324
+   },
+   {
+    "text": "تفسير الطبري",
+    "baseRarity": 0.1162,
+    "aliases": [
+     "جامع البيان"
+    ]
+   },
+   {
+    "text": "تفسير القرطبي",
+    "baseRarity": 0.0775,
+    "aliases": [
+     "الجامع لأحكام القرآن"
+    ]
+   },
+   {
+    "text": "تفسير الجلالين",
+    "baseRarity": 0.0581,
+    "aliases": [
+     "الجلالين"
+    ]
+   },
+   {
+    "text": "تفسير السعدي",
+    "baseRarity": 0.0465,
+    "aliases": [
+     "تيسير الكريم الرحمن"
+    ]
+   },
+   {
+    "text": "الكشاف",
+    "baseRarity": 0.0387,
+    "aliases": [
+     "تفسير الزمخشري"
+    ]
+   },
+   {
+    "text": "مفاتيح الغيب",
+    "baseRarity": 0.0332,
+    "aliases": [
+     "التفسير الكبير",
+     "تفسير الرازي"
+    ]
+   },
+   {
+    "text": "في ظلال القرآن",
+    "baseRarity": 0.029
+   },
+   {
+    "text": "التحرير والتنوير",
+    "baseRarity": 0.0258,
+    "aliases": [
+     "تفسير ابن عاشور"
+    ]
+   },
+   {
+    "text": "أضواء البيان",
+    "baseRarity": 0.0232
+   },
+   {
+    "text": "تفسير البغوي",
+    "baseRarity": 0.0211,
+    "aliases": [
+     "معالم التنزيل"
+    ]
+   },
+   {
+    "text": "روح المعاني",
+    "baseRarity": 0.0194,
+    "aliases": [
+     "تفسير الألوسي"
+    ]
+   },
+   {
+    "text": "فتح القدير",
+    "baseRarity": 0.0179,
+    "aliases": [
+     "تفسير الشوكاني"
+    ]
+   },
+   {
+    "text": "الدر المنثور",
+    "baseRarity": 0.0166
+   },
+   {
+    "text": "زاد المسير",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "أحكام القرآن لابن العربي",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "أحكام القرآن للجصاص",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "تفسير البيضاوي",
+    "baseRarity": 0.0129,
+    "aliases": [
+     "أنوار التنزيل"
+    ]
+   },
+   {
+    "text": "تفسير النسفي",
+    "baseRarity": 0.0122,
+    "aliases": [
+     "مدارك التنزيل"
+    ]
+   },
+   {
+    "text": "تفسير الشعراوي",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "خواطر الشعراوي"
+    ]
+   },
+   {
+    "text": "التفسير الميسر",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "المحرر الوجيز",
+    "baseRarity": 0.0106,
+    "aliases": [
+     "تفسير ابن عطية"
+    ]
+   },
+   {
+    "text": "البحر المحيط",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "تفسير ابن أبي حاتم",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "تفسير عبد الرزاق",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "النكت والعيون",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "تفسير الماوردي"
+    ]
+   },
+   {
+    "text": "لباب التأويل",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "تفسير الخازن"
+    ]
+   },
+   {
+    "text": "تفسير المراغي",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "تفسير المنار",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "صفوة التفاسير",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "التفسير الوسيط",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "أيسر التفاسير",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "التسهيل لعلوم التنزيل",
+    "baseRarity": 0.007,
+    "aliases": [
+     "تفسير ابن جزي"
+    ]
+   },
+   {
+    "text": "الجواهر الحسان",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "تفسير الثعالبي"
+    ]
+   },
+   {
+    "text": "الكشف والبيان",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "تفسير الثعلبي"
+    ]
+   },
+   {
+    "text": "بحر العلوم",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "تفسير السمرقندي"
+    ]
+   },
+   {
+    "text": "أسباب النزول",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "الإتقان في علوم القرآن",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "البرهان في علوم القرآن",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "مناهل العرفان",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "مباحث في علوم القرآن",
+    "baseRarity": 0.0057
+   }
+  ],
+  "secret": "النكت والعيون",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_كتب_التفسير"
+  ]
+ },
+ {
+  "id": "rel-prayer",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر ركن أو واجب أو سنة أو شرط من أحكام الصلاة",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "تكبيرة الإحرام",
+    "baseRarity": 0.2287
+   },
+   {
+    "text": "القيام",
+    "baseRarity": 0.1143
+   },
+   {
+    "text": "قراءة الفاتحة",
+    "baseRarity": 0.0762,
+    "aliases": [
+     "الفاتحة"
+    ]
+   },
+   {
+    "text": "الركوع",
+    "baseRarity": 0.0572
+   },
+   {
+    "text": "الرفع من الركوع",
+    "baseRarity": 0.0457
+   },
+   {
+    "text": "الاعتدال",
+    "baseRarity": 0.0381
+   },
+   {
+    "text": "السجود",
+    "baseRarity": 0.0327
+   },
+   {
+    "text": "الجلوس بين السجدتين",
+    "baseRarity": 0.0286
+   },
+   {
+    "text": "التشهد الأخير",
+    "baseRarity": 0.0254
+   },
+   {
+    "text": "التشهد الأول",
+    "baseRarity": 0.0229
+   },
+   {
+    "text": "التسليم",
+    "baseRarity": 0.0208,
+    "aliases": [
+     "السلام"
+    ]
+   },
+   {
+    "text": "الطمأنينة",
+    "baseRarity": 0.0191
+   },
+   {
+    "text": "الترتيب",
+    "baseRarity": 0.0176
+   },
+   {
+    "text": "التسبيح في الركوع",
+    "baseRarity": 0.0163,
+    "aliases": [
+     "سبحان ربي العظيم"
+    ]
+   },
+   {
+    "text": "التسبيح في السجود",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "سبحان ربي الأعلى"
+    ]
+   },
+   {
+    "text": "التسميع",
+    "baseRarity": 0.0143,
+    "aliases": [
+     "سمع الله لمن حمده"
+    ]
+   },
+   {
+    "text": "التحميد",
+    "baseRarity": 0.0135,
+    "aliases": [
+     "ربنا ولك الحمد"
+    ]
+   },
+   {
+    "text": "تكبيرات الانتقال",
+    "baseRarity": 0.0127
+   },
+   {
+    "text": "رب اغفر لي",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "دعاء الاستفتاح",
+    "baseRarity": 0.0114,
+    "aliases": [
+     "الاستفتاح"
+    ]
+   },
+   {
+    "text": "الاستعاذة",
+    "baseRarity": 0.0109,
+    "aliases": [
+     "التعوذ"
+    ]
+   },
+   {
+    "text": "البسملة",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "التأمين",
+    "baseRarity": 0.0099,
+    "aliases": [
+     "آمين"
+    ]
+   },
+   {
+    "text": "قراءة سورة بعد الفاتحة",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "رفع اليدين",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "وضع اليمنى على اليسرى",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "النظر إلى موضع السجود",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "جلسة الاستراحة",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "التورك",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "الافتراش",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "الإشارة بالسبابة",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "الصلاة الإبراهيمية",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "الصلاة على النبي"
+    ]
+   },
+   {
+    "text": "الدعاء قبل السلام",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "التسليمة الثانية",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "السترة",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "النية",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "الخشوع",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "الطهارة",
+    "baseRarity": 0.006,
+    "aliases": [
+     "الوضوء"
+    ]
+   },
+   {
+    "text": "استقبال القبلة",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "ستر العورة",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "دخول الوقت",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "الإسلام",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "العقل",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "التمييز",
+    "baseRarity": 0.0052
+   }
+  ],
+  "secret": "جلسة الاستراحة",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/صلاة"
+  ]
+ },
+ {
+  "id": "rel-terms",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر مصطلح إسلامي",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "التوحيد",
+    "baseRarity": 0.2024
+   },
+   {
+    "text": "الشرك",
+    "baseRarity": 0.1012
+   },
+   {
+    "text": "الصلاة",
+    "baseRarity": 0.0675
+   },
+   {
+    "text": "الزكاة",
+    "baseRarity": 0.0506
+   },
+   {
+    "text": "الصوم",
+    "baseRarity": 0.0405,
+    "aliases": [
+     "الصيام"
+    ]
+   },
+   {
+    "text": "الحج",
+    "baseRarity": 0.0337
+   },
+   {
+    "text": "العمرة",
+    "baseRarity": 0.0289
+   },
+   {
+    "text": "الشهادتان",
+    "baseRarity": 0.0253,
+    "aliases": [
+     "الشهادة"
+    ]
+   },
+   {
+    "text": "الإيمان",
+    "baseRarity": 0.0225
+   },
+   {
+    "text": "الإسلام",
+    "baseRarity": 0.0202
+   },
+   {
+    "text": "الإحسان",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "التقوى",
+    "baseRarity": 0.0169
+   },
+   {
+    "text": "الجهاد",
+    "baseRarity": 0.0156
+   },
+   {
+    "text": "الهجرة",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "السنة",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "البدعة",
+    "baseRarity": 0.0127
+   },
+   {
+    "text": "الحلال",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "الحرام",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "المكروه",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "المستحب",
+    "baseRarity": 0.0101,
+    "aliases": [
+     "المندوب"
+    ]
+   },
+   {
+    "text": "الواجب",
+    "baseRarity": 0.0096,
+    "aliases": [
+     "الفرض"
+    ]
+   },
+   {
+    "text": "المباح",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "الفقه",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "العقيدة",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "التفسير",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "الحديث",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "الإجماع",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "القياس",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "الاجتهاد",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "الفتوى",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "المذهب",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "الوضوء",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "التيمم",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "الغسل",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "الطهارة",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "النجاسة",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "الأذان",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "الإقامة",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "الإمام",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "المأموم",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "الخطبة",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "الجمعة",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "التراويح",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "القيام",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "قيام الليل"
+    ]
+   },
+   {
+    "text": "الاعتكاف",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "الصدقة",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "الوقف",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "زكاة الفطر",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الكفارة",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "النذر",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "الأضحية",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "العقيقة",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "الذكر",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "الدعاء",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "الاستغفار",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "التوبة",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "التوكل",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "الصبر",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "الشكر",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "الرضا",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "الخشوع",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "الإخلاص",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "الرياء",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "النفاق",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "الكفر",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الردة",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الشفاعة",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "البرزخ",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "الصراط",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الميزان",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الحوض",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الجنة",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "النار",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "القدر",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الاستصحاب",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "المصالح المرسلة",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "سد الذرائع",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "العرف",
+    "baseRarity": 0.0026
+   }
+  ],
+  "secret": "الاستصحاب",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/مصطلحات_إسلامية"
+  ]
+ },
+ {
+  "id": "rel-quran-animals",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر حيوان أو طائر أو حشرة ورد ذكرها في القرآن الكريم",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "البقرة",
+    "baseRarity": 0.2299,
+    "aliases": [
+     "بقر"
+    ]
+   },
+   {
+    "text": "الناقة",
+    "baseRarity": 0.1149
+   },
+   {
+    "text": "الإبل",
+    "baseRarity": 0.0766
+   },
+   {
+    "text": "البعير",
+    "baseRarity": 0.0575
+   },
+   {
+    "text": "الجمل",
+    "baseRarity": 0.046
+   },
+   {
+    "text": "الغنم",
+    "baseRarity": 0.0383
+   },
+   {
+    "text": "الضأن",
+    "baseRarity": 0.0328
+   },
+   {
+    "text": "المعز",
+    "baseRarity": 0.0287
+   },
+   {
+    "text": "الخيل",
+    "baseRarity": 0.0255
+   },
+   {
+    "text": "البغال",
+    "baseRarity": 0.023,
+    "aliases": [
+     "بغل"
+    ]
+   },
+   {
+    "text": "الحمير",
+    "baseRarity": 0.0209,
+    "aliases": [
+     "الحمار"
+    ]
+   },
+   {
+    "text": "الكلب",
+    "baseRarity": 0.0192
+   },
+   {
+    "text": "الذئب",
+    "baseRarity": 0.0177
+   },
+   {
+    "text": "القردة",
+    "baseRarity": 0.0164,
+    "aliases": [
+     "القرد"
+    ]
+   },
+   {
+    "text": "الخنزير",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "الفيل",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "القسورة",
+    "baseRarity": 0.0135,
+    "aliases": [
+     "الأسد"
+    ]
+   },
+   {
+    "text": "الحية",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "الثعبان",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "الحوت",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "الضفادع",
+    "baseRarity": 0.0109,
+    "aliases": [
+     "ضفدع"
+    ]
+   },
+   {
+    "text": "القمل",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "الجراد",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "البعوضة",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "الذباب",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "النحل",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "النمل",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "العنكبوت",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "الفراش",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "الهدهد",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "الغراب",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "السلوى",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "الطير الأبابيل",
+    "baseRarity": 0.007,
+    "aliases": [
+     "أبابيل"
+    ]
+   },
+   {
+    "text": "العجل",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "الدابة",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "الأنعام",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "السبع",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "الطير",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "الجوارح",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "الصافنات الجياد",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "الصافنات"
+    ]
+   },
+   {
+    "text": "العاديات",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "العشار",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "الهيم",
+    "baseRarity": 0.0053
+   }
+  ],
+  "secret": "القسورة",
+  "sources": [
+   "https://quran.com"
+  ]
+ },
+ {
+  "id": "rel-makkah-madinah",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر مكان أو معلم ديني في مكة المكرمة أو المدينة المنورة",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "الكعبة",
+    "baseRarity": 0.2264
+   },
+   {
+    "text": "الحجر الأسود",
+    "baseRarity": 0.1132
+   },
+   {
+    "text": "مقام إبراهيم",
+    "baseRarity": 0.0755
+   },
+   {
+    "text": "الصفا",
+    "baseRarity": 0.0566
+   },
+   {
+    "text": "المروة",
+    "baseRarity": 0.0453
+   },
+   {
+    "text": "زمزم",
+    "baseRarity": 0.0377,
+    "aliases": [
+     "بئر زمزم"
+    ]
+   },
+   {
+    "text": "الحطيم",
+    "baseRarity": 0.0323,
+    "aliases": [
+     "حجر إسماعيل"
+    ]
+   },
+   {
+    "text": "الملتزم",
+    "baseRarity": 0.0283
+   },
+   {
+    "text": "الركن اليماني",
+    "baseRarity": 0.0252
+   },
+   {
+    "text": "باب السلام",
+    "baseRarity": 0.0226
+   },
+   {
+    "text": "منى",
+    "baseRarity": 0.0206
+   },
+   {
+    "text": "مزدلفة",
+    "baseRarity": 0.0189
+   },
+   {
+    "text": "عرفات",
+    "baseRarity": 0.0174
+   },
+   {
+    "text": "جبل الرحمة",
+    "baseRarity": 0.0162
+   },
+   {
+    "text": "الجمرات",
+    "baseRarity": 0.0151
+   },
+   {
+    "text": "مسجد نمرة",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "مسجد الخيف",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "المشعر الحرام",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "غار حراء",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "غار ثور",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "جبل النور",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "جبل ثور",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "جبل أبي قبيس",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "التنعيم",
+    "baseRarity": 0.0094,
+    "aliases": [
+     "مسجد عائشة"
+    ]
+   },
+   {
+    "text": "الجعرانة",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "الحديبية",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "الشميسي"
+    ]
+   },
+   {
+    "text": "المسجد النبوي",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "الروضة الشريفة",
+    "baseRarity": 0.0081,
+    "aliases": [
+     "الروضة"
+    ]
+   },
+   {
+    "text": "الحجرة النبوية",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "القبر الشريف"
+    ]
+   },
+   {
+    "text": "البقيع",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "بقيع الغرقد"
+    ]
+   },
+   {
+    "text": "مسجد قباء",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "مسجد القبلتين",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "جبل أحد",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "مقبرة شهداء أحد",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "شهداء أحد"
+    ]
+   },
+   {
+    "text": "جبل الرماة",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "المساجد السبعة",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "مسجد الغمامة",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "مسجد الفتح",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "بئر أريس",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "بئر الخاتم"
+    ]
+   },
+   {
+    "text": "وادي العقيق",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "ذو الحليفة",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "أبيار علي"
+    ]
+   },
+   {
+    "text": "المسجد الحرام",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "مسجد الجن",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "مسجد البيعة",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "مسجد الراية",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "مسجد الإجابة",
+    "baseRarity": 0.0049
+   }
+  ],
+  "secret": "بئر أريس",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/المشاعر_المقدسة"
+  ]
+ },
+ {
+  "id": "rel-quran-sciences",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر مصطلح من أحكام التجويد أو علوم القرآن",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "الإدغام",
+    "baseRarity": 0.2177
+   },
+   {
+    "text": "الإظهار",
+    "baseRarity": 0.1088
+   },
+   {
+    "text": "الإخفاء",
+    "baseRarity": 0.0726
+   },
+   {
+    "text": "الإقلاب",
+    "baseRarity": 0.0544
+   },
+   {
+    "text": "الغنة",
+    "baseRarity": 0.0435
+   },
+   {
+    "text": "المد",
+    "baseRarity": 0.0363
+   },
+   {
+    "text": "القلقلة",
+    "baseRarity": 0.0311
+   },
+   {
+    "text": "التفخيم",
+    "baseRarity": 0.0272
+   },
+   {
+    "text": "الترقيق",
+    "baseRarity": 0.0242
+   },
+   {
+    "text": "الوقف",
+    "baseRarity": 0.0218
+   },
+   {
+    "text": "الابتداء",
+    "baseRarity": 0.0198
+   },
+   {
+    "text": "السكت",
+    "baseRarity": 0.0181
+   },
+   {
+    "text": "المد الطبيعي",
+    "baseRarity": 0.0167
+   },
+   {
+    "text": "المد المتصل",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "المد المنفصل",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "المد اللازم",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "المد العارض للسكون",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "مد البدل",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "مد العوض",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "مد الصلة",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "الإدغام بغنة",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "الإدغام بغير غنة",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "الإظهار الحلقي",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "الإخفاء الشفوي",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "الإدغام الشفوي",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "الإظهار الشفوي",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "اللام الشمسية",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "اللام القمرية",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "الهمس",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "الجهر",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "الاستعلاء",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "الاستفال",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "الصفير",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "التكرير",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "الإشمام",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "الروم",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "الإمالة",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "التسهيل",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "مخارج الحروف",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "صفات الحروف",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "الناسخ والمنسوخ",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "المكي والمدني",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "أسباب النزول",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "المحكم والمتشابه",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "القراءات",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "الرسم العثماني",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "التلاوة",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "الترتيل",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "الحدر",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "التدوير",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "الختمة",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الجزء",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الحزب",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "السورة",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "الآية",
+    "baseRarity": 0.004
+   }
+  ],
+  "secret": "الإشمام",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/تجويد"
+  ]
+ },
+ {
+  "id": "rel-prophet-family",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر أحد أفراد أسرة النبي ﷺ أو أقاربه أو مرضعاته",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "خديجة بنت خويلد",
+    "baseRarity": 0.2275,
+    "aliases": [
+     "خديجة"
+    ]
+   },
+   {
+    "text": "عائشة بنت أبي بكر",
+    "baseRarity": 0.1138,
+    "aliases": [
+     "عائشة"
+    ]
+   },
+   {
+    "text": "حفصة بنت عمر",
+    "baseRarity": 0.0758,
+    "aliases": [
+     "حفصة"
+    ]
+   },
+   {
+    "text": "سودة بنت زمعة",
+    "baseRarity": 0.0569,
+    "aliases": [
+     "سودة"
+    ]
+   },
+   {
+    "text": "زينب بنت خزيمة",
+    "baseRarity": 0.0455
+   },
+   {
+    "text": "أم سلمة",
+    "baseRarity": 0.0379
+   },
+   {
+    "text": "زينب بنت جحش",
+    "baseRarity": 0.0325
+   },
+   {
+    "text": "جويرية بنت الحارث",
+    "baseRarity": 0.0284,
+    "aliases": [
+     "جويرية"
+    ]
+   },
+   {
+    "text": "أم حبيبة",
+    "baseRarity": 0.0253,
+    "aliases": [
+     "رملة بنت أبي سفيان"
+    ]
+   },
+   {
+    "text": "صفية بنت حيي",
+    "baseRarity": 0.0228,
+    "aliases": [
+     "صفية"
+    ]
+   },
+   {
+    "text": "ميمونة بنت الحارث",
+    "baseRarity": 0.0207,
+    "aliases": [
+     "ميمونة"
+    ]
+   },
+   {
+    "text": "مارية القبطية",
+    "baseRarity": 0.019,
+    "aliases": [
+     "مارية"
+    ]
+   },
+   {
+    "text": "القاسم",
+    "baseRarity": 0.0175
+   },
+   {
+    "text": "عبد الله بن محمد",
+    "baseRarity": 0.0163,
+    "aliases": [
+     "الطيب",
+     "الطاهر"
+    ]
+   },
+   {
+    "text": "إبراهيم بن محمد",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "إبراهيم"
+    ]
+   },
+   {
+    "text": "زينب بنت محمد",
+    "baseRarity": 0.0142,
+    "aliases": [
+     "زينب"
+    ]
+   },
+   {
+    "text": "رقية بنت محمد",
+    "baseRarity": 0.0134,
+    "aliases": [
+     "رقية"
+    ]
+   },
+   {
+    "text": "أم كلثوم بنت محمد",
+    "baseRarity": 0.0126,
+    "aliases": [
+     "أم كلثوم"
+    ]
+   },
+   {
+    "text": "فاطمة الزهراء",
+    "baseRarity": 0.012,
+    "aliases": [
+     "فاطمة"
+    ]
+   },
+   {
+    "text": "الحسن بن علي",
+    "baseRarity": 0.0114,
+    "aliases": [
+     "الحسن"
+    ]
+   },
+   {
+    "text": "الحسين بن علي",
+    "baseRarity": 0.0108,
+    "aliases": [
+     "الحسين"
+    ]
+   },
+   {
+    "text": "أمامة بنت أبي العاص",
+    "baseRarity": 0.0103,
+    "aliases": [
+     "أمامة"
+    ]
+   },
+   {
+    "text": "علي بن أبي العاص",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "زينب بنت علي",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "أم كلثوم بنت علي",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "حمزة بن عبد المطلب",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "حمزة"
+    ]
+   },
+   {
+    "text": "العباس بن عبد المطلب",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "العباس"
+    ]
+   },
+   {
+    "text": "أبو طالب",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "أبو لهب",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "صفية بنت عبد المطلب",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "عبد الله بن عبد المطلب",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "والد النبي"
+    ]
+   },
+   {
+    "text": "آمنة بنت وهب",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "آمنة"
+    ]
+   },
+   {
+    "text": "عبد المطلب",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "شيبة الحمد"
+    ]
+   },
+   {
+    "text": "حليمة السعدية",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "حليمة"
+    ]
+   },
+   {
+    "text": "أم أيمن",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "بركة"
+    ]
+   },
+   {
+    "text": "علي بن أبي طالب",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "علي"
+    ]
+   },
+   {
+    "text": "جعفر بن أبي طالب",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "جعفر"
+    ]
+   },
+   {
+    "text": "عقيل بن أبي طالب",
+    "baseRarity": 0.006,
+    "aliases": [
+     "عقيل"
+    ]
+   },
+   {
+    "text": "عبد الله بن عباس",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "ابن عباس"
+    ]
+   },
+   {
+    "text": "الفضل بن عباس",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "أبو العاص بن الربيع",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "عثمان بن عفان",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "ذو النورين"
+    ]
+   },
+   {
+    "text": "زيد بن حارثة",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "أسامة بن زيد",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "ثويبة",
+    "baseRarity": 0.0051
+   }
+  ],
+  "secret": "أمامة بنت أبي العاص",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/آل_بيت_النبي"
+  ]
+ },
+ {
+  "id": "rel-meccan-surahs",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر سورة مكية (حسب مصحف المدينة النبوية)",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "الفاتحة",
+    "baseRarity": 0.1985,
+    "aliases": [
+     "أم الكتاب"
+    ]
+   },
+   {
+    "text": "الإخلاص",
+    "baseRarity": 0.0993
+   },
+   {
+    "text": "الكهف",
+    "baseRarity": 0.0662
+   },
+   {
+    "text": "يس",
+    "baseRarity": 0.0496
+   },
+   {
+    "text": "الناس",
+    "baseRarity": 0.0397
+   },
+   {
+    "text": "الفلق",
+    "baseRarity": 0.0331
+   },
+   {
+    "text": "الملك",
+    "baseRarity": 0.0284
+   },
+   {
+    "text": "الواقعة",
+    "baseRarity": 0.0248
+   },
+   {
+    "text": "يوسف",
+    "baseRarity": 0.0221
+   },
+   {
+    "text": "مريم",
+    "baseRarity": 0.0199
+   },
+   {
+    "text": "الكوثر",
+    "baseRarity": 0.018
+   },
+   {
+    "text": "الفيل",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "قريش",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "العصر",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "المسد",
+    "baseRarity": 0.0132,
+    "aliases": [
+     "تبت",
+     "اللهب"
+    ]
+   },
+   {
+    "text": "الكافرون",
+    "baseRarity": 0.0124
+   },
+   {
+    "text": "الماعون",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "القدر",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "الضحى",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "الشرح",
+    "baseRarity": 0.0099,
+    "aliases": [
+     "الانشراح",
+     "ألم نشرح"
+    ]
+   },
+   {
+    "text": "التين",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "العلق",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "النبأ",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "عم"
+    ]
+   },
+   {
+    "text": "الأنعام",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "الأعراف",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "يونس",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "هود",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "إبراهيم",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "الحجر",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "النحل",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "الإسراء",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "بني إسرائيل"
+    ]
+   },
+   {
+    "text": "طه",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "الأنبياء",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "المؤمنون",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "الفرقان",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "الشعراء",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "النمل",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "القصص",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "العنكبوت",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "الروم",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "لقمان",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "السجدة",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "سبأ",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "فاطر",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "الصافات",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "ص",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الزمر",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "غافر",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "فصلت",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "الشورى",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "الزخرف",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "الدخان",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "الجاثية",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "الأحقاف",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "ق",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "الذاريات",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "الطور",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "النجم",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "القمر",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "القلم",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "ن"
+    ]
+   },
+   {
+    "text": "الحاقة",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "المعارج",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "نوح",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "الجن",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "المزمل",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "المدثر",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "القيامة",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "المرسلات",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "النازعات",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "عبس",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "التكوير",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الانفطار",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "المطففين",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الانشقاق",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "البروج",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "الطارق",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "الأعلى",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "الغاشية",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الفجر",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "البلد",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الشمس",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الليل",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "العاديات",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "القارعة",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "التكاثر",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "الهمزة",
+    "baseRarity": 0.0023
+   }
+  ],
+  "secret": "المرسلات",
+  "sources": [
+   "https://qurancomplex.gov.sa/"
+  ]
+ },
+ {
+  "id": "rel-virtues",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر خلق حسن أو فضيلة حث عليها الإسلام",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "الصدق",
+    "baseRarity": 0.2243
+   },
+   {
+    "text": "الأمانة",
+    "baseRarity": 0.1121
+   },
+   {
+    "text": "الصبر",
+    "baseRarity": 0.0748
+   },
+   {
+    "text": "الحياء",
+    "baseRarity": 0.0561
+   },
+   {
+    "text": "التواضع",
+    "baseRarity": 0.0449
+   },
+   {
+    "text": "الكرم",
+    "baseRarity": 0.0374
+   },
+   {
+    "text": "العفو",
+    "baseRarity": 0.032
+   },
+   {
+    "text": "الحلم",
+    "baseRarity": 0.028
+   },
+   {
+    "text": "الرحمة",
+    "baseRarity": 0.0249
+   },
+   {
+    "text": "العدل",
+    "baseRarity": 0.0224
+   },
+   {
+    "text": "الإحسان",
+    "baseRarity": 0.0204
+   },
+   {
+    "text": "الإيثار",
+    "baseRarity": 0.0187
+   },
+   {
+    "text": "الوفاء",
+    "baseRarity": 0.0173
+   },
+   {
+    "text": "الشجاعة",
+    "baseRarity": 0.016
+   },
+   {
+    "text": "بر الوالدين",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "صلة الرحم",
+    "baseRarity": 0.014
+   },
+   {
+    "text": "حسن الخلق",
+    "baseRarity": 0.0132
+   },
+   {
+    "text": "الابتسامة",
+    "baseRarity": 0.0125,
+    "aliases": [
+     "البشاشة"
+    ]
+   },
+   {
+    "text": "الرفق",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "القناعة",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "الزهد",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "الورع",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "الشكر",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "التوكل",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "الإخلاص",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "حسن الظن",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "كظم الغيظ",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "إماطة الأذى",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "إفشاء السلام",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "إكرام الضيف",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "الإحسان إلى الجار",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "حسن الجوار"
+    ]
+   },
+   {
+    "text": "العفة",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "غض البصر",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "حفظ اللسان",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "النظافة",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "الاستئذان",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "الكلمة الطيبة",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "التعاون",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "النصيحة",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "الأمر بالمعروف",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "الستر",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "الإصلاح بين الناس",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "الجود",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "السخاء",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "المروءة",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "الوفاء بالوعد",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "التسامح",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "الاعتدال",
+    "baseRarity": 0.0047
+   }
+  ],
+  "secret": "المروءة",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/الأخلاق_في_الإسلام"
+  ]
+ },
+ {
+  "id": "rel-hajj",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر مصطلح أو منسك من مناسك الحج والعمرة",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "الإحرام",
+    "baseRarity": 0.2311
+   },
+   {
+    "text": "التلبية",
+    "baseRarity": 0.1156
+   },
+   {
+    "text": "الطواف",
+    "baseRarity": 0.077
+   },
+   {
+    "text": "السعي",
+    "baseRarity": 0.0578
+   },
+   {
+    "text": "طواف القدوم",
+    "baseRarity": 0.0462
+   },
+   {
+    "text": "طواف الإفاضة",
+    "baseRarity": 0.0385
+   },
+   {
+    "text": "طواف الوداع",
+    "baseRarity": 0.033
+   },
+   {
+    "text": "الوقوف بعرفة",
+    "baseRarity": 0.0289,
+    "aliases": [
+     "عرفة"
+    ]
+   },
+   {
+    "text": "المبيت بمزدلفة",
+    "baseRarity": 0.0257
+   },
+   {
+    "text": "المبيت بمنى",
+    "baseRarity": 0.0231
+   },
+   {
+    "text": "رمي الجمرات",
+    "baseRarity": 0.021
+   },
+   {
+    "text": "الحلق",
+    "baseRarity": 0.0193
+   },
+   {
+    "text": "التقصير",
+    "baseRarity": 0.0178
+   },
+   {
+    "text": "الهدي",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "النحر",
+    "baseRarity": 0.0154
+   },
+   {
+    "text": "يوم التروية",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "يوم عرفة",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "يوم النحر",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "أيام التشريق",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "التمتع",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "القران",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "الإفراد",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "الميقات",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "ذو الحليفة",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "الجحفة",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "قرن المنازل",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "السيل الكبير"
+    ]
+   },
+   {
+    "text": "يلملم",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "ذات عرق",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "محظورات الإحرام",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "الفدية",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "الرمل",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "الاضطباع",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "استلام الحجر الأسود",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "الملتزم",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "ماء زمزم",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "ركعتا الطواف",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "التحلل الأول",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "التحلل الثاني",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "النفر الأول",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "التعجل"
+    ]
+   },
+   {
+    "text": "النفر الثاني",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "الإحصار",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "لباس الإحرام",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "الإزار والرداء"
+    ]
+   }
+  ],
+  "secret": "الاضطباع",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/مناسك_الحج"
+  ]
+ },
+ {
+  "id": "rel-tabiin",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر أحد التابعين",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "سعيد بن المسيب",
+    "baseRarity": 0.2253
+   },
+   {
+    "text": "الحسن البصري",
+    "baseRarity": 0.1127
+   },
+   {
+    "text": "عروة بن الزبير",
+    "baseRarity": 0.0751
+   },
+   {
+    "text": "القاسم بن محمد",
+    "baseRarity": 0.0563
+   },
+   {
+    "text": "سالم بن عبد الله بن عمر",
+    "baseRarity": 0.0451
+   },
+   {
+    "text": "عكرمة مولى ابن عباس",
+    "baseRarity": 0.0376,
+    "aliases": [
+     "عكرمة"
+    ]
+   },
+   {
+    "text": "مجاهد بن جبر",
+    "baseRarity": 0.0322,
+    "aliases": [
+     "مجاهد"
+    ]
+   },
+   {
+    "text": "عطاء بن أبي رباح",
+    "baseRarity": 0.0282
+   },
+   {
+    "text": "طاووس بن كيسان",
+    "baseRarity": 0.025
+   },
+   {
+    "text": "سعيد بن جبير",
+    "baseRarity": 0.0225
+   },
+   {
+    "text": "عامر الشعبي",
+    "baseRarity": 0.0205,
+    "aliases": [
+     "الشعبي"
+    ]
+   },
+   {
+    "text": "إبراهيم النخعي",
+    "baseRarity": 0.0188
+   },
+   {
+    "text": "محمد بن سيرين",
+    "baseRarity": 0.0173,
+    "aliases": [
+     "ابن سيرين"
+    ]
+   },
+   {
+    "text": "ابن شهاب الزهري",
+    "baseRarity": 0.0161,
+    "aliases": [
+     "الزهري"
+    ]
+   },
+   {
+    "text": "قتادة بن دعامة",
+    "baseRarity": 0.015,
+    "aliases": [
+     "قتادة"
+    ]
+   },
+   {
+    "text": "عمر بن عبد العزيز",
+    "baseRarity": 0.0141
+   },
+   {
+    "text": "علي زين العابدين",
+    "baseRarity": 0.0133,
+    "aliases": [
+     "زين العابدين",
+     "علي بن الحسين"
+    ]
+   },
+   {
+    "text": "محمد الباقر",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "أويس القرني",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "الأحنف بن قيس",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "ربيعة الرأي",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "نافع مولى ابن عمر",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "زيد بن أسلم",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "أبو العالية",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "الربيع بن خثيم",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "مسروق بن الأجدع",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "مسروق"
+    ]
+   },
+   {
+    "text": "علقمة بن قيس",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "الأسود بن يزيد",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "شريح القاضي",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "مكحول الشامي",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "مكحول"
+    ]
+   },
+   {
+    "text": "رجاء بن حيوة",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "سليمان بن يسار",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "خارجة بن زيد",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "عبيد الله بن عبد الله بن عتبة",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "أبو بكر بن عبد الرحمن",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "أبان بن عثمان",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "الضحاك بن مزاحم",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "السدي",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "ميمون بن مهران",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "هشام بن عروة",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "أبو سلمة بن عبد الرحمن",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "عمرة بنت عبد الرحمن",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "حفصة بنت سيرين",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "معاذة العدوية",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "ثابت البناني",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "مالك بن دينار",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "أيوب السختياني",
+    "baseRarity": 0.0048
+   }
+  ],
+  "secret": "معاذة العدوية",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/تابعون"
+  ]
+ },
+ {
+  "id": "rel-sins",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر ذنب أو كبيرة نهى عنها الإسلام",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "الشرك بالله",
+    "baseRarity": 0.2275,
+    "aliases": [
+     "الشرك"
+    ]
+   },
+   {
+    "text": "السحر",
+    "baseRarity": 0.1138
+   },
+   {
+    "text": "قتل النفس",
+    "baseRarity": 0.0758,
+    "aliases": [
+     "القتل"
+    ]
+   },
+   {
+    "text": "أكل الربا",
+    "baseRarity": 0.0569,
+    "aliases": [
+     "الربا"
+    ]
+   },
+   {
+    "text": "أكل مال اليتيم",
+    "baseRarity": 0.0455
+   },
+   {
+    "text": "التولي يوم الزحف",
+    "baseRarity": 0.0379
+   },
+   {
+    "text": "قذف المحصنات",
+    "baseRarity": 0.0325,
+    "aliases": [
+     "القذف"
+    ]
+   },
+   {
+    "text": "عقوق الوالدين",
+    "baseRarity": 0.0284
+   },
+   {
+    "text": "الزنا",
+    "baseRarity": 0.0253
+   },
+   {
+    "text": "السرقة",
+    "baseRarity": 0.0228
+   },
+   {
+    "text": "شرب الخمر",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "شهادة الزور",
+    "baseRarity": 0.019
+   },
+   {
+    "text": "اليمين الغموس",
+    "baseRarity": 0.0175
+   },
+   {
+    "text": "الكذب",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "الغيبة",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "النميمة",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "ترك الصلاة",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "منع الزكاة",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "قطيعة الرحم",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "الرشوة",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "الغش",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "الكبر",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "الحسد",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "الرياء",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "القمار",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "الميسر"
+    ]
+   },
+   {
+    "text": "الظلم",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "الانتحار",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "الخيانة",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "الغلول",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "النياحة",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "السب واللعن",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "اللعن"
+    ]
+   },
+   {
+    "text": "التجسس",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "السخرية",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "الحقد",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "البخل",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "الإسراف",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "التبذير",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "البهتان",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "إيذاء الجار",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "الاحتكار",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "التطفيف",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "أكل أموال الناس بالباطل",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "خيانة الأمانة",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "الوشم",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "الكهانة",
+    "baseRarity": 0.0051
+   }
+  ],
+  "secret": "الغلول",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/كبائر"
+  ]
+ },
+ {
+  "id": "rel-reciters",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر قارئ قرآن مشهور",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "عبد الباسط عبد الصمد",
+    "baseRarity": 0.2275,
+    "aliases": [
+     "عبد الباسط"
+    ]
+   },
+   {
+    "text": "محمد صديق المنشاوي",
+    "baseRarity": 0.1138,
+    "aliases": [
+     "المنشاوي"
+    ]
+   },
+   {
+    "text": "محمود خليل الحصري",
+    "baseRarity": 0.0758,
+    "aliases": [
+     "الحصري"
+    ]
+   },
+   {
+    "text": "مصطفى إسماعيل",
+    "baseRarity": 0.0569
+   },
+   {
+    "text": "محمد رفعت",
+    "baseRarity": 0.0455
+   },
+   {
+    "text": "عبد الرحمن السديس",
+    "baseRarity": 0.0379,
+    "aliases": [
+     "السديس"
+    ]
+   },
+   {
+    "text": "سعود الشريم",
+    "baseRarity": 0.0325,
+    "aliases": [
+     "الشريم"
+    ]
+   },
+   {
+    "text": "ماهر المعيقلي",
+    "baseRarity": 0.0284,
+    "aliases": [
+     "المعيقلي"
+    ]
+   },
+   {
+    "text": "مشاري العفاسي",
+    "baseRarity": 0.0253,
+    "aliases": [
+     "العفاسي"
+    ]
+   },
+   {
+    "text": "سعد الغامدي",
+    "baseRarity": 0.0228,
+    "aliases": [
+     "الغامدي"
+    ]
+   },
+   {
+    "text": "أحمد العجمي",
+    "baseRarity": 0.0207,
+    "aliases": [
+     "العجمي"
+    ]
+   },
+   {
+    "text": "ياسر الدوسري",
+    "baseRarity": 0.019,
+    "aliases": [
+     "الدوسري"
+    ]
+   },
+   {
+    "text": "عبدالله بصفر",
+    "baseRarity": 0.0175
+   },
+   {
+    "text": "عبدالله الجهني",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "بندر بليلة",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "صلاح البدير",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "علي الحذيفي",
+    "baseRarity": 0.0134,
+    "aliases": [
+     "الحذيفي"
+    ]
+   },
+   {
+    "text": "محمد أيوب",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "عبدالله خياط",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "علي جابر",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "محمد اللحيدان",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "ناصر القطامي",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "فارس عباد",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "إدريس أبكر",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "خالد الجليل",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "منصور السالمي",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "هزاع البلوشي",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "محمد المحيسني",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "عبد الودود حنيف",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "أبو بكر الشاطري",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "عادل الكلباني",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "توفيق الصائغ",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "صلاح بو خاطر",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "محمد جبريل",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "أحمد نعينع",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "محمود علي البنا",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "محمد محمود الطبلاوي",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "الطبلاوي"
+    ]
+   },
+   {
+    "text": "هاني الرفاعي",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "محمد البراك",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "عبد المحسن القاسم",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "عبدالله المطرود",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "خليفة الطنيجي",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "عبد الرحمن العوسي",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "ياسر القرشي",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "وديع اليمني",
+    "baseRarity": 0.0051
+   }
+  ],
+  "secret": "محمد رفعت",
+  "sources": [
+   "https://www.mp3quran.net/"
+  ]
+ },
+ {
+  "id": "rel-worship",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر عبادة أو عمل صالح",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "الصلاة",
+    "baseRarity": 0.2253
+   },
+   {
+    "text": "الصيام",
+    "baseRarity": 0.1127
+   },
+   {
+    "text": "الزكاة",
+    "baseRarity": 0.0751
+   },
+   {
+    "text": "الحج",
+    "baseRarity": 0.0563
+   },
+   {
+    "text": "العمرة",
+    "baseRarity": 0.0451
+   },
+   {
+    "text": "الصدقة",
+    "baseRarity": 0.0376
+   },
+   {
+    "text": "قراءة القرآن",
+    "baseRarity": 0.0322
+   },
+   {
+    "text": "ذكر الله",
+    "baseRarity": 0.0282
+   },
+   {
+    "text": "الدعاء",
+    "baseRarity": 0.025
+   },
+   {
+    "text": "الاستغفار",
+    "baseRarity": 0.0225
+   },
+   {
+    "text": "قيام الليل",
+    "baseRarity": 0.0205
+   },
+   {
+    "text": "صلاة الضحى",
+    "baseRarity": 0.0188
+   },
+   {
+    "text": "صلاة الوتر",
+    "baseRarity": 0.0173
+   },
+   {
+    "text": "السنن الرواتب",
+    "baseRarity": 0.0161
+   },
+   {
+    "text": "صيام الاثنين والخميس",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "صيام الأيام البيض",
+    "baseRarity": 0.0141
+   },
+   {
+    "text": "صيام يوم عرفة",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "صيام عاشوراء",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "صيام ست من شوال",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "الاعتكاف",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "بر الوالدين",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "صلة الرحم",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "إطعام الطعام",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "كفالة اليتيم",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "عيادة المريض",
+    "baseRarity": 0.009,
+    "aliases": [
+     "زيارة المريض"
+    ]
+   },
+   {
+    "text": "اتباع الجنازة",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "إماطة الأذى عن الطريق",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "الصلاة على النبي",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "التسبيح",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "التهليل",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "التكبير",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "التحميد",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "الحوقلة",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "صلاة الجماعة",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "صلاة الاستخارة",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "صلاة الاستسقاء",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "صلاة الكسوف",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "صلاة العيد",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "صلاة الجنازة",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "سقيا الماء",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "الوقف",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "الأضحية",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "العقيقة",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "طلب العلم",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "حفظ القرآن",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "الدعوة إلى الله",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "صلاة التراويح",
+    "baseRarity": 0.0048
+   }
+  ],
+  "secret": "سقيا الماء",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/عبادة"
+  ]
+ },
+ {
+  "id": "rel-hadith-terms",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر مصطلح من مصطلحات علم الحديث",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "صحيح",
+    "baseRarity": 0.2275
+   },
+   {
+    "text": "حسن",
+    "baseRarity": 0.1138
+   },
+   {
+    "text": "ضعيف",
+    "baseRarity": 0.0758
+   },
+   {
+    "text": "موضوع",
+    "baseRarity": 0.0569
+   },
+   {
+    "text": "متواتر",
+    "baseRarity": 0.0455
+   },
+   {
+    "text": "آحاد",
+    "baseRarity": 0.0379
+   },
+   {
+    "text": "مرسل",
+    "baseRarity": 0.0325
+   },
+   {
+    "text": "مرفوع",
+    "baseRarity": 0.0284
+   },
+   {
+    "text": "موقوف",
+    "baseRarity": 0.0253
+   },
+   {
+    "text": "مقطوع",
+    "baseRarity": 0.0228
+   },
+   {
+    "text": "منقطع",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "معضل",
+    "baseRarity": 0.019
+   },
+   {
+    "text": "معلق",
+    "baseRarity": 0.0175
+   },
+   {
+    "text": "مدلس",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "شاذ",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "منكر",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "معلل",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "مضطرب",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "مقلوب",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "مدرج",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "مسند",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "متصل",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "عزيز",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "غريب",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "مشهور",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "سند",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "متن",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "راوي",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "إسناد",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "الجرح والتعديل",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "ثقة",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "صدوق",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "مجهول",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "متروك",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "كذاب",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "عدالة",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "ضبط",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "علة",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "حديث قدسي",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "تخريج",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "أثر",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "خبر",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "المحدث",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "الحافظ",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "أمير المؤمنين في الحديث",
+    "baseRarity": 0.0051
+   }
+  ],
+  "secret": "المعضل",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/مصطلح_الحديث"
+  ]
+ },
+ {
+  "id": "rel-fiqh-books",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر كتاب فقه أو عقيدة مشهور",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "زاد المستقنع",
+    "baseRarity": 0.2243
+   },
+   {
+    "text": "عمدة الفقه",
+    "baseRarity": 0.1121
+   },
+   {
+    "text": "المغني",
+    "baseRarity": 0.0748
+   },
+   {
+    "text": "الروض المربع",
+    "baseRarity": 0.0561
+   },
+   {
+    "text": "كشاف القناع",
+    "baseRarity": 0.0449
+   },
+   {
+    "text": "الإنصاف",
+    "baseRarity": 0.0374
+   },
+   {
+    "text": "المقنع",
+    "baseRarity": 0.032
+   },
+   {
+    "text": "منار السبيل",
+    "baseRarity": 0.028
+   },
+   {
+    "text": "دليل الطالب",
+    "baseRarity": 0.0249
+   },
+   {
+    "text": "الشرح الممتع",
+    "baseRarity": 0.0224
+   },
+   {
+    "text": "المدونة الكبرى",
+    "baseRarity": 0.0204,
+    "aliases": [
+     "المدونة"
+    ]
+   },
+   {
+    "text": "الرسالة لابن أبي زيد القيرواني",
+    "baseRarity": 0.0187
+   },
+   {
+    "text": "مختصر خليل",
+    "baseRarity": 0.0173
+   },
+   {
+    "text": "بداية المجتهد",
+    "baseRarity": 0.016
+   },
+   {
+    "text": "الأم",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "الرسالة للشافعي",
+    "baseRarity": 0.014
+   },
+   {
+    "text": "المجموع شرح المهذب",
+    "baseRarity": 0.0132,
+    "aliases": [
+     "المجموع"
+    ]
+   },
+   {
+    "text": "منهاج الطالبين",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "روضة الطالبين",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "المهذب",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "الهداية",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "بدائع الصنائع",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "المبسوط",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "حاشية ابن عابدين",
+    "baseRarity": 0.0093,
+    "aliases": [
+     "رد المحتار"
+    ]
+   },
+   {
+    "text": "فقه السنة",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "الفقه على المذاهب الأربعة",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "الفقه الإسلامي وأدلته",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "كتاب التوحيد",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "العقيدة الواسطية",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "العقيدة الطحاوية",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "لمعة الاعتقاد",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "ثلاثة الأصول",
+    "baseRarity": 0.007,
+    "aliases": [
+     "الأصول الثلاثة"
+    ]
+   },
+   {
+    "text": "كشف الشبهات",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "القواعد الأربع",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "نواقض الإسلام",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "فتح المجيد",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "تيسير العزيز الحميد",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "معارج القبول",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "الإبانة عن أصول الديانة",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "الشريعة للآجري",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "مجموع الفتاوى",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "إعلام الموقعين",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "زاد المعاد",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "مدارج السالكين",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "الداء والدواء",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "الوابل الصيب",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "حصن المسلم",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "منهاج المسلم",
+    "baseRarity": 0.0047
+   }
+  ],
+  "secret": "منار السبيل",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/كتب_الفقه"
+  ]
+ },
+ {
+  "id": "rel-islamic-figures",
+  "category": "دين وثقافة إسلامية",
+  "prompt": "اذكر أي شخصية إسلامية (نبي، صحابي، تابعي، عالم)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "محمد",
+    "baseRarity": 0.163,
+    "aliases": [
+     "أحمد"
+    ]
+   },
+   {
+    "text": "أبو بكر الصديق",
+    "baseRarity": 0.0815,
+    "aliases": [
+     "أبو بكر"
+    ]
+   },
+   {
+    "text": "عمر بن الخطاب",
+    "baseRarity": 0.0543,
+    "aliases": [
+     "عمر"
+    ]
+   },
+   {
+    "text": "عثمان بن عفان",
+    "baseRarity": 0.0407,
+    "aliases": [
+     "عثمان"
+    ]
+   },
+   {
+    "text": "علي بن أبي طالب",
+    "baseRarity": 0.0326,
+    "aliases": [
+     "علي"
+    ]
+   },
+   {
+    "text": "خديجة بنت خويلد",
+    "baseRarity": 0.0272,
+    "aliases": [
+     "خديجة"
+    ]
+   },
+   {
+    "text": "خالد بن الوليد",
+    "baseRarity": 0.0233
+   },
+   {
+    "text": "بلال بن رباح",
+    "baseRarity": 0.0204,
+    "aliases": [
+     "بلال"
+    ]
+   },
+   {
+    "text": "سعد بن أبي وقاص",
+    "baseRarity": 0.0181
+   },
+   {
+    "text": "أبو هريرة",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "عبد الله بن عباس",
+    "baseRarity": 0.0148,
+    "aliases": [
+     "ابن عباس"
+    ]
+   },
+   {
+    "text": "عبد الله بن عمر",
+    "baseRarity": 0.0136,
+    "aliases": [
+     "ابن عمر"
+    ]
+   },
+   {
+    "text": "معاذ بن جبل",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "أبو عبيدة بن الجراح",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "أبو عبيدة"
+    ]
+   },
+   {
+    "text": "الزبير بن العوام",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "طلحة بن عبيد الله",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "عبد الرحمن بن عوف",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "سعيد بن زيد",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "حمزة بن عبد المطلب",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "حمزة"
+    ]
+   },
+   {
+    "text": "العباس بن عبد المطلب",
+    "baseRarity": 0.0081,
+    "aliases": [
+     "العباس"
+    ]
+   },
+   {
+    "text": "جعفر بن أبي طالب",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "سلمان الفارسي",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "صهيب الرومي",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "عمار بن ياسر",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "أبو ذر الغفاري",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "مصعب بن عمير",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "عبد الله بن مسعود",
+    "baseRarity": 0.006,
+    "aliases": [
+     "ابن مسعود"
+    ]
+   },
+   {
+    "text": "أنس بن مالك",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "أبي بن كعب",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "زيد بن ثابت",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "زيد بن حارثة",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "أسامة بن زيد",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "عمرو بن العاص",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "معاوية بن أبي سفيان",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "أبو سفيان بن حرب",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "أبو سفيان"
+    ]
+   },
+   {
+    "text": "الحسن بن علي",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "الحسن"
+    ]
+   },
+   {
+    "text": "الحسين بن علي",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "الحسين"
+    ]
+   },
+   {
+    "text": "عبد الله بن الزبير",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "عبد الله بن عمرو بن العاص",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "أبو موسى الأشعري",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "أبو الدرداء",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "أبو أيوب الأنصاري",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "سعد بن معاذ",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "سعد بن عبادة",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "حذيفة بن اليمان",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "جابر بن عبد الله",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "أبو سعيد الخدري",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "البراء بن مالك",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "البراء بن عازب",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "خبيب بن عدي",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "عبد الله بن رواحة",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "عكرمة بن أبي جهل",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "عمرو بن الجموح",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "حنظلة بن أبي عامر",
+    "baseRarity": 0.003,
+    "aliases": [
+     "غسيل الملائكة"
+    ]
+   },
+   {
+    "text": "سهيل بن عمرو",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "ثابت بن قيس",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "حسان بن ثابت",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "كعب بن مالك",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "عثمان بن مظعون",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "عبد الله بن جحش",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "المقداد بن عمرو",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "المقداد بن الأسود"
+    ]
+   },
+   {
+    "text": "خباب بن الأرت",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "عبد الله بن أم مكتوم",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "ابن أم مكتوم"
+    ]
+   },
+   {
+    "text": "النعمان بن بشير",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "المغيرة بن شعبة",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "أبو طلحة الأنصاري",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "أبو دجانة",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "القعقاع بن عمرو",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "ضرار بن الأزور",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "شرحبيل بن حسنة",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "يزيد بن أبي سفيان",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "عمير بن سعد",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "عتبة بن غزوان",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "الأرقم بن أبي الأرقم",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "عبد الله بن سلام",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "تميم الداري",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "وحشي بن حرب",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "أبو قتادة",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "سلمة بن الأكوع",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "عقبة بن عامر",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "عبادة بن الصامت",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "عائشة بنت أبي بكر",
+    "baseRarity": 0.002,
+    "aliases": [
+     "عائشة"
+    ]
+   },
+   {
+    "text": "فاطمة الزهراء",
+    "baseRarity": 0.002,
+    "aliases": [
+     "فاطمة"
+    ]
+   },
+   {
+    "text": "حفصة بنت عمر",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "حفصة"
+    ]
+   },
+   {
+    "text": "أم سلمة",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "زينب بنت جحش",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "سودة بنت زمعة",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "صفية بنت حيي",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "جويرية بنت الحارث",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "ميمونة بنت الحارث",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "أم حبيبة",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "رملة بنت أبي سفيان"
+    ]
+   },
+   {
+    "text": "زينب بنت خزيمة",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "مارية القبطية",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "أسماء بنت أبي بكر",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "ذات النطاقين"
+    ]
+   },
+   {
+    "text": "سمية بنت خياط",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "سمية"
+    ]
+   },
+   {
+    "text": "نسيبة بنت كعب",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "أم عمارة"
+    ]
+   },
+   {
+    "text": "أم سليم",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "أم أيمن",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "بركة"
+    ]
+   },
+   {
+    "text": "رقية بنت محمد",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "أم كلثوم بنت محمد",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "زينب بنت محمد",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "صفية بنت عبد المطلب",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "الخنساء",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "أم حرام بنت ملحان",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "الشفاء بنت عبد الله",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "خولة بنت الأزور",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "خولة بنت ثعلبة",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "أسماء بنت عميس",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "الربيع بنت معوذ",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "أم عطية الأنصارية",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "أم الفضل",
+    "baseRarity": 0.0015,
+    "aliases": [
+     "لبابة بنت الحارث"
+    ]
+   },
+   {
+    "text": "أم شريك",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "فاطمة بنت أسد",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "أم هانئ",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "رفيدة الأسلمية",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "أم رومان",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "سلمى بنت قيس",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "أسماء بنت يزيد",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "فاطمة بنت الخطاب",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "أم الدرداء",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "أم كلثوم بنت عقبة",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "زينب بنت علي",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "هند بنت عتبة",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "عيسى",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "المسيح"
+    ]
+   },
+   {
+    "text": "موسى",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "إبراهيم",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "نوح",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "آدم",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "يوسف",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "يعقوب",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "إسحاق",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "إسماعيل",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "يونس",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "أيوب",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "داود",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "سليمان",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "زكريا",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "يحيى",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "هود",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "صالح",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "شعيب",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "لوط",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "هارون",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "إدريس",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "إلياس",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "اليسع",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "ذو الكفل",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "مريم",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "لقمان",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "سعيد بن المسيب",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "الحسن البصري",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "عروة بن الزبير",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "القاسم بن محمد",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "سالم بن عبد الله بن عمر",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "عكرمة مولى ابن عباس",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "عكرمة"
+    ]
+   },
+   {
+    "text": "مجاهد بن جبر",
+    "baseRarity": 0.001,
+    "aliases": [
+     "مجاهد"
+    ]
+   },
+   {
+    "text": "عطاء بن أبي رباح",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "طاووس بن كيسان",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "سعيد بن جبير",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "عامر الشعبي",
+    "baseRarity": 0.001,
+    "aliases": [
+     "الشعبي"
+    ]
+   },
+   {
+    "text": "إبراهيم النخعي",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "محمد بن سيرين",
+    "baseRarity": 0.001,
+    "aliases": [
+     "ابن سيرين"
+    ]
+   },
+   {
+    "text": "ابن شهاب الزهري",
+    "baseRarity": 0.001,
+    "aliases": [
+     "الزهري"
+    ]
+   },
+   {
+    "text": "قتادة بن دعامة",
+    "baseRarity": 0.001,
+    "aliases": [
+     "قتادة"
+    ]
+   },
+   {
+    "text": "عمر بن عبد العزيز",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "علي زين العابدين",
+    "baseRarity": 0.001,
+    "aliases": [
+     "زين العابدين",
+     "علي بن الحسين"
+    ]
+   },
+   {
+    "text": "محمد الباقر",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "أويس القرني",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "الأحنف بن قيس",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "ربيعة الرأي",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "نافع مولى ابن عمر",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "زيد بن أسلم",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "أبو العالية",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "الربيع بن خثيم",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "مسروق بن الأجدع",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "مسروق"
+    ]
+   },
+   {
+    "text": "علقمة بن قيس",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "الأسود بن يزيد",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "شريح القاضي",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "مكحول الشامي",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "مكحول"
+    ]
+   },
+   {
+    "text": "رجاء بن حيوة",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "سليمان بن يسار",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "خارجة بن زيد",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "عبيد الله بن عبد الله بن عتبة",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "أبو بكر بن عبد الرحمن",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "أبان بن عثمان",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "الضحاك بن مزاحم",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "السدي",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "ميمون بن مهران",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "هشام بن عروة",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "أبو سلمة بن عبد الرحمن",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "عمرة بنت عبد الرحمن",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "حفصة بنت سيرين",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "معاذة العدوية",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "ثابت البناني",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "مالك بن دينار",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "أيوب السختياني",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "أبو حنيفة",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "الإمام أبو حنيفة"
+    ]
+   },
+   {
+    "text": "مالك بن أنس",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "الإمام مالك"
+    ]
+   },
+   {
+    "text": "الشافعي",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "الإمام الشافعي"
+    ]
+   },
+   {
+    "text": "أحمد بن حنبل",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "الإمام أحمد"
+    ]
+   },
+   {
+    "text": "البخاري",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "الإمام البخاري"
+    ]
+   },
+   {
+    "text": "مسلم",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "الإمام مسلم"
+    ]
+   },
+   {
+    "text": "الترمذي",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "أبو داود",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "النسائي",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "ابن ماجه",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "ابن تيمية",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "ابن القيم",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "ابن كثير",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "الطبري",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "القرطبي",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "النووي",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "ابن حجر العسقلاني",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "ابن حجر"
+    ]
+   },
+   {
+    "text": "السيوطي",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "الغزالي",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "ابن باز",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "عبدالعزيز بن باز"
+    ]
+   },
+   {
+    "text": "ابن عثيمين",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "محمد بن صالح العثيمين"
+    ]
+   },
+   {
+    "text": "الألباني",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "محمد بن عبد الوهاب",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "الشعراوي",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "محمد متولي الشعراوي"
+    ]
+   },
+   {
+    "text": "ابن رجب الحنبلي",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "الذهبي",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ابن عبد البر",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ابن حزم",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ابن قدامة",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "الشاطبي",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "السرخسي",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "الكاساني",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ابن عابدين",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "الشوكاني",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "الصنعاني",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ابن الجوزي",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "سفيان الثوري",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "الأوزاعي",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "الليث بن سعد",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "عبد الله بن المبارك",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "الدارمي",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "الدارقطني",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "الحاكم",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "البيهقي",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "الطحاوي",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ابن خزيمة",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ابن حبان",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "البغوي",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "الزمخشري",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "الرازي",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "فخر الدين الرازي"
+    ]
+   },
+   {
+    "text": "ابن العربي",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "المزي",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ابن الصلاح",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "العز بن عبد السلام",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ابن دقيق العيد",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "صالح الفوزان",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "عبدالله بن جبرين",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "بكر أبو زيد",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "السعدي",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "عبد الرحمن السعدي"
+    ]
+   },
+   {
+    "text": "محمد الأمين الشنقيطي",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "الشنقيطي"
+    ]
+   },
+   {
+    "text": "عبد الرزاق عفيفي",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "محمد بن إبراهيم آل الشيخ",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "مقبل الوادعي",
+    "baseRarity": 0.0006
+   }
+  ],
+  "secret": "معاذة العدوية",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/الإسلام"
+  ]
  }
 ]
