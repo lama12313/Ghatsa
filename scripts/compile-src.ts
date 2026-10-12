@@ -12,9 +12,14 @@
  * الأجوبة مرتبة من الأشهر للأندر، والندرة (baseRarity) تنحسب من الترتيب
  * بتوزيع Zipf. تقدر تحدد ندرة يدوية بكتابة «@0.12» في آخر السطر.
  * السطور اللي تبدأ بـ // تعليقات.
+ *
+ * إعادة استخدام القوائم:
+ *   @rows <id>   يضيف كل أجوبة سؤال ثاني (أو قائمة مساعدة) بدون تكرار
+ *   سؤال يبدأ id حقه بـ _ يعتبر قائمة مساعدة: يستخدم مع @rows وما ينضاف للعبة.
  */
 import { readdirSync, readFileSync, writeFileSync } from 'node:fs';
 import { basename, join } from 'node:path';
+import { normalize } from '../src/lib/normalize';
 import type { ContentAnswer, ContentQuestion, Difficulty } from '../src/types';
 import { CONTENT_DIR, ROOT } from './content-lib';
 
@@ -28,14 +33,45 @@ interface Draft {
   difficulty: Difficulty;
   secret: string;
   sources: string[];
-  rows: { text: string; aliases: string[]; fixed?: number }[];
+  rows: Row[];
+  file: string;
 }
+
+type Row = { text: string; aliases: string[]; fixed?: number } | { include: string; line: number };
 
 function round(n: number): number {
   return Math.max(0.0001, Math.round(n * 10000) / 10000);
 }
 
-function finish(d: Draft): ContentQuestion {
+const drafts = new Map<string, Draft>();
+const order: { file: string; id: string }[] = [];
+
+/** يفك @rows ويشيل التكرار (بعد التطبيع) */
+function resolve(d: Draft, stack: string[] = []): Extract<Row, { text: string }>[] {
+  if (stack.includes(d.id)) throw new Error(`حلقة في @rows: ${[...stack, d.id].join(' → ')}`);
+  const out: Extract<Row, { text: string }>[] = [];
+  const seen = new Set<string>();
+  for (const r of d.rows) {
+    const list =
+      'include' in r
+        ? (() => {
+            const src = drafts.get(r.include);
+            if (!src) throw new Error(`${d.file}:${r.line}: @rows ${r.include} مو موجود`);
+            return resolve(src, [...stack, d.id]);
+          })()
+        : [r];
+    for (const row of list) {
+      const key = normalize(row.text);
+      if (seen.has(key)) continue;
+      seen.add(key);
+      out.push(row);
+    }
+  }
+  return out;
+}
+
+function finish(draft: Draft): ContentQuestion {
+  const d = { ...draft, rows: resolve(draft) };
   const weights = d.rows.map((_, i) => 1 / Math.pow(i + 1, ZIPF_S));
   const fixedSum = d.rows.reduce((s, r) => s + (r.fixed ?? 0), 0);
   const freeWeight = d.rows.reduce((s, r, i) => s + (r.fixed === undefined ? weights[i] : 0), 0);
@@ -56,8 +92,7 @@ function finish(d: Draft): ContentQuestion {
   };
 }
 
-function parse(file: string): ContentQuestion[] {
-  const out: ContentQuestion[] = [];
+function parse(file: string): void {
   let category = '';
   let cur: Draft | null = null;
   readFileSync(file, 'utf8')
@@ -73,7 +108,6 @@ function parse(file: string): ContentQuestion[] {
         return;
       }
       if (line.startsWith('#')) {
-        if (cur) out.push(finish(cur));
         const [id, diff, prompt] = line
           .slice(1)
           .split('|')
@@ -90,12 +124,20 @@ function parse(file: string): ContentQuestion[] {
           secret: '',
           sources: [],
           rows: [],
+          file: basename(file),
         };
+        if (drafts.has(id)) fail(`id مكرر: ${id}`);
+        drafts.set(id, cur);
+        order.push({ file: basename(file, '.txt'), id });
         return;
       }
       if (!cur) return fail('سطر خارج سؤال');
       if (line.startsWith('secret:')) {
         cur.secret = line.slice(7).trim();
+        return;
+      }
+      if (line.startsWith('@rows')) {
+        cur.rows.push({ include: line.slice(5).trim(), line: ln + 1 });
         return;
       }
       if (line.startsWith('source:')) {
@@ -115,17 +157,16 @@ function parse(file: string): ContentQuestion[] {
         .filter(Boolean);
       cur.rows.push({ text, aliases, fixed });
     });
-  if (cur) out.push(finish(cur));
-  return out;
 }
 
 const files = readdirSync(SRC)
   .filter((f) => f.endsWith('.txt'))
   .sort();
+for (const f of files) parse(join(SRC, f));
 let total = 0;
 for (const f of files) {
-  const qs = parse(join(SRC, f));
   const name = basename(f, '.txt');
+  const qs = order.filter((o) => o.file === name && !o.id.startsWith('_')).map((o) => finish(drafts.get(o.id)!));
   writeFileSync(join(CONTENT_DIR, `${name}.json`), JSON.stringify(qs, null, 1) + '\n');
   total += qs.length;
   console.log(`✍️  ${f}: ${qs.length} سؤال`);

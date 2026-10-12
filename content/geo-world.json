@@ -765,5 +765,7776 @@
   "sources": [
    "https://en.wikipedia.org/wiki/List_of_European_countries_by_area"
   ]
+ },
+ {
+  "id": "geo-world-countries",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر أي دولة في العالم",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "السعودية",
+    "baseRarity": 0.1709,
+    "aliases": [
+     "المملكة العربية السعودية"
+    ]
+   },
+   {
+    "text": "مصر",
+    "baseRarity": 0.0854
+   },
+   {
+    "text": "الولايات المتحدة",
+    "baseRarity": 0.057,
+    "aliases": [
+     "أمريكا"
+    ]
+   },
+   {
+    "text": "الإمارات",
+    "baseRarity": 0.0427
+   },
+   {
+    "text": "اليابان",
+    "baseRarity": 0.0342
+   },
+   {
+    "text": "فرنسا",
+    "baseRarity": 0.0285
+   },
+   {
+    "text": "الكويت",
+    "baseRarity": 0.0244
+   },
+   {
+    "text": "بريطانيا",
+    "baseRarity": 0.0214
+   },
+   {
+    "text": "ألمانيا",
+    "baseRarity": 0.019
+   },
+   {
+    "text": "الصين",
+    "baseRarity": 0.0171
+   },
+   {
+    "text": "قطر",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "المغرب",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "الأردن",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "الهند",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "تركيا",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "البحرين",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "عمان",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "العراق",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "إيطاليا",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "إسبانيا",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "البرازيل",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "كندا",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "اليمن",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "سوريا",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "سورية"
+    ]
+   },
+   {
+    "text": "لبنان",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "فلسطين",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "إيران",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "فارس"
+    ]
+   },
+   {
+    "text": "باكستان",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "كوريا الجنوبية",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "إندونيسيا",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "ماليزيا",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "أفغانستان",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "تايلاند",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "تايلند",
+     "سيام"
+    ]
+   },
+   {
+    "text": "الفلبين",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "فيتنام",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "سنغافورة",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "روسيا",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "كوريا الشمالية",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "بنغلاديش",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "بنجلاديش"
+    ]
+   },
+   {
+    "text": "سريلانكا",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "سيلان"
+    ]
+   },
+   {
+    "text": "المالديف",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "جزر المالديف"
+    ]
+   },
+   {
+    "text": "نيبال",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "كازاخستان",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "أوزبكستان",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "منغوليا",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "أذربيجان",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "جورجيا",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "أرمينيا",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "تركمانستان",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "طاجيكستان",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "قيرغيزستان",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "قرغيزستان",
+     "كيرغيزستان"
+    ]
+   },
+   {
+    "text": "ميانمار",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "بورما"
+    ]
+   },
+   {
+    "text": "كمبوديا",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "لاوس",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "بروناي",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "بوتان",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "قبرص",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "تيمور الشرقية",
+    "baseRarity": 0.0029,
+    "aliases": [
+     "تيمور ليشتي"
+    ]
+   },
+   {
+    "text": "الجزائر",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "تونس",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "ليبيا",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "السودان",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "نيجيريا",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "جنوب أفريقيا",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "جنوب افريقيا"
+    ]
+   },
+   {
+    "text": "الصومال",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "إثيوبيا",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "اثيوبيا",
+     "الحبشة"
+    ]
+   },
+   {
+    "text": "كينيا",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "موريتانيا",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "السنغال",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الكاميرون",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "غانا",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "ساحل العاج",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "كوت ديفوار"
+    ]
+   },
+   {
+    "text": "تنزانيا",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "أوغندا",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "جيبوتي",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "جزر القمر",
+    "baseRarity": 0.0022,
+    "aliases": [
+     "القمر"
+    ]
+   },
+   {
+    "text": "مالي",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "النيجر",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "تشاد",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "أنغولا",
+    "baseRarity": 0.0021,
+    "aliases": [
+     "انجولا"
+    ]
+   },
+   {
+    "text": "زيمبابوي",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "زامبيا",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "مدغشقر",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "موزمبيق",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "رواندا",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "جمهورية الكونغو الديمقراطية",
+    "baseRarity": 0.002,
+    "aliases": [
+     "الكونغو الديمقراطية",
+     "زائير",
+     "كونغو كينشاسا"
+    ]
+   },
+   {
+    "text": "إريتريا",
+    "baseRarity": 0.002,
+    "aliases": [
+     "ارتيريا"
+    ]
+   },
+   {
+    "text": "جنوب السودان",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "غينيا",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "غينيا كوناكري"
+    ]
+   },
+   {
+    "text": "جمهورية الكونغو",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "الكونغو",
+     "الكونغو برازافيل",
+     "كونغو برازافيل"
+    ]
+   },
+   {
+    "text": "بوركينا فاسو",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "بنين",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "توغو",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "توجو"
+    ]
+   },
+   {
+    "text": "ليبيريا",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "سيراليون",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "غامبيا",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "جامبيا"
+    ]
+   },
+   {
+    "text": "غينيا بيساو",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "غينيا الاستوائية",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "الغابون",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "الجابون"
+    ]
+   },
+   {
+    "text": "جمهورية أفريقيا الوسطى",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "أفريقيا الوسطى"
+    ]
+   },
+   {
+    "text": "بوروندي",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "ملاوي",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "ناميبيا",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "بوتسوانا",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "ليسوتو",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "إسواتيني",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "سوازيلاند"
+    ]
+   },
+   {
+    "text": "موريشيوس",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "سيشل",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "الرأس الأخضر",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "كاب فيردي",
+     "كابو فيردي"
+    ]
+   },
+   {
+    "text": "ساو تومي وبرينسيب",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "ساو تومي"
+    ]
+   },
+   {
+    "text": "البرتغال",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "هولندا",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "بلجيكا",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "سويسرا",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "السويد",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "النرويج",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "الدنمارك",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "اليونان",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "النمسا",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "بولندا",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "أوكرانيا",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "فنلندا",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "أيرلندا",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "ايرلندا"
+    ]
+   },
+   {
+    "text": "التشيك",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "تشيكيا",
+     "جمهورية التشيك"
+    ]
+   },
+   {
+    "text": "المجر",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "هنغاريا"
+    ]
+   },
+   {
+    "text": "رومانيا",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "كرواتيا",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "صربيا",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "البوسنة والهرسك",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "البوسنة"
+    ]
+   },
+   {
+    "text": "ألبانيا",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "بلغاريا",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "آيسلندا",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "ايسلندا"
+    ]
+   },
+   {
+    "text": "سلوفاكيا",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "سلوفينيا",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "موناكو",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "الفاتيكان",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "لوكسمبورغ",
+    "baseRarity": 0.0012,
+    "aliases": [
+     "لوكسمبورج"
+    ]
+   },
+   {
+    "text": "مالطا",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "إستونيا",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "لاتفيا",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "ليتوانيا",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "بيلاروسيا",
+    "baseRarity": 0.0012,
+    "aliases": [
+     "روسيا البيضاء"
+    ]
+   },
+   {
+    "text": "مولدوفا",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "مقدونيا الشمالية",
+    "baseRarity": 0.0012,
+    "aliases": [
+     "مقدونيا"
+    ]
+   },
+   {
+    "text": "الجبل الأسود",
+    "baseRarity": 0.0012,
+    "aliases": [
+     "مونتينيغرو"
+    ]
+   },
+   {
+    "text": "كوسوفو",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "سان مارينو",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "أندورا",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "ليختنشتاين",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "ليشتنشتاين"
+    ]
+   },
+   {
+    "text": "المكسيك",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "الأرجنتين",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "كولومبيا",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "تشيلي",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "بيرو",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "فنزويلا",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "كوبا",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "الإكوادور",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "بوليفيا",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "الأوروغواي",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "الباراغواي",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "باراجواي"
+    ]
+   },
+   {
+    "text": "جامايكا",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "بنما",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "كوستاريكا",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "غواتيمالا",
+    "baseRarity": 0.001,
+    "aliases": [
+     "جواتيمالا"
+    ]
+   },
+   {
+    "text": "هندوراس",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "السلفادور",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "نيكاراغوا",
+    "baseRarity": 0.001,
+    "aliases": [
+     "نيكاراجوا"
+    ]
+   },
+   {
+    "text": "جمهورية الدومينيكان",
+    "baseRarity": 0.001,
+    "aliases": [
+     "الدومينيكان"
+    ]
+   },
+   {
+    "text": "هايتي",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "جزر البهاما",
+    "baseRarity": 0.001,
+    "aliases": [
+     "البهاما"
+    ]
+   },
+   {
+    "text": "ترينيداد وتوباغو",
+    "baseRarity": 0.001,
+    "aliases": [
+     "ترينيداد"
+    ]
+   },
+   {
+    "text": "باربادوس",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "غيانا",
+    "baseRarity": 0.001,
+    "aliases": [
+     "جيانا"
+    ]
+   },
+   {
+    "text": "سورينام",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "بليز",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "دومينيكا",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "غرينادا",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "سانت لوسيا",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "سانت فنسنت والغرينادين",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "سانت كيتس ونيفيس",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "أنتيغوا وباربودا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "أستراليا",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "استراليا"
+    ]
+   },
+   {
+    "text": "نيوزيلندا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "فيجي",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "بابوا غينيا الجديدة",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "ساموا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "تونغا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "فانواتو",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "جزر سليمان",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "كيريباتي",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "ميكرونيزيا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "جزر مارشال",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "بالاو",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "ناورو",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "توفالو",
+    "baseRarity": 0.0009
+   }
+  ],
+  "secret": "توفالو",
+  "sources": [
+   "https://www.un.org/en/about-us/member-states"
+  ]
+ },
+ {
+  "id": "geo-africa-capitals",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر عاصمة دولة أفريقية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "القاهرة",
+    "baseRarity": 0.2186
+   },
+   {
+    "text": "الرباط",
+    "baseRarity": 0.1093
+   },
+   {
+    "text": "الجزائر",
+    "baseRarity": 0.0729,
+    "aliases": [
+     "مدينة الجزائر",
+     "الجزائر العاصمة"
+    ]
+   },
+   {
+    "text": "تونس",
+    "baseRarity": 0.0546,
+    "aliases": [
+     "مدينة تونس",
+     "تونس العاصمة"
+    ]
+   },
+   {
+    "text": "طرابلس",
+    "baseRarity": 0.0437
+   },
+   {
+    "text": "الخرطوم",
+    "baseRarity": 0.0364
+   },
+   {
+    "text": "مقديشو",
+    "baseRarity": 0.0312
+   },
+   {
+    "text": "نواكشوط",
+    "baseRarity": 0.0273
+   },
+   {
+    "text": "جيبوتي",
+    "baseRarity": 0.0243,
+    "aliases": [
+     "مدينة جيبوتي"
+    ]
+   },
+   {
+    "text": "أديس أبابا",
+    "baseRarity": 0.0219
+   },
+   {
+    "text": "نيروبي",
+    "baseRarity": 0.0199
+   },
+   {
+    "text": "داكار",
+    "baseRarity": 0.0182
+   },
+   {
+    "text": "أبوجا",
+    "baseRarity": 0.0168
+   },
+   {
+    "text": "بريتوريا",
+    "baseRarity": 0.0156
+   },
+   {
+    "text": "موروني",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "أسمرة",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "جوبا",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "كمبالا",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "دودوما",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "كيغالي",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "أكرا",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "ياوندي",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "باماكو",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "نيامي",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "إنجامينا",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "انجامينا"
+    ]
+   },
+   {
+    "text": "لواندا",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "هراري",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "لوساكا",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "أنتاناناريفو",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "مابوتو",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "كينشاسا",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "برازافيل",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "كوناكري",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "بيساو",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "واغادوغو",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "بورتو نوفو",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "لومي",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "مونروفيا",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "فريتاون",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "بانجول",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "مالابو",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "ليبرفيل",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "بانغي",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "بوجمبورا",
+    "baseRarity": 0.005,
+    "aliases": [
+     "جيتيغا"
+    ]
+   },
+   {
+    "text": "ليلونغوي",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "ويندهوك",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "غابورون",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "ماسيرو",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "مبابان",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "لوبامبا"
+    ]
+   },
+   {
+    "text": "بورت لويس",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "فيكتوريا",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "برايا",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "ساو تومي",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "ياموسوكرو",
+    "baseRarity": 0.004
+   }
+  ],
+  "secret": "ماسيرو",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  ]
+ },
+ {
+  "id": "geo-asia-capitals",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر عاصمة دولة آسيوية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "الرياض",
+    "baseRarity": 0.2253
+   },
+   {
+    "text": "طوكيو",
+    "baseRarity": 0.1127
+   },
+   {
+    "text": "بكين",
+    "baseRarity": 0.0751
+   },
+   {
+    "text": "نيودلهي",
+    "baseRarity": 0.0563,
+    "aliases": [
+     "دلهي"
+    ]
+   },
+   {
+    "text": "أبوظبي",
+    "baseRarity": 0.0451,
+    "aliases": [
+     "ابو ظبي"
+    ]
+   },
+   {
+    "text": "الكويت",
+    "baseRarity": 0.0376,
+    "aliases": [
+     "مدينة الكويت"
+    ]
+   },
+   {
+    "text": "الدوحة",
+    "baseRarity": 0.0322
+   },
+   {
+    "text": "المنامة",
+    "baseRarity": 0.0282
+   },
+   {
+    "text": "مسقط",
+    "baseRarity": 0.025
+   },
+   {
+    "text": "صنعاء",
+    "baseRarity": 0.0225
+   },
+   {
+    "text": "بغداد",
+    "baseRarity": 0.0205
+   },
+   {
+    "text": "دمشق",
+    "baseRarity": 0.0188
+   },
+   {
+    "text": "عمان",
+    "baseRarity": 0.0173
+   },
+   {
+    "text": "بيروت",
+    "baseRarity": 0.0161
+   },
+   {
+    "text": "القدس",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "أنقرة",
+    "baseRarity": 0.0141
+   },
+   {
+    "text": "طهران",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "إسلام آباد",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "كابل",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "سيول",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "بيونغ يانغ",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "جاكرتا",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "كوالالمبور",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "بانكوك",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "مانيلا",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "هانوي",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "سنغافورة",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "دكا",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "كولومبو",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "سري جاياواردنابورا كوتي"
+    ]
+   },
+   {
+    "text": "ماليه",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "كاتماندو",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "أستانا",
+    "baseRarity": 0.007,
+    "aliases": [
+     "نور سلطان"
+    ]
+   },
+   {
+    "text": "طشقند",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "بيشكك",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "دوشنبه",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "عشق آباد",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "باكو",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "تبليسي",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "يريفان",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "أولان باتور",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "نايبيداو",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "نايبيدو"
+    ]
+   },
+   {
+    "text": "بنوم بنه",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "فينتيان",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "بندر سري بكاوان",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "تيمفو",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "نيقوسيا",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "ديلي",
+    "baseRarity": 0.0048
+   }
+  ],
+  "secret": "ديلي",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  ]
+ },
+ {
+  "id": "geo-europe-capitals",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر عاصمة دولة أوروبية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "لندن",
+    "baseRarity": 0.2275
+   },
+   {
+    "text": "باريس",
+    "baseRarity": 0.1138
+   },
+   {
+    "text": "برلين",
+    "baseRarity": 0.0758
+   },
+   {
+    "text": "روما",
+    "baseRarity": 0.0569
+   },
+   {
+    "text": "مدريد",
+    "baseRarity": 0.0455
+   },
+   {
+    "text": "موسكو",
+    "baseRarity": 0.0379
+   },
+   {
+    "text": "أمستردام",
+    "baseRarity": 0.0325
+   },
+   {
+    "text": "لشبونة",
+    "baseRarity": 0.0284
+   },
+   {
+    "text": "أثينا",
+    "baseRarity": 0.0253
+   },
+   {
+    "text": "فيينا",
+    "baseRarity": 0.0228
+   },
+   {
+    "text": "بروكسل",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "برن",
+    "baseRarity": 0.019
+   },
+   {
+    "text": "ستوكهولم",
+    "baseRarity": 0.0175
+   },
+   {
+    "text": "أوسلو",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "كوبنهاغن",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "كوبنهاجن"
+    ]
+   },
+   {
+    "text": "هلسنكي",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "دبلن",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "وارسو",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "براغ",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "بودابست",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "بوخارست",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "صوفيا",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "بلغراد",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "زغرب",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "سراييفو",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "كييف",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "مينسك",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "تيرانا",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "ريكيافيك",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "براتيسلافا",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "ليوبليانا",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "تالين",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "ريغا",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "فيلنيوس",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "كيشيناو",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "سكوبيه",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "بودغوريتشا",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "بريشتينا",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "لوكسمبورغ",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "مدينة لوكسمبورغ"
+    ]
+   },
+   {
+    "text": "فاليتا",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "موناكو",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "مدينة الفاتيكان",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "الفاتيكان"
+    ]
+   },
+   {
+    "text": "سان مارينو",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "مدينة سان مارينو"
+    ]
+   },
+   {
+    "text": "أندورا لا فيلا",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "فادوتس",
+    "baseRarity": 0.0051
+   }
+  ],
+  "secret": "فادوتس",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  ]
+ },
+ {
+  "id": "geo-world-capitals",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر عاصمة أي دولة في العالم",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "الرياض",
+    "baseRarity": 0.1709
+   },
+   {
+    "text": "القاهرة",
+    "baseRarity": 0.0854
+   },
+   {
+    "text": "لندن",
+    "baseRarity": 0.057
+   },
+   {
+    "text": "باريس",
+    "baseRarity": 0.0427
+   },
+   {
+    "text": "واشنطن",
+    "baseRarity": 0.0342
+   },
+   {
+    "text": "طوكيو",
+    "baseRarity": 0.0285
+   },
+   {
+    "text": "أبوظبي",
+    "baseRarity": 0.0244
+   },
+   {
+    "text": "الكويت",
+    "baseRarity": 0.0214
+   },
+   {
+    "text": "الدوحة",
+    "baseRarity": 0.019
+   },
+   {
+    "text": "المنامة",
+    "baseRarity": 0.0171
+   },
+   {
+    "text": "مسقط",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "عمان",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "بيروت",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "دمشق",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "بغداد",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "برلين",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "روما",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "مدريد",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "موسكو",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "أمستردام",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "لشبونة",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "أثينا",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "فيينا",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "بروكسل",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "برن",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "ستوكهولم",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "أوسلو",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "كوبنهاغن",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "كوبنهاجن"
+    ]
+   },
+   {
+    "text": "هلسنكي",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "دبلن",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "وارسو",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "براغ",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "بودابست",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "بوخارست",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "صوفيا",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "بلغراد",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "زغرب",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "سراييفو",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "كييف",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "مينسك",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "تيرانا",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "ريكيافيك",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "براتيسلافا",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "ليوبليانا",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "تالين",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "ريغا",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "فيلنيوس",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "كيشيناو",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "سكوبيه",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "بودغوريتشا",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "بريشتينا",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "لوكسمبورغ",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "مدينة لوكسمبورغ"
+    ]
+   },
+   {
+    "text": "فاليتا",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "موناكو",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "مدينة الفاتيكان",
+    "baseRarity": 0.0031,
+    "aliases": [
+     "الفاتيكان"
+    ]
+   },
+   {
+    "text": "سان مارينو",
+    "baseRarity": 0.0031,
+    "aliases": [
+     "مدينة سان مارينو"
+    ]
+   },
+   {
+    "text": "أندورا لا فيلا",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "فادوتس",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "بكين",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "نيودلهي",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "دلهي"
+    ]
+   },
+   {
+    "text": "صنعاء",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "القدس",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "أنقرة",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "طهران",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "إسلام آباد",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "كابل",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "سيول",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "بيونغ يانغ",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "جاكرتا",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "كوالالمبور",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "بانكوك",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "مانيلا",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "هانوي",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "سنغافورة",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "دكا",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "كولومبو",
+    "baseRarity": 0.0022,
+    "aliases": [
+     "سري جاياواردنابورا كوتي"
+    ]
+   },
+   {
+    "text": "ماليه",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "كاتماندو",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "أستانا",
+    "baseRarity": 0.0022,
+    "aliases": [
+     "نور سلطان"
+    ]
+   },
+   {
+    "text": "طشقند",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "بيشكك",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "دوشنبه",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "عشق آباد",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "باكو",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "تبليسي",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "يريفان",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "أولان باتور",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "نايبيداو",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "نايبيدو"
+    ]
+   },
+   {
+    "text": "بنوم بنه",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "فينتيان",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "بندر سري بكاوان",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "تيمفو",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "نيقوسيا",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "ديلي",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "الرباط",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "الجزائر",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "مدينة الجزائر",
+     "الجزائر العاصمة"
+    ]
+   },
+   {
+    "text": "تونس",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "مدينة تونس",
+     "تونس العاصمة"
+    ]
+   },
+   {
+    "text": "طرابلس",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "الخرطوم",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "مقديشو",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "نواكشوط",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "جيبوتي",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "مدينة جيبوتي"
+    ]
+   },
+   {
+    "text": "أديس أبابا",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "نيروبي",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "داكار",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "أبوجا",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "بريتوريا",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "موروني",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "أسمرة",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "جوبا",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "كمبالا",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "دودوما",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "كيغالي",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "أكرا",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "ياوندي",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "باماكو",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "نيامي",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "إنجامينا",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "انجامينا"
+    ]
+   },
+   {
+    "text": "لواندا",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "هراري",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "لوساكا",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "أنتاناناريفو",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "مابوتو",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "كينشاسا",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "برازافيل",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "كوناكري",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "بيساو",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "واغادوغو",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "بورتو نوفو",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "لومي",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "مونروفيا",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "فريتاون",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "بانجول",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "مالابو",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "ليبرفيل",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "بانغي",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "بوجمبورا",
+    "baseRarity": 0.0012,
+    "aliases": [
+     "جيتيغا"
+    ]
+   },
+   {
+    "text": "ليلونغوي",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "ويندهوك",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "غابورون",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "ماسيرو",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "مبابان",
+    "baseRarity": 0.0012,
+    "aliases": [
+     "لوبامبا"
+    ]
+   },
+   {
+    "text": "بورت لويس",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "فيكتوريا",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "برايا",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "ساو تومي",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "ياموسوكرو",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "أوتاوا",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "مكسيكو سيتي",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "مدينة مكسيكو"
+    ]
+   },
+   {
+    "text": "برازيليا",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "بوينس آيرس",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "بوغوتا",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "سانتياغو",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "ليما",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "كاراكاس",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "هافانا",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "كيتو",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "سوكري",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "لاباز"
+    ]
+   },
+   {
+    "text": "مونتفيديو",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "أسونسيون",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "كينغستون",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "مدينة بنما",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "بنما سيتي"
+    ]
+   },
+   {
+    "text": "سان خوسيه",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "غواتيمالا",
+    "baseRarity": 0.001,
+    "aliases": [
+     "مدينة غواتيمالا"
+    ]
+   },
+   {
+    "text": "تيغوسيغالبا",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "سان سلفادور",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "ماناغوا",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "سانتو دومينغو",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "بورت أو برنس",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "ناساو",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "بورت أوف سبين",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "بريدجتاون",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "جورجتاون",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "باراماريبو",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "بلموبان",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "روسو",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "سانت جورجز",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "كاستريس",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "كينغزتاون",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "باستير",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "سانت جونز",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "كانبرا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "ويلينغتون",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "سوفا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "بورت مورسبي",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "آبيا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "نوكوالوفا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "بورت فيلا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "هونيارا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "تاراوا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "باليكير",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "ماجورو",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "نجيرولمود",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "يارين",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "فونافوتي",
+    "baseRarity": 0.0009
+   }
+  ],
+  "secret": "فونافوتي",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_national_capitals"
+  ]
+ },
+ {
+  "id": "geo-us-states",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر ولاية أمريكية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "كاليفورنيا",
+    "baseRarity": 0.2223
+   },
+   {
+    "text": "تكساس",
+    "baseRarity": 0.1111
+   },
+   {
+    "text": "فلوريدا",
+    "baseRarity": 0.0741
+   },
+   {
+    "text": "نيويورك",
+    "baseRarity": 0.0556
+   },
+   {
+    "text": "واشنطن",
+    "baseRarity": 0.0445
+   },
+   {
+    "text": "هاواي",
+    "baseRarity": 0.037
+   },
+   {
+    "text": "ألاسكا",
+    "baseRarity": 0.0318
+   },
+   {
+    "text": "نيفادا",
+    "baseRarity": 0.0278
+   },
+   {
+    "text": "أريزونا",
+    "baseRarity": 0.0247
+   },
+   {
+    "text": "ميشيغان",
+    "baseRarity": 0.0222,
+    "aliases": [
+     "ميشيجان"
+    ]
+   },
+   {
+    "text": "إلينوي",
+    "baseRarity": 0.0202
+   },
+   {
+    "text": "أوهايو",
+    "baseRarity": 0.0185
+   },
+   {
+    "text": "جورجيا",
+    "baseRarity": 0.0171
+   },
+   {
+    "text": "فيرجينيا",
+    "baseRarity": 0.0159
+   },
+   {
+    "text": "ماساتشوستس",
+    "baseRarity": 0.0148
+   },
+   {
+    "text": "كولورادو",
+    "baseRarity": 0.0139
+   },
+   {
+    "text": "بنسلفانيا",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "نيوجيرسي",
+    "baseRarity": 0.0123
+   },
+   {
+    "text": "لويزيانا",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "أوريغون",
+    "baseRarity": 0.0111,
+    "aliases": [
+     "أوريجون"
+    ]
+   },
+   {
+    "text": "يوتا",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "تينيسي",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "كنتاكي",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "ميزوري",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "أوكلاهوما",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "كانساس",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "مينيسوتا",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "ويسكونسن",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "إنديانا",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "كارولاينا الشمالية",
+    "baseRarity": 0.0074,
+    "aliases": [
+     "نورث كارولاينا"
+    ]
+   },
+   {
+    "text": "كارولاينا الجنوبية",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "ساوث كارولاينا"
+    ]
+   },
+   {
+    "text": "داكوتا الشمالية",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "نورث داكوتا"
+    ]
+   },
+   {
+    "text": "داكوتا الجنوبية",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "ساوث داكوتا"
+    ]
+   },
+   {
+    "text": "فيرجينيا الغربية",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "ويست فيرجينيا"
+    ]
+   },
+   {
+    "text": "ألاباما",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "ميسيسيبي",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "أركنساس",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "آيوا",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "نبراسكا",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "نيومكسيكو",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "نيو مكسيكو"
+    ]
+   },
+   {
+    "text": "مونتانا",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "أيداهو",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "ماين",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "نيوهامبشير",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "نيو هامبشير"
+    ]
+   },
+   {
+    "text": "فيرمونت",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "رود آيلاند",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "كونيتيكت",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "ديلاوير",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "ماريلاند",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "وايومنغ",
+    "baseRarity": 0.0044
+   }
+  ],
+  "secret": "وايومنغ",
+  "sources": [
+   "https://en.wikipedia.org/wiki/U.S._state"
+  ]
+ },
+ {
+  "id": "geo-landlocked",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر دولة حبيسة (ما لها ساحل على البحر)",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "سويسرا",
+    "baseRarity": 0.2275
+   },
+   {
+    "text": "النمسا",
+    "baseRarity": 0.1138
+   },
+   {
+    "text": "أفغانستان",
+    "baseRarity": 0.0758
+   },
+   {
+    "text": "إثيوبيا",
+    "baseRarity": 0.0569,
+    "aliases": [
+     "اثيوبيا",
+     "الحبشة"
+    ]
+   },
+   {
+    "text": "تشاد",
+    "baseRarity": 0.0455
+   },
+   {
+    "text": "النيجر",
+    "baseRarity": 0.0379
+   },
+   {
+    "text": "مالي",
+    "baseRarity": 0.0325
+   },
+   {
+    "text": "بوليفيا",
+    "baseRarity": 0.0284
+   },
+   {
+    "text": "الباراغواي",
+    "baseRarity": 0.0253,
+    "aliases": [
+     "باراجواي"
+    ]
+   },
+   {
+    "text": "منغوليا",
+    "baseRarity": 0.0228
+   },
+   {
+    "text": "نيبال",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "كازاخستان",
+    "baseRarity": 0.019
+   },
+   {
+    "text": "أوزبكستان",
+    "baseRarity": 0.0175
+   },
+   {
+    "text": "المجر",
+    "baseRarity": 0.0163,
+    "aliases": [
+     "هنغاريا"
+    ]
+   },
+   {
+    "text": "التشيك",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "تشيكيا"
+    ]
+   },
+   {
+    "text": "سلوفاكيا",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "صربيا",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "الفاتيكان",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "أوغندا",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "رواندا",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "بوروندي",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "زامبيا",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "زيمبابوي",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "بوتسوانا",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "ليسوتو",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "إسواتيني",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "سوازيلاند"
+    ]
+   },
+   {
+    "text": "ملاوي",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "جنوب السودان",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "جمهورية أفريقيا الوسطى",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "أفريقيا الوسطى"
+    ]
+   },
+   {
+    "text": "بوركينا فاسو",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "أذربيجان",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "أرمينيا",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "تركمانستان",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "طاجيكستان",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "قيرغيزستان",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "قرغيزستان"
+    ]
+   },
+   {
+    "text": "لاوس",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "بوتان",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "لوكسمبورغ",
+    "baseRarity": 0.006,
+    "aliases": [
+     "لوكسمبورج"
+    ]
+   },
+   {
+    "text": "ليختنشتاين",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "أندورا",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "سان مارينو",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "بيلاروسيا",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "روسيا البيضاء"
+    ]
+   },
+   {
+    "text": "مولدوفا",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "مقدونيا الشمالية",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "مقدونيا"
+    ]
+   },
+   {
+    "text": "كوسوفو",
+    "baseRarity": 0.0051
+   }
+  ],
+  "secret": "ليسوتو",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Landlocked_country"
+  ]
+ },
+ {
+  "id": "geo-currencies",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر اسم عملة (حالية) لأي دولة",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "ريال",
+    "baseRarity": 0.2082
+   },
+   {
+    "text": "دولار",
+    "baseRarity": 0.1041
+   },
+   {
+    "text": "يورو",
+    "baseRarity": 0.0694
+   },
+   {
+    "text": "جنيه",
+    "baseRarity": 0.052,
+    "aliases": [
+     "جنيه استرليني",
+     "باوند"
+    ]
+   },
+   {
+    "text": "دينار",
+    "baseRarity": 0.0416
+   },
+   {
+    "text": "درهم",
+    "baseRarity": 0.0347
+   },
+   {
+    "text": "ليرة",
+    "baseRarity": 0.0297
+   },
+   {
+    "text": "روبية",
+    "baseRarity": 0.026
+   },
+   {
+    "text": "ين",
+    "baseRarity": 0.0231
+   },
+   {
+    "text": "يوان",
+    "baseRarity": 0.0208,
+    "aliases": [
+     "رنمينبي"
+    ]
+   },
+   {
+    "text": "روبل",
+    "baseRarity": 0.0189
+   },
+   {
+    "text": "فرنك",
+    "baseRarity": 0.0173
+   },
+   {
+    "text": "بيزو",
+    "baseRarity": 0.016,
+    "aliases": [
+     "بيسو"
+    ]
+   },
+   {
+    "text": "وون",
+    "baseRarity": 0.0149
+   },
+   {
+    "text": "بات",
+    "baseRarity": 0.0139,
+    "aliases": [
+     "باهت"
+    ]
+   },
+   {
+    "text": "رينغيت",
+    "baseRarity": 0.013,
+    "aliases": [
+     "رنجت"
+    ]
+   },
+   {
+    "text": "دونغ",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "راند",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "نايرا",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "شلن",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "سيدي",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "كواشا",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "بر",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "نقفة",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "ناكفا"
+    ]
+   },
+   {
+    "text": "أوقية",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "دالاسي",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "ليون",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "ليوني"
+    ]
+   },
+   {
+    "text": "كوانزا",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "متكال",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "ميتيكال"
+    ]
+   },
+   {
+    "text": "بولا",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "لوتي",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "ليلانغيني",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "أرياري",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "روفية",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "تاكا",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "أفغاني",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "سوم",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "تينغي",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "تنغي"
+    ]
+   },
+   {
+    "text": "مانات",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "لاري",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "درام",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "توغروغ",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "كيات",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "كيب",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "ريل",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "بوليفار",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "سول",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "بوليفيانو",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "غواراني",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "كولون",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "لمبيرا",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "كتزال",
+    "baseRarity": 0.004,
+    "aliases": [
+     "كيتزال"
+    ]
+   },
+   {
+    "text": "كوردوبا",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "بالبوا",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "غورد",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "زلوتي",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "فورنت",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "كرونة",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "كرون"
+    ]
+   },
+   {
+    "text": "ليو",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "ليف",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "ماركا",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "هريفنيا",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "شيكل",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "تالا",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "باتاكا",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "فاتو",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "كينا",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "بانغا",
+    "baseRarity": 0.0031
+   }
+  ],
+  "secret": "باتاكا",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_circulating_currencies"
+  ]
+ },
+ {
+  "id": "geo-languages",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر لغة يتكلمها الناس (حالية أو قديمة)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "العربية",
+    "baseRarity": 0.1924
+   },
+   {
+    "text": "الإنجليزية",
+    "baseRarity": 0.0962,
+    "aliases": [
+     "الانقليزية",
+     "الانكليزية"
+    ]
+   },
+   {
+    "text": "الفرنسية",
+    "baseRarity": 0.0641
+   },
+   {
+    "text": "الإسبانية",
+    "baseRarity": 0.0481,
+    "aliases": [
+     "الاسبانيولية"
+    ]
+   },
+   {
+    "text": "الصينية",
+    "baseRarity": 0.0385,
+    "aliases": [
+     "الماندرين"
+    ]
+   },
+   {
+    "text": "الهندية",
+    "baseRarity": 0.0321
+   },
+   {
+    "text": "الأردية",
+    "baseRarity": 0.0275
+   },
+   {
+    "text": "التركية",
+    "baseRarity": 0.0241
+   },
+   {
+    "text": "الفارسية",
+    "baseRarity": 0.0214
+   },
+   {
+    "text": "الألمانية",
+    "baseRarity": 0.0192
+   },
+   {
+    "text": "الإيطالية",
+    "baseRarity": 0.0175
+   },
+   {
+    "text": "الروسية",
+    "baseRarity": 0.016
+   },
+   {
+    "text": "اليابانية",
+    "baseRarity": 0.0148
+   },
+   {
+    "text": "الكورية",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "البرتغالية",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "الإندونيسية",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "الملايوية",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "البنغالية",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "السواحيلية",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "العبرية",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "اليونانية",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "اللاتينية",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "الكردية",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "الأمازيغية",
+    "baseRarity": 0.008,
+    "aliases": [
+     "البربرية"
+    ]
+   },
+   {
+    "text": "الصومالية",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "الأمهرية",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "الهوسا",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "اليوروبا",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "الإيغبو",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "الزولو",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "الأفريكانية",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "الهولندية",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "السويدية",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "النرويجية",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "الدنماركية",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "الفنلندية",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "البولندية",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "التشيكية",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "السلوفاكية",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "المجرية",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "الهنغارية"
+    ]
+   },
+   {
+    "text": "الرومانية",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "البلغارية",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "الصربية",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "الكرواتية",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "البوسنية",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الألبانية",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الأوكرانية",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "البيلاروسية",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "الليتوانية",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "اللاتفية",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "الإستونية",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "الأيسلندية",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "الأيرلندية",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "الويلزية",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "الباسكية",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "الكتالونية",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "الجورجية",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "الأرمنية",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "الأذربيجانية",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "الكازاخية",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "الأوزبكية",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "التركمانية",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "القيرغيزية",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الطاجيكية",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "البشتو",
+    "baseRarity": 0.003,
+    "aliases": [
+     "البشتونية"
+    ]
+   },
+   {
+    "text": "البنجابية",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "التاميلية",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "التيلوغوية",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "التيلجو"
+    ]
+   },
+   {
+    "text": "الماراثية",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الغوجاراتية",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الكانادا",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "المالايالامية",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "السنهالية",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "النيبالية",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "التايلاندية",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "الفيتنامية",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الخميرية",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "اللاوية",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "البورمية",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "المنغولية",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "التاغالوغية",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "الفلبينية"
+    ]
+   },
+   {
+    "text": "السريانية",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "الآرامية",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "القبطية",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "السنسكريتية",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "الإسبرانتو",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "المالطية",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "الكيتشوا",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "الغوارانية",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "الماورية",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "اليديشية",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "التبتية",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "الأويغورية",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "التترية",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الشيشانية",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "البلوشية",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الدارية",
+    "baseRarity": 0.002,
+    "aliases": [
+     "الدري"
+    ]
+   },
+   {
+    "text": "الكانتونية",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الأكادية",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "السومرية",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "الهيروغليفية المصرية",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "المصرية القديمة"
+    ]
+   }
+  ],
+  "secret": "الماورية",
+  "sources": [
+   "https://www.ethnologue.com/"
+  ]
+ },
+ {
+  "id": "geo-rivers",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر نهر في العالم",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "النيل",
+    "baseRarity": 0.199
+   },
+   {
+    "text": "الفرات",
+    "baseRarity": 0.0995
+   },
+   {
+    "text": "دجلة",
+    "baseRarity": 0.0663
+   },
+   {
+    "text": "الأمازون",
+    "baseRarity": 0.0497
+   },
+   {
+    "text": "المسيسيبي",
+    "baseRarity": 0.0398
+   },
+   {
+    "text": "الدانوب",
+    "baseRarity": 0.0332
+   },
+   {
+    "text": "الراين",
+    "baseRarity": 0.0284
+   },
+   {
+    "text": "الغانج",
+    "baseRarity": 0.0249,
+    "aliases": [
+     "الكنج"
+    ]
+   },
+   {
+    "text": "السند",
+    "baseRarity": 0.0221
+   },
+   {
+    "text": "اليانغتسي",
+    "baseRarity": 0.0199,
+    "aliases": [
+     "النهر الأزرق",
+     "يانغتسي"
+    ]
+   },
+   {
+    "text": "النهر الأصفر",
+    "baseRarity": 0.0181,
+    "aliases": [
+     "هوانغ هي"
+    ]
+   },
+   {
+    "text": "الفولغا",
+    "baseRarity": 0.0166,
+    "aliases": [
+     "الفولجا"
+    ]
+   },
+   {
+    "text": "التايمز",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "السين",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "الكونغو",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "النيجر",
+    "baseRarity": 0.0124
+   },
+   {
+    "text": "الزامبيزي",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "نهر الأردن",
+    "baseRarity": 0.0111,
+    "aliases": [
+     "الأردن"
+    ]
+   },
+   {
+    "text": "العاصي",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "الليطاني",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "بردى",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "الميكونغ",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "الدنيبر",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "الدون",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "اللوار",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "الرون",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "البو",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "التيبر",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "الإلبه",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "الأودر",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "الفيستولا",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "الأوب",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "اليينيسي",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "اللينا",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "آمور",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "كولورادو",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "الميسوري",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "أوهايو",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "سانت لورانس",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "يوكون",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "ماكنزي",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "ريو غراندي",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "بارانا",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "أورينوكو",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "ساو فرانسيسكو",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "الأورال",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "أمو داريا",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "جيحون"
+    ]
+   },
+   {
+    "text": "سير داريا",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "سيحون"
+    ]
+   },
+   {
+    "text": "براهمابوترا",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "إيراوادي",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "موراي",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "دارلينغ",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "ليمبوبو",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "أورانج",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "نهر السنغال",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "شبيلي",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "جوبا",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "النيل الأزرق",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "النيل الأبيض",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "عطبرة",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "كارون",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "هلمند",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "سيحان",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "جيحان",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الخابور",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الزاب الكبير",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "الزاب الصغير",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "ملوية",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "سبو",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "أم الربيع",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "مجردة",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الشلف",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "تاجة",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "تاجه",
+     "تاجو"
+    ]
+   },
+   {
+    "text": "الإبرو",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الوادي الكبير",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الدويرو",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "هدسون",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "كولومبيا",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "ماغدالينا",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "شانون",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "سيفرن",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الموزل",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "الماين",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "نيفا",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "أوكافانغو",
+    "baseRarity": 0.0023
+   }
+  ],
+  "secret": "أوكافانغو",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_rivers_by_length"
+  ]
+ },
+ {
+  "id": "geo-islands",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر جزيرة في العالم",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "مدغشقر",
+    "baseRarity": 0.199
+   },
+   {
+    "text": "بالي",
+    "baseRarity": 0.0995
+   },
+   {
+    "text": "قبرص",
+    "baseRarity": 0.0663
+   },
+   {
+    "text": "مالطا",
+    "baseRarity": 0.0497
+   },
+   {
+    "text": "صقلية",
+    "baseRarity": 0.0398
+   },
+   {
+    "text": "غرينلاند",
+    "baseRarity": 0.0332,
+    "aliases": [
+     "جرينلاند"
+    ]
+   },
+   {
+    "text": "آيسلندا",
+    "baseRarity": 0.0284,
+    "aliases": [
+     "ايسلندا"
+    ]
+   },
+   {
+    "text": "سريلانكا",
+    "baseRarity": 0.0249,
+    "aliases": [
+     "سيلان"
+    ]
+   },
+   {
+    "text": "جزر المالديف",
+    "baseRarity": 0.0221,
+    "aliases": [
+     "المالديف"
+    ]
+   },
+   {
+    "text": "هاواي",
+    "baseRarity": 0.0199
+   },
+   {
+    "text": "كريت",
+    "baseRarity": 0.0181
+   },
+   {
+    "text": "سردينيا",
+    "baseRarity": 0.0166
+   },
+   {
+    "text": "كورسيكا",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "جاوة",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "سومطرة",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "بورنيو",
+    "baseRarity": 0.0124
+   },
+   {
+    "text": "تايوان",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "هونشو",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "هوكايدو",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "كيوشو",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "شيكوكو",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "تسمانيا",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "غينيا الجديدة",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "بريطانيا العظمى",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "أيرلندا",
+    "baseRarity": 0.008,
+    "aliases": [
+     "ايرلندا"
+    ]
+   },
+   {
+    "text": "كوبا",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "جامايكا",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "هيسبانيولا",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "بورتوريكو",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "ترينيداد",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "باربادوس",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "زنجبار",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "موريشيوس",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "ريونيون",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "سقطرى",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "فرسان",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "تاروت",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "فيلكا",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "بوبيان",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "أبو موسى",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "طنب الكبرى",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "طنب الصغرى",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "قشم",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "كيش",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "جربة",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "قرقنة",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "أرواد",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "سنغافورة",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "بينانغ",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "لنكاوي",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "بوكيت",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "لومبوك",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "تيمور",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "سولاويزي",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "لوزون",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "ميندناو",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "هاينان",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "سخالين",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "سفالبارد",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "نيوفاوندلاند",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "بافن",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "تيرا ديل فويغو",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "أرض النار"
+    ]
+   },
+   {
+    "text": "رودس",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "ميكونوس",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "سانتوريني",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "ميورقة",
+    "baseRarity": 0.003,
+    "aliases": [
+     "مايوركا"
+    ]
+   },
+   {
+    "text": "إيبيزا",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "تينيريفي",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "ماديرا",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "كابري",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "إلبا",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "لامبيدوزا",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "جزيرة القيامة",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "جزيرة الفصح",
+     "إيستر"
+    ]
+   },
+   {
+    "text": "تاهيتي",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "مانهاتن",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "لونغ آيلاند",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "جزيرة مان",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "جيرزي",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "غيرنزي",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "أنغلسي",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "سكاي",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "بيمبا",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "مايوت",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "الجزيرة الشمالية",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "الجزيرة الجنوبية",
+    "baseRarity": 0.0023
+   }
+  ],
+  "secret": "سقطرى",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_islands_by_area"
+  ]
+ },
+ {
+  "id": "geo-seas-oceans",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر بحر أو محيط",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "البحر الأحمر",
+    "baseRarity": 0.2169
+   },
+   {
+    "text": "البحر المتوسط",
+    "baseRarity": 0.1084,
+    "aliases": [
+     "الأبيض المتوسط",
+     "البحر الأبيض المتوسط"
+    ]
+   },
+   {
+    "text": "المحيط الهادئ",
+    "baseRarity": 0.0723,
+    "aliases": [
+     "الهادي",
+     "المحيط الباسيفيكي"
+    ]
+   },
+   {
+    "text": "المحيط الأطلسي",
+    "baseRarity": 0.0542,
+    "aliases": [
+     "الأطلنطي"
+    ]
+   },
+   {
+    "text": "المحيط الهندي",
+    "baseRarity": 0.0434
+   },
+   {
+    "text": "بحر العرب",
+    "baseRarity": 0.0361,
+    "aliases": [
+     "البحر العربي"
+    ]
+   },
+   {
+    "text": "البحر الأسود",
+    "baseRarity": 0.031
+   },
+   {
+    "text": "بحر قزوين",
+    "baseRarity": 0.0271
+   },
+   {
+    "text": "البحر الميت",
+    "baseRarity": 0.0241
+   },
+   {
+    "text": "المحيط المتجمد الشمالي",
+    "baseRarity": 0.0217,
+    "aliases": [
+     "المتجمد الشمالي"
+    ]
+   },
+   {
+    "text": "المحيط المتجمد الجنوبي",
+    "baseRarity": 0.0197,
+    "aliases": [
+     "المتجمد الجنوبي",
+     "المحيط الجنوبي"
+    ]
+   },
+   {
+    "text": "بحر البلطيق",
+    "baseRarity": 0.0181
+   },
+   {
+    "text": "بحر الشمال",
+    "baseRarity": 0.0167
+   },
+   {
+    "text": "البحر الكاريبي",
+    "baseRarity": 0.0155,
+    "aliases": [
+     "الكاريبي"
+    ]
+   },
+   {
+    "text": "بحر الصين الجنوبي",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "بحر الصين الشرقي",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "بحر اليابان",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "بحر إيجة",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "البحر الأدرياتيكي",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "البحر التيراني",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "البحر الأيوني",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "البحر الليغوري",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "بحر مرمرة",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "بحر آزوف",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "بحر النرويج",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "بحر بارنتس",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "البحر الأبيض",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "بحر كارا",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "بحر لابتيف",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "بحر سيبيريا الشرقي",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "بحر تشوكشي",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "بحر بيرنغ",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "بحر أوخوتسك",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "البحر الأصفر",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "بحر الفلبين",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "بحر سولو",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "بحر سيليبس",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "بحر جاوة",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "بحر باندا",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "بحر تيمور",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "بحر أرافورا",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "بحر المرجان",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "بحر تسمان",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "بحر أندامان",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "بحر لاكاديف",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "بحر سرجاسو",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "بحر ويديل",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "بحر روس",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "البحر الإيرلندي",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "البحر السلتي",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "بحر الإسكوتيا",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "بحر بوفورت",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "بحر غرينلاند",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "بحر لابرادور",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "بحر بيلينغسهاوزن",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "بحر أمندسن",
+    "baseRarity": 0.0039
+   }
+  ],
+  "secret": "بحر سرجاسو",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_seas"
+  ]
+ },
+ {
+  "id": "geo-mountains",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر جبل أو سلسلة جبال في العالم",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "جبل إيفرست",
+    "baseRarity": 0.2144,
+    "aliases": [
+     "إيفرست",
+     "افرست"
+    ]
+   },
+   {
+    "text": "جبال الهيمالايا",
+    "baseRarity": 0.1072,
+    "aliases": [
+     "الهيمالايا",
+     "الهملايا"
+    ]
+   },
+   {
+    "text": "جبال الألب",
+    "baseRarity": 0.0715,
+    "aliases": [
+     "الألب"
+    ]
+   },
+   {
+    "text": "جبل كليمنجارو",
+    "baseRarity": 0.0536,
+    "aliases": [
+     "كليمنجارو",
+     "كلمنجارو"
+    ]
+   },
+   {
+    "text": "جبال الأنديز",
+    "baseRarity": 0.0429,
+    "aliases": [
+     "الأنديز"
+    ]
+   },
+   {
+    "text": "جبال روكي",
+    "baseRarity": 0.0357,
+    "aliases": [
+     "روكي"
+    ]
+   },
+   {
+    "text": "جبال الأطلس",
+    "baseRarity": 0.0306,
+    "aliases": [
+     "الأطلس"
+    ]
+   },
+   {
+    "text": "جبل أحد",
+    "baseRarity": 0.0268,
+    "aliases": [
+     "أحد"
+    ]
+   },
+   {
+    "text": "جبل النور",
+    "baseRarity": 0.0238,
+    "aliases": [
+     "جبل حراء",
+     "حراء"
+    ]
+   },
+   {
+    "text": "جبل عرفات",
+    "baseRarity": 0.0214,
+    "aliases": [
+     "جبل الرحمة",
+     "عرفة"
+    ]
+   },
+   {
+    "text": "جبل ثور",
+    "baseRarity": 0.0195,
+    "aliases": [
+     "غار ثور"
+    ]
+   },
+   {
+    "text": "جبال السروات",
+    "baseRarity": 0.0179,
+    "aliases": [
+     "السروات"
+    ]
+   },
+   {
+    "text": "جبال الحجاز",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "جبل طويق",
+    "baseRarity": 0.0153,
+    "aliases": [
+     "طويق"
+    ]
+   },
+   {
+    "text": "جبل أجا",
+    "baseRarity": 0.0143,
+    "aliases": [
+     "أجا"
+    ]
+   },
+   {
+    "text": "جبل سلمى",
+    "baseRarity": 0.0134,
+    "aliases": [
+     "سلمى"
+    ]
+   },
+   {
+    "text": "جبل طور سيناء",
+    "baseRarity": 0.0126,
+    "aliases": [
+     "جبل موسى",
+     "طور سيناء"
+    ]
+   },
+   {
+    "text": "جبل الجودي",
+    "baseRarity": 0.0119,
+    "aliases": [
+     "الجودي"
+    ]
+   },
+   {
+    "text": "جبل الشيخ",
+    "baseRarity": 0.0113,
+    "aliases": [
+     "حرمون"
+    ]
+   },
+   {
+    "text": "جبل فوجي",
+    "baseRarity": 0.0107,
+    "aliases": [
+     "فوجي"
+    ]
+   },
+   {
+    "text": "جبل أرارات",
+    "baseRarity": 0.0102,
+    "aliases": [
+     "أرارات"
+    ]
+   },
+   {
+    "text": "جبال طوروس",
+    "baseRarity": 0.0097,
+    "aliases": [
+     "طوروس"
+    ]
+   },
+   {
+    "text": "جبال زاغروس",
+    "baseRarity": 0.0093,
+    "aliases": [
+     "زاغروس"
+    ]
+   },
+   {
+    "text": "جبال القوقاز",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "القوقاز"
+    ]
+   },
+   {
+    "text": "جبال الأورال",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "الأورال"
+    ]
+   },
+   {
+    "text": "جبال البرانس",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "البرانس",
+     "البيرينيه"
+    ]
+   },
+   {
+    "text": "جبال الأبلاش",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "الأبلاش"
+    ]
+   },
+   {
+    "text": "جبال الكاربات",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "الكاربات"
+    ]
+   },
+   {
+    "text": "جبال الأبنين",
+    "baseRarity": 0.0074,
+    "aliases": [
+     "الأبنين"
+    ]
+   },
+   {
+    "text": "جبال هندوكوش",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "هندوكوش"
+    ]
+   },
+   {
+    "text": "جبال كاراكورام",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "كاراكورام",
+     "قراقرم"
+    ]
+   },
+   {
+    "text": "جبال تيان شان",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "تيان شان"
+    ]
+   },
+   {
+    "text": "جبال ألتاي",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "ألتاي"
+    ]
+   },
+   {
+    "text": "جبال بامير",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "بامير"
+    ]
+   },
+   {
+    "text": "مون بلان",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "الجبل الأبيض",
+     "مونت بلانك"
+    ]
+   },
+   {
+    "text": "ماترهورن",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "جبل إلبروس",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "إلبروس"
+    ]
+   },
+   {
+    "text": "دينالي",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "ماكينلي"
+    ]
+   },
+   {
+    "text": "أكونكاغوا",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "أكونكاجوا"
+    ]
+   },
+   {
+    "text": "كي 2",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "كيه 2",
+     "كي تو",
+     "جبل غودوين أوستن"
+    ]
+   },
+   {
+    "text": "كانشينجونغا",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "لوتسي",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "ماكالو",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "أنابورنا",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "نانغا باربات",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "بركان فيزوف",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "فيزوف"
+    ]
+   },
+   {
+    "text": "بركان إتنا",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "إتنا"
+    ]
+   },
+   {
+    "text": "جبل كينيا",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "جبال روينزوري",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "روينزوري"
+    ]
+   },
+   {
+    "text": "جبل طوبقال",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "طوبقال"
+    ]
+   },
+   {
+    "text": "الجبل الأخضر",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "جبال الحجر",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "الحجر"
+    ]
+   },
+   {
+    "text": "جبل شمس",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "جبل لبنان",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "جبل قاسيون",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "قاسيون"
+    ]
+   },
+   {
+    "text": "جبل الكرمل",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "الكرمل"
+    ]
+   },
+   {
+    "text": "جبل الزيتون",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "جبل طارق",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "جبل أبو قبيس",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "أبو قبيس"
+    ]
+   }
+  ],
+  "secret": "جبل طوبقال",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_mountain_ranges"
+  ]
+ },
+ {
+  "id": "geo-us-cities",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر مدينة أمريكية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "نيويورك",
+    "baseRarity": 0.1947
+   },
+   {
+    "text": "لوس أنجلوس",
+    "baseRarity": 0.0973,
+    "aliases": [
+     "لوس انجلس"
+    ]
+   },
+   {
+    "text": "شيكاغو",
+    "baseRarity": 0.0649
+   },
+   {
+    "text": "ميامي",
+    "baseRarity": 0.0487
+   },
+   {
+    "text": "لاس فيغاس",
+    "baseRarity": 0.0389,
+    "aliases": [
+     "لاس فيجاس"
+    ]
+   },
+   {
+    "text": "هيوستن",
+    "baseRarity": 0.0324
+   },
+   {
+    "text": "سان فرانسيسكو",
+    "baseRarity": 0.0278
+   },
+   {
+    "text": "واشنطن",
+    "baseRarity": 0.0243
+   },
+   {
+    "text": "بوسطن",
+    "baseRarity": 0.0216
+   },
+   {
+    "text": "سياتل",
+    "baseRarity": 0.0195
+   },
+   {
+    "text": "دالاس",
+    "baseRarity": 0.0177
+   },
+   {
+    "text": "أورلاندو",
+    "baseRarity": 0.0162
+   },
+   {
+    "text": "فيلادلفيا",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "أتلانتا",
+    "baseRarity": 0.0139
+   },
+   {
+    "text": "ديترويت",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "فينيكس",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "سان دييغو",
+    "baseRarity": 0.0115,
+    "aliases": [
+     "سان دييجو"
+    ]
+   },
+   {
+    "text": "دنفر",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "نيو أورلينز",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "هونولولو",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "سان أنطونيو",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "أوستن",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "ناشفيل",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "ممفيس",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "بالتيمور",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "بيتسبرغ",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "كليفلاند",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "كولومبوس",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "سينسيناتي",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "إنديانابوليس",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "ميلووكي",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "مينيابوليس",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "سانت لويس",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "كانساس سيتي",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "أوكلاهوما سيتي",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "سولت ليك سيتي",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "بورتلاند",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "سكرامنتو",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "سان خوسيه",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "فريزنو",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "ألباكركي",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "توسان",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "توكسون"
+    ]
+   },
+   {
+    "text": "إل باسو",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "شارلوت",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "رالي",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "تامبا",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "جاكسونفيل",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "ريتشموند",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "نورفولك",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "بافالو",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "روتشستر",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "ألباني",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "هارتفورد",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "بروفيدنس",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "نيوآرك",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "نيوارك"
+    ]
+   },
+   {
+    "text": "جيرسي سيتي",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "لويزفيل",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "برمنغهام",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "أنكوريج",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "بويسي",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "رينو",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "سانتا مونيكا",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "بيفرلي هيلز",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "أوكلاند",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "لونغ بيتش",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "أناهايم",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "بيركلي",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "باسادينا",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "سانتا باربرا",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "بالم سبرينغز",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "آن آربر",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "ماديسون",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "دي موين",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "أوماها",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "ويتشيتا",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "تولسا",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "ليتل روك",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "باتون روج",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "تشارلستون",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "سافانا",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "كي ويست",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "فورت لودرديل",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "بالم بيتش",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "أسبن",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "بولدر",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "دايتون",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "توليدو",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "أكرون",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "فلينت",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "لانسينغ",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "سبرينغفيلد",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "فورت وورث",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "أرلينغتون",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "بلانو",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "أيرفاين",
+    "baseRarity": 0.002
+   }
+  ],
+  "secret": "آن آربر",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population"
+  ]
+ },
+ {
+  "id": "geo-france-cities",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر مدينة فرنسية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "باريس",
+    "baseRarity": 0.2177
+   },
+   {
+    "text": "مارسيليا",
+    "baseRarity": 0.1088
+   },
+   {
+    "text": "ليون",
+    "baseRarity": 0.0726
+   },
+   {
+    "text": "نيس",
+    "baseRarity": 0.0544
+   },
+   {
+    "text": "كان",
+    "baseRarity": 0.0435
+   },
+   {
+    "text": "تولوز",
+    "baseRarity": 0.0363
+   },
+   {
+    "text": "بوردو",
+    "baseRarity": 0.0311
+   },
+   {
+    "text": "ليل",
+    "baseRarity": 0.0272
+   },
+   {
+    "text": "ستراسبورغ",
+    "baseRarity": 0.0242
+   },
+   {
+    "text": "نانت",
+    "baseRarity": 0.0218
+   },
+   {
+    "text": "مونبلييه",
+    "baseRarity": 0.0198
+   },
+   {
+    "text": "رين",
+    "baseRarity": 0.0181
+   },
+   {
+    "text": "ريمس",
+    "baseRarity": 0.0167,
+    "aliases": [
+     "رانس"
+    ]
+   },
+   {
+    "text": "لوهافر",
+    "baseRarity": 0.0155,
+    "aliases": [
+     "لو هافر"
+    ]
+   },
+   {
+    "text": "سانت إتيان",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "تولون",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "غرونوبل",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "ديجون",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "أنجيه",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "نيم",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "كليرمون فيران",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "لومان",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "إكس أون بروفانس",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "بريست",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "تور",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "ليموج",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "أميان",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "بربينيان",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "ميتز",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "بيزانسون",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "أورليان",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "روان",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "مولوز",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "كاين",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "نانسي",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "أفينيون",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "شيربورغ",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "بياريتز",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "أنتيب",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "كاليه",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "دنكيرك",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "لورد",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "شاموني",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "سان تروبيه",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "فرساي",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "أجاكسيو",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "باستيا",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "لاروشيل",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "بو",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "بايون",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "آنسي",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "كولمار",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "فالنسيان",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "بولوني سور مير",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "سان مالو",
+    "baseRarity": 0.004
+   }
+  ],
+  "secret": "كولمار",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_communes_in_France_with_over_20,000_inhabitants"
+  ]
+ },
+ {
+  "id": "geo-germany-cities",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر مدينة ألمانية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "برلين",
+    "baseRarity": 0.2144
+   },
+   {
+    "text": "ميونخ",
+    "baseRarity": 0.1072
+   },
+   {
+    "text": "هامبورغ",
+    "baseRarity": 0.0715
+   },
+   {
+    "text": "فرانكفورت",
+    "baseRarity": 0.0536
+   },
+   {
+    "text": "كولونيا",
+    "baseRarity": 0.0429,
+    "aliases": [
+     "كولن"
+    ]
+   },
+   {
+    "text": "دوسلدورف",
+    "baseRarity": 0.0357
+   },
+   {
+    "text": "شتوتغارت",
+    "baseRarity": 0.0306
+   },
+   {
+    "text": "دورتموند",
+    "baseRarity": 0.0268
+   },
+   {
+    "text": "إيسن",
+    "baseRarity": 0.0238
+   },
+   {
+    "text": "لايبزيغ",
+    "baseRarity": 0.0214
+   },
+   {
+    "text": "بريمن",
+    "baseRarity": 0.0195
+   },
+   {
+    "text": "دريسدن",
+    "baseRarity": 0.0179
+   },
+   {
+    "text": "هانوفر",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "نورنبيرغ",
+    "baseRarity": 0.0153,
+    "aliases": [
+     "نورمبرغ"
+    ]
+   },
+   {
+    "text": "دويسبورغ",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "بوخوم",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "فوبرتال",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "بيليفيلد",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "بون",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "مونستر",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "كارلسروه",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "مانهايم",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "أوغسبورغ",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "فيسبادن",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "غيلسنكيرشن",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "مونشنغلادباخ",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "براونشفايغ",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "كيل",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "آخن",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "هاله",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "ماغدبورغ",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "فرايبورغ",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "كريفيلد",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "لوبيك",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "أوبرهاوزن",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "إرفورت",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "ماينز",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "روستوك",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "كاسل",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "هايدلبرغ",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "بوتسدام",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "فولفسبورغ",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "ريغنسبورغ",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "إنغولشتات",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "ليفركوزن",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "فايمار",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "ترير",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "كوبلنتس",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "بادن بادن",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "بامبرغ",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "فورتسبورغ",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "أولم",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "شفيرين",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "زاربروكن",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "غوتنغن",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "ينا",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "كمنيتس",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "كوتبوس",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "فلنسبورغ",
+    "baseRarity": 0.0036
+   }
+  ],
+  "secret": "بامبرغ",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_cities_in_Germany_by_population"
+  ]
+ },
+ {
+  "id": "geo-italy-cities",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر مدينة إيطالية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "روما",
+    "baseRarity": 0.2144
+   },
+   {
+    "text": "ميلانو",
+    "baseRarity": 0.1072,
+    "aliases": [
+     "ميلان"
+    ]
+   },
+   {
+    "text": "نابولي",
+    "baseRarity": 0.0715
+   },
+   {
+    "text": "تورينو",
+    "baseRarity": 0.0536
+   },
+   {
+    "text": "فلورنسا",
+    "baseRarity": 0.0429
+   },
+   {
+    "text": "البندقية",
+    "baseRarity": 0.0357,
+    "aliases": [
+     "فينيسيا"
+    ]
+   },
+   {
+    "text": "بولونيا",
+    "baseRarity": 0.0306
+   },
+   {
+    "text": "جنوة",
+    "baseRarity": 0.0268
+   },
+   {
+    "text": "باليرمو",
+    "baseRarity": 0.0238
+   },
+   {
+    "text": "فيرونا",
+    "baseRarity": 0.0214
+   },
+   {
+    "text": "بيزا",
+    "baseRarity": 0.0195
+   },
+   {
+    "text": "باري",
+    "baseRarity": 0.0179
+   },
+   {
+    "text": "كاتانيا",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "سيينا",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "بيروجيا",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "ترييستي",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "بيرغامو",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "بادوفا",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "بريشيا",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "مودينا",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "بارما",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "ريجيو كالابريا",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "ريجيو إميليا",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "ساليرنو",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "أنكونا",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "ليتشي",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "تارانتو",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "كالياري",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "ساساري",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "ماتيرا",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "أمالفي",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "سورينتو",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "كومو",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "بولزانو",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "بوتسن"
+    ]
+   },
+   {
+    "text": "ترينتو",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "أوديني",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "لوكا",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "ليفورنو",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "رافينا",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "ريميني",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "فيرارا",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "سان ريمو",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "ميسينا",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "سرقوسة",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "سيراكيوز"
+    ]
+   },
+   {
+    "text": "أغريجنتو",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "بيسكارا",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "لاكويلا",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "كامبوباسو",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "بوتينزا",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "كاتانزارو",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "فيتشنزا",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "تريفيزو",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "مانتوفا",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "بياتشنزا",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "كريمونا",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "بافيا",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "نوفارا",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "أسيزي",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "أورفييتو",
+    "baseRarity": 0.0036
+   }
+  ],
+  "secret": "ماتيرا",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_cities_in_Italy"
+  ]
+ },
+ {
+  "id": "geo-spain-cities",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر مدينة إسبانية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "مدريد",
+    "baseRarity": 0.2186
+   },
+   {
+    "text": "برشلونة",
+    "baseRarity": 0.1093
+   },
+   {
+    "text": "إشبيلية",
+    "baseRarity": 0.0729
+   },
+   {
+    "text": "بلنسية",
+    "baseRarity": 0.0546,
+    "aliases": [
+     "فالنسيا"
+    ]
+   },
+   {
+    "text": "غرناطة",
+    "baseRarity": 0.0437
+   },
+   {
+    "text": "قرطبة",
+    "baseRarity": 0.0364
+   },
+   {
+    "text": "مالقة",
+    "baseRarity": 0.0312,
+    "aliases": [
+     "ملقا",
+     "مالاغا"
+    ]
+   },
+   {
+    "text": "بلباو",
+    "baseRarity": 0.0273
+   },
+   {
+    "text": "سرقسطة",
+    "baseRarity": 0.0243
+   },
+   {
+    "text": "طليطلة",
+    "baseRarity": 0.0219,
+    "aliases": [
+     "توليدو"
+    ]
+   },
+   {
+    "text": "مرسية",
+    "baseRarity": 0.0199
+   },
+   {
+    "text": "المرية",
+    "baseRarity": 0.0182,
+    "aliases": [
+     "ألميريا"
+    ]
+   },
+   {
+    "text": "قادس",
+    "baseRarity": 0.0168
+   },
+   {
+    "text": "سان سيباستيان",
+    "baseRarity": 0.0156
+   },
+   {
+    "text": "بالما",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "لاس بالماس",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "لقنت",
+    "baseRarity": 0.0129,
+    "aliases": [
+     "أليكانتي"
+    ]
+   },
+   {
+    "text": "فيغو",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "لا كورونيا",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "سانتياغو دي كومبوستيلا",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "سالامانكا",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "بلد الوليد",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "بامبلونا",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "شريش",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "خيريث"
+    ]
+   },
+   {
+    "text": "ماربيا",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "إلتشي",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "كارتاخينا",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "خيخون",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "أوفييدو",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "سانتاندير",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "برغش",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "بورغوس"
+    ]
+   },
+   {
+    "text": "ليون",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "بطليوس",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "باداخوث"
+    ]
+   },
+   {
+    "text": "قصرش",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "كاسيريس"
+    ]
+   },
+   {
+    "text": "ماردة",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "ميريدا"
+    ]
+   },
+   {
+    "text": "ولبة",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "هويلفا"
+    ]
+   },
+   {
+    "text": "جيان",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "خاين"
+    ]
+   },
+   {
+    "text": "لوغرونيو",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "وشقة",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "ويسكا"
+    ]
+   },
+   {
+    "text": "طركونة",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "تاراغونا"
+    ]
+   },
+   {
+    "text": "جيرونا",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "لاردة",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "ليريدا"
+    ]
+   },
+   {
+    "text": "شقوبية",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "سيغوفيا"
+    ]
+   },
+   {
+    "text": "آبلة",
+    "baseRarity": 0.005,
+    "aliases": [
+     "أبيلا"
+    ]
+   },
+   {
+    "text": "قونكة",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "كوينكا"
+    ]
+   },
+   {
+    "text": "رندة",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "روندا"
+    ]
+   },
+   {
+    "text": "أنتقيرة",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "لورقة",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "شاطبة",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "سبتة",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "مليلية",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "إيبيزا",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "فيتوريا",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "تطيلة",
+    "baseRarity": 0.004,
+    "aliases": [
+     "توديلا"
+    ]
+   }
+  ],
+  "secret": "شاطبة",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_municipalities_of_Spain"
+  ]
+ },
+ {
+  "id": "geo-uk-cities",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر مدينة بريطانية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "لندن",
+    "baseRarity": 0.2144
+   },
+   {
+    "text": "مانشستر",
+    "baseRarity": 0.1072
+   },
+   {
+    "text": "ليفربول",
+    "baseRarity": 0.0715
+   },
+   {
+    "text": "برمنغهام",
+    "baseRarity": 0.0536
+   },
+   {
+    "text": "إدنبرة",
+    "baseRarity": 0.0429,
+    "aliases": [
+     "ادنبره"
+    ]
+   },
+   {
+    "text": "غلاسكو",
+    "baseRarity": 0.0357
+   },
+   {
+    "text": "ليدز",
+    "baseRarity": 0.0306
+   },
+   {
+    "text": "شيفيلد",
+    "baseRarity": 0.0268
+   },
+   {
+    "text": "نيوكاسل",
+    "baseRarity": 0.0238
+   },
+   {
+    "text": "بريستول",
+    "baseRarity": 0.0214
+   },
+   {
+    "text": "نوتنغهام",
+    "baseRarity": 0.0195
+   },
+   {
+    "text": "ليستر",
+    "baseRarity": 0.0179
+   },
+   {
+    "text": "كارديف",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "بلفاست",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "أكسفورد",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "كامبريدج",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "برايتون",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "ساوثهامبتون",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "بورتسموث",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "يورك",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "باث",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "كوفنتري",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "ستوك أون ترنت",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "ديربي",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "بلايموث",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "ولفرهامبتون",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "سندرلاند",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "هال",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "بريستون",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "بلاكبيرن",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "بولتون",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "بيرنلي",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "واتفورد",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "إبسويتش",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "نورويتش",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "إكستر",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "كانتربري",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "أبردين",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "دندي",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "إنفرنيس",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "سوانزي",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "نيوبورت",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "لندنديري",
+    "baseRarity": 0.005,
+    "aliases": [
+     "ديري"
+    ]
+   },
+   {
+    "text": "ريدينغ",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "لوتون",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "ميلتون كينز",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "بيتربورو",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "ويغان",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "بلاكبول",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "سالفورد",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "وستمنستر",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "ويندسور",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "دوفر",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "تشيستر",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "لانكستر",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "كارلايل",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "دورهام",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "ستيرلينغ",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "بيرث",
+    "baseRarity": 0.0036
+   }
+  ],
+  "secret": "إنفرنيس",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_cities_in_the_United_Kingdom"
+  ]
+ },
+ {
+  "id": "geo-turkey-cities",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر مدينة أو ولاية تركية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "إسطنبول",
+    "baseRarity": 0.1981,
+    "aliases": [
+     "استانبول",
+     "الآستانة",
+     "القسطنطينية"
+    ]
+   },
+   {
+    "text": "أنقرة",
+    "baseRarity": 0.099
+   },
+   {
+    "text": "إزمير",
+    "baseRarity": 0.066,
+    "aliases": [
+     "أزمير"
+    ]
+   },
+   {
+    "text": "بورصة",
+    "baseRarity": 0.0495
+   },
+   {
+    "text": "أنطاليا",
+    "baseRarity": 0.0396
+   },
+   {
+    "text": "طرابزون",
+    "baseRarity": 0.033
+   },
+   {
+    "text": "بودروم",
+    "baseRarity": 0.0283
+   },
+   {
+    "text": "أضنة",
+    "baseRarity": 0.0248
+   },
+   {
+    "text": "قونية",
+    "baseRarity": 0.022
+   },
+   {
+    "text": "غازي عنتاب",
+    "baseRarity": 0.0198,
+    "aliases": [
+     "عنتاب"
+    ]
+   },
+   {
+    "text": "سبانجا",
+    "baseRarity": 0.018
+   },
+   {
+    "text": "بولو",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "يالوفا",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "أنطاكية",
+    "baseRarity": 0.0141,
+    "aliases": [
+     "هاتاي"
+    ]
+   },
+   {
+    "text": "أورفا",
+    "baseRarity": 0.0132,
+    "aliases": [
+     "شانلي أورفا"
+    ]
+   },
+   {
+    "text": "ماردين",
+    "baseRarity": 0.0124
+   },
+   {
+    "text": "ديار بكر",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "كوجالي",
+    "baseRarity": 0.011,
+    "aliases": [
+     "إزميت"
+    ]
+   },
+   {
+    "text": "سكاريا",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "ألانيا",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "فتحية",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "مرمريس",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "كوشاداسي",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "دنيزلي",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "أفيون قره حصار",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "أفيون"
+    ]
+   },
+   {
+    "text": "أديامان",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "أغري",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "أماسيا",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "أرتفين",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "أيدين",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "باليكسير",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "بيلجيك",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "بينغول",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "بيتليس",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "بوردور",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "تشاناكالي",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "جناق قلعة"
+    ]
+   },
+   {
+    "text": "تشانكيري",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "تشوروم",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "أدرنة",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "إلازيغ",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "أرزينجان",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "أرضروم",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "إسكي شهير",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "جيرسون",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "غوموشهانه",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "هكاري",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "إسبرطة",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "مرسين",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "كارس",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "قسطموني",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "قيصري",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "كيركلاريلي",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "كيرشهير",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "كوتاهيا",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "ملاطية",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "مانيسا",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "كهرمان مرعش",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "مرعش"
+    ]
+   },
+   {
+    "text": "موغلا",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "موش",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "نوشهير",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "نيدة",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "أوردو",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "ريزة",
+    "baseRarity": 0.0031,
+    "aliases": [
+     "ريزا"
+    ]
+   },
+   {
+    "text": "سامسون",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "سعرت",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "سينوب",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "سيواس",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "تكيرداغ",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "توكات",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "تونجلي",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "أوشاك",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "وان",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "يوزغات",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "زونغولداك",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "أكساراي",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "بايبورت",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "كرمان",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "كيريكالي",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "باتمان",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "شرناق",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "بارتن",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "أردهان",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "إغدير",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "كارابوك",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "كلس",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "عثمانية",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "دوزجة",
+    "baseRarity": 0.0023
+   }
+  ],
+  "secret": "بايبورت",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Provinces_of_Turkey"
+  ]
+ },
+ {
+  "id": "geo-japan-cities",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر مدينة يابانية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "طوكيو",
+    "baseRarity": 0.2152
+   },
+   {
+    "text": "أوساكا",
+    "baseRarity": 0.1076
+   },
+   {
+    "text": "كيوتو",
+    "baseRarity": 0.0717
+   },
+   {
+    "text": "هيروشيما",
+    "baseRarity": 0.0538
+   },
+   {
+    "text": "ناغازاكي",
+    "baseRarity": 0.043,
+    "aliases": [
+     "نجازاكي"
+    ]
+   },
+   {
+    "text": "يوكوهاما",
+    "baseRarity": 0.0359
+   },
+   {
+    "text": "ناغويا",
+    "baseRarity": 0.0307
+   },
+   {
+    "text": "كوبي",
+    "baseRarity": 0.0269
+   },
+   {
+    "text": "سابورو",
+    "baseRarity": 0.0239
+   },
+   {
+    "text": "فوكوكا",
+    "baseRarity": 0.0215
+   },
+   {
+    "text": "سنداي",
+    "baseRarity": 0.0196
+   },
+   {
+    "text": "نارا",
+    "baseRarity": 0.0179
+   },
+   {
+    "text": "ناها",
+    "baseRarity": 0.0166
+   },
+   {
+    "text": "كاواساكي",
+    "baseRarity": 0.0154
+   },
+   {
+    "text": "سايتاما",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "تشيبا",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "كيتاكيوشو",
+    "baseRarity": 0.0127
+   },
+   {
+    "text": "هاماماتسو",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "كوماموتو",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "كاغوشيما",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "أوكاياما",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "نيغاتا",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "شيزوكا",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "كانازاوا",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "ناغانو",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "أوتسو",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "ماتسوياما",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "تاكاماتسو",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "كوتشي",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "توكوشيما",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "هاكوداته",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "أساهيكاوا",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "ساكاي",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "ساغاميهارا",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "كاماكورا",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "نيكو",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "أوتارو",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "فوكوشيما",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "أوموري",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "أكيتا",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "موريوكا",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "ياماغاتا",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "ميتو",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "أوتسونوميا",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "مايباشي",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "كوفو",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "غيفو",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "تسو",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "واكاياما",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "توتوري",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "ماتسوي",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "ياماغوتشي",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "ساغا",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "أويتا",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "ميازاكي",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "شيمونوسيكي",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "كوراشيكي",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "هيميجي",
+    "baseRarity": 0.0037
+   }
+  ],
+  "secret": "أوتارو",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_cities_in_Japan"
+  ]
+ },
+ {
+  "id": "geo-india-cities",
+  "category": "جغرافيا عالمية",
+  "prompt": "اذكر مدينة هندية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "مومباي",
+    "baseRarity": 0.2069,
+    "aliases": [
+     "بومباي"
+    ]
+   },
+   {
+    "text": "نيودلهي",
+    "baseRarity": 0.1035,
+    "aliases": [
+     "دلهي"
+    ]
+   },
+   {
+    "text": "بنغالور",
+    "baseRarity": 0.069,
+    "aliases": [
+     "بنغالورو"
+    ]
+   },
+   {
+    "text": "حيدر آباد",
+    "baseRarity": 0.0517
+   },
+   {
+    "text": "تشيناي",
+    "baseRarity": 0.0414,
+    "aliases": [
+     "مدراس"
+    ]
+   },
+   {
+    "text": "كلكتا",
+    "baseRarity": 0.0345,
+    "aliases": [
+     "كولكاتا"
+    ]
+   },
+   {
+    "text": "أحمد آباد",
+    "baseRarity": 0.0296
+   },
+   {
+    "text": "بونه",
+    "baseRarity": 0.0259,
+    "aliases": [
+     "بوني"
+    ]
+   },
+   {
+    "text": "جايبور",
+    "baseRarity": 0.023
+   },
+   {
+    "text": "آغرا",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "لكناو",
+    "baseRarity": 0.0188
+   },
+   {
+    "text": "كانبور",
+    "baseRarity": 0.0172
+   },
+   {
+    "text": "ناغبور",
+    "baseRarity": 0.0159
+   },
+   {
+    "text": "سورات",
+    "baseRarity": 0.0148
+   },
+   {
+    "text": "إندور",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "بوبال",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "باتنا",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "فاراناسي",
+    "baseRarity": 0.0115,
+    "aliases": [
+     "بنارس"
+    ]
+   },
+   {
+    "text": "أمريتسار",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "كوتشي",
+    "baseRarity": 0.0103,
+    "aliases": [
+     "كوشين"
+    ]
+   },
+   {
+    "text": "ثيروفانانثابورام",
+    "baseRarity": 0.0099,
+    "aliases": [
+     "تريفاندروم"
+    ]
+   },
+   {
+    "text": "مايسور",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "كويمباتور",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "مادوراي",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "فيساكاباتنام",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "فيجاياوادا",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "بوبانسوار",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "رانشي",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "غواهاتي",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "شيلونغ",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "دارجيلنغ",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "شيملا",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "سريناغار",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "جامو",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "ليه",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "شانديغار",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "لوديانا",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "ديهرادون",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "ريشيكيش",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "هاريدوار",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "أودايبور",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "جودبور",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "جيسالمر",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "بيكانير",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "أجمير",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "بوشكار",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "غواليور",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "جابالبور",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "رايبور",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "ناشيك",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "أورانغ آباد",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "كولهابور",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "منغالور",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "هوبلي",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "تيروباتي",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "بودوتشيري",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "بونديشيري"
+    ]
+   },
+   {
+    "text": "كوجيكود",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "كاليكوت"
+    ]
+   },
+   {
+    "text": "ثريسور",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "عليكرة",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "أليغار"
+    ]
+   },
+   {
+    "text": "ميروت",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "غازي آباد",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "نويدا",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "غوروغرام",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "غورغاون"
+    ]
+   },
+   {
+    "text": "فريد آباد",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "براياغراج",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "الله آباد"
+    ]
+   },
+   {
+    "text": "غوراخبور",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "جامشيدبور",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "كوتا",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "فادودارا",
+    "baseRarity": 0.003,
+    "aliases": [
+     "بارودا"
+    ]
+   },
+   {
+    "text": "راجكوت",
+    "baseRarity": 0.003
+   }
+  ],
+  "secret": "جيسالمر",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_cities_in_India_by_population"
+  ]
  }
 ]
