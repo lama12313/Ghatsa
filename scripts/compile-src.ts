@@ -61,10 +61,11 @@ function resolve(d: Draft, stack: string[] = []): Extract<Row, { text: string }>
           })()
         : [r];
     for (const row of list) {
-      const key = normalize(row.text);
-      if (seen.has(key)) continue;
-      seen.add(key);
-      out.push(row);
+      // نتخطى الجواب لو اسمه مأخوذ، ونشيل الأسماء البديلة المأخوذة
+      if (seen.has(normalize(row.text))) continue;
+      const aliases = row.aliases.filter((a) => !seen.has(normalize(a)));
+      for (const f of [row.text, ...aliases]) seen.add(normalize(f));
+      out.push({ ...row, aliases });
     }
   }
   return out;
