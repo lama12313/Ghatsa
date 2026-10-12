@@ -1,0 +1,6441 @@
+[
+ {
+  "id": "ent-gulf-series",
+  "category": "فن وترفيه",
+  "prompt": "اذكر مسلسل خليجي",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "طاش ما طاش",
+    "baseRarity": 0.2287,
+    "aliases": [
+     "طاش"
+    ]
+   },
+   {
+    "text": "درب الزلق",
+    "baseRarity": 0.1143
+   },
+   {
+    "text": "خالتي قماشة",
+    "baseRarity": 0.0762
+   },
+   {
+    "text": "سيلفي",
+    "baseRarity": 0.0572
+   },
+   {
+    "text": "العاصوف",
+    "baseRarity": 0.0457
+   },
+   {
+    "text": "شباب البومب",
+    "baseRarity": 0.0381
+   },
+   {
+    "text": "بيني وبينك",
+    "baseRarity": 0.0327
+   },
+   {
+    "text": "الحيالة",
+    "baseRarity": 0.0286
+   },
+   {
+    "text": "أم هارون",
+    "baseRarity": 0.0254
+   },
+   {
+    "text": "ساق البامبو",
+    "baseRarity": 0.0229
+   },
+   {
+    "text": "محمد علي رود",
+    "baseRarity": 0.0208
+   },
+   {
+    "text": "جمانة",
+    "baseRarity": 0.0191
+   },
+   {
+    "text": "ساهر الليل",
+    "baseRarity": 0.0176
+   },
+   {
+    "text": "إلى أبي وأمي مع التحية",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "على الدنيا السلام",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "الأقدار",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "خيوط المعازيب",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "رشاش",
+    "baseRarity": 0.0127
+   },
+   {
+    "text": "مخرج 7",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "الزاهرية",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "دفعة القاهرة",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "دفعة بيروت",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "أبلة نورة",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "زوارة خميس",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "خيانة عظمى",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "عزوتي",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "إخوان مريم",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "خلك معي",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "عيال الذيب",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "عندما تغني الزهور",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "الدنيا لحظة",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "الكاتب",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "أمنا رويحة الجنة",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "للحب كلمة",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "دارت الأيام",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "بنات الثانوية",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "العافور",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "ريح الشمال",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "غشمشم",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "كلنا عيال قرية",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "عيال قرية"
+    ]
+   },
+   {
+    "text": "هوامير الصحراء",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "شارع الأعشى",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "وش رجعك",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "منهو ولدنا",
+    "baseRarity": 0.0052
+   }
+  ],
+  "secret": "درب الزلق",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_المسلسلات_الخليجية"
+  ]
+ },
+ {
+  "id": "ent-arab-series",
+  "category": "فن وترفيه",
+  "prompt": "اذكر مسلسل عربي (مصري أو سوري أو لبناني)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "باب الحارة",
+    "baseRarity": 0.2094
+   },
+   {
+    "text": "ليالي الحلمية",
+    "baseRarity": 0.1047
+   },
+   {
+    "text": "رأفت الهجان",
+    "baseRarity": 0.0698
+   },
+   {
+    "text": "الهيبة",
+    "baseRarity": 0.0524
+   },
+   {
+    "text": "الاختيار",
+    "baseRarity": 0.0419
+   },
+   {
+    "text": "الكبير أوي",
+    "baseRarity": 0.0349
+   },
+   {
+    "text": "نسر الصعيد",
+    "baseRarity": 0.0299
+   },
+   {
+    "text": "لن أعيش في جلباب أبي",
+    "baseRarity": 0.0262
+   },
+   {
+    "text": "أرابيسك",
+    "baseRarity": 0.0233
+   },
+   {
+    "text": "الضوء الشارد",
+    "baseRarity": 0.0209
+   },
+   {
+    "text": "المال والبنون",
+    "baseRarity": 0.019
+   },
+   {
+    "text": "الشهد والدموع",
+    "baseRarity": 0.0175
+   },
+   {
+    "text": "ذئاب الجبل",
+    "baseRarity": 0.0161
+   },
+   {
+    "text": "الزيني بركات",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "بوابة الحلواني",
+    "baseRarity": 0.014
+   },
+   {
+    "text": "الليل وآخره",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "الملك فاروق",
+    "baseRarity": 0.0123
+   },
+   {
+    "text": "عمر",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "مسلسل عمر"
+    ]
+   },
+   {
+    "text": "التغريبة الفلسطينية",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "الزير سالم",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "صلاح الدين الأيوبي",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "ربيع قرطبة",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "صقر قريش",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "ملوك الطوائف",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "مرايا",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "بقعة ضوء",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "ضيعة ضايعة",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "الخربة",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "أبو جانتي",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "الندم",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "غداً نلتقي",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "جعفر العمدة",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "البرنس",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "الأسطورة",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "نسل الأغراب",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "موسى",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "ابن حلال",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "الحشاشين",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "رمضان كريم",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "سابع جار",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "ما وراء الطبيعة",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "جراند أوتيل",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "لعبة نيوتن",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "تحت السيطرة",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "خلي بالك من زيزي",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "بطلوع الروح",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "الكتيبة 101",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "العائدون",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "هجمة مرتدة",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "كلبش",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الاختيار 2",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "الجماعة",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "السبع وصايا",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "رحيم",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "الطوفان",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "عائلة الحاج متولي",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "الوتد",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "يوميات ونيس",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "أبو العروسة",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "بـ 100 وش",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "بمية وش"
+    ]
+   },
+   {
+    "text": "الكبير",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "عروس بيروت",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "خمسة ونص",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "تانغو",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "لعبة الموت",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "سمرقند",
+    "baseRarity": 0.0032
+   }
+  ],
+  "secret": "ليالي الحلمية",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/دراما_عربية"
+  ]
+ },
+ {
+  "id": "ent-egyptian-movies",
+  "category": "فن وترفيه",
+  "prompt": "اذكر فيلم مصري",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "الإرهاب والكباب",
+    "baseRarity": 0.2152
+   },
+   {
+    "text": "الكيف",
+    "baseRarity": 0.1076
+   },
+   {
+    "text": "اللمبي",
+    "baseRarity": 0.0717
+   },
+   {
+    "text": "عسل أسود",
+    "baseRarity": 0.0538
+   },
+   {
+    "text": "الناظر",
+    "baseRarity": 0.043
+   },
+   {
+    "text": "صعيدي في الجامعة الأمريكية",
+    "baseRarity": 0.0359
+   },
+   {
+    "text": "همام في أمستردام",
+    "baseRarity": 0.0307
+   },
+   {
+    "text": "ابن حميدو",
+    "baseRarity": 0.0269
+   },
+   {
+    "text": "إسماعيلية رايح جاي",
+    "baseRarity": 0.0239
+   },
+   {
+    "text": "الفيل الأزرق",
+    "baseRarity": 0.0215
+   },
+   {
+    "text": "الجزيرة",
+    "baseRarity": 0.0196
+   },
+   {
+    "text": "تيتو",
+    "baseRarity": 0.0179
+   },
+   {
+    "text": "الحرب العالمية الثالثة",
+    "baseRarity": 0.0166
+   },
+   {
+    "text": "الكنز",
+    "baseRarity": 0.0154
+   },
+   {
+    "text": "كيرة والجن",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "الممر",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "السفارة في العمارة",
+    "baseRarity": 0.0127
+   },
+   {
+    "text": "مرجان أحمد مرجان",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "عمارة يعقوبيان",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "طيور الظلام",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "الإرهابي",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "النوم في العسل",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "اللعب مع الكبار",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "المنسي",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "شمس الزناتي",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "الزوجة الثانية",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "باب الحديد",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "الأرض",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "المومياء",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "الكرنك",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "دعاء الكروان",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "الحرام",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "بين القصرين",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "رد قلبي",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "شيء من الخوف",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "البريء",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "سواق الأتوبيس",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "العار",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "الكيت كات",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "صراع في الوادي",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "أبي فوق الشجرة",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "غزل البنات",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "سلامة في خير",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "إشاعة حب",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "الخطايا",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "البداية",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "عودة الابن الضال",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "الناصر صلاح الدين",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "المصير",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "ولاد رزق",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الفيل الأزرق 2",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "بوحة",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "كده رضا",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "عبود على الحدود",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "اللي بالي بالك",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "بلية ودماغه العالية",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "جاءنا البيان التالي",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "H دبور",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "إتش دبور"
+    ]
+   }
+  ],
+  "secret": "باب الحديد",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_أفضل_100_فيلم_مصري"
+  ]
+ },
+ {
+  "id": "ent-arab-singers",
+  "category": "فن وترفيه",
+  "prompt": "اذكر مطرب أو مطربة عربية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "أم كلثوم",
+    "baseRarity": 0.2046
+   },
+   {
+    "text": "عبد الحليم حافظ",
+    "baseRarity": 0.1023,
+    "aliases": [
+     "العندليب"
+    ]
+   },
+   {
+    "text": "فيروز",
+    "baseRarity": 0.0682
+   },
+   {
+    "text": "محمد عبده",
+    "baseRarity": 0.0511
+   },
+   {
+    "text": "عمرو دياب",
+    "baseRarity": 0.0409
+   },
+   {
+    "text": "كاظم الساهر",
+    "baseRarity": 0.0341
+   },
+   {
+    "text": "وردة الجزائرية",
+    "baseRarity": 0.0292,
+    "aliases": [
+     "وردة"
+    ]
+   },
+   {
+    "text": "نجاة الصغيرة",
+    "baseRarity": 0.0256,
+    "aliases": [
+     "نجاة"
+    ]
+   },
+   {
+    "text": "محمد عبد الوهاب",
+    "baseRarity": 0.0227,
+    "aliases": [
+     "عبد الوهاب"
+    ]
+   },
+   {
+    "text": "فريد الأطرش",
+    "baseRarity": 0.0205
+   },
+   {
+    "text": "أسمهان",
+    "baseRarity": 0.0186
+   },
+   {
+    "text": "صباح",
+    "baseRarity": 0.017
+   },
+   {
+    "text": "وديع الصافي",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "صباح فخري",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "راغب علامة",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "نانسي عجرم",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "إليسا",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "هيفاء وهبي",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "أصالة نصري",
+    "baseRarity": 0.0108,
+    "aliases": [
+     "أصالة"
+    ]
+   },
+   {
+    "text": "شيرين عبد الوهاب",
+    "baseRarity": 0.0102,
+    "aliases": [
+     "شيرين"
+    ]
+   },
+   {
+    "text": "أنغام",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "محمد منير",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "تامر حسني",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "محمد حماقي",
+    "baseRarity": 0.0085,
+    "aliases": [
+     "حماقي"
+    ]
+   },
+   {
+    "text": "ويجز",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "محمد رمضان",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "هاني شاكر",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "مدحت صالح",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "علي الحجار",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "لطيفة",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "ذكرى",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "صابر الرباعي",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "الشاب خالد",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "الشاب مامي",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "سعد المجرد",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "حاتم عمور",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "دنيا بطمة",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "جورج وسوف",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "ملحم بركات",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "ماجدة الرومي",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "كارول سماحة",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "وائل كفوري",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "نوال الزغبي",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "ديانا حداد",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "نجوى كرم",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "يارا",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "ناصيف زيتون",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "الشامي",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "حسين الجسمي",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "راشد الماجد",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "عبدالمجيد عبدالله",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "رابح صقر",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "طلال مداح",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "عبادي الجوهر",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "أحلام",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "نوال الكويتية",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "نوال"
+    ]
+   },
+   {
+    "text": "عبدالله الرويشد",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "نبيل شعيل",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "ماجد المهندس",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "وليد الشامي",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "بلقيس",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "أسماء المنور",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "فضل شاكر",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "محمد فؤاد",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "مصطفى قمر",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "إيهاب توفيق",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "هشام عباس",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "حكيم",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "أحمد سعد",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "روبي",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "ميادة الحناوي",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "فايزة أحمد",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "شادية",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "عبد الله بالخير",
+    "baseRarity": 0.0028
+   }
+  ],
+  "secret": "صباح فخري",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_مغنين_عرب"
+  ]
+ },
+ {
+  "id": "ent-gulf-singers",
+  "category": "فن وترفيه",
+  "prompt": "اذكر مطرب أو مطربة خليجية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "محمد عبده",
+    "baseRarity": 0.2275
+   },
+   {
+    "text": "طلال مداح",
+    "baseRarity": 0.1138
+   },
+   {
+    "text": "عبدالمجيد عبدالله",
+    "baseRarity": 0.0758
+   },
+   {
+    "text": "راشد الماجد",
+    "baseRarity": 0.0569
+   },
+   {
+    "text": "رابح صقر",
+    "baseRarity": 0.0455
+   },
+   {
+    "text": "عبادي الجوهر",
+    "baseRarity": 0.0379
+   },
+   {
+    "text": "حسين الجسمي",
+    "baseRarity": 0.0325
+   },
+   {
+    "text": "أحلام",
+    "baseRarity": 0.0284
+   },
+   {
+    "text": "نوال الكويتية",
+    "baseRarity": 0.0253,
+    "aliases": [
+     "نوال"
+    ]
+   },
+   {
+    "text": "عبدالله الرويشد",
+    "baseRarity": 0.0228
+   },
+   {
+    "text": "نبيل شعيل",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "ماجد المهندس",
+    "baseRarity": 0.019
+   },
+   {
+    "text": "وليد الشامي",
+    "baseRarity": 0.0175
+   },
+   {
+    "text": "خالد عبدالرحمن",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "محمد عمر",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "عبدالكريم عبدالقادر",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "ميحد حمد",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "عيضة المنهالي",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "فايز السعيد",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "بلقيس",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "أصيل أبو بكر",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "أبو بكر سالم",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "فؤاد عبدالواحد",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "عبدالله بالخير",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "سلامة العبدالله",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "محمد المسباح",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "عبدالعزيز الضويحي",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "عبدالرب إدريس",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "عايض يوسف",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "عايض"
+    ]
+   },
+   {
+    "text": "داليا مبارك",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "بدر الشعيبي",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "ذياب مشهور",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "سعد جمعة",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "حسين العلي",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "محمد البلوشي",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "خالد الشيخ",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "أحمد الجميري",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "هند البحرينية",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "شمة حمدان",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "ديانا حداد",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "ابتسام لطفي",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "توحة",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "عتاب",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "جواد العلي",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "مشعل العروج",
+    "baseRarity": 0.0051
+   }
+  ],
+  "secret": "سلامة العبدالله",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/الأغنية_الخليجية"
+  ]
+ },
+ {
+  "id": "ent-instruments",
+  "category": "فن وترفيه",
+  "prompt": "اذكر آلة موسيقية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "عود",
+    "baseRarity": 0.2194
+   },
+   {
+    "text": "بيانو",
+    "baseRarity": 0.1097
+   },
+   {
+    "text": "جيتار",
+    "baseRarity": 0.0731,
+    "aliases": [
+     "قيتار"
+    ]
+   },
+   {
+    "text": "كمان",
+    "baseRarity": 0.0549,
+    "aliases": [
+     "كمنجة"
+    ]
+   },
+   {
+    "text": "طبل",
+    "baseRarity": 0.0439,
+    "aliases": [
+     "طبلة"
+    ]
+   },
+   {
+    "text": "ناي",
+    "baseRarity": 0.0366
+   },
+   {
+    "text": "قانون",
+    "baseRarity": 0.0313
+   },
+   {
+    "text": "دف",
+    "baseRarity": 0.0274
+   },
+   {
+    "text": "ربابة",
+    "baseRarity": 0.0244
+   },
+   {
+    "text": "بزق",
+    "baseRarity": 0.0219
+   },
+   {
+    "text": "طنبور",
+    "baseRarity": 0.0199
+   },
+   {
+    "text": "مزمار",
+    "baseRarity": 0.0183
+   },
+   {
+    "text": "سمسمية",
+    "baseRarity": 0.0169
+   },
+   {
+    "text": "أورغ",
+    "baseRarity": 0.0157,
+    "aliases": [
+     "أورج",
+     "كيبورد"
+    ]
+   },
+   {
+    "text": "ساكسفون",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "ترومبيت",
+    "baseRarity": 0.0137,
+    "aliases": [
+     "بوق"
+    ]
+   },
+   {
+    "text": "فلوت",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "كلارينيت",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "أوبوا",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "باسون",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "ترومبون",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "توبا",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "هارمونيكا",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "أكورديون",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "هارب",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "قيثارة"
+    ]
+   },
+   {
+    "text": "تشيلو",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "كونترباص",
+    "baseRarity": 0.0081,
+    "aliases": [
+     "دبل باص"
+    ]
+   },
+   {
+    "text": "فيولا",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "درامز",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "طقم طبول"
+    ]
+   },
+   {
+    "text": "إكسيليفون",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "ماريمبا",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "مثلث",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "صنج",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "صاجات"
+    ]
+   },
+   {
+    "text": "كاستانيت",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "بونغو",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "كونغا",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "طبلة دربكة",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "دربوكة"
+    ]
+   },
+   {
+    "text": "رق",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "مرواس",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "الطار",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "ماندولين",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "بانجو",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "يوكوليلي",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "سيتار",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "القرب",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "مزمار القربة"
+    ]
+   },
+   {
+    "text": "أرغن",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "هاربسيكورد",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "سنطور",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "كاليمبا",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "جيمبي",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "تيمباني",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "جرس",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "أجراس"
+    ]
+   },
+   {
+    "text": "الغيتار الكهربائي",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "جيتار كهربائي"
+    ]
+   }
+  ],
+  "secret": "القانون",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_الآلات_الموسيقية"
+  ]
+ },
+ {
+  "id": "ent-video-games",
+  "category": "فن وترفيه",
+  "prompt": "اذكر لعبة فيديو",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "فيفا",
+    "baseRarity": 0.204,
+    "aliases": [
+     "إي إيه سبورتس إف سي",
+     "ea fc"
+    ]
+   },
+   {
+    "text": "ماينكرافت",
+    "baseRarity": 0.102,
+    "aliases": [
+     "ماين كرافت"
+    ]
+   },
+   {
+    "text": "فورتنايت",
+    "baseRarity": 0.068
+   },
+   {
+    "text": "كول أوف ديوتي",
+    "baseRarity": 0.051,
+    "aliases": [
+     "كود"
+    ]
+   },
+   {
+    "text": "جي تي إيه",
+    "baseRarity": 0.0408,
+    "aliases": [
+     "gta",
+     "جراند ثفت أوتو"
+    ]
+   },
+   {
+    "text": "ببجي",
+    "baseRarity": 0.034,
+    "aliases": [
+     "pubg"
+    ]
+   },
+   {
+    "text": "ماريو",
+    "baseRarity": 0.0291,
+    "aliases": [
+     "سوبر ماريو"
+    ]
+   },
+   {
+    "text": "بوكيمون",
+    "baseRarity": 0.0255
+   },
+   {
+    "text": "زيلدا",
+    "baseRarity": 0.0227,
+    "aliases": [
+     "أسطورة زيلدا"
+    ]
+   },
+   {
+    "text": "بيس",
+    "baseRarity": 0.0204,
+    "aliases": [
+     "pes",
+     "إي فوتبول"
+    ]
+   },
+   {
+    "text": "روبلوكس",
+    "baseRarity": 0.0185
+   },
+   {
+    "text": "أمونق أس",
+    "baseRarity": 0.017,
+    "aliases": [
+     "أمونغ أس"
+    ]
+   },
+   {
+    "text": "كلاش أوف كلانس",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "كلاش رويال",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "كاندي كراش",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "سابواي سيرفرز",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "تيمبل رن",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "أنجري بيردز",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "فري فاير",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "ليغ أوف ليجندز",
+    "baseRarity": 0.0102,
+    "aliases": [
+     "لول"
+    ]
+   },
+   {
+    "text": "دوتا",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "فالورانت",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "كاونتر سترايك",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "كونتر"
+    ]
+   },
+   {
+    "text": "أوفرواتش",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "أبكس ليجندز",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "ريد ديد ريدمبشن",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "ذا لاست أوف أس",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "أنشارتد",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "غود أوف وار",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "سبايدرمان",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "باتمان أركام",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "أساسنز كريد",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "فار كراي",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "ريزدنت إيفل",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "سايلنت هيل",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "متال جير",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "فاينل فانتسي",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "كينغدم هارتس",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "دارك سولز",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "إلدن رينغ",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "سكايرم",
+    "baseRarity": 0.005,
+    "aliases": [
+     "ذا إلدر سكرولز"
+    ]
+   },
+   {
+    "text": "ذا ويتشر",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "سايبربانك",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "هالو",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "غيرز أوف وور",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "فورزا",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "نيد فور سبيد",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "غران توريزمو",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "موتال كومبات",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "ستريت فايتر",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "تيكن",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "سونيك",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "كراش بانديكوت",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "باك مان",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "تيتريس",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "سبيس إنفيدرز",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "ذا سيمز",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "سيم سيتي",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "أنيمال كروسينغ",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "سبلاتون",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "ماريو كارت",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "سماش بروس",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "دونكي كونغ",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "كيربي",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "ميترويد",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "ستاردو فالي",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "هولو نايت",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "أندرتيل",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "بورتال",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "هاف لايف",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "روكيت ليغ",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "فول غايز",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "ديترويت بيكام هيومن",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "هوغورتس ليغاسي",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "جينشين إمباكت",
+    "baseRarity": 0.0027
+   }
+  ],
+  "secret": "تيتريس",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_best-selling_video_games"
+  ]
+ },
+ {
+  "id": "ent-anime",
+  "category": "فن وترفيه",
+  "prompt": "اذكر أنمي (رسوم متحركة يابانية)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "ون بيس",
+    "baseRarity": 0.2186
+   },
+   {
+    "text": "ناروتو",
+    "baseRarity": 0.1093
+   },
+   {
+    "text": "دراغون بول",
+    "baseRarity": 0.0729,
+    "aliases": [
+     "دراغون بول زد"
+    ]
+   },
+   {
+    "text": "هجوم العمالقة",
+    "baseRarity": 0.0546,
+    "aliases": [
+     "أتاك أون تايتن"
+    ]
+   },
+   {
+    "text": "ديث نوت",
+    "baseRarity": 0.0437,
+    "aliases": [
+     "مذكرة الموت"
+    ]
+   },
+   {
+    "text": "المحقق كونان",
+    "baseRarity": 0.0364,
+    "aliases": [
+     "كونان"
+    ]
+   },
+   {
+    "text": "كابتن ماجد",
+    "baseRarity": 0.0312
+   },
+   {
+    "text": "القناص",
+    "baseRarity": 0.0273,
+    "aliases": [
+     "هنتر × هنتر",
+     "هنتر هنتر"
+    ]
+   },
+   {
+    "text": "بليتش",
+    "baseRarity": 0.0243
+   },
+   {
+    "text": "ماي هيرو أكاديميا",
+    "baseRarity": 0.0219,
+    "aliases": [
+     "أكاديمية بطلي"
+    ]
+   },
+   {
+    "text": "ديمون سلاير",
+    "baseRarity": 0.0199,
+    "aliases": [
+     "قاتل الشياطين"
+    ]
+   },
+   {
+    "text": "جوجوتسو كايسن",
+    "baseRarity": 0.0182
+   },
+   {
+    "text": "بوكيمون",
+    "baseRarity": 0.0168
+   },
+   {
+    "text": "ون بنش مان",
+    "baseRarity": 0.0156
+   },
+   {
+    "text": "توكيو غول",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "سيف آرت أونلاين",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "فول ميتال ألكيميست",
+    "baseRarity": 0.0129,
+    "aliases": [
+     "الخيميائي المعدني"
+    ]
+   },
+   {
+    "text": "كود غياس",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "ستيبز غيت",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "نيون جينيسيس إيفانجيليون",
+    "baseRarity": 0.0109,
+    "aliases": [
+     "إيفانجيليون"
+    ]
+   },
+   {
+    "text": "كاوبوي بيبوب",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "سبيريتد أواي",
+    "baseRarity": 0.0099,
+    "aliases": [
+     "المخطوفة"
+    ]
+   },
+   {
+    "text": "جاري توتورو",
+    "baseRarity": 0.0095,
+    "aliases": [
+     "توتورو"
+    ]
+   },
+   {
+    "text": "قلعة هاول المتحركة",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "الأميرة مونونوكي",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "يور نيم",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "اسمك"
+    ]
+   },
+   {
+    "text": "هايكيو",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "كوروكو نو باسكت",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "سلام دانك",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "سلام دنك"
+    ]
+   },
+   {
+    "text": "بلو لوك",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "يوغي يو",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "ديجيمون",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "أبطال الديجيتال"
+    ]
+   },
+   {
+    "text": "سايلور مون",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "بحار القمر"
+    ]
+   },
+   {
+    "text": "غراندايزر",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "جريندايزر"
+    ]
+   },
+   {
+    "text": "عدنان ولينا",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "ساندي بل",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "جزيرة الكنز",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "فلونة",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "ريمي",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "سالي",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "هايدي",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "بيل وسبستيان",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "سابق ولاحق",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "شوت",
+    "baseRarity": 0.005,
+    "aliases": [
+     "الهداف"
+    ]
+   },
+   {
+    "text": "دكتور ستون",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "سبيكس فاميلي",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "عائلة سباي"
+    ]
+   },
+   {
+    "text": "تشينسو مان",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "فاير فورس",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "بلاك كلوفر",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "فيري تيل",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "جيوجيو",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "مغامرة جوجو الغريبة"
+    ]
+   },
+   {
+    "text": "فينلاند ساغا",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "فريرين",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "مونستر",
+    "baseRarity": 0.004
+   }
+  ],
+  "secret": "غراندايزر",
+  "sources": [
+   "https://myanimelist.net/topanime.php"
+  ]
+ },
+ {
+  "id": "ent-spacetoon",
+  "category": "فن وترفيه",
+  "prompt": "اذكر كرتون كنت تشوفه وأنت صغير (سبيستون أو غيرها)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "كابتن ماجد",
+    "baseRarity": 0.2169
+   },
+   {
+    "text": "المحقق كونان",
+    "baseRarity": 0.1084,
+    "aliases": [
+     "كونان"
+    ]
+   },
+   {
+    "text": "بوكيمون",
+    "baseRarity": 0.0723
+   },
+   {
+    "text": "القناص",
+    "baseRarity": 0.0542
+   },
+   {
+    "text": "ون بيس",
+    "baseRarity": 0.0434
+   },
+   {
+    "text": "ناروتو",
+    "baseRarity": 0.0361
+   },
+   {
+    "text": "دراغون بول",
+    "baseRarity": 0.031
+   },
+   {
+    "text": "توم وجيري",
+    "baseRarity": 0.0271
+   },
+   {
+    "text": "باباي",
+    "baseRarity": 0.0241
+   },
+   {
+    "text": "سبونج بوب",
+    "baseRarity": 0.0217
+   },
+   {
+    "text": "الرجل العنكبوت",
+    "baseRarity": 0.0197,
+    "aliases": [
+     "سبايدرمان"
+    ]
+   },
+   {
+    "text": "ساندي بل",
+    "baseRarity": 0.0181
+   },
+   {
+    "text": "فلونة",
+    "baseRarity": 0.0167
+   },
+   {
+    "text": "ريمي",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "سالي",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "هايدي",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "عدنان ولينا",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "غراندايزر",
+    "baseRarity": 0.012,
+    "aliases": [
+     "جريندايزر"
+    ]
+   },
+   {
+    "text": "الكابتن رابح",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "سابق ولاحق",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "أنا وأخي",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "عهد الأصدقاء",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "بيل وسبستيان",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "جزيرة الكنز",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "السنافر",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "النحلة زينة",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "زينة ونحول",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "مدينة الأشباح",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "بابار",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "بكار",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "بقلظ",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "افتح يا سمسم",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "بوجي وطمطم",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "ماوكلي",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "روبن هود",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "النمر المقنع",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "ليدي أوسكار",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "شوت",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "الهداف"
+    ]
+   },
+   {
+    "text": "هزيم الرعد",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "أبطال الديجيتال",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "ديجيمون"
+    ]
+   },
+   {
+    "text": "يوغي يو",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "باتمان",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "سوبرمان",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "سكوبي دو",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "ميكي ماوس",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "بينك بانثر",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "النمر الوردي"
+    ]
+   },
+   {
+    "text": "لوني تونز",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "باغز باني"
+    ]
+   },
+   {
+    "text": "تيمون وبومبا",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "علاء الدين",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "حكايات عالمية",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الأميرة ياقوت",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "بن 10",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "بن تن"
+    ]
+   },
+   {
+    "text": "الفتيات القويات",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "باور باف غيرلز"
+    ]
+   },
+   {
+    "text": "مستر بين",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "فريج",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "شعبية الكرتون",
+    "baseRarity": 0.0039
+   }
+  ],
+  "secret": "مدينة الأشباح",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/سبيستون"
+  ]
+ },
+ {
+  "id": "ent-hollywood-actors",
+  "category": "فن وترفيه",
+  "prompt": "اذكر ممثل أو ممثلة من هوليوود",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "توم كروز",
+    "baseRarity": 0.2144
+   },
+   {
+    "text": "ليوناردو دي كابريو",
+    "baseRarity": 0.1072,
+    "aliases": [
+     "دي كابريو"
+    ]
+   },
+   {
+    "text": "براد بيت",
+    "baseRarity": 0.0715
+   },
+   {
+    "text": "جوني ديب",
+    "baseRarity": 0.0536
+   },
+   {
+    "text": "ويل سميث",
+    "baseRarity": 0.0429
+   },
+   {
+    "text": "دوين جونسون",
+    "baseRarity": 0.0357,
+    "aliases": [
+     "ذا روك"
+    ]
+   },
+   {
+    "text": "توم هانكس",
+    "baseRarity": 0.0306
+   },
+   {
+    "text": "روبرت داوني جونيور",
+    "baseRarity": 0.0268
+   },
+   {
+    "text": "كريس هيمسورث",
+    "baseRarity": 0.0238
+   },
+   {
+    "text": "كريس إيفانز",
+    "baseRarity": 0.0214
+   },
+   {
+    "text": "سكارليت جوهانسون",
+    "baseRarity": 0.0195
+   },
+   {
+    "text": "أنجلينا جولي",
+    "baseRarity": 0.0179
+   },
+   {
+    "text": "جوليا روبرتس",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "جينيفر لورنس",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "إيما واتسون",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "دانيال رادكليف",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "كيانو ريفز",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "مورغان فريمان",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "دينزل واشنطن",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "آل باتشينو",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "روبرت دي نيرو",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "مارلون براندو",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "جاك نيكلسون",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "أنتوني هوبكنز",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "كريستيان بيل",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "هيث ليدجر",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "خواكين فينيكس",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "ماثيو ماكونهي",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "مات ديمون",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "بن أفليك",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "جيسون ستاثام",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "فين ديزل",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "سيلفستر ستالون",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "أرنولد شوارزنيغر",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "بروس ويليس",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "جاكي شان",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "جيم كاري",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "آدم ساندلر",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "إيدي ميرفي",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "ميريل ستريب",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "نيكول كيدمان",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "ساندرا بولوك",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "كيت وينسلت",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "ناتالي بورتمان",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "مارغو روبي",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "زيندايا",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "توم هولاند",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "تيموثي شالاميه",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "رايان رينولدز",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "رايان غوسلينغ",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "هيو جاكمان",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "كيليان مورفي",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "بينيديكت كامبرباتش",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "ريز ويذرسبون",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "آن هاثاواي",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "كاميرون دياز",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "أودري هيبورن",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "مارلين مونرو",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "تشارلي تشابلن",
+    "baseRarity": 0.0036
+   }
+  ],
+  "secret": "مارلون براندو",
+  "sources": [
+   "https://www.imdb.com/"
+  ]
+ },
+ {
+  "id": "ent-disney-movies",
+  "category": "فن وترفيه",
+  "prompt": "اذكر فيلم ديزني أو بيكسار",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "الأسد الملك",
+    "baseRarity": 0.2243,
+    "aliases": [
+     "ليون كينغ"
+    ]
+   },
+   {
+    "text": "علاء الدين",
+    "baseRarity": 0.1121
+   },
+   {
+    "text": "فروزن",
+    "baseRarity": 0.0748,
+    "aliases": [
+     "ملكة الثلج"
+    ]
+   },
+   {
+    "text": "الجميلة والوحش",
+    "baseRarity": 0.0561
+   },
+   {
+    "text": "حورية البحر الصغيرة",
+    "baseRarity": 0.0449,
+    "aliases": [
+     "ذا ليتل ميرميد"
+    ]
+   },
+   {
+    "text": "سندريلا",
+    "baseRarity": 0.0374
+   },
+   {
+    "text": "بياض الثلج",
+    "baseRarity": 0.032
+   },
+   {
+    "text": "الجميلة النائمة",
+    "baseRarity": 0.028
+   },
+   {
+    "text": "موانا",
+    "baseRarity": 0.0249
+   },
+   {
+    "text": "تانجلد",
+    "baseRarity": 0.0224,
+    "aliases": [
+     "ريبونزل"
+    ]
+   },
+   {
+    "text": "مولان",
+    "baseRarity": 0.0204
+   },
+   {
+    "text": "بوكاهونتاس",
+    "baseRarity": 0.0187
+   },
+   {
+    "text": "هرقل",
+    "baseRarity": 0.0173
+   },
+   {
+    "text": "طرزان",
+    "baseRarity": 0.016
+   },
+   {
+    "text": "أحدب نوتردام",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "بامبي",
+    "baseRarity": 0.014
+   },
+   {
+    "text": "دامبو",
+    "baseRarity": 0.0132
+   },
+   {
+    "text": "بينوكيو",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "بيتر بان",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "كتاب الأدغال",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "101 دلماشن",
+    "baseRarity": 0.0107,
+    "aliases": [
+     "مئة وواحد مرقش"
+    ]
+   },
+   {
+    "text": "السيدة والصعلوك",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "ليلو وستيتش",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "زوتوبيا",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "إنكانتو",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "كوكو",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "قصة لعبة",
+    "baseRarity": 0.0083,
+    "aliases": [
+     "توي ستوري"
+    ]
+   },
+   {
+    "text": "شركة المرعبين",
+    "baseRarity": 0.008,
+    "aliases": [
+     "مونسترز إنك"
+    ]
+   },
+   {
+    "text": "البحث عن نيمو",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "نيمو"
+    ]
+   },
+   {
+    "text": "الخارقون",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "ذا إنكريدبلز"
+    ]
+   },
+   {
+    "text": "سيارات",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "كارز"
+    ]
+   },
+   {
+    "text": "راتاتوي",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "وول-إي",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "وول إي"
+    ]
+   },
+   {
+    "text": "أب",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "فوق"
+    ]
+   },
+   {
+    "text": "إنسايد آوت",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "قلباً وقالباً"
+    ]
+   },
+   {
+    "text": "شجاعة",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "بريف"
+    ]
+   },
+   {
+    "text": "حياة حشرة",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "البحث عن دوري",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "سول",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "لوكا",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "تيرنينغ ريد",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "إليمنتال",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "رايا والتنين الأخير",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "الأبطال الستة",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "بيغ هيرو 6"
+    ]
+   },
+   {
+    "text": "رالف المدمر",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "الأميرة والضفدع",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "فانتازيا",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "ويش",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "أمنية"
+    ]
+   }
+  ],
+  "secret": "هرقل",
+  "sources": [
+   "https://www.disney.com/"
+  ]
+ },
+ {
+  "id": "ent-superheroes",
+  "category": "فن وترفيه",
+  "prompt": "اذكر بطل خارق أو شخصية من مارفل أو دي سي",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "سوبرمان",
+    "baseRarity": 0.2144
+   },
+   {
+    "text": "باتمان",
+    "baseRarity": 0.1072,
+    "aliases": [
+     "الرجل الوطواط"
+    ]
+   },
+   {
+    "text": "الرجل العنكبوت",
+    "baseRarity": 0.0715,
+    "aliases": [
+     "سبايدرمان"
+    ]
+   },
+   {
+    "text": "الرجل الحديدي",
+    "baseRarity": 0.0536,
+    "aliases": [
+     "آيرون مان"
+    ]
+   },
+   {
+    "text": "كابتن أمريكا",
+    "baseRarity": 0.0429
+   },
+   {
+    "text": "ثور",
+    "baseRarity": 0.0357
+   },
+   {
+    "text": "هالك",
+    "baseRarity": 0.0306
+   },
+   {
+    "text": "الأرملة السوداء",
+    "baseRarity": 0.0268,
+    "aliases": [
+     "بلاك ويدو"
+    ]
+   },
+   {
+    "text": "هوك آي",
+    "baseRarity": 0.0238
+   },
+   {
+    "text": "بلاك بانثر",
+    "baseRarity": 0.0214,
+    "aliases": [
+     "الفهد الأسود"
+    ]
+   },
+   {
+    "text": "دكتور سترينج",
+    "baseRarity": 0.0195,
+    "aliases": [
+     "الدكتور سترينج"
+    ]
+   },
+   {
+    "text": "كابتن مارفل",
+    "baseRarity": 0.0179
+   },
+   {
+    "text": "آنت مان",
+    "baseRarity": 0.0165,
+    "aliases": [
+     "الرجل النملة"
+    ]
+   },
+   {
+    "text": "ديدبول",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "ولفرين",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "بروفيسور إكس",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "ستورم",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "سايكلوبس",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "جين غراي",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "ماغنيتو",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "لوكي",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "ثانوس",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "جوكر",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "المرأة المعجزة",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "وندر وومن"
+    ]
+   },
+   {
+    "text": "فلاش",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "ذا فلاش"
+    ]
+   },
+   {
+    "text": "أكوامان",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "غرين لانترن",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "الفانوس الأخضر"
+    ]
+   },
+   {
+    "text": "سايبورغ",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "روبن",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "باتغيرل",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "سوبرغيرل",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "كات وومن",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "المرأة القطة"
+    ]
+   },
+   {
+    "text": "هارلي كوين",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "ليكس لوثر",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "بين",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "الرجل الرملي",
+    "baseRarity": 0.006,
+    "aliases": [
+     "ساندمان"
+    ]
+   },
+   {
+    "text": "غرين غوبلن",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "دكتور أوكتوبوس",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "فينوم",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "غروت",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "روكيت",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "ستار لورد",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "غامورا",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "دراكس",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "نيبولا",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "فيجن",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "واندا",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "سكارليت ويتش"
+    ]
+   },
+   {
+    "text": "كويك سيلفر",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "شي هالك",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "مون نايت",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "ميس مارفل",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "شانغ تشي",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "الأربعة المذهلون",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "الرجل المطاطي",
+    "baseRarity": 0.004,
+    "aliases": [
+     "ريد ريتشاردز"
+    ]
+   },
+   {
+    "text": "الشعلة البشرية",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "ذا ثينغ",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "الشيء"
+    ]
+   },
+   {
+    "text": "دكتور دوم",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "شازام",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "بلاك آدم",
+    "baseRarity": 0.0036
+   }
+  ],
+  "secret": "الدكتور سترينج",
+  "sources": [
+   "https://www.marvel.com/characters"
+  ]
+ },
+ {
+  "id": "ent-egyptian-actors",
+  "category": "فن وترفيه",
+  "prompt": "اذكر ممثل أو ممثلة مصرية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "عادل إمام",
+    "baseRarity": 0.2152
+   },
+   {
+    "text": "أحمد زكي",
+    "baseRarity": 0.1076
+   },
+   {
+    "text": "محمد هنيدي",
+    "baseRarity": 0.0717
+   },
+   {
+    "text": "أحمد حلمي",
+    "baseRarity": 0.0538
+   },
+   {
+    "text": "محمد سعد",
+    "baseRarity": 0.043
+   },
+   {
+    "text": "كريم عبد العزيز",
+    "baseRarity": 0.0359
+   },
+   {
+    "text": "أحمد السقا",
+    "baseRarity": 0.0307
+   },
+   {
+    "text": "أحمد عز",
+    "baseRarity": 0.0269
+   },
+   {
+    "text": "محمد رمضان",
+    "baseRarity": 0.0239
+   },
+   {
+    "text": "أمير كرارة",
+    "baseRarity": 0.0215
+   },
+   {
+    "text": "يحيى الفخراني",
+    "baseRarity": 0.0196
+   },
+   {
+    "text": "نور الشريف",
+    "baseRarity": 0.0179
+   },
+   {
+    "text": "محمود عبد العزيز",
+    "baseRarity": 0.0166
+   },
+   {
+    "text": "فاتن حمامة",
+    "baseRarity": 0.0154
+   },
+   {
+    "text": "سعاد حسني",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "شادية",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "هند رستم",
+    "baseRarity": 0.0127
+   },
+   {
+    "text": "نادية الجندي",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "نبيلة عبيد",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "يسرا",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "ليلى علوي",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "إلهام شاهين",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "منى زكي",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "هند صبري",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "ياسمين عبد العزيز",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "منة شلبي",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "دنيا سمير غانم",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "إسماعيل ياسين",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "فؤاد المهندس",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "عبد المنعم مدبولي",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "فريد شوقي",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "رشدي أباظة",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "عمر الشريف",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "محمود المليجي",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "زكي رستم",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "عبد الحليم حافظ",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "توفيق الدقن",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "محمود ياسين",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "حسين فهمي",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "عزت أبو عوف",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "سمير غانم",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "جورج سيدهم",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "محمد صبحي",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "أشرف عبد الباقي",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "ماجد الكدواني",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "أحمد مكي",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "هشام ماجد",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "شيكو",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "أكرم حسني",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "أحمد فهمي",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "محمد ممدوح",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "آسر ياسين",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "عمرو يوسف",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "ياسمين صبري",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "غادة عبد الرازق",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "سهير البابلي",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "ماري منيب",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "شريهان",
+    "baseRarity": 0.0037
+   }
+  ],
+  "secret": "زكي رستم",
+  "sources": [
+   "https://elcinema.com/"
+  ]
+ },
+ {
+  "id": "ent-gulf-actors",
+  "category": "فن وترفيه",
+  "prompt": "اذكر ممثل أو ممثلة خليجية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "ناصر القصبي",
+    "baseRarity": 0.2264
+   },
+   {
+    "text": "عبدالله السدحان",
+    "baseRarity": 0.1132
+   },
+   {
+    "text": "حياة الفهد",
+    "baseRarity": 0.0755
+   },
+   {
+    "text": "سعاد عبدالله",
+    "baseRarity": 0.0566
+   },
+   {
+    "text": "عبدالحسين عبدالرضا",
+    "baseRarity": 0.0453
+   },
+   {
+    "text": "سعد الفرج",
+    "baseRarity": 0.0377
+   },
+   {
+    "text": "خالد النفيسي",
+    "baseRarity": 0.0323
+   },
+   {
+    "text": "غانم الصالح",
+    "baseRarity": 0.0283
+   },
+   {
+    "text": "علي المفيدي",
+    "baseRarity": 0.0252
+   },
+   {
+    "text": "داود حسين",
+    "baseRarity": 0.0226
+   },
+   {
+    "text": "طارق العلي",
+    "baseRarity": 0.0206
+   },
+   {
+    "text": "حسن البلام",
+    "baseRarity": 0.0189
+   },
+   {
+    "text": "عبدالرحمن العقل",
+    "baseRarity": 0.0174
+   },
+   {
+    "text": "مريم الصالح",
+    "baseRarity": 0.0162
+   },
+   {
+    "text": "مريم الغضبان",
+    "baseRarity": 0.0151
+   },
+   {
+    "text": "هدى حسين",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "إلهام الفضالة",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "شجون الهاجري",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "هيا عبدالسلام",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "جاسم النبهان",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "محمد المنصور",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "إبراهيم الصلال",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "أحمد الجسمي",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "فايز المالكي",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "حبيب الحبيب",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "راشد الشمراني",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "يوسف الجراح",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "خالد سامي",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "ريم عبدالله",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "إلهام علي",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "أسيل عمران",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "فاطمة الحوسني",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "بشير الغنيم",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "عبدالعزيز السكيرين",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "إبراهيم الحساوي",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "عبدالمحسن النمر",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "مشعل المطيري",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "يعقوب الفرحان",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "فهد البتيري",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "محمد القس",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "خالد صقر",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "تركي اليوسف",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "لطيفة المجرن",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "زهرة الخرجي",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "باسمة حمادة",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "أحمد الأحمد",
+    "baseRarity": 0.0049
+   }
+  ],
+  "secret": "علي المفيدي",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/الدراما_الخليجية"
+  ]
+ },
+ {
+  "id": "ent-board-games",
+  "category": "فن وترفيه",
+  "prompt": "اذكر لعبة ورق أو لوحية أو شعبية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "بلوت",
+    "baseRarity": 0.2311
+   },
+   {
+    "text": "كوت",
+    "baseRarity": 0.1156
+   },
+   {
+    "text": "هند",
+    "baseRarity": 0.077,
+    "aliases": [
+     "الهند"
+    ]
+   },
+   {
+    "text": "تريكس",
+    "baseRarity": 0.0578
+   },
+   {
+    "text": "سبيتة",
+    "baseRarity": 0.0462,
+    "aliases": [
+     "سبيت"
+    ]
+   },
+   {
+    "text": "بوكر",
+    "baseRarity": 0.0385
+   },
+   {
+    "text": "أونو",
+    "baseRarity": 0.033
+   },
+   {
+    "text": "شطرنج",
+    "baseRarity": 0.0289
+   },
+   {
+    "text": "دومينو",
+    "baseRarity": 0.0257
+   },
+   {
+    "text": "كيرم",
+    "baseRarity": 0.0231
+   },
+   {
+    "text": "الداما",
+    "baseRarity": 0.021,
+    "aliases": [
+     "دامة",
+     "الضامة"
+    ]
+   },
+   {
+    "text": "طاولة الزهر",
+    "baseRarity": 0.0193,
+    "aliases": [
+     "الطاولة",
+     "النرد",
+     "الطاولي"
+    ]
+   },
+   {
+    "text": "مونوبولي",
+    "baseRarity": 0.0178,
+    "aliases": [
+     "بنك الحظ"
+    ]
+   },
+   {
+    "text": "سكرابل",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "لودو",
+    "baseRarity": 0.0154,
+    "aliases": [
+     "الليدو",
+     "لعبة لودو"
+    ]
+   },
+   {
+    "text": "السلم والثعبان",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "جنغا",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "تابو",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "بكتشنري",
+    "baseRarity": 0.0122,
+    "aliases": [
+     "بكشنري"
+    ]
+   },
+   {
+    "text": "كلو",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "كلودو"
+    ]
+   },
+   {
+    "text": "كاتان",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "ريسك",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "ستراتيغو",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "مافيا",
+    "baseRarity": 0.0096,
+    "aliases": [
+     "الذيب",
+     "ذئب"
+    ]
+   },
+   {
+    "text": "بنغو",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "السيجة",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "المنقلة",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "الحالوسة"
+    ]
+   },
+   {
+    "text": "عظيم ضاح",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "الغميضة",
+    "baseRarity": 0.008,
+    "aliases": [
+     "الطماية",
+     "الاستغماية"
+    ]
+   },
+   {
+    "text": "الحجلة",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "المصاقيل",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "الدوامة",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "البلبل"
+    ]
+   },
+   {
+    "text": "التيلة",
+    "baseRarity": 0.007,
+    "aliases": [
+     "البلي",
+     "الكلل"
+    ]
+   },
+   {
+    "text": "شد الحبل",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "كراسي موسيقية",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "الكراسي الموسيقية"
+    ]
+   },
+   {
+    "text": "حجرة ورقة مقص",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "سوليتير",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "بازل",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "أحجية"
+    ]
+   },
+   {
+    "text": "سودوكو",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "كلمات متقاطعة",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "ماهجونغ",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "جو",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "لعبة غو"
+    ]
+   }
+  ],
+  "secret": "الكيرم",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_board_games"
+  ]
+ },
+ {
+  "id": "ent-world-series",
+  "category": "فن وترفيه",
+  "prompt": "اذكر مسلسل أجنبي مشهور",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "لعبة العروش",
+    "baseRarity": 0.2194,
+    "aliases": [
+     "غيم أوف ثرونز"
+    ]
+   },
+   {
+    "text": "بريكنغ باد",
+    "baseRarity": 0.1097,
+    "aliases": [
+     "بريكن باد"
+    ]
+   },
+   {
+    "text": "فريندز",
+    "baseRarity": 0.0731,
+    "aliases": [
+     "الأصدقاء"
+    ]
+   },
+   {
+    "text": "لا كاسا دي بابيل",
+    "baseRarity": 0.0549,
+    "aliases": [
+     "البروفيسور",
+     "بيت المال"
+    ]
+   },
+   {
+    "text": "سترينجر ثينغز",
+    "baseRarity": 0.0439,
+    "aliases": [
+     "أشياء غريبة"
+    ]
+   },
+   {
+    "text": "ذا كراون",
+    "baseRarity": 0.0366,
+    "aliases": [
+     "التاج"
+    ]
+   },
+   {
+    "text": "بيكي بلايندرز",
+    "baseRarity": 0.0313
+   },
+   {
+    "text": "شيرلوك",
+    "baseRarity": 0.0274
+   },
+   {
+    "text": "بريزن بريك",
+    "baseRarity": 0.0244,
+    "aliases": [
+     "الهروب من السجن"
+    ]
+   },
+   {
+    "text": "لوست",
+    "baseRarity": 0.0219,
+    "aliases": [
+     "ضائعون"
+    ]
+   },
+   {
+    "text": "ذا ووكينغ ديد",
+    "baseRarity": 0.0199,
+    "aliases": [
+     "الموتى السائرون"
+    ]
+   },
+   {
+    "text": "ديكستر",
+    "baseRarity": 0.0183
+   },
+   {
+    "text": "هاوس",
+    "baseRarity": 0.0169,
+    "aliases": [
+     "دكتور هاوس"
+    ]
+   },
+   {
+    "text": "غريز أناتومي",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "ذا سوبرانوز",
+    "baseRarity": 0.0146,
+    "aliases": [
+     "آل سوبرانو"
+    ]
+   },
+   {
+    "text": "ذا واير",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "تشيرنوبل",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "دارك",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "سكويد غيم",
+    "baseRarity": 0.0115,
+    "aliases": [
+     "لعبة الحبار"
+    ]
+   },
+   {
+    "text": "ونزداي",
+    "baseRarity": 0.011,
+    "aliases": [
+     "وينزداي"
+    ]
+   },
+   {
+    "text": "ذا ويتشر",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "ذا بويز",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "ذا ماندالوريان",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "بيتر كول سول",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "بيتر كول ساول"
+    ]
+   },
+   {
+    "text": "مستر روبوت",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "وستوورلد",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "بلاك ميرور",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "ذا أوفيس",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "هاو آي ميت يور ماذر",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "كيف قابلت أمكم"
+    ]
+   },
+   {
+    "text": "ذا بيغ بانغ ثيوري",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "نظرية الانفجار العظيم"
+    ]
+   },
+   {
+    "text": "مودرن فاميلي",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "سوتس",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "سوتس"
+    ]
+   },
+   {
+    "text": "فايكنغز",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "قيامة أرطغرل",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "أرطغرل"
+    ]
+   },
+   {
+    "text": "المؤسس عثمان",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "عثمان"
+    ]
+   },
+   {
+    "text": "حريم السلطان",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "وادي الذئاب",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "العشق الممنوع",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "نور",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "سنوات الضياع",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "ذا لاست أوف أس",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "هاوس أوف ذا دراغون",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "ساكسيشن",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "يلوستون",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "ذا بير",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "فارغو",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "ترو ديتيكتيف",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "ناركوس",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "أوزارك",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "دكتور هو",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "سمولفيل",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "سكرابز",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "24",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "أربعة وعشرون"
+    ]
+   }
+  ],
+  "secret": "ذا واير",
+  "sources": [
+   "https://www.imdb.com/chart/toptv/"
+  ]
+ },
+ {
+  "id": "ent-hollywood-movies",
+  "category": "فن وترفيه",
+  "prompt": "اذكر فيلم أجنبي مشهور",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "تايتانيك",
+    "baseRarity": 0.2213
+   },
+   {
+    "text": "أفاتار",
+    "baseRarity": 0.1106
+   },
+   {
+    "text": "العراب",
+    "baseRarity": 0.0738,
+    "aliases": [
+     "ذا غودفاذر"
+    ]
+   },
+   {
+    "text": "فارس الظلام",
+    "baseRarity": 0.0553,
+    "aliases": [
+     "ذا دارك نايت"
+    ]
+   },
+   {
+    "text": "المنتقمون",
+    "baseRarity": 0.0443,
+    "aliases": [
+     "أفنجرز"
+    ]
+   },
+   {
+    "text": "هاري بوتر",
+    "baseRarity": 0.0369
+   },
+   {
+    "text": "سيد الخواتم",
+    "baseRarity": 0.0316
+   },
+   {
+    "text": "حرب النجوم",
+    "baseRarity": 0.0277,
+    "aliases": [
+     "ستار وورز"
+    ]
+   },
+   {
+    "text": "الحديقة الجوراسية",
+    "baseRarity": 0.0246,
+    "aliases": [
+     "جوراسيك بارك"
+    ]
+   },
+   {
+    "text": "ماتريكس",
+    "baseRarity": 0.0221,
+    "aliases": [
+     "المصفوفة"
+    ]
+   },
+   {
+    "text": "إنسبشن",
+    "baseRarity": 0.0201,
+    "aliases": [
+     "استهلال"
+    ]
+   },
+   {
+    "text": "إنترستيلر",
+    "baseRarity": 0.0184,
+    "aliases": [
+     "بين النجوم"
+    ]
+   },
+   {
+    "text": "الخلاص من شاوشانك",
+    "baseRarity": 0.017,
+    "aliases": [
+     "شاوشانك"
+    ]
+   },
+   {
+    "text": "فورست غامب",
+    "baseRarity": 0.0158
+   },
+   {
+    "text": "قائمة شندلر",
+    "baseRarity": 0.0148
+   },
+   {
+    "text": "المصارع",
+    "baseRarity": 0.0138,
+    "aliases": [
+     "غلادياتور"
+    ]
+   },
+   {
+    "text": "إنقاذ الجندي رايان",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "باربي",
+    "baseRarity": 0.0123
+   },
+   {
+    "text": "أوبنهايمر",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "جوكر",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "القرش",
+    "baseRarity": 0.0105,
+    "aliases": [
+     "جوز"
+    ]
+   },
+   {
+    "text": "إي تي",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "العودة إلى المستقبل",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "إنديانا جونز",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "رامبو",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "روكي",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "المدمر",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "ترميناتور"
+    ]
+   },
+   {
+    "text": "السرعة والغضب",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "فاست آند فيوريس"
+    ]
+   },
+   {
+    "text": "المهمة المستحيلة",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "ميشن إمبوسيبل"
+    ]
+   },
+   {
+    "text": "جيمس بوند",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "قراصنة الكاريبي",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "الرجل العنكبوت",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "سبايدرمان"
+    ]
+   },
+   {
+    "text": "الرجل الحديدي",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "آيرون مان"
+    ]
+   },
+   {
+    "text": "الفهد الأسود",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "بلاك بانثر"
+    ]
+   },
+   {
+    "text": "المريخي",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "جون ويك",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "توب غن",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "بالب فيكشن",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "خيال رخيص"
+    ]
+   },
+   {
+    "text": "نادي القتال",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "فايت كلوب"
+    ]
+   },
+   {
+    "text": "صمت الحملان",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "الطيب والشرس والقبيح",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "سايكو",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "كازابلانكا",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "المواطن كين",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "ذهب مع الريح",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "لورنس العرب",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "الرسالة",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "عمر المختار",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "القلب الشجاع",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "بريف هارت"
+    ]
+   },
+   {
+    "text": "الأسد الملك",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "الكثيب",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "دون"
+    ]
+   }
+  ],
+  "secret": "كازابلانكا",
+  "sources": [
+   "https://www.imdb.com/chart/top/"
+  ]
+ },
+ {
+  "id": "ent-pokemon",
+  "category": "فن وترفيه",
+  "prompt": "اذكر بوكيمون (باسمه المعروف بالعربي أو الإنجليزي)",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "بيكاتشو",
+    "baseRarity": 0.2204,
+    "aliases": [
+     "pikachu"
+    ]
+   },
+   {
+    "text": "تشارمندر",
+    "baseRarity": 0.1102,
+    "aliases": [
+     "charmander"
+    ]
+   },
+   {
+    "text": "تشارميليون",
+    "baseRarity": 0.0735
+   },
+   {
+    "text": "تشاريزارد",
+    "baseRarity": 0.0551
+   },
+   {
+    "text": "بولباسور",
+    "baseRarity": 0.0441,
+    "aliases": [
+     "بلباسور"
+    ]
+   },
+   {
+    "text": "آيفيسور",
+    "baseRarity": 0.0367
+   },
+   {
+    "text": "فينوسور",
+    "baseRarity": 0.0315
+   },
+   {
+    "text": "سكويرتل",
+    "baseRarity": 0.0275,
+    "aliases": [
+     "سكويرتل"
+    ]
+   },
+   {
+    "text": "وارتورتل",
+    "baseRarity": 0.0245
+   },
+   {
+    "text": "بلاستويز",
+    "baseRarity": 0.022
+   },
+   {
+    "text": "ميوتو",
+    "baseRarity": 0.02
+   },
+   {
+    "text": "ميو",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "جيغليباف",
+    "baseRarity": 0.017,
+    "aliases": [
+     "جيغلي باف"
+    ]
+   },
+   {
+    "text": "سنورلاكس",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "إيفي",
+    "baseRarity": 0.0147
+   },
+   {
+    "text": "جينغار",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "أونكس",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "جيودود",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "بسيداك",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "ميوث",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "زوبات",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "كاتربي",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "بيدجي",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "راتاتا",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "ماغيكارب",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "جياردوس",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "لابراس",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "ديتو",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "دراغونايت",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "ماشامب",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "ألاكازام",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "كوبون",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "لوجيا",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "هو أوه",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "سيليبي",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "توغيبي",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "ماريل",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "تشيكوريتا",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "سينداكويل",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "توتودايل",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "تريكو",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "تورتشيك",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "مودكيب",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "لوكاريو",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "غريننجا",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "رايكو",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "إنتي",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "سويكون",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "رايكوازا",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "غرودون",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "كايوغر",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "آرسيوس",
+    "baseRarity": 0.0042
+   }
+  ],
+  "secret": "ميو",
+  "sources": [
+   "https://www.pokemon.com/us/pokedex"
+  ]
+ },
+ {
+  "id": "ent-world-singers",
+  "category": "فن وترفيه",
+  "prompt": "اذكر مغني أو فرقة غنائية أجنبية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "مايكل جاكسون",
+    "baseRarity": 0.2204
+   },
+   {
+    "text": "مادونا",
+    "baseRarity": 0.1102
+   },
+   {
+    "text": "إلفيس بريسلي",
+    "baseRarity": 0.0735
+   },
+   {
+    "text": "البيتلز",
+    "baseRarity": 0.0551,
+    "aliases": [
+     "ذا بيتلز"
+    ]
+   },
+   {
+    "text": "كوين",
+    "baseRarity": 0.0441
+   },
+   {
+    "text": "بيونسيه",
+    "baseRarity": 0.0367
+   },
+   {
+    "text": "ريهانا",
+    "baseRarity": 0.0315
+   },
+   {
+    "text": "تايلور سويفت",
+    "baseRarity": 0.0275
+   },
+   {
+    "text": "أديل",
+    "baseRarity": 0.0245
+   },
+   {
+    "text": "إد شيران",
+    "baseRarity": 0.022
+   },
+   {
+    "text": "جاستن بيبر",
+    "baseRarity": 0.02
+   },
+   {
+    "text": "برونو مارس",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "ذا ويكند",
+    "baseRarity": 0.017
+   },
+   {
+    "text": "دريك",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "إيمينيم",
+    "baseRarity": 0.0147
+   },
+   {
+    "text": "بيلي آيليش",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "أريانا غراندي",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "ليدي غاغا",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "كاتي بيري",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "شاكيرا",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "جينيفر لوبيز",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "سيلينا غوميز",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "دوا ليبا",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "كولدبلاي",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "إيماجن دراغونز",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "مارون 5",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "لينكن بارك",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "ميتاليكا",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "بينك فلويد",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "ليد زيبلين",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "ذا رولينغ ستونز",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "إيه بي بي إيه",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "آبا"
+    ]
+   },
+   {
+    "text": "بي تي إس",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "bts"
+    ]
+   },
+   {
+    "text": "بلاك بينك",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "فرانك سيناترا",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "ويتني هيوستن",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "سيلين ديون",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "مارايا كاري",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "بريتني سبيرز",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "باك ستريت بويز",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "ون دايركشن",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "إنريكي إغليسياس",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "ريكي مارتن",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "بيتبول",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "سامي يوسف",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "ماهر زين",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "هاري ستايلز",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "سام سميث",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "لانا ديل راي",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "أوليفيا رودريغو",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "بوب مارلي",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "ستيفي وندر",
+    "baseRarity": 0.0042
+   }
+  ],
+  "secret": "كوين",
+  "sources": [
+   "https://www.billboard.com/"
+  ]
+ },
+ {
+  "id": "ent-arab-tv-shows",
+  "category": "فن وترفيه",
+  "prompt": "اذكر برنامج تلفزيوني عربي مشهور",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "من سيربح المليون",
+    "baseRarity": 0.2287
+   },
+   {
+    "text": "عرب آيدول",
+    "baseRarity": 0.1143,
+    "aliases": [
+     "آراب آيدول"
+    ]
+   },
+   {
+    "text": "ذا فويس",
+    "baseRarity": 0.0762,
+    "aliases": [
+     "أحلى صوت"
+    ]
+   },
+   {
+    "text": "آراب غوت تالنت",
+    "baseRarity": 0.0572,
+    "aliases": [
+     "أرب غوت تالنت"
+    ]
+   },
+   {
+    "text": "ستار أكاديمي",
+    "baseRarity": 0.0457
+   },
+   {
+    "text": "شاعر المليون",
+    "baseRarity": 0.0381
+   },
+   {
+    "text": "أمير الشعراء",
+    "baseRarity": 0.0327
+   },
+   {
+    "text": "الاتجاه المعاكس",
+    "baseRarity": 0.0286
+   },
+   {
+    "text": "خواطر",
+    "baseRarity": 0.0254
+   },
+   {
+    "text": "البرنامج",
+    "baseRarity": 0.0229
+   },
+   {
+    "text": "رامز جلال",
+    "baseRarity": 0.0208,
+    "aliases": [
+     "برامج رامز"
+    ]
+   },
+   {
+    "text": "الصدمة",
+    "baseRarity": 0.0191
+   },
+   {
+    "text": "قلبي اطمأن",
+    "baseRarity": 0.0176
+   },
+   {
+    "text": "ذا وول",
+    "baseRarity": 0.0163,
+    "aliases": [
+     "الجدار"
+    ]
+   },
+   {
+    "text": "فوازير رمضان",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "فوازير"
+    ]
+   },
+   {
+    "text": "العلم والإيمان",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "عالم الحيوان",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "افتح يا سمسم",
+    "baseRarity": 0.0127
+   },
+   {
+    "text": "المسامح كريم",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "صباح الخير يا عرب",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "كلام نواعم",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "صدى الملاعب",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "في المرمى",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "أكشن يا دوري",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "البيت بيتك",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "العاشرة مساءً",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "القاهرة اليوم",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "هنا العاصمة",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "آخر كلام",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "يا هلا",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "الثامنة",
+    "baseRarity": 0.0074,
+    "aliases": [
+     "الثامنة مع داود"
+    ]
+   },
+   {
+    "text": "خليك بالبيت",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "للنشر",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "بلا حدود",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "شاهد على العصر",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "سيرة وانفتحت",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "توب شيف",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "توب شيف العرب"
+    ]
+   },
+   {
+    "text": "مسرح مصر",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "تياترو مصر",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "البرنامج مع باسم يوسف",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "باسم يوسف"
+    ]
+   },
+   {
+    "text": "أبلة فاهيتا",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "صاحبة السعادة",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "معكم منى الشاذلي",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "منى الشاذلي"
+    ]
+   },
+   {
+    "text": "عيش الليلة",
+    "baseRarity": 0.0052
+   }
+  ],
+  "secret": "من سيربح المليون",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/برامج_تلفزيونية_عربية"
+  ]
+ },
+ {
+  "id": "ent-movie-genres",
+  "category": "فن وترفيه",
+  "prompt": "اذكر نوع من أنواع الأفلام",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "أكشن",
+    "baseRarity": 0.2287,
+    "aliases": [
+     "حركة"
+    ]
+   },
+   {
+    "text": "كوميدي",
+    "baseRarity": 0.1143,
+    "aliases": [
+     "كوميديا"
+    ]
+   },
+   {
+    "text": "رعب",
+    "baseRarity": 0.0762
+   },
+   {
+    "text": "دراما",
+    "baseRarity": 0.0572
+   },
+   {
+    "text": "رومانسي",
+    "baseRarity": 0.0457,
+    "aliases": [
+     "رومانسية"
+    ]
+   },
+   {
+    "text": "خيال علمي",
+    "baseRarity": 0.0381
+   },
+   {
+    "text": "فانتازيا",
+    "baseRarity": 0.0327,
+    "aliases": [
+     "خيالي"
+    ]
+   },
+   {
+    "text": "إثارة",
+    "baseRarity": 0.0286,
+    "aliases": [
+     "تشويق"
+    ]
+   },
+   {
+    "text": "جريمة",
+    "baseRarity": 0.0254
+   },
+   {
+    "text": "غموض",
+    "baseRarity": 0.0229,
+    "aliases": [
+     "بوليسي"
+    ]
+   },
+   {
+    "text": "وثائقي",
+    "baseRarity": 0.0208
+   },
+   {
+    "text": "رسوم متحركة",
+    "baseRarity": 0.0191,
+    "aliases": [
+     "أنمي",
+     "كرتون"
+    ]
+   },
+   {
+    "text": "مغامرات",
+    "baseRarity": 0.0176
+   },
+   {
+    "text": "حرب",
+    "baseRarity": 0.0163,
+    "aliases": [
+     "حربي"
+    ]
+   },
+   {
+    "text": "تاريخي",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "سيرة ذاتية",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "موسيقي",
+    "baseRarity": 0.0135,
+    "aliases": [
+     "استعراضي"
+    ]
+   },
+   {
+    "text": "غربي",
+    "baseRarity": 0.0127,
+    "aliases": [
+     "ويسترن",
+     "كاوبوي"
+    ]
+   },
+   {
+    "text": "رياضي",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "عائلي",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "أطفال",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "أبطال خارقين",
+    "baseRarity": 0.0104,
+    "aliases": [
+     "سوبرهيرو"
+    ]
+   },
+   {
+    "text": "زومبي",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "مصاصي دماء",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "كوارث",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "جاسوسية",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "سرقة",
+    "baseRarity": 0.0085,
+    "aliases": [
+     "هايست"
+    ]
+   },
+   {
+    "text": "محاكم",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "قانوني"
+    ]
+   },
+   {
+    "text": "نفسي",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "دراما نفسية"
+    ]
+   },
+   {
+    "text": "تحقيق",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "فنون قتالية",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "كوميديا سوداء",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "كوميديا رومانسية",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "رعب نفسي",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "خيال علمي ديستوبي",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "ديستوبيا"
+    ]
+   },
+   {
+    "text": "نوار",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "فيلم نوار"
+    ]
+   },
+   {
+    "text": "قصير",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "فيلم قصير"
+    ]
+   },
+   {
+    "text": "صامت",
+    "baseRarity": 0.006,
+    "aliases": [
+     "سينما صامتة"
+    ]
+   },
+   {
+    "text": "مستقل",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "ملحمي",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "سفر عبر الزمن",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "تعليمي",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "وطني",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "ديني",
+    "baseRarity": 0.0052
+   }
+  ],
+  "secret": "نوار",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Film_genre"
+  ]
+ },
+ {
+  "id": "ent-cartoon-characters",
+  "category": "فن وترفيه",
+  "prompt": "اذكر شخصية كرتونية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "ميكي ماوس",
+    "baseRarity": 0.2152
+   },
+   {
+    "text": "ميني ماوس",
+    "baseRarity": 0.1076
+   },
+   {
+    "text": "دونالد داك",
+    "baseRarity": 0.0717,
+    "aliases": [
+     "بطوط"
+    ]
+   },
+   {
+    "text": "غوفي",
+    "baseRarity": 0.0538,
+    "aliases": [
+     "بندق"
+    ]
+   },
+   {
+    "text": "بلوتو",
+    "baseRarity": 0.043
+   },
+   {
+    "text": "توم",
+    "baseRarity": 0.0359
+   },
+   {
+    "text": "جيري",
+    "baseRarity": 0.0307
+   },
+   {
+    "text": "سبونج بوب",
+    "baseRarity": 0.0269
+   },
+   {
+    "text": "باتريك",
+    "baseRarity": 0.0239
+   },
+   {
+    "text": "شفيق",
+    "baseRarity": 0.0215,
+    "aliases": [
+     "سكويدوارد"
+    ]
+   },
+   {
+    "text": "سنفور",
+    "baseRarity": 0.0196,
+    "aliases": [
+     "سنافر",
+     "سنفورة"
+    ]
+   },
+   {
+    "text": "شرشبيل",
+    "baseRarity": 0.0179
+   },
+   {
+    "text": "باباي",
+    "baseRarity": 0.0166
+   },
+   {
+    "text": "أوليف",
+    "baseRarity": 0.0154
+   },
+   {
+    "text": "بيكاتشو",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "كونان",
+    "baseRarity": 0.0135,
+    "aliases": [
+     "المحقق كونان"
+    ]
+   },
+   {
+    "text": "ماجد",
+    "baseRarity": 0.0127,
+    "aliases": [
+     "كابتن ماجد"
+    ]
+   },
+   {
+    "text": "ناروتو",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "لوفي",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "غوكو",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "بوجي وطمطم",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "بكار",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "عدنان",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "لينا",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "سالي",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "هايدي",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "ريمي",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "ساندي بل",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "سكوبي دو",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "باغز باني",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "تويتي",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "سلفستر",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "دافي داك",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "روود رنر",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "النمر الوردي",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "وودي",
+    "baseRarity": 0.006,
+    "aliases": [
+     "وودي الحطاب"
+    ]
+   },
+   {
+    "text": "باز يطير",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "باز لايتير"
+    ]
+   },
+   {
+    "text": "نيمو",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "دوري",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "شريك",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "دونكي",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "سيمبا",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "تيمون",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "بومبا",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "أولاف",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "إلسا",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "آنا",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "موانا",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "علاء الدين",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "الجني",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "ياسمين",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "سندريلا",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "بياض الثلج",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "الدب بو",
+    "baseRarity": 0.004,
+    "aliases": [
+     "ويني ذا بو"
+    ]
+   },
+   {
+    "text": "ماشا",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "بن 10",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "بن تن"
+    ]
+   },
+   {
+    "text": "هومر سيمبسون",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "هومر"
+    ]
+   },
+   {
+    "text": "بارت سيمبسون",
+    "baseRarity": 0.0037
+   }
+  ],
+  "secret": "باباي",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_cartoon_characters"
+  ]
+ },
+ {
+  "id": "ent-tv-channels",
+  "category": "فن وترفيه",
+  "prompt": "اذكر قناة تلفزيونية عربية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "إم بي سي",
+    "baseRarity": 0.2177,
+    "aliases": [
+     "mbc",
+     "إم بي سي 1"
+    ]
+   },
+   {
+    "text": "إم بي سي 2",
+    "baseRarity": 0.1088
+   },
+   {
+    "text": "إم بي سي 3",
+    "baseRarity": 0.0726
+   },
+   {
+    "text": "إم بي سي 4",
+    "baseRarity": 0.0544
+   },
+   {
+    "text": "إم بي سي أكشن",
+    "baseRarity": 0.0435
+   },
+   {
+    "text": "إم بي سي ماكس",
+    "baseRarity": 0.0363
+   },
+   {
+    "text": "إم بي سي مصر",
+    "baseRarity": 0.0311
+   },
+   {
+    "text": "إم بي سي دراما",
+    "baseRarity": 0.0272
+   },
+   {
+    "text": "روتانا",
+    "baseRarity": 0.0242,
+    "aliases": [
+     "روتانا سينما"
+    ]
+   },
+   {
+    "text": "روتانا خليجية",
+    "baseRarity": 0.0218
+   },
+   {
+    "text": "الجزيرة",
+    "baseRarity": 0.0198
+   },
+   {
+    "text": "الجزيرة الرياضية",
+    "baseRarity": 0.0181,
+    "aliases": [
+     "بي إن سبورت",
+     "bein"
+    ]
+   },
+   {
+    "text": "العربية",
+    "baseRarity": 0.0167
+   },
+   {
+    "text": "الحدث",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "سكاي نيوز عربية",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "القناة السعودية الأولى",
+    "baseRarity": 0.0136,
+    "aliases": [
+     "السعودية"
+    ]
+   },
+   {
+    "text": "الإخبارية",
+    "baseRarity": 0.0128,
+    "aliases": [
+     "قناة الإخبارية"
+    ]
+   },
+   {
+    "text": "إس إس سي",
+    "baseRarity": 0.0121,
+    "aliases": [
+     "ssc"
+    ]
+   },
+   {
+    "text": "السعودية الرياضية",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "قناة المجد",
+    "baseRarity": 0.0109,
+    "aliases": [
+     "المجد"
+    ]
+   },
+   {
+    "text": "قناة القرآن الكريم",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "قناة السنة النبوية",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "دبي",
+    "baseRarity": 0.0095,
+    "aliases": [
+     "تلفزيون دبي"
+    ]
+   },
+   {
+    "text": "أبوظبي",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "تلفزيون أبوظبي"
+    ]
+   },
+   {
+    "text": "سما دبي",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "الكويت",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "تلفزيون الكويت"
+    ]
+   },
+   {
+    "text": "الراي",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "قطر",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "تلفزيون قطر"
+    ]
+   },
+   {
+    "text": "البحرين",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "تلفزيون البحرين"
+    ]
+   },
+   {
+    "text": "عمان",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "تلفزيون عمان"
+    ]
+   },
+   {
+    "text": "سبيستون",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "براعم",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "جيم",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "الجزيرة للأطفال"
+    ]
+   },
+   {
+    "text": "ماجد",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "قناة ماجد"
+    ]
+   },
+   {
+    "text": "كرتون نتورك بالعربية",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "ناشيونال جيوغرافيك أبوظبي",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "الشرق",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "الشرق للأخبار"
+    ]
+   },
+   {
+    "text": "بي بي سي عربي",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "فرانس 24",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "روسيا اليوم",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "آر تي"
+    ]
+   },
+   {
+    "text": "سي بي سي",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "cbc"
+    ]
+   },
+   {
+    "text": "الحياة",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "النهار",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "القاهرة والناس",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "أون",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "أون إي"
+    ]
+   },
+   {
+    "text": "دي إم سي",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "dmc"
+    ]
+   },
+   {
+    "text": "إل بي سي",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "lbc"
+    ]
+   },
+   {
+    "text": "إم تي في",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "mtv"
+    ]
+   },
+   {
+    "text": "الجديد",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "المستقبل",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "المنار",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الشارقة",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "عجمان",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "وناسة",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "شاهد",
+    "baseRarity": 0.004
+   }
+  ],
+  "secret": "قناة الإخبارية",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_القنوات_التلفزيونية_العربية"
+  ]
+ },
+ {
+  "id": "ent-directors",
+  "category": "فن وترفيه",
+  "prompt": "اذكر مخرج سينمائي مشهور",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "ستيفن سبيلبرغ",
+    "baseRarity": 0.2275,
+    "aliases": [
+     "سبيلبرغ"
+    ]
+   },
+   {
+    "text": "كريستوفر نولان",
+    "baseRarity": 0.1138,
+    "aliases": [
+     "نولان"
+    ]
+   },
+   {
+    "text": "مارتن سكورسيزي",
+    "baseRarity": 0.0758,
+    "aliases": [
+     "سكورسيزي"
+    ]
+   },
+   {
+    "text": "كوينتن تارانتينو",
+    "baseRarity": 0.0569,
+    "aliases": [
+     "تارانتينو"
+    ]
+   },
+   {
+    "text": "جيمس كاميرون",
+    "baseRarity": 0.0455,
+    "aliases": [
+     "كاميرون"
+    ]
+   },
+   {
+    "text": "ألفريد هيتشكوك",
+    "baseRarity": 0.0379,
+    "aliases": [
+     "هيتشكوك"
+    ]
+   },
+   {
+    "text": "ستانلي كوبريك",
+    "baseRarity": 0.0325,
+    "aliases": [
+     "كوبريك"
+    ]
+   },
+   {
+    "text": "فرانسيس فورد كوبولا",
+    "baseRarity": 0.0284,
+    "aliases": [
+     "كوبولا"
+    ]
+   },
+   {
+    "text": "ريدلي سكوت",
+    "baseRarity": 0.0253
+   },
+   {
+    "text": "ديفيد فينشر",
+    "baseRarity": 0.0228,
+    "aliases": [
+     "فينشر"
+    ]
+   },
+   {
+    "text": "بيتر جاكسون",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "جورج لوكاس",
+    "baseRarity": 0.019
+   },
+   {
+    "text": "تيم برتون",
+    "baseRarity": 0.0175
+   },
+   {
+    "text": "ويس أندرسون",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "دينيس فيلنوف",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "فيلنوف"
+    ]
+   },
+   {
+    "text": "غييرمو ديل تورو",
+    "baseRarity": 0.0142,
+    "aliases": [
+     "ديل تورو"
+    ]
+   },
+   {
+    "text": "أليخاندرو إيناريتو",
+    "baseRarity": 0.0134,
+    "aliases": [
+     "إيناريتو"
+    ]
+   },
+   {
+    "text": "ألفونسو كوارون",
+    "baseRarity": 0.0126,
+    "aliases": [
+     "كوارون"
+    ]
+   },
+   {
+    "text": "كلينت إيستوود",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "وودي آلن",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "أكيرا كوروساوا",
+    "baseRarity": 0.0108,
+    "aliases": [
+     "كوروساوا"
+    ]
+   },
+   {
+    "text": "هاياو ميازاكي",
+    "baseRarity": 0.0103,
+    "aliases": [
+     "ميازاكي"
+    ]
+   },
+   {
+    "text": "بونغ جون هو",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "سيرجيو ليوني",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "فيديريكو فيليني",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "فيليني"
+    ]
+   },
+   {
+    "text": "إنغمار برغمان",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "أورسون ويلز",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "بيلي وايلدر",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "ستيفن سودربيرغ",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "مايكل باي",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "زاك سنايدر",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "غريتا غيرويغ",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "جوردان بيل",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "مصطفى العقاد",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "العقاد"
+    ]
+   },
+   {
+    "text": "يوسف شاهين",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "صلاح أبو سيف",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "عاطف الطيب",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "شريف عرفة",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "مروان حامد",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "خيري بشارة",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "داود عبد السيد",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "نادين لبكي",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "هيفاء المنصور",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "عبدالله المحيسن",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "محمد خان",
+    "baseRarity": 0.0051
+   }
+  ],
+  "secret": "أكيرا كوروساوا",
+  "sources": [
+   "https://www.imdb.com/"
+  ]
+ },
+ {
+  "id": "ent-music-genres",
+  "category": "فن وترفيه",
+  "prompt": "اذكر نوع من أنواع الموسيقى أو الفنون الغنائية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "بوب",
+    "baseRarity": 0.2243
+   },
+   {
+    "text": "روك",
+    "baseRarity": 0.1121
+   },
+   {
+    "text": "راب",
+    "baseRarity": 0.0748,
+    "aliases": [
+     "هيب هوب"
+    ]
+   },
+   {
+    "text": "جاز",
+    "baseRarity": 0.0561
+   },
+   {
+    "text": "بلوز",
+    "baseRarity": 0.0449
+   },
+   {
+    "text": "كلاسيكي",
+    "baseRarity": 0.0374,
+    "aliases": [
+     "موسيقى كلاسيكية"
+    ]
+   },
+   {
+    "text": "أوبرا",
+    "baseRarity": 0.032
+   },
+   {
+    "text": "ريغي",
+    "baseRarity": 0.028
+   },
+   {
+    "text": "كانتري",
+    "baseRarity": 0.0249
+   },
+   {
+    "text": "ميتال",
+    "baseRarity": 0.0224,
+    "aliases": [
+     "هيفي ميتال"
+    ]
+   },
+   {
+    "text": "إلكتروني",
+    "baseRarity": 0.0204,
+    "aliases": [
+     "إي دي إم"
+    ]
+   },
+   {
+    "text": "تكنو",
+    "baseRarity": 0.0187
+   },
+   {
+    "text": "هاوس",
+    "baseRarity": 0.0173
+   },
+   {
+    "text": "ديسكو",
+    "baseRarity": 0.016
+   },
+   {
+    "text": "فانك",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "سول",
+    "baseRarity": 0.014
+   },
+   {
+    "text": "آر آند بي",
+    "baseRarity": 0.0132
+   },
+   {
+    "text": "روك آند رول",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "بانك",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "إندي",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "لاتيني",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "سالسا",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "تانغو",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "فلامنكو",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "كي بوب",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "طرب",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "طرب أصيل"
+    ]
+   },
+   {
+    "text": "خليجي",
+    "baseRarity": 0.0083,
+    "aliases": [
+     "أغنية خليجية"
+    ]
+   },
+   {
+    "text": "شيلات",
+    "baseRarity": 0.008,
+    "aliases": [
+     "شيلة"
+    ]
+   },
+   {
+    "text": "سامري",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "عرضة",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "خبيتي",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "مجرور",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "ينبعاوي",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "دحة",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "ليوة",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "فجري",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "فن الفجري"
+    ]
+   },
+   {
+    "text": "الصوت الكويتي",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "الصوت"
+    ]
+   },
+   {
+    "text": "موشحات",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "مقامات",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "مهرجانات",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "شعبي",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "راي",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "غناوة",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "دبكة",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "مواويل",
+    "baseRarity": 0.005,
+    "aliases": [
+     "موال"
+    ]
+   },
+   {
+    "text": "أناشيد",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "نشيد"
+    ]
+   },
+   {
+    "text": "زفة",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "تراث",
+    "baseRarity": 0.0047
+   }
+  ],
+  "secret": "الصوت الكويتي",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_music_genres"
+  ]
+ }
+]
