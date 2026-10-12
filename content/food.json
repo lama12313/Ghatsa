@@ -7,23 +7,23 @@
   "answers": [
    {
     "text": "تفاح",
-    "baseRarity": 0.2186
+    "baseRarity": 0.2194
    },
    {
     "text": "موز",
-    "baseRarity": 0.1093
+    "baseRarity": 0.1097
    },
    {
     "text": "برتقال",
-    "baseRarity": 0.0729
+    "baseRarity": 0.0731
    },
    {
     "text": "عنب",
-    "baseRarity": 0.0546
+    "baseRarity": 0.0549
    },
    {
     "text": "فراولة",
-    "baseRarity": 0.0437,
+    "baseRarity": 0.0439,
     "aliases": [
      "فراولا",
      "فريز"
@@ -31,7 +31,7 @@
    },
    {
     "text": "مانجو",
-    "baseRarity": 0.0364,
+    "baseRarity": 0.0366,
     "aliases": [
      "منجا",
      "مانجا"
@@ -39,7 +39,7 @@
    },
    {
     "text": "بطيخ",
-    "baseRarity": 0.0312,
+    "baseRarity": 0.0313,
     "aliases": [
      "جح",
      "حبحب"
@@ -47,11 +47,11 @@
    },
    {
     "text": "رمان",
-    "baseRarity": 0.0273
+    "baseRarity": 0.0274
    },
    {
     "text": "تمر",
-    "baseRarity": 0.0243,
+    "baseRarity": 0.0244,
     "aliases": [
      "بلح",
      "رطب"
@@ -67,7 +67,7 @@
    },
    {
     "text": "كمثرى",
-    "baseRarity": 0.0182,
+    "baseRarity": 0.0183,
     "aliases": [
      "إجاص",
      "عرموط"
@@ -75,11 +75,11 @@
    },
    {
     "text": "مشمش",
-    "baseRarity": 0.0168
+    "baseRarity": 0.0169
    },
    {
     "text": "كرز",
-    "baseRarity": 0.0156,
+    "baseRarity": 0.0157,
     "aliases": [
      "حب الملوك"
     ]
@@ -103,7 +103,7 @@
    },
    {
     "text": "جوافة",
-    "baseRarity": 0.0121
+    "baseRarity": 0.0122
    },
    {
     "text": "تين",
@@ -111,25 +111,21 @@
    },
    {
     "text": "شمام",
-    "baseRarity": 0.0109,
+    "baseRarity": 0.011,
     "aliases": [
      "بطيخ أصفر"
     ]
    },
    {
-    "text": "أفوكادو",
-    "baseRarity": 0.0104
-   },
-   {
     "text": "بابايا",
-    "baseRarity": 0.0099,
+    "baseRarity": 0.0104,
     "aliases": [
      "بباي"
     ]
    },
    {
     "text": "جريب فروت",
-    "baseRarity": 0.0095,
+    "baseRarity": 0.01,
     "aliases": [
      "ليمون هندي",
      "جريبفروت"
@@ -137,18 +133,18 @@
    },
    {
     "text": "توت",
-    "baseRarity": 0.0091
+    "baseRarity": 0.0095
    },
    {
     "text": "توت أزرق",
-    "baseRarity": 0.0087,
+    "baseRarity": 0.0091,
     "aliases": [
      "بلوبيري"
     ]
    },
    {
     "text": "توت العليق",
-    "baseRarity": 0.0084,
+    "baseRarity": 0.0088,
     "aliases": [
      "رازبيري",
      "توت أحمر"
@@ -156,29 +152,29 @@
    },
    {
     "text": "توت أسود",
-    "baseRarity": 0.0081,
+    "baseRarity": 0.0084,
     "aliases": [
      "بلاك بيري"
     ]
    },
    {
     "text": "برقوق",
-    "baseRarity": 0.0078
+    "baseRarity": 0.0081
    },
    {
     "text": "ليتشي",
-    "baseRarity": 0.0075
+    "baseRarity": 0.0078
    },
    {
     "text": "جوز الهند",
-    "baseRarity": 0.0073,
+    "baseRarity": 0.0076,
     "aliases": [
      "نارجيل"
     ]
    },
    {
     "text": "باشن فروت",
-    "baseRarity": 0.0071,
+    "baseRarity": 0.0073,
     "aliases": [
      "فاكهة العاطفة",
      "ماراكويا"
@@ -186,7 +182,7 @@
    },
    {
     "text": "فاكهة التنين",
-    "baseRarity": 0.0068,
+    "baseRarity": 0.0071,
     "aliases": [
      "بيتايا",
      "دراغون فروت"
@@ -194,7 +190,7 @@
    },
    {
     "text": "قشطة",
-    "baseRarity": 0.0066,
+    "baseRarity": 0.0069,
     "aliases": [
      "أنونة",
      "سكر التفاح"
@@ -202,7 +198,7 @@
    },
    {
     "text": "كاكا",
-    "baseRarity": 0.0064,
+    "baseRarity": 0.0066,
     "aliases": [
      "كاكي",
      "خرما",
@@ -211,25 +207,25 @@
    },
    {
     "text": "نبق",
-    "baseRarity": 0.0062,
+    "baseRarity": 0.0065,
     "aliases": [
      "كنار"
     ]
    },
    {
     "text": "نكتارين",
-    "baseRarity": 0.0061,
+    "baseRarity": 0.0063,
     "aliases": [
      "خوخ أملس"
     ]
    },
    {
     "text": "سفرجل",
-    "baseRarity": 0.0059
+    "baseRarity": 0.0061
    },
    {
     "text": "بشملة",
-    "baseRarity": 0.0058,
+    "baseRarity": 0.0059,
     "aliases": [
      "أكي دنيا",
      "لوكوات"
@@ -237,85 +233,85 @@
    },
    {
     "text": "توت بري",
-    "baseRarity": 0.0056,
+    "baseRarity": 0.0058,
     "aliases": [
      "كرانبيري"
     ]
    },
    {
     "text": "نارنج",
-    "baseRarity": 0.0055,
+    "baseRarity": 0.0056,
     "aliases": [
      "برتقال مر"
     ]
    },
    {
     "text": "أترج",
-    "baseRarity": 0.0053,
+    "baseRarity": 0.0055,
     "aliases": [
      "ترنج"
     ]
    },
    {
     "text": "بوملي",
-    "baseRarity": 0.0052,
+    "baseRarity": 0.0054,
     "aliases": [
      "بوميلو"
     ]
    },
    {
     "text": "كمكوات",
-    "baseRarity": 0.0051
+    "baseRarity": 0.0052
    },
    {
     "text": "دوريان",
-    "baseRarity": 0.005
+    "baseRarity": 0.0051
    },
    {
     "text": "رامبوتان",
-    "baseRarity": 0.0049
+    "baseRarity": 0.005
    },
    {
     "text": "مانجوستين",
-    "baseRarity": 0.0048
+    "baseRarity": 0.0049
    },
    {
     "text": "فاكهة النجمة",
-    "baseRarity": 0.0047,
+    "baseRarity": 0.0048,
     "aliases": [
      "كارامبولا"
     ]
    },
    {
     "text": "جاك فروت",
-    "baseRarity": 0.0046,
+    "baseRarity": 0.0047,
     "aliases": [
      "الكاكايا"
     ]
    },
    {
     "text": "تمر هندي",
-    "baseRarity": 0.0045
+    "baseRarity": 0.0046
    },
    {
     "text": "فيجوا",
-    "baseRarity": 0.0044
+    "baseRarity": 0.0045
    },
    {
     "text": "زعرور",
-    "baseRarity": 0.0043
+    "baseRarity": 0.0044
    },
    {
     "text": "كشمش",
-    "baseRarity": 0.0042
+    "baseRarity": 0.0043
    },
    {
     "text": "عنب الثعلب",
-    "baseRarity": 0.0041
+    "baseRarity": 0.0042
    },
    {
     "text": "ليم",
-    "baseRarity": 0.004,
+    "baseRarity": 0.0041,
     "aliases": [
      "ليمون أخضر"
     ]
@@ -325,6 +321,6679 @@
   "sources": [
    "https://ar.wikipedia.org/wiki/قائمة_الفواكه",
    "https://en.wikipedia.org/wiki/List_of_culinary_fruits"
+  ]
+ },
+ {
+  "id": "food-vegetables",
+  "category": "أكل وشرب",
+  "prompt": "اذكر نوع خضار",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "طماطم",
+    "baseRarity": 0.2144,
+    "aliases": [
+     "بندورة",
+     "طماط"
+    ]
+   },
+   {
+    "text": "خيار",
+    "baseRarity": 0.1072
+   },
+   {
+    "text": "بطاطس",
+    "baseRarity": 0.0715,
+    "aliases": [
+     "بطاطا",
+     "بطاط"
+    ]
+   },
+   {
+    "text": "بصل",
+    "baseRarity": 0.0536
+   },
+   {
+    "text": "ثوم",
+    "baseRarity": 0.0429
+   },
+   {
+    "text": "جزر",
+    "baseRarity": 0.0357
+   },
+   {
+    "text": "خس",
+    "baseRarity": 0.0306
+   },
+   {
+    "text": "باذنجان",
+    "baseRarity": 0.0268,
+    "aliases": [
+     "بتنجان"
+    ]
+   },
+   {
+    "text": "كوسة",
+    "baseRarity": 0.0238,
+    "aliases": [
+     "كوسا"
+    ]
+   },
+   {
+    "text": "فلفل",
+    "baseRarity": 0.0214,
+    "aliases": [
+     "فلفل رومي",
+     "فلفل حلو",
+     "بيبر"
+    ]
+   },
+   {
+    "text": "فلفل حار",
+    "baseRarity": 0.0195,
+    "aliases": [
+     "شطة",
+     "هالبينو"
+    ]
+   },
+   {
+    "text": "ملفوف",
+    "baseRarity": 0.0179,
+    "aliases": [
+     "كرنب"
+    ]
+   },
+   {
+    "text": "زهرة",
+    "baseRarity": 0.0165,
+    "aliases": [
+     "قرنبيط"
+    ]
+   },
+   {
+    "text": "بروكلي",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "سبانخ",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "بامية",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "فاصوليا خضراء",
+    "baseRarity": 0.0126,
+    "aliases": [
+     "فاصوليا"
+    ]
+   },
+   {
+    "text": "بازلاء",
+    "baseRarity": 0.0119,
+    "aliases": [
+     "بسلة",
+     "بزاليا"
+    ]
+   },
+   {
+    "text": "ذرة",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "فجل",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "شمندر",
+    "baseRarity": 0.0102,
+    "aliases": [
+     "بنجر",
+     "الشمندر"
+    ]
+   },
+   {
+    "text": "لفت",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "كرفس",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "بقدونس",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "كزبرة",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "نعناع",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "جرجير",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "ملوخية",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "بطاطا حلوة",
+    "baseRarity": 0.0074,
+    "aliases": [
+     "بطاطا حلوه",
+     "البطاطا الحلوة"
+    ]
+   },
+   {
+    "text": "قرع",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "يقطين"
+    ]
+   },
+   {
+    "text": "قرع عسلي",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "فطر",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "مشروم",
+     "عيش الغراب"
+    ]
+   },
+   {
+    "text": "خرشوف",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "أرضي شوكي"
+    ]
+   },
+   {
+    "text": "هليون",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "كراث",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "بصل أخضر",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "ثوم معمر",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "زنجبيل",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "كرنب بروكسل",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "ملفوف بروكسل"
+    ]
+   },
+   {
+    "text": "كيل",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "الكرنب الأجعد"
+    ]
+   },
+   {
+    "text": "ملفوف صيني",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "بوك تشوي"
+    ]
+   },
+   {
+    "text": "فجل أبيض",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "دايكون"
+    ]
+   },
+   {
+    "text": "قلقاس",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "الكرفس اللفتي",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "الشبت",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "الشمر",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "بقلة",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "رجلة",
+     "البقلة الحمقاء"
+    ]
+   },
+   {
+    "text": "هندباء",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "حميض",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "خبيزة",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "لوبيا",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "فول أخضر",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "حمص أخضر",
+    "baseRarity": 0.004,
+    "aliases": [
+     "ملانة"
+    ]
+   },
+   {
+    "text": "بندورة كرزية",
+    "baseRarity": 0.004,
+    "aliases": [
+     "طماطم كرزية"
+    ]
+   },
+   {
+    "text": "خيار أرمني",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "قثاء",
+     "فقوس"
+    ]
+   },
+   {
+    "text": "فطر شيتاكي",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "فطر المحار",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "ورق عنب",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "الكرنب الأحمر",
+    "baseRarity": 0.0036
+   }
+  ],
+  "secret": "الكرفس اللفتي",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/خضروات"
+  ]
+ },
+ {
+  "id": "food-spices",
+  "category": "أكل وشرب",
+  "prompt": "اذكر نوع بهار أو توابل",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "فلفل أسود",
+    "baseRarity": 0.2186
+   },
+   {
+    "text": "كمون",
+    "baseRarity": 0.1093
+   },
+   {
+    "text": "كركم",
+    "baseRarity": 0.0729
+   },
+   {
+    "text": "هيل",
+    "baseRarity": 0.0546,
+    "aliases": [
+     "حبهان"
+    ]
+   },
+   {
+    "text": "قرفة",
+    "baseRarity": 0.0437,
+    "aliases": [
+     "دارسين"
+    ]
+   },
+   {
+    "text": "قرنفل",
+    "baseRarity": 0.0364,
+    "aliases": [
+     "مسمار"
+    ]
+   },
+   {
+    "text": "زعفران",
+    "baseRarity": 0.0312
+   },
+   {
+    "text": "بابريكا",
+    "baseRarity": 0.0273,
+    "aliases": [
+     "فلفل أحمر حلو"
+    ]
+   },
+   {
+    "text": "فلفل أحمر حار",
+    "baseRarity": 0.0243,
+    "aliases": [
+     "شطة",
+     "فلفل حار"
+    ]
+   },
+   {
+    "text": "كزبرة",
+    "baseRarity": 0.0219,
+    "aliases": [
+     "كزبرة ناشفة"
+    ]
+   },
+   {
+    "text": "زنجبيل",
+    "baseRarity": 0.0199
+   },
+   {
+    "text": "جوزة الطيب",
+    "baseRarity": 0.0182
+   },
+   {
+    "text": "بهارات مشكلة",
+    "baseRarity": 0.0168,
+    "aliases": [
+     "بهارات",
+     "بهار"
+    ]
+   },
+   {
+    "text": "سماق",
+    "baseRarity": 0.0156
+   },
+   {
+    "text": "زعتر",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "يانسون",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "شمر",
+    "baseRarity": 0.0129,
+    "aliases": [
+     "حبة حلوة"
+    ]
+   },
+   {
+    "text": "حبة البركة",
+    "baseRarity": 0.0121,
+    "aliases": [
+     "حبة سوداء"
+    ]
+   },
+   {
+    "text": "ورق الغار",
+    "baseRarity": 0.0115,
+    "aliases": [
+     "ورق لورا"
+    ]
+   },
+   {
+    "text": "كاري",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "ملح",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "فلفل أبيض",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "ثوم بودرة",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "بصل بودرة",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "لومي",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "ليمون أسود",
+     "لومي أسود"
+    ]
+   },
+   {
+    "text": "محلب",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "مستكة",
+    "baseRarity": 0.0081,
+    "aliases": [
+     "مسكة",
+     "مصطكى"
+    ]
+   },
+   {
+    "text": "بهار حلو",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "البهار الإنجليزي",
+     "الفلفل الإفرنجي"
+    ]
+   },
+   {
+    "text": "كبابة",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "كبابة صيني"
+    ]
+   },
+   {
+    "text": "الكمون الأسود",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "حلبة",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "خردل",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "بذور الخردل"
+    ]
+   },
+   {
+    "text": "سمسم",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "فانيليا",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "عرق السوس",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "أوريغانو",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "الزعتر البري"
+    ]
+   },
+   {
+    "text": "ريحان مجفف",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "روزماري",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "ميرمية",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "نعناع مجفف",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "شبت",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "طرخون",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "كراوية",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "جارام ماسالا",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "راس الحانوت",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "البهارات السبع",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "سبع بهارات"
+    ]
+   },
+   {
+    "text": "دقة",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "فلفل كايين",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "كايين"
+    ]
+   },
+   {
+    "text": "فلفل التشيلي",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "تشيلي"
+    ]
+   },
+   {
+    "text": "عصفر",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "أسافيتيدا",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "الحلتيت"
+    ]
+   },
+   {
+    "text": "ورق كاري",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "فلفل سيشوان",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "خمس بهارات صينية",
+    "baseRarity": 0.004
+   }
+  ],
+  "secret": "المحلب",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_التوابل"
+  ]
+ },
+ {
+  "id": "food-world-dishes",
+  "category": "أكل وشرب",
+  "prompt": "اذكر أكلة عالمية (غير عربية)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "بيتزا",
+    "baseRarity": 0.1981
+   },
+   {
+    "text": "برجر",
+    "baseRarity": 0.099,
+    "aliases": [
+     "همبرغر",
+     "برقر"
+    ]
+   },
+   {
+    "text": "سوشي",
+    "baseRarity": 0.066
+   },
+   {
+    "text": "باستا",
+    "baseRarity": 0.0495,
+    "aliases": [
+     "معكرونة",
+     "مكرونة"
+    ]
+   },
+   {
+    "text": "سباغيتي",
+    "baseRarity": 0.0396,
+    "aliases": [
+     "اسباجيتي"
+    ]
+   },
+   {
+    "text": "لازانيا",
+    "baseRarity": 0.033
+   },
+   {
+    "text": "ستيك",
+    "baseRarity": 0.0283,
+    "aliases": [
+     "ستيك لحم"
+    ]
+   },
+   {
+    "text": "تاكو",
+    "baseRarity": 0.0248
+   },
+   {
+    "text": "بوريتو",
+    "baseRarity": 0.022
+   },
+   {
+    "text": "ناتشوز",
+    "baseRarity": 0.0198
+   },
+   {
+    "text": "هوت دوج",
+    "baseRarity": 0.018,
+    "aliases": [
+     "هوت دوغ"
+    ]
+   },
+   {
+    "text": "فش آند تشبس",
+    "baseRarity": 0.0165,
+    "aliases": [
+     "سمك وبطاطس"
+    ]
+   },
+   {
+    "text": "رامن",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "دمبلنغ",
+    "baseRarity": 0.0141
+   },
+   {
+    "text": "بيكينغ داك",
+    "baseRarity": 0.0132,
+    "aliases": [
+     "بط بكين"
+    ]
+   },
+   {
+    "text": "نودلز",
+    "baseRarity": 0.0124
+   },
+   {
+    "text": "أرز مقلي",
+    "baseRarity": 0.0117,
+    "aliases": [
+     "رز مقلي"
+    ]
+   },
+   {
+    "text": "سبرينغ رول",
+    "baseRarity": 0.011,
+    "aliases": [
+     "سبرنق رول",
+     "لفائف الربيع"
+    ]
+   },
+   {
+    "text": "باد تاي",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "توم يام",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "كاري",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "برياني",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "تندوري",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "دجاج تندوري"
+    ]
+   },
+   {
+    "text": "بتر تشكن",
+    "baseRarity": 0.0083,
+    "aliases": [
+     "دجاج بالزبدة"
+    ]
+   },
+   {
+    "text": "سمبوسة",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "سمبوسك"
+    ]
+   },
+   {
+    "text": "باييا",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "باييلا"
+    ]
+   },
+   {
+    "text": "تاباس",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "كروسون",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "كرواسون"
+    ]
+   },
+   {
+    "text": "كريب",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "راتاتوي",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "كيش",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "فوندو",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "رزوتو",
+    "baseRarity": 0.006,
+    "aliases": [
+     "ريزوتو"
+    ]
+   },
+   {
+    "text": "رافيولي",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "نيوكي",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "كباب تركي",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "دونر"
+    ]
+   },
+   {
+    "text": "إسكندر كباب",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "بوريك",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "بورك"
+    ]
+   },
+   {
+    "text": "غولاش",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "بورشت",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "بيروجي",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "شنيتزل",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "نقانق",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "سجق",
+     "سوسيس"
+    ]
+   },
+   {
+    "text": "بيف ستروغانوف",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "ستروغانوف"
+    ]
+   },
+   {
+    "text": "كيمتشي",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "بيبيمباب",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "بولغوغي",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "تيمبورا",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "تيرياكي",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "أودون",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "ساشيمي",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "فو",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "بان مي",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "سيزر سالاد",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "سلطة سيزر"
+    ]
+   },
+   {
+    "text": "كول سلو",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "كولسلو"
+    ]
+   },
+   {
+    "text": "بطاطس مقلية",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "فرايز",
+     "فرنش فرايز"
+    ]
+   },
+   {
+    "text": "بطاطس مهروسة",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "بيوريه"
+    ]
+   },
+   {
+    "text": "ماك آند تشيز",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "معكرونة بالجبن"
+    ]
+   },
+   {
+    "text": "باربيكيو",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "شواء"
+    ]
+   },
+   {
+    "text": "أجنحة دجاج",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "وينغز",
+     "تشكن وينقز"
+    ]
+   },
+   {
+    "text": "ناغتس",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "ناجتس"
+    ]
+   },
+   {
+    "text": "سندويتش كلوب",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "كلوب ساندويتش"
+    ]
+   },
+   {
+    "text": "ساندويتش",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "بانيني",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "بيغل",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "فاهيتا",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "كيساديا",
+    "baseRarity": 0.003,
+    "aliases": [
+     "كاساديا"
+    ]
+   },
+   {
+    "text": "إنشيلادا",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "غواكامولي",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "سيفيتشي",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "فيجوادا",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "إمباناداس",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "إمبانادا"
+    ]
+   },
+   {
+    "text": "أومليت",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "عجة"
+    ]
+   },
+   {
+    "text": "بانكيك",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "فطائر"
+    ]
+   },
+   {
+    "text": "وافل",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "فرنش توست",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "بيض بنديكت",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "هاش براون",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "ميت بول",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "كرات اللحم"
+    ]
+   },
+   {
+    "text": "لحم مشوي",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "روست بيف"
+    ]
+   },
+   {
+    "text": "ديك رومي محشي",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "فطيرة الراعي",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "شيبرد باي"
+    ]
+   },
+   {
+    "text": "بوتين",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "تشيلي كون كارني",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "كلام تشاودر",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "جامبالايا",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "لوبستر رول",
+    "baseRarity": 0.0023
+   }
+  ],
+  "secret": "غولاش",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Lists_of_foods"
+  ]
+ },
+ {
+  "id": "food-arab-dishes",
+  "category": "أكل وشرب",
+  "prompt": "اذكر أكلة عربية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "كبسة",
+    "baseRarity": 0.2019
+   },
+   {
+    "text": "مندي",
+    "baseRarity": 0.1009
+   },
+   {
+    "text": "مقلوبة",
+    "baseRarity": 0.0673
+   },
+   {
+    "text": "منسف",
+    "baseRarity": 0.0505
+   },
+   {
+    "text": "كبة",
+    "baseRarity": 0.0404
+   },
+   {
+    "text": "فلافل",
+    "baseRarity": 0.0336,
+    "aliases": [
+     "طعمية"
+    ]
+   },
+   {
+    "text": "حمص",
+    "baseRarity": 0.0288
+   },
+   {
+    "text": "شاورما",
+    "baseRarity": 0.0252
+   },
+   {
+    "text": "مسخن",
+    "baseRarity": 0.0224
+   },
+   {
+    "text": "ملوخية",
+    "baseRarity": 0.0202
+   },
+   {
+    "text": "كشري",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "فول",
+    "baseRarity": 0.0168,
+    "aliases": [
+     "فول مدمس"
+    ]
+   },
+   {
+    "text": "تبولة",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "فتوش",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "متبل",
+    "baseRarity": 0.0135,
+    "aliases": [
+     "بابا غنوج"
+    ]
+   },
+   {
+    "text": "ورق عنب",
+    "baseRarity": 0.0126,
+    "aliases": [
+     "يبرق",
+     "دولمة"
+    ]
+   },
+   {
+    "text": "محشي",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "مجبوس",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "مضغوط",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "مظبي",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "حنيذ",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "مثلوثة",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "جريش",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "قرصان",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "مرقوق",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "هريس",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "هريسة"
+    ]
+   },
+   {
+    "text": "مطازيز",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "سليق",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "عصيدة",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "فتة",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "كسكس",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "كسكسي"
+    ]
+   },
+   {
+    "text": "طاجين",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "حريرة",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "بسطيلة",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "شكشوكة",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "بريك",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "مرقة",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "بامية",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "صيادية",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "مسقعة",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "كوارع",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "ممبار",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "فطير مشلتت",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "محاشي",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "كباب",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "شيش طاووق",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "كفتة",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "مشاوي",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "سمك مشوي",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "صالونة",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "تشريب",
+    "baseRarity": 0.004,
+    "aliases": [
+     "ثريد"
+    ]
+   },
+   {
+    "text": "مكبوس",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "برياني",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "زربيان",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "سلتة",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "فحسة",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "عريكة",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "معصوب",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "مطبق",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "سمبوسة",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "لقيمات",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "بلاليط",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "خبيصة",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "مفطح",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "قوزي",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "شاكرية",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "يالنجي",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "كبة نية",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "كبة لبنية",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "فريكة",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "مجدرة",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "مناقيش",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "منقوشة"
+    ]
+   },
+   {
+    "text": "صفيحة",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "فطاير",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "فطائر"
+    ]
+   },
+   {
+    "text": "عرايس",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "لحم بعجين",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "باجة",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "پاچة",
+     "باچة"
+    ]
+   },
+   {
+    "text": "مسگوف",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "مسكوف",
+     "سمك مسكوف"
+    ]
+   },
+   {
+    "text": "كبة الموصل",
+    "baseRarity": 0.0026
+   }
+  ],
+  "secret": "الشكشوكة",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/المطبخ_العربي"
+  ]
+ },
+ {
+  "id": "food-saudi-dishes",
+  "category": "أكل وشرب",
+  "prompt": "اذكر أكلة شعبية سعودية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "كبسة",
+    "baseRarity": 0.2243
+   },
+   {
+    "text": "مندي",
+    "baseRarity": 0.1121
+   },
+   {
+    "text": "مثلوثة",
+    "baseRarity": 0.0748
+   },
+   {
+    "text": "جريش",
+    "baseRarity": 0.0561
+   },
+   {
+    "text": "قرصان",
+    "baseRarity": 0.0449
+   },
+   {
+    "text": "مرقوق",
+    "baseRarity": 0.0374
+   },
+   {
+    "text": "هريس",
+    "baseRarity": 0.032
+   },
+   {
+    "text": "مطازيز",
+    "baseRarity": 0.028
+   },
+   {
+    "text": "سليق",
+    "baseRarity": 0.0249
+   },
+   {
+    "text": "عصيدة",
+    "baseRarity": 0.0224
+   },
+   {
+    "text": "حنيذ",
+    "baseRarity": 0.0204
+   },
+   {
+    "text": "مضغوط",
+    "baseRarity": 0.0187
+   },
+   {
+    "text": "مظبي",
+    "baseRarity": 0.0173
+   },
+   {
+    "text": "مفطح",
+    "baseRarity": 0.016
+   },
+   {
+    "text": "معصوب",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "مطبق",
+    "baseRarity": 0.014
+   },
+   {
+    "text": "سمبوسة",
+    "baseRarity": 0.0132
+   },
+   {
+    "text": "لقيمات",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "بلاليط",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "خبيصة",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "كليجا",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "حنيني",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "عريكة",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "الدغابيس",
+    "baseRarity": 0.0093,
+    "aliases": [
+     "دغابيس"
+    ]
+   },
+   {
+    "text": "المعدوس",
+    "baseRarity": 0.009,
+    "aliases": [
+     "معدوس"
+    ]
+   },
+   {
+    "text": "المقلقل",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "مقلقل"
+    ]
+   },
+   {
+    "text": "المرصوع",
+    "baseRarity": 0.0083,
+    "aliases": [
+     "مرصوع"
+    ]
+   },
+   {
+    "text": "الحميسة",
+    "baseRarity": 0.008,
+    "aliases": [
+     "حميسة"
+    ]
+   },
+   {
+    "text": "الكشنة",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "كشنة"
+    ]
+   },
+   {
+    "text": "الصيادية",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "صيادية"
+    ]
+   },
+   {
+    "text": "الرز البخاري",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "بخاري"
+    ]
+   },
+   {
+    "text": "الرز الزربيان",
+    "baseRarity": 0.007,
+    "aliases": [
+     "زربيان"
+    ]
+   },
+   {
+    "text": "المرقوقة",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "مرقوقة"
+    ]
+   },
+   {
+    "text": "الفول",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "فول"
+    ]
+   },
+   {
+    "text": "التميس",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "تميس"
+    ]
+   },
+   {
+    "text": "المنتو",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "منتو"
+    ]
+   },
+   {
+    "text": "الشوربة",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "شوربة"
+    ]
+   },
+   {
+    "text": "الشكشوكة",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "شكشوكة"
+    ]
+   },
+   {
+    "text": "البليلة",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "بليلة"
+    ]
+   },
+   {
+    "text": "الكبدة",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "كبدة"
+    ]
+   },
+   {
+    "text": "الشاورما",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "شاورما"
+    ]
+   },
+   {
+    "text": "الفطير",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "فطير"
+    ]
+   },
+   {
+    "text": "الدبيازة",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "دبيازة"
+    ]
+   },
+   {
+    "text": "المقشوش",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "مقشوش"
+    ]
+   },
+   {
+    "text": "القرص",
+    "baseRarity": 0.005,
+    "aliases": [
+     "قرص"
+    ]
+   },
+   {
+    "text": "الخمير",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "خمير"
+    ]
+   },
+   {
+    "text": "المحمر",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "محمر"
+    ]
+   },
+   {
+    "text": "المضروبة",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "مضروبة"
+    ]
+   }
+  ],
+  "secret": "الدغابيس",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/المطبخ_السعودي"
+  ]
+ },
+ {
+  "id": "food-arab-desserts",
+  "category": "أكل وشرب",
+  "prompt": "اذكر حلى عربي أو شرقي",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "كنافة",
+    "baseRarity": 0.2194,
+    "aliases": [
+     "كنافه"
+    ]
+   },
+   {
+    "text": "بقلاوة",
+    "baseRarity": 0.1097
+   },
+   {
+    "text": "بسبوسة",
+    "baseRarity": 0.0731,
+    "aliases": [
+     "هريسة",
+     "نمورة"
+    ]
+   },
+   {
+    "text": "لقيمات",
+    "baseRarity": 0.0549,
+    "aliases": [
+     "عوامة",
+     "لقمة القاضي"
+    ]
+   },
+   {
+    "text": "معمول",
+    "baseRarity": 0.0439
+   },
+   {
+    "text": "قطايف",
+    "baseRarity": 0.0366
+   },
+   {
+    "text": "أم علي",
+    "baseRarity": 0.0313
+   },
+   {
+    "text": "مهلبية",
+    "baseRarity": 0.0274
+   },
+   {
+    "text": "رز بلبن",
+    "baseRarity": 0.0244,
+    "aliases": [
+     "أرز باللبن"
+    ]
+   },
+   {
+    "text": "كليجا",
+    "baseRarity": 0.0219
+   },
+   {
+    "text": "حلاوة طحينية",
+    "baseRarity": 0.0199,
+    "aliases": [
+     "حلاوة"
+    ]
+   },
+   {
+    "text": "غريبة",
+    "baseRarity": 0.0183
+   },
+   {
+    "text": "بلح الشام",
+    "baseRarity": 0.0169
+   },
+   {
+    "text": "زلابية",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "مشبك",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "عيش السرايا",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "ليالي لبنان",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "مدلوقة",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "القطايف العصافيري",
+    "baseRarity": 0.0115,
+    "aliases": [
+     "عصافيري"
+    ]
+   },
+   {
+    "text": "كعك",
+    "baseRarity": 0.011,
+    "aliases": [
+     "كعك العيد"
+    ]
+   },
+   {
+    "text": "تمرية",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "معصوب",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "خبيصة",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "بلاليط",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "ساقو",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "ساغو"
+    ]
+   },
+   {
+    "text": "حلاوة الجبن",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "حلاوة الجبن الحموية"
+    ]
+   },
+   {
+    "text": "المبرومة",
+    "baseRarity": 0.0081,
+    "aliases": [
+     "مبرومة"
+    ]
+   },
+   {
+    "text": "البلورية",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "بلورية"
+    ]
+   },
+   {
+    "text": "الوربات",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "وربات"
+    ]
+   },
+   {
+    "text": "الشعيبيات",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "شعيبيات"
+    ]
+   },
+   {
+    "text": "الزنود",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "زنود الست"
+    ]
+   },
+   {
+    "text": "الكلاج",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "كلاج"
+    ]
+   },
+   {
+    "text": "المعمول بالجوز",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "الحلقوم",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "راحة الحلقوم",
+     "ملبن"
+    ]
+   },
+   {
+    "text": "المن والسلوى",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "الهيطلية",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "هيطلية"
+    ]
+   },
+   {
+    "text": "الكعك بالتمر",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "الكرابيج",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "كرابيج حلب"
+    ]
+   },
+   {
+    "text": "المحلبية",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "محلبية"
+    ]
+   },
+   {
+    "text": "البسيسة",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "بسيسة"
+    ]
+   },
+   {
+    "text": "الحلوى العمانية",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "حلوى عمانية"
+    ]
+   },
+   {
+    "text": "الحلوى البحرينية",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "الخنفروش",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "خنفروش"
+    ]
+   },
+   {
+    "text": "الدرابيل",
+    "baseRarity": 0.005,
+    "aliases": [
+     "درابيل"
+    ]
+   },
+   {
+    "text": "الرهش",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "رهش"
+    ]
+   },
+   {
+    "text": "الشباكية",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "شباكية"
+    ]
+   },
+   {
+    "text": "البريوات",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "بريوات"
+    ]
+   },
+   {
+    "text": "كعب الغزال",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "المقروض",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "مقروض"
+    ]
+   },
+   {
+    "text": "السفوف",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "سفوف"
+    ]
+   },
+   {
+    "text": "البغرير",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "بغرير"
+    ]
+   },
+   {
+    "text": "المسمن",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "مسمن"
+    ]
+   },
+   {
+    "text": "الكنافة النابلسية",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "نابلسية"
+    ]
+   }
+  ],
+  "secret": "المعمول بالجوز",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/حلويات_عربية"
+  ]
+ },
+ {
+  "id": "food-world-desserts",
+  "category": "أكل وشرب",
+  "prompt": "اذكر حلى غربي أو عالمي",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "تشيز كيك",
+    "baseRarity": 0.2213
+   },
+   {
+    "text": "تيراميسو",
+    "baseRarity": 0.1106
+   },
+   {
+    "text": "براونيز",
+    "baseRarity": 0.0738,
+    "aliases": [
+     "براوني"
+    ]
+   },
+   {
+    "text": "كب كيك",
+    "baseRarity": 0.0553
+   },
+   {
+    "text": "دونات",
+    "baseRarity": 0.0443
+   },
+   {
+    "text": "كوكيز",
+    "baseRarity": 0.0369,
+    "aliases": [
+     "بسكويت"
+    ]
+   },
+   {
+    "text": "آيس كريم",
+    "baseRarity": 0.0316,
+    "aliases": [
+     "آيسكريم",
+     "بوظة",
+     "جيلاتو"
+    ]
+   },
+   {
+    "text": "شوكولاتة",
+    "baseRarity": 0.0277,
+    "aliases": [
+     "شوكولا"
+    ]
+   },
+   {
+    "text": "كريم بروليه",
+    "baseRarity": 0.0246
+   },
+   {
+    "text": "كريم كراميل",
+    "baseRarity": 0.0221,
+    "aliases": [
+     "كريم كرامل"
+    ]
+   },
+   {
+    "text": "بان كيك",
+    "baseRarity": 0.0201,
+    "aliases": [
+     "بانكيك"
+    ]
+   },
+   {
+    "text": "وافل",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "كريب",
+    "baseRarity": 0.017
+   },
+   {
+    "text": "تشوكلت كيك",
+    "baseRarity": 0.0158,
+    "aliases": [
+     "كيكة الشوكولاتة"
+    ]
+   },
+   {
+    "text": "كيك",
+    "baseRarity": 0.0148,
+    "aliases": [
+     "كيكة"
+    ]
+   },
+   {
+    "text": "ماكرون",
+    "baseRarity": 0.0138,
+    "aliases": [
+     "ماكارون"
+    ]
+   },
+   {
+    "text": "إكلير",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "مافن",
+    "baseRarity": 0.0123
+   },
+   {
+    "text": "بودينغ",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "بودنغ"
+    ]
+   },
+   {
+    "text": "موس",
+    "baseRarity": 0.0111,
+    "aliases": [
+     "موس الشوكولاتة"
+    ]
+   },
+   {
+    "text": "بانا كوتا",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "بروفيترول",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "سينابون",
+    "baseRarity": 0.0096,
+    "aliases": [
+     "سينامون رول"
+    ]
+   },
+   {
+    "text": "آبل باي",
+    "baseRarity": 0.0092,
+    "aliases": [
+     "فطيرة التفاح"
+    ]
+   },
+   {
+    "text": "بافلوفا",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "بلاك فورست",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "ريد فيلفيت",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "فوندان",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "لافا كيك"
+    ]
+   },
+   {
+    "text": "تارت",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "كروسان بالشوكولاتة",
+    "baseRarity": 0.0074,
+    "aliases": [
+     "بان أو شوكولا"
+    ]
+   },
+   {
+    "text": "ميل فاي",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "ميلفيه"
+    ]
+   },
+   {
+    "text": "ستروديل",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "شترودل"
+    ]
+   },
+   {
+    "text": "بقلاوة تركية",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "تشورو",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "تشوروس"
+    ]
+   },
+   {
+    "text": "جيلي",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "جيلو"
+    ]
+   },
+   {
+    "text": "مارشملو",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "كاندي",
+    "baseRarity": 0.006,
+    "aliases": [
+     "حلاوة القطن",
+     "غزل البنات"
+    ]
+   },
+   {
+    "text": "سوفليه",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "مادلين",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "ترافل",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "فدج",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "ميرنغ",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "مارينغ"
+    ]
+   },
+   {
+    "text": "كانولي",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "بيكان باي",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "كي لايم باي",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "موتشي",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "باوند كيك",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "لوتس كيك",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "سان سيباستيان",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "تشيز كيك محروق"
+    ]
+   },
+   {
+    "text": "بروكيز",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "بلوندي",
+    "baseRarity": 0.0043
+   }
+  ],
+  "secret": "بافلوفا",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_desserts"
+  ]
+ },
+ {
+  "id": "food-cheeses",
+  "category": "أكل وشرب",
+  "prompt": "اذكر نوع جبن",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "موزاريلا",
+    "baseRarity": 0.2233,
+    "aliases": [
+     "موتزاريلا"
+    ]
+   },
+   {
+    "text": "شيدر",
+    "baseRarity": 0.1116,
+    "aliases": [
+     "تشيدر"
+    ]
+   },
+   {
+    "text": "فيتا",
+    "baseRarity": 0.0744
+   },
+   {
+    "text": "حلوم",
+    "baseRarity": 0.0558,
+    "aliases": [
+     "حلومي"
+    ]
+   },
+   {
+    "text": "عكاوي",
+    "baseRarity": 0.0447
+   },
+   {
+    "text": "كيري",
+    "baseRarity": 0.0372,
+    "aliases": [
+     "جبن كيري"
+    ]
+   },
+   {
+    "text": "بارميزان",
+    "baseRarity": 0.0319,
+    "aliases": [
+     "بارميجانو"
+    ]
+   },
+   {
+    "text": "جبنة بيضاء",
+    "baseRarity": 0.0279,
+    "aliases": [
+     "جبن أبيض"
+    ]
+   },
+   {
+    "text": "جبنة كريمية",
+    "baseRarity": 0.0248,
+    "aliases": [
+     "كريم تشيز"
+    ]
+   },
+   {
+    "text": "لبنة",
+    "baseRarity": 0.0223
+   },
+   {
+    "text": "قشقوان",
+    "baseRarity": 0.0203,
+    "aliases": [
+     "كشكوان"
+    ]
+   },
+   {
+    "text": "رومي",
+    "baseRarity": 0.0186,
+    "aliases": [
+     "جبن رومي"
+    ]
+   },
+   {
+    "text": "إيدام",
+    "baseRarity": 0.0172,
+    "aliases": [
+     "الجبن الهولندي الأحمر"
+    ]
+   },
+   {
+    "text": "غودا",
+    "baseRarity": 0.0159,
+    "aliases": [
+     "جودة"
+    ]
+   },
+   {
+    "text": "كاممبير",
+    "baseRarity": 0.0149
+   },
+   {
+    "text": "بري",
+    "baseRarity": 0.014
+   },
+   {
+    "text": "روكفور",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "غورغونزولا",
+    "baseRarity": 0.0124
+   },
+   {
+    "text": "ريكوتا",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "ماسكاربوني",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "بوراتا",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "بروفولون",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "إيمنتال",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "غرويير",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "جبن سويسري",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "مانشيغو",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "بيكورينو",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "هافارتي",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "مونتيري جاك",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "بيبر جاك",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "كوتيج",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "جبن قريش",
+     "قريش"
+    ]
+   },
+   {
+    "text": "نابلسية",
+    "baseRarity": 0.007,
+    "aliases": [
+     "جبنة نابلسية"
+    ]
+   },
+   {
+    "text": "مشللة",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "جبنة مشللة",
+     "جبن مجدول"
+    ]
+   },
+   {
+    "text": "شنكليش",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "جبنة دمياطي",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "دمياطي"
+    ]
+   },
+   {
+    "text": "جبن الماعز",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "جبن مطبوخ",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "جبن المثلثات",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "المثلثات"
+    ]
+   },
+   {
+    "text": "كاسيري",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "ستيلتون",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "بانير",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "ليستر الأحمر",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "فونتينا",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "تاليغيو",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "ريبلوشون",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "مونستر",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "أسياغو",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "جبن الجاموس",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "جبنة سائحة",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "جبن شرائح"
+    ]
+   }
+  ],
+  "secret": "الروكفور",
+  "sources": [
+   "https://www.cheese.com/"
+  ]
+ },
+ {
+  "id": "food-hot-drinks",
+  "category": "أكل وشرب",
+  "prompt": "اذكر مشروب ساخن",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "قهوة",
+    "baseRarity": 0.2287,
+    "aliases": [
+     "قهوة عربية",
+     "قهوة سعودية"
+    ]
+   },
+   {
+    "text": "شاي",
+    "baseRarity": 0.1143
+   },
+   {
+    "text": "شاي بالحليب",
+    "baseRarity": 0.0762,
+    "aliases": [
+     "كرك",
+     "شاي كرك"
+    ]
+   },
+   {
+    "text": "حليب",
+    "baseRarity": 0.0572,
+    "aliases": [
+     "حليب ساخن"
+    ]
+   },
+   {
+    "text": "كابتشينو",
+    "baseRarity": 0.0457,
+    "aliases": [
+     "كابتشينو"
+    ]
+   },
+   {
+    "text": "لاتيه",
+    "baseRarity": 0.0381
+   },
+   {
+    "text": "إسبريسو",
+    "baseRarity": 0.0327,
+    "aliases": [
+     "اسبريسو"
+    ]
+   },
+   {
+    "text": "أمريكانو",
+    "baseRarity": 0.0286
+   },
+   {
+    "text": "موكا",
+    "baseRarity": 0.0254
+   },
+   {
+    "text": "هوت شوكليت",
+    "baseRarity": 0.0229,
+    "aliases": [
+     "شوكولاتة ساخنة",
+     "كاكاو"
+    ]
+   },
+   {
+    "text": "نسكافيه",
+    "baseRarity": 0.0208,
+    "aliases": [
+     "قهوة سريعة التحضير"
+    ]
+   },
+   {
+    "text": "قهوة تركية",
+    "baseRarity": 0.0191
+   },
+   {
+    "text": "زنجبيل",
+    "baseRarity": 0.0176
+   },
+   {
+    "text": "يانسون",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "بابونج",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "نعناع",
+    "baseRarity": 0.0143,
+    "aliases": [
+     "شاي بالنعناع"
+    ]
+   },
+   {
+    "text": "كركديه",
+    "baseRarity": 0.0135,
+    "aliases": [
+     "كركديه ساخن"
+    ]
+   },
+   {
+    "text": "قرفة",
+    "baseRarity": 0.0127,
+    "aliases": [
+     "شاي القرفة"
+    ]
+   },
+   {
+    "text": "سحلب",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "حليب بالزنجبيل",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "شاي أخضر",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "شاي أسود",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "شاي أحمر",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "ماتشا",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "زعتر",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "شاي الزعتر"
+    ]
+   },
+   {
+    "text": "ميرمية",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "حلبة",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "ليمون بالعسل",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "ليمون وعسل"
+    ]
+   },
+   {
+    "text": "تشاي لاتيه",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "شاي تشاي"
+    ]
+   },
+   {
+    "text": "فلات وايت",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "كورتادو",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "ماكياتو",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "قهوة مختصة",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "v60",
+     "في 60"
+    ]
+   },
+   {
+    "text": "قهوة فرنسية",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "زهورات",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "قهوة القشر",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "القشر"
+    ]
+   },
+   {
+    "text": "قهوة بالحليب",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "شاي مغربي",
+    "baseRarity": 0.006,
+    "aliases": [
+     "أتاي"
+    ]
+   },
+   {
+    "text": "ماتي",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "يربا ماتي"
+    ]
+   },
+   {
+    "text": "شاي الياسمين",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "شاي الأولونغ",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "أولونغ"
+    ]
+   },
+   {
+    "text": "شاي إيرل غراي",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "إيرل غراي"
+    ]
+   },
+   {
+    "text": "حليب بالكركم",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "الحليب الذهبي"
+    ]
+   },
+   {
+    "text": "شاي الورد",
+    "baseRarity": 0.0052
+   }
+  ],
+  "secret": "السحلب",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/مشروب_ساخن"
+  ]
+ },
+ {
+  "id": "food-cold-drinks",
+  "category": "أكل وشرب",
+  "prompt": "اذكر مشروب بارد أو عصير",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "ماء",
+    "baseRarity": 0.2204,
+    "aliases": [
+     "موية",
+     "مويه"
+    ]
+   },
+   {
+    "text": "عصير برتقال",
+    "baseRarity": 0.1102
+   },
+   {
+    "text": "عصير تفاح",
+    "baseRarity": 0.0735
+   },
+   {
+    "text": "عصير مانجو",
+    "baseRarity": 0.0551
+   },
+   {
+    "text": "عصير فراولة",
+    "baseRarity": 0.0441
+   },
+   {
+    "text": "عصير ليمون",
+    "baseRarity": 0.0367,
+    "aliases": [
+     "ليمون نعناع",
+     "ليمونادة"
+    ]
+   },
+   {
+    "text": "عصير جزر",
+    "baseRarity": 0.0315
+   },
+   {
+    "text": "عصير رمان",
+    "baseRarity": 0.0275
+   },
+   {
+    "text": "عصير عنب",
+    "baseRarity": 0.0245
+   },
+   {
+    "text": "عصير أناناس",
+    "baseRarity": 0.022
+   },
+   {
+    "text": "عصير جوافة",
+    "baseRarity": 0.02
+   },
+   {
+    "text": "عصير بطيخ",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "عصير كيوي",
+    "baseRarity": 0.017
+   },
+   {
+    "text": "عصير قصب",
+    "baseRarity": 0.0157,
+    "aliases": [
+     "قصب السكر"
+    ]
+   },
+   {
+    "text": "كوكتيل",
+    "baseRarity": 0.0147,
+    "aliases": [
+     "عصير كوكتيل"
+    ]
+   },
+   {
+    "text": "بيبسي",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "كوكاكولا",
+    "baseRarity": 0.013,
+    "aliases": [
+     "كولا",
+     "كوكا"
+    ]
+   },
+   {
+    "text": "سفن أب",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "سبرايت",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "ميرندا",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "فانتا",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "ديو",
+    "baseRarity": 0.01,
+    "aliases": [
+     "ماونتن ديو"
+    ]
+   },
+   {
+    "text": "ريد بل",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "مشروب طاقة",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "مياه غازية",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "صودا"
+    ]
+   },
+   {
+    "text": "لبن",
+    "baseRarity": 0.0085,
+    "aliases": [
+     "لبن رائب",
+     "شنينة"
+    ]
+   },
+   {
+    "text": "عيران",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "حليب بارد",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "ميلك شيك",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "سموذي",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "آيس كوفي",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "قهوة باردة"
+    ]
+   },
+   {
+    "text": "آيس تي",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "شاي مثلج"
+    ]
+   },
+   {
+    "text": "فرابتشينو",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "آيس لاتيه",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "موهيتو",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "موهيتو بدون كحول"
+    ]
+   },
+   {
+    "text": "تمر هندي",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "كركديه بارد",
+    "baseRarity": 0.006,
+    "aliases": [
+     "كركديه"
+    ]
+   },
+   {
+    "text": "سوبيا",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "خروب",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "عرق سوس",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "عرقسوس"
+    ]
+   },
+   {
+    "text": "جلاب",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "قمر الدين",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "فيمتو",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "توت",
+    "baseRarity": 0.005,
+    "aliases": [
+     "عصير توت"
+    ]
+   },
+   {
+    "text": "ماء جوز الهند",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "عصير أفوكادو",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "عصير بنجر",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "سلاش",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "بوبا",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "شاي الفقاعات"
+    ]
+   },
+   {
+    "text": "ماء زمزم",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "مياه معدنية",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "ماء فوار",
+    "baseRarity": 0.0042
+   }
+  ],
+  "secret": "التمر الهندي",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/مشروب"
+  ]
+ },
+ {
+  "id": "food-breads",
+  "category": "أكل وشرب",
+  "prompt": "اذكر نوع خبز",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "خبز عربي",
+    "baseRarity": 0.2223,
+    "aliases": [
+     "خبز لبناني",
+     "خبز"
+    ]
+   },
+   {
+    "text": "صامولي",
+    "baseRarity": 0.1111,
+    "aliases": [
+     "صمون"
+    ]
+   },
+   {
+    "text": "تميس",
+    "baseRarity": 0.0741
+   },
+   {
+    "text": "توست",
+    "baseRarity": 0.0556
+   },
+   {
+    "text": "باغيت",
+    "baseRarity": 0.0445,
+    "aliases": [
+     "خبز فرنسي"
+    ]
+   },
+   {
+    "text": "كرواسون",
+    "baseRarity": 0.037
+   },
+   {
+    "text": "رقاق",
+    "baseRarity": 0.0318
+   },
+   {
+    "text": "مرقوق",
+    "baseRarity": 0.0278
+   },
+   {
+    "text": "خبز تنور",
+    "baseRarity": 0.0247,
+    "aliases": [
+     "تنور"
+    ]
+   },
+   {
+    "text": "خبز صاج",
+    "baseRarity": 0.0222,
+    "aliases": [
+     "صاج"
+    ]
+   },
+   {
+    "text": "خبز البر",
+    "baseRarity": 0.0202,
+    "aliases": [
+     "خبز أسمر",
+     "خبز بر"
+    ]
+   },
+   {
+    "text": "خبز أبيض",
+    "baseRarity": 0.0185
+   },
+   {
+    "text": "عيش بلدي",
+    "baseRarity": 0.0171,
+    "aliases": [
+     "عيش"
+    ]
+   },
+   {
+    "text": "عيش شامي",
+    "baseRarity": 0.0159
+   },
+   {
+    "text": "خبز الطابون",
+    "baseRarity": 0.0148,
+    "aliases": [
+     "طابون"
+    ]
+   },
+   {
+    "text": "خبز الشعير",
+    "baseRarity": 0.0139
+   },
+   {
+    "text": "خبز الذرة",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "نان",
+    "baseRarity": 0.0123
+   },
+   {
+    "text": "تشاباتي",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "بوري",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "باراتا",
+    "baseRarity": 0.0106,
+    "aliases": [
+     "براتا",
+     "بروتا"
+    ]
+   },
+   {
+    "text": "تورتيلا",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "بيتا",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "فوكاشيا",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "تشاباتا",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "سيميت",
+    "baseRarity": 0.0085,
+    "aliases": [
+     "سميت"
+    ]
+   },
+   {
+    "text": "بريوش",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "بيغل",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "خبز البرغر",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "بن"
+    ]
+   },
+   {
+    "text": "خبز النخالة",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "خبز الحبوب الكاملة",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "خبز الجاودار",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "خبز العجين المخمر",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "ساوردو"
+    ]
+   },
+   {
+    "text": "بمبرنيكل",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "خبز الصودا",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "باو",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "خبز البخار"
+    ]
+   },
+   {
+    "text": "خبز الموز",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "كعك",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "كعك بسمسم"
+    ]
+   },
+   {
+    "text": "فطير",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "مسمن",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "بغرير",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "خبز الدار",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "خبز الدار الجزائري"
+    ]
+   },
+   {
+    "text": "خبز المطلوع",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "مطلوع"
+    ]
+   },
+   {
+    "text": "الكسرة",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "كسرة"
+    ]
+   },
+   {
+    "text": "الخمير",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "ملوح",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "ملوح يمني"
+    ]
+   },
+   {
+    "text": "لحوح",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "قرص",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "قرصان"
+    ]
+   },
+   {
+    "text": "خبز إيراني",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "خبز الإيراني",
+     "تافتون"
+    ]
+   },
+   {
+    "text": "لافاش",
+    "baseRarity": 0.0044
+   }
+  ],
+  "secret": "الخمير",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/خبز"
+  ]
+ },
+ {
+  "id": "food-pasta",
+  "category": "أكل وشرب",
+  "prompt": "اذكر نوع معكرونة (باستا)",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "سباغيتي",
+    "baseRarity": 0.2324,
+    "aliases": [
+     "اسباجيتي"
+    ]
+   },
+   {
+    "text": "بيني",
+    "baseRarity": 0.1162
+   },
+   {
+    "text": "فوتشيني",
+    "baseRarity": 0.0775,
+    "aliases": [
+     "فيتوتشيني"
+    ]
+   },
+   {
+    "text": "لازانيا",
+    "baseRarity": 0.0581
+   },
+   {
+    "text": "مكرونة",
+    "baseRarity": 0.0465,
+    "aliases": [
+     "معكرونة"
+    ]
+   },
+   {
+    "text": "فوسيلي",
+    "baseRarity": 0.0387
+   },
+   {
+    "text": "فارفالي",
+    "baseRarity": 0.0332,
+    "aliases": [
+     "الفيونكة",
+     "فراشات"
+    ]
+   },
+   {
+    "text": "رافيولي",
+    "baseRarity": 0.029
+   },
+   {
+    "text": "تورتليني",
+    "baseRarity": 0.0258
+   },
+   {
+    "text": "ماكروني",
+    "baseRarity": 0.0232,
+    "aliases": [
+     "مكرونة كوع",
+     "كوع"
+    ]
+   },
+   {
+    "text": "لينغويني",
+    "baseRarity": 0.0211
+   },
+   {
+    "text": "تالياتيلي",
+    "baseRarity": 0.0194
+   },
+   {
+    "text": "بابارديلي",
+    "baseRarity": 0.0179
+   },
+   {
+    "text": "روتيني",
+    "baseRarity": 0.0166
+   },
+   {
+    "text": "ريغاتوني",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "كانيلوني",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "أورزو",
+    "baseRarity": 0.0137,
+    "aliases": [
+     "لسان العصفور"
+    ]
+   },
+   {
+    "text": "شعرية",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "نيوكي",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "كونكيلي",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "المحار"
+    ]
+   },
+   {
+    "text": "أوريكيتي",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "كابيليني",
+    "baseRarity": 0.0106,
+    "aliases": [
+     "شعر الملاك"
+    ]
+   },
+   {
+    "text": "بوكاتيني",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "راديتوري",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "جيميلي",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "كافاتابي",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "ديتاليني",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "أنيليني",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "ستيلين",
+    "baseRarity": 0.008,
+    "aliases": [
+     "النجوم"
+    ]
+   },
+   {
+    "text": "مانيكوتي",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "كامبانيلي",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "فيرميشيلي",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "سباغيتيني",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "زيتي",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "تروفي",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "باكيري",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "كاسارتشي",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "بيتشي",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "ستروزابريتي",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "مالفادي",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "ميزي ماني",
+    "baseRarity": 0.0057
+   }
+  ],
+  "secret": "أورزو",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_pasta"
+  ]
+ },
+ {
+  "id": "food-sauces",
+  "category": "أكل وشرب",
+  "prompt": "اذكر نوع صوص أو صلصة",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "كاتشب",
+    "baseRarity": 0.2223,
+    "aliases": [
+     "كاتشاب",
+     "صلصة الطماطم"
+    ]
+   },
+   {
+    "text": "مايونيز",
+    "baseRarity": 0.1111,
+    "aliases": [
+     "مايونيز"
+    ]
+   },
+   {
+    "text": "مستردة",
+    "baseRarity": 0.0741,
+    "aliases": [
+     "خردل",
+     "ماسترد"
+    ]
+   },
+   {
+    "text": "صوص الشطة",
+    "baseRarity": 0.0556,
+    "aliases": [
+     "شطة",
+     "صلصة حارة"
+    ]
+   },
+   {
+    "text": "صوص الباربكيو",
+    "baseRarity": 0.0445,
+    "aliases": [
+     "باربكيو"
+    ]
+   },
+   {
+    "text": "صويا صوص",
+    "baseRarity": 0.037,
+    "aliases": [
+     "صلصة الصويا",
+     "صويا"
+    ]
+   },
+   {
+    "text": "صوص الجبن",
+    "baseRarity": 0.0318,
+    "aliases": [
+     "صوص التشيدر"
+    ]
+   },
+   {
+    "text": "صوص الثوم",
+    "baseRarity": 0.0278,
+    "aliases": [
+     "ثومية",
+     "توم"
+    ]
+   },
+   {
+    "text": "طحينة",
+    "baseRarity": 0.0247,
+    "aliases": [
+     "طحينية"
+    ]
+   },
+   {
+    "text": "صوص الرانش",
+    "baseRarity": 0.0222,
+    "aliases": [
+     "رانش"
+    ]
+   },
+   {
+    "text": "صوص الألف جزيرة",
+    "baseRarity": 0.0202,
+    "aliases": [
+     "ألف جزيرة"
+    ]
+   },
+   {
+    "text": "صوص السيزر",
+    "baseRarity": 0.0185,
+    "aliases": [
+     "سيزر"
+    ]
+   },
+   {
+    "text": "بشاميل",
+    "baseRarity": 0.0171,
+    "aliases": [
+     "صلصة بيضاء",
+     "صلصة البشاميل"
+    ]
+   },
+   {
+    "text": "صوص ألفريدو",
+    "baseRarity": 0.0159,
+    "aliases": [
+     "ألفريدو"
+    ]
+   },
+   {
+    "text": "صوص البيستو",
+    "baseRarity": 0.0148,
+    "aliases": [
+     "بيستو"
+    ]
+   },
+   {
+    "text": "صوص المارينارا",
+    "baseRarity": 0.0139,
+    "aliases": [
+     "مارينارا"
+    ]
+   },
+   {
+    "text": "صوص بولونيز",
+    "baseRarity": 0.0131,
+    "aliases": [
+     "بولونيز"
+    ]
+   },
+   {
+    "text": "صوص الأرابياتا",
+    "baseRarity": 0.0123,
+    "aliases": [
+     "أرابياتا"
+    ]
+   },
+   {
+    "text": "صوص الكاري",
+    "baseRarity": 0.0117,
+    "aliases": [
+     "كاري"
+    ]
+   },
+   {
+    "text": "صوص الترياكي",
+    "baseRarity": 0.0111,
+    "aliases": [
+     "ترياكي"
+    ]
+   },
+   {
+    "text": "صوص السويت تشيلي",
+    "baseRarity": 0.0106,
+    "aliases": [
+     "سويت تشيلي"
+    ]
+   },
+   {
+    "text": "صوص الهوت سوس",
+    "baseRarity": 0.0101,
+    "aliases": [
+     "هوت صوص"
+    ]
+   },
+   {
+    "text": "صوص التارتار",
+    "baseRarity": 0.0097,
+    "aliases": [
+     "تارتار"
+    ]
+   },
+   {
+    "text": "صوص الهولنديز",
+    "baseRarity": 0.0093,
+    "aliases": [
+     "هولنديز"
+    ]
+   },
+   {
+    "text": "صوص المشروم",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "صوص الفطر"
+    ]
+   },
+   {
+    "text": "صوص الفلفل",
+    "baseRarity": 0.0085,
+    "aliases": [
+     "صوص الفلفل الأسود"
+    ]
+   },
+   {
+    "text": "صوص الكوكتيل",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "صوص البافلو",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "بافلو"
+    ]
+   },
+   {
+    "text": "صوص العسل والخردل",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "هاني ماسترد"
+    ]
+   },
+   {
+    "text": "صلصة الصالسا",
+    "baseRarity": 0.0074,
+    "aliases": [
+     "صالسا"
+    ]
+   },
+   {
+    "text": "غواكامولي",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "صوص الهويسين",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "هويسين"
+    ]
+   },
+   {
+    "text": "صوص المحار",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "صوص السمك",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "صلصة السريراتشا",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "سريراتشا"
+    ]
+   },
+   {
+    "text": "هريسة",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "الهريسة التونسية"
+    ]
+   },
+   {
+    "text": "شطة يمنية",
+    "baseRarity": 0.006,
+    "aliases": [
+     "سحاوق"
+    ]
+   },
+   {
+    "text": "دقوس",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "الدقوس"
+    ]
+   },
+   {
+    "text": "خل",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "صلصة الخل"
+    ]
+   },
+   {
+    "text": "صوص الشيبوتلي",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "شيبوتلي"
+    ]
+   },
+   {
+    "text": "صوص الشوكولاتة",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "صوص الكراميل",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "كراميل"
+    ]
+   },
+   {
+    "text": "صوص التوت",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "صوص البرتقال",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "صوص الليمون والزبدة",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "صوص الزبادي",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "صلصة الزبادي",
+     "تزاتزيكي"
+    ]
+   },
+   {
+    "text": "صلصة الرمان",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "دبس الرمان"
+    ]
+   },
+   {
+    "text": "صوص الديمي غلاس",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "ديمي غلاس"
+    ]
+   },
+   {
+    "text": "صوص الجريفي",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "جريفي",
+     "غرافي"
+    ]
+   },
+   {
+    "text": "صوص الكرانبيري",
+    "baseRarity": 0.0044
+   }
+  ],
+  "secret": "صوص الهولنديز",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_sauces"
+  ]
+ },
+ {
+  "id": "food-nuts-seeds",
+  "category": "أكل وشرب",
+  "prompt": "اذكر نوع مكسرات أو بذور",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "لوز",
+    "baseRarity": 0.2337
+   },
+   {
+    "text": "فستق",
+    "baseRarity": 0.1169,
+    "aliases": [
+     "فستق حلبي"
+    ]
+   },
+   {
+    "text": "كاجو",
+    "baseRarity": 0.0779
+   },
+   {
+    "text": "جوز",
+    "baseRarity": 0.0584,
+    "aliases": [
+     "عين الجمل"
+    ]
+   },
+   {
+    "text": "بندق",
+    "baseRarity": 0.0467
+   },
+   {
+    "text": "فول سوداني",
+    "baseRarity": 0.039,
+    "aliases": [
+     "فستق عبيد"
+    ]
+   },
+   {
+    "text": "صنوبر",
+    "baseRarity": 0.0334
+   },
+   {
+    "text": "كستناء",
+    "baseRarity": 0.0292,
+    "aliases": [
+     "أبو فروة"
+    ]
+   },
+   {
+    "text": "مكاديميا",
+    "baseRarity": 0.026
+   },
+   {
+    "text": "جوز البقان",
+    "baseRarity": 0.0234,
+    "aliases": [
+     "بيكان",
+     "جوز البيكان"
+    ]
+   },
+   {
+    "text": "جوز البرازيل",
+    "baseRarity": 0.0212
+   },
+   {
+    "text": "جوز الهند",
+    "baseRarity": 0.0195
+   },
+   {
+    "text": "بذور عباد الشمس",
+    "baseRarity": 0.018,
+    "aliases": [
+     "حب أبيض",
+     "حب شمسي",
+     "لب أبيض"
+    ]
+   },
+   {
+    "text": "بذور القرع",
+    "baseRarity": 0.0167,
+    "aliases": [
+     "حب القرع"
+    ]
+   },
+   {
+    "text": "بذور البطيخ",
+    "baseRarity": 0.0156,
+    "aliases": [
+     "حب أسود",
+     "لب أسود"
+    ]
+   },
+   {
+    "text": "سمسم",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "بذور الكتان",
+    "baseRarity": 0.0137,
+    "aliases": [
+     "كتان"
+    ]
+   },
+   {
+    "text": "بذور الشيا",
+    "baseRarity": 0.013,
+    "aliases": [
+     "شيا"
+    ]
+   },
+   {
+    "text": "حبة البركة",
+    "baseRarity": 0.0123,
+    "aliases": [
+     "حبة سوداء"
+    ]
+   },
+   {
+    "text": "بذور الحلبة",
+    "baseRarity": 0.0117,
+    "aliases": [
+     "حلبة"
+    ]
+   },
+   {
+    "text": "بذور الشمر",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "بذور الكينوا",
+    "baseRarity": 0.0106,
+    "aliases": [
+     "كينوا"
+    ]
+   },
+   {
+    "text": "بذور الخشخاش",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "بذور الرمان",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "بذور الكزبرة",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "بذور الكمون",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "الحمص المحمص",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "قضامة",
+     "حمص محمص"
+    ]
+   },
+   {
+    "text": "الفول المقلي",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "الذرة المحمصة",
+    "baseRarity": 0.0081,
+    "aliases": [
+     "فشار",
+     "بوب كورن"
+    ]
+   },
+   {
+    "text": "بذور الخردل",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "بذور القنب",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "البطم",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "الجوز الأسود",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "الكولا",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "جوز الكولا"
+    ]
+   },
+   {
+    "text": "البلوط",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "بذور الكاكاو",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "حبوب الكاكاو"
+    ]
+   },
+   {
+    "text": "بن",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "حبوب القهوة"
+    ]
+   },
+   {
+    "text": "بذور الكراوية",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "حب الهال",
+    "baseRarity": 0.006,
+    "aliases": [
+     "هيل"
+    ]
+   },
+   {
+    "text": "بذور الريحان",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "حب الريحان"
+    ]
+   }
+  ],
+  "secret": "جوز البرازيل",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/مكسرات"
+  ]
+ },
+ {
+  "id": "food-restaurant-chains",
+  "category": "أكل وشرب",
+  "prompt": "اذكر سلسلة مطاعم أو مقاهي مشهورة",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "ماكدونالدز",
+    "baseRarity": 0.2186,
+    "aliases": [
+     "ماك",
+     "ماكدونالد"
+    ]
+   },
+   {
+    "text": "البيك",
+    "baseRarity": 0.1093
+   },
+   {
+    "text": "كنتاكي",
+    "baseRarity": 0.0729,
+    "aliases": [
+     "kfc"
+    ]
+   },
+   {
+    "text": "برجر كنج",
+    "baseRarity": 0.0546,
+    "aliases": [
+     "برقر كنق"
+    ]
+   },
+   {
+    "text": "هرفي",
+    "baseRarity": 0.0437
+   },
+   {
+    "text": "كودو",
+    "baseRarity": 0.0364
+   },
+   {
+    "text": "ستاربكس",
+    "baseRarity": 0.0312
+   },
+   {
+    "text": "دومينوز",
+    "baseRarity": 0.0273,
+    "aliases": [
+     "دومينوز بيتزا"
+    ]
+   },
+   {
+    "text": "بيتزا هت",
+    "baseRarity": 0.0243
+   },
+   {
+    "text": "بابا جونز",
+    "baseRarity": 0.0219
+   },
+   {
+    "text": "صب واي",
+    "baseRarity": 0.0199,
+    "aliases": [
+     "صبواي"
+    ]
+   },
+   {
+    "text": "هارديز",
+    "baseRarity": 0.0182
+   },
+   {
+    "text": "دانكن",
+    "baseRarity": 0.0168,
+    "aliases": [
+     "دانكن دونات"
+    ]
+   },
+   {
+    "text": "كريسبي كريم",
+    "baseRarity": 0.0156
+   },
+   {
+    "text": "تيم هورتنز",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "باسكن روبنز",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "دجاج تكساس",
+    "baseRarity": 0.0129,
+    "aliases": [
+     "تكساس تشيكن",
+     "تكساس"
+    ]
+   },
+   {
+    "text": "بوباي",
+    "baseRarity": 0.0121,
+    "aliases": [
+     "بوبايز"
+    ]
+   },
+   {
+    "text": "شاورمر",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "مايسترو بيتزا",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "ماما نورة",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "الطازج",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "فايف غايز",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "شيك شاك",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "كوستا",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "كوستا كافيه"
+    ]
+   },
+   {
+    "text": "بارنز",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "دكتور كيف",
+    "baseRarity": 0.0081,
+    "aliases": [
+     "د.كيف"
+    ]
+   },
+   {
+    "text": "كاريبو",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "كاريبو كوفي"
+    ]
+   },
+   {
+    "text": "تشيليز",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "أبل بيز",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "آبلبيز"
+    ]
+   },
+   {
+    "text": "تي جي آي فرايديز",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "فرايديز"
+    ]
+   },
+   {
+    "text": "آيهوب",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "ليتل سيزرز",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "تاكو بيل",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "وينديز",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "آربيز",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "جوليبي",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "بيتزا إن",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "سينابون",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "باتشي",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "بول",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "بول بيكري"
+    ]
+   },
+   {
+    "text": "لو بان كوتيديان",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "بفلو وايلد وينجز",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "بي دبليو دبليو"
+    ]
+   },
+   {
+    "text": "تشيبوتلي",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "بانيرا",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "كولدستون",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "ديري كوين",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "بن آند جيري",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "كرمبل",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "كرمبل كوكيز"
+    ]
+   },
+   {
+    "text": "هاف مليون",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "هاف مليون كافيه"
+    ]
+   },
+   {
+    "text": "جافا تايم",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "كوفي بين",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "كوفي بين آند تي ليف"
+    ]
+   },
+   {
+    "text": "ناندوز",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "وينغ ستوب",
+    "baseRarity": 0.004,
+    "aliases": [
+     "وينج ستوب"
+    ]
+   }
+  ],
+  "secret": "فايف غايز",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_restaurant_chains"
+  ]
+ },
+ {
+  "id": "food-italian",
+  "category": "أكل وشرب",
+  "prompt": "اذكر أكلة إيطالية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "بيتزا",
+    "baseRarity": 0.2287
+   },
+   {
+    "text": "سباغيتي",
+    "baseRarity": 0.1143,
+    "aliases": [
+     "اسباجيتي"
+    ]
+   },
+   {
+    "text": "لازانيا",
+    "baseRarity": 0.0762
+   },
+   {
+    "text": "رزوتو",
+    "baseRarity": 0.0572,
+    "aliases": [
+     "ريزوتو"
+    ]
+   },
+   {
+    "text": "رافيولي",
+    "baseRarity": 0.0457
+   },
+   {
+    "text": "نيوكي",
+    "baseRarity": 0.0381
+   },
+   {
+    "text": "تيراميسو",
+    "baseRarity": 0.0327
+   },
+   {
+    "text": "بيتزا مارغريتا",
+    "baseRarity": 0.0286,
+    "aliases": [
+     "مارغريتا"
+    ]
+   },
+   {
+    "text": "بيتزا بيبروني",
+    "baseRarity": 0.0254,
+    "aliases": [
+     "بيبروني"
+    ]
+   },
+   {
+    "text": "فوتشيني ألفريدو",
+    "baseRarity": 0.0229,
+    "aliases": [
+     "ألفريدو"
+    ]
+   },
+   {
+    "text": "سباغيتي بولونيز",
+    "baseRarity": 0.0208,
+    "aliases": [
+     "بولونيز"
+    ]
+   },
+   {
+    "text": "كاربونارا",
+    "baseRarity": 0.0191
+   },
+   {
+    "text": "أرابياتا",
+    "baseRarity": 0.0176
+   },
+   {
+    "text": "بيستو",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "برسكيتا",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "بروشيتا"
+    ]
+   },
+   {
+    "text": "كابريزي",
+    "baseRarity": 0.0143,
+    "aliases": [
+     "سلطة كابريزي"
+    ]
+   },
+   {
+    "text": "مينيستروني",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "كالزوني",
+    "baseRarity": 0.0127
+   },
+   {
+    "text": "فوكاتشا",
+    "baseRarity": 0.012,
+    "aliases": [
+     "فوكاشيا"
+    ]
+   },
+   {
+    "text": "بانيني",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "أرانشيني",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "بانا كوتا",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "كانولي",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "جيلاتو",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "أوسو بوكو",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "سالتيمبوكا",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "بارميجانا",
+    "baseRarity": 0.0085,
+    "aliases": [
+     "باذنجان بالبارميزان"
+    ]
+   },
+   {
+    "text": "كاربتشيو",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "أنتيباستو",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "بولينتا",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "فريتاتا",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "كانيلوني",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "تورتليني",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "بيني أرابياتا",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "سباغيتي ألا فونغولي",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "فونغولي"
+    ]
+   },
+   {
+    "text": "كاتشو إي بيبي",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "أمّاتريشانا",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "أماتريشانا"
+    ]
+   },
+   {
+    "text": "بوتانيسكا",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "سباغيتي بالمأكولات البحرية",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "فروتي دي ماري"
+    ]
+   },
+   {
+    "text": "بيتزا كواترو فورماجي",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "أربعة أجبان"
+    ]
+   },
+   {
+    "text": "بيتزا نابوليتانا",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "فيتيلو تونّاتو",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "بانزانيلا",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "ريبوليتا",
+    "baseRarity": 0.0052
+   }
+  ],
+  "secret": "أوسو بوكو",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Italian_dishes"
+  ]
+ },
+ {
+  "id": "food-indian",
+  "category": "أكل وشرب",
+  "prompt": "اذكر أكلة هندية أو باكستانية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "برياني",
+    "baseRarity": 0.2233
+   },
+   {
+    "text": "دجاج تندوري",
+    "baseRarity": 0.1116,
+    "aliases": [
+     "تندوري"
+    ]
+   },
+   {
+    "text": "بتر تشكن",
+    "baseRarity": 0.0744,
+    "aliases": [
+     "دجاج بالزبدة"
+    ]
+   },
+   {
+    "text": "تكا ماسالا",
+    "baseRarity": 0.0558,
+    "aliases": [
+     "تشكن تكا ماسالا"
+    ]
+   },
+   {
+    "text": "سمبوسة",
+    "baseRarity": 0.0447,
+    "aliases": [
+     "سموسة"
+    ]
+   },
+   {
+    "text": "نان",
+    "baseRarity": 0.0372
+   },
+   {
+    "text": "كاري",
+    "baseRarity": 0.0319
+   },
+   {
+    "text": "دال",
+    "baseRarity": 0.0279,
+    "aliases": [
+     "عدس هندي"
+    ]
+   },
+   {
+    "text": "بالك بانير",
+    "baseRarity": 0.0248
+   },
+   {
+    "text": "ماتار بانير",
+    "baseRarity": 0.0223
+   },
+   {
+    "text": "بانير تكا",
+    "baseRarity": 0.0203
+   },
+   {
+    "text": "تشانا ماسالا",
+    "baseRarity": 0.0186
+   },
+   {
+    "text": "روغان جوش",
+    "baseRarity": 0.0172
+   },
+   {
+    "text": "كورما",
+    "baseRarity": 0.0159
+   },
+   {
+    "text": "فيندالو",
+    "baseRarity": 0.0149
+   },
+   {
+    "text": "بيلاو",
+    "baseRarity": 0.014,
+    "aliases": [
+     "بلاو"
+    ]
+   },
+   {
+    "text": "دوسا",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "إدلي",
+    "baseRarity": 0.0124
+   },
+   {
+    "text": "سامبار",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "فادا",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "بهاجي",
+    "baseRarity": 0.0106,
+    "aliases": [
+     "بكورا",
+     "باكورا"
+    ]
+   },
+   {
+    "text": "تشاباتي",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "باراتا",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "روتي",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "بوري",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "رايتا",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "تشاتني",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "غولاب جامون",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "جلابي",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "جليبي"
+    ]
+   },
+   {
+    "text": "راس ملاي",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "كولفي",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "لاسي",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "تشاي",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "شاي ماسالا"
+    ]
+   },
+   {
+    "text": "كيما",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "نهاري",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "حليم",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "سيخ كباب",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "شامي كباب",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "تشيكن 65",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "آلو غوبي",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "دال ماخاني",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "باني بوري",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "غول غبي"
+    ]
+   },
+   {
+    "text": "باف بهاجي",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "فادا باف",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "دوكلا",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "خير",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "خير هندي"
+    ]
+   },
+   {
+    "text": "بيندي ماسالا",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "كاتي رول",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "كوفتة هندية",
+    "baseRarity": 0.0046
+   }
+  ],
+  "secret": "دال ماخاني",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Indian_dishes"
+  ]
+ },
+ {
+  "id": "food-japanese",
+  "category": "أكل وشرب",
+  "prompt": "اذكر أكلة يابانية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "سوشي",
+    "baseRarity": 0.2253
+   },
+   {
+    "text": "ساشيمي",
+    "baseRarity": 0.1127
+   },
+   {
+    "text": "رامن",
+    "baseRarity": 0.0751
+   },
+   {
+    "text": "تيمبورا",
+    "baseRarity": 0.0563
+   },
+   {
+    "text": "تيرياكي",
+    "baseRarity": 0.0451
+   },
+   {
+    "text": "أودون",
+    "baseRarity": 0.0376
+   },
+   {
+    "text": "سوبا",
+    "baseRarity": 0.0322
+   },
+   {
+    "text": "ميسو",
+    "baseRarity": 0.0282,
+    "aliases": [
+     "شوربة الميسو"
+    ]
+   },
+   {
+    "text": "إيدامامي",
+    "baseRarity": 0.025
+   },
+   {
+    "text": "غيوزا",
+    "baseRarity": 0.0225
+   },
+   {
+    "text": "ياكيتوري",
+    "baseRarity": 0.0205
+   },
+   {
+    "text": "تونكاتسو",
+    "baseRarity": 0.0188
+   },
+   {
+    "text": "كاتسو كاري",
+    "baseRarity": 0.0173,
+    "aliases": [
+     "كاري ياباني"
+    ]
+   },
+   {
+    "text": "أونيغيري",
+    "baseRarity": 0.0161
+   },
+   {
+    "text": "ماكي",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "نيغيري",
+    "baseRarity": 0.0141
+   },
+   {
+    "text": "أوكونومياكي",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "تاكوياكي",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "ياكيسوبا",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "شابو شابو",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "سوكيياكي",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "دونبوري",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "أوياكودون",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "غيودون",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "كاتسودون",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "تاماغوياكي",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "موتشي",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "دوراياكي",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "تاياكي",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "ماتشا",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "واغيو",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "لحم واغيو"
+    ]
+   },
+   {
+    "text": "كاراغي",
+    "baseRarity": 0.007,
+    "aliases": [
+     "كاراجي",
+     "دجاج كاراغي"
+    ]
+   },
+   {
+    "text": "أوناغي",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "ثعبان مشوي"
+    ]
+   },
+   {
+    "text": "تشاوانموشي",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "ناتو",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "تسوكيمونو",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "مخللات يابانية"
+    ]
+   },
+   {
+    "text": "بنتو",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "يوكان",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "ميتاراشي دانغو",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "دانغو"
+    ]
+   },
+   {
+    "text": "كاليفورنيا رول",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "تيماكي",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "تشيراشي",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "أوموريس",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "أومو رايس"
+    ]
+   },
+   {
+    "text": "هياشي تشوكا",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "سومين",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "كوروكي",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "نابي",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "هوت بوت"
+    ]
+   }
+  ],
+  "secret": "أوكونومياكي",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_Japanese_dishes"
+  ]
+ },
+ {
+  "id": "food-egyptian",
+  "category": "أكل وشرب",
+  "prompt": "اذكر أكلة مصرية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "كشري",
+    "baseRarity": 0.2177
+   },
+   {
+    "text": "فول مدمس",
+    "baseRarity": 0.1088,
+    "aliases": [
+     "فول"
+    ]
+   },
+   {
+    "text": "طعمية",
+    "baseRarity": 0.0726,
+    "aliases": [
+     "فلافل"
+    ]
+   },
+   {
+    "text": "ملوخية",
+    "baseRarity": 0.0544
+   },
+   {
+    "text": "محشي",
+    "baseRarity": 0.0435
+   },
+   {
+    "text": "فتة",
+    "baseRarity": 0.0363
+   },
+   {
+    "text": "حواوشي",
+    "baseRarity": 0.0311
+   },
+   {
+    "text": "مسقعة",
+    "baseRarity": 0.0272
+   },
+   {
+    "text": "بامية",
+    "baseRarity": 0.0242
+   },
+   {
+    "text": "ممبار",
+    "baseRarity": 0.0218
+   },
+   {
+    "text": "كوارع",
+    "baseRarity": 0.0198
+   },
+   {
+    "text": "رقاق",
+    "baseRarity": 0.0181
+   },
+   {
+    "text": "فطير مشلتت",
+    "baseRarity": 0.0167,
+    "aliases": [
+     "فطير"
+    ]
+   },
+   {
+    "text": "أم علي",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "بسبوسة",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "كنافة",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "رز بلبن",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "مهلبية",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "بصارة",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "كبدة إسكندراني",
+    "baseRarity": 0.0109,
+    "aliases": [
+     "كبدة"
+    ]
+   },
+   {
+    "text": "سجق",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "شكشوكة",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "عيش بلدي",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "مكرونة بشاميل",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "طاجن",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "طواجن"
+    ]
+   },
+   {
+    "text": "رز معمر",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "صينية بطاطس",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "سمك بوري",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "بوري"
+    ]
+   },
+   {
+    "text": "فسيخ",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "رنجة",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "فول نابت",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "عدس أصفر",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "شوربة عدس"
+    ]
+   },
+   {
+    "text": "كفتة",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "كباب",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "حمام محشي",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "بط",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "ورق عنب",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "محشي ورق عنب"
+    ]
+   },
+   {
+    "text": "سد الحنك",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "بليلة",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "قطايف",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "كحك",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "كعك"
+    ]
+   },
+   {
+    "text": "غريبة",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "عيش السرايا",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "بلح الشام",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "زلابية",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "لقمة القاضي"
+    ]
+   },
+   {
+    "text": "سحلب",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "عرقسوس",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "تمر هندي",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "قصب",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "سوبيا",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "كركديه",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "جبنة قديمة",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "مش"
+    ]
+   },
+   {
+    "text": "بابا غنوج",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "طحينة",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "مخلل",
+    "baseRarity": 0.004,
+    "aliases": [
+     "طرشي"
+    ]
+   }
+  ],
+  "secret": "البصارة",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/المطبخ_المصري"
+  ]
+ },
+ {
+  "id": "food-levant",
+  "category": "أكل وشرب",
+  "prompt": "اذكر أكلة شامية (سورية أو لبنانية أو أردنية أو فلسطينية)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "شاورما",
+    "baseRarity": 0.2177
+   },
+   {
+    "text": "فلافل",
+    "baseRarity": 0.1088
+   },
+   {
+    "text": "حمص",
+    "baseRarity": 0.0726
+   },
+   {
+    "text": "تبولة",
+    "baseRarity": 0.0544
+   },
+   {
+    "text": "فتوش",
+    "baseRarity": 0.0435
+   },
+   {
+    "text": "كبة",
+    "baseRarity": 0.0363
+   },
+   {
+    "text": "منسف",
+    "baseRarity": 0.0311
+   },
+   {
+    "text": "مقلوبة",
+    "baseRarity": 0.0272
+   },
+   {
+    "text": "مسخن",
+    "baseRarity": 0.0242
+   },
+   {
+    "text": "ورق عنب",
+    "baseRarity": 0.0218,
+    "aliases": [
+     "يبرق"
+    ]
+   },
+   {
+    "text": "محشي",
+    "baseRarity": 0.0198,
+    "aliases": [
+     "كوسا محشي"
+    ]
+   },
+   {
+    "text": "متبل",
+    "baseRarity": 0.0181,
+    "aliases": [
+     "بابا غنوج"
+    ]
+   },
+   {
+    "text": "شيش طاووق",
+    "baseRarity": 0.0167
+   },
+   {
+    "text": "كباب حلبي",
+    "baseRarity": 0.0155,
+    "aliases": [
+     "كباب"
+    ]
+   },
+   {
+    "text": "مشاوي",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "منقوشة",
+    "baseRarity": 0.0136,
+    "aliases": [
+     "مناقيش"
+    ]
+   },
+   {
+    "text": "صفيحة",
+    "baseRarity": 0.0128,
+    "aliases": [
+     "لحم بعجين"
+    ]
+   },
+   {
+    "text": "فطاير",
+    "baseRarity": 0.0121,
+    "aliases": [
+     "فطائر"
+    ]
+   },
+   {
+    "text": "كنافة نابلسية",
+    "baseRarity": 0.0115,
+    "aliases": [
+     "كنافة"
+    ]
+   },
+   {
+    "text": "بقلاوة",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "معمول",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "فتة",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "مجدرة",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "شيخ المحشي",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "الشيخ المحشي"
+    ]
+   },
+   {
+    "text": "يالنجي",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "كبة نية",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "كبة لبنية",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "فريكة",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "ملوخية شامية",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "ملوخية"
+    ]
+   },
+   {
+    "text": "مسقعة",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "شاكرية",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "مقادم",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "محمرة",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "لبنة",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "شنكليش",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "مكدوس",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "زعتر وزيت",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "فول بزيت",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "فول"
+    ]
+   },
+   {
+    "text": "مسبحة",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "فتة حمص",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "عرايس",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "كبة صينية",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "كبة بالصينية"
+    ]
+   },
+   {
+    "text": "صيادية",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "كرشات",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "سجق",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "مقانق",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "بطاطا حرة",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "أوزي",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "زرب",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "قدرة",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "قدرة خليلية"
+    ]
+   },
+   {
+    "text": "مفتول",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "رشتاية",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "سماقية",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "حراق إصبعو",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "شيش برك",
+    "baseRarity": 0.004
+   }
+  ],
+  "secret": "الشيخ المحشي",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/المطبخ_الشامي"
+  ]
+ },
+ {
+  "id": "food-dates",
+  "category": "أكل وشرب",
+  "prompt": "اذكر نوع من أنواع التمور",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "سكري",
+    "baseRarity": 0.2287
+   },
+   {
+    "text": "خلاص",
+    "baseRarity": 0.1143
+   },
+   {
+    "text": "عجوة",
+    "baseRarity": 0.0762
+   },
+   {
+    "text": "صقعي",
+    "baseRarity": 0.0572
+   },
+   {
+    "text": "برحي",
+    "baseRarity": 0.0457
+   },
+   {
+    "text": "رشودية",
+    "baseRarity": 0.0381
+   },
+   {
+    "text": "نبتة علي",
+    "baseRarity": 0.0327
+   },
+   {
+    "text": "خضري",
+    "baseRarity": 0.0286
+   },
+   {
+    "text": "صفري",
+    "baseRarity": 0.0254
+   },
+   {
+    "text": "روثانة",
+    "baseRarity": 0.0229
+   },
+   {
+    "text": "مجدول",
+    "baseRarity": 0.0208,
+    "aliases": [
+     "مجهول"
+    ]
+   },
+   {
+    "text": "سلج",
+    "baseRarity": 0.0191
+   },
+   {
+    "text": "شيشي",
+    "baseRarity": 0.0176
+   },
+   {
+    "text": "منيفي",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "ونانة",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "هلالي",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "مكتومي",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "صفاوي",
+    "baseRarity": 0.0127
+   },
+   {
+    "text": "ربيعة",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "نبتة سيف",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "شقراء",
+    "baseRarity": 0.0109,
+    "aliases": [
+     "شقرا"
+    ]
+   },
+   {
+    "text": "عنبرة",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "خنيزي",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "لولو",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "دقلة نور",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "خستاوي",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "زهدي",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "بربن",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "برني",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "حلية",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "سري",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "مبروم",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "خصاب",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "فرض",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "نغال",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "رزيز",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "غر",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "شهل",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "حلاوي",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "ساير",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "بنت عيشة",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "حياني",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "سيوي",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "أمهات",
+    "baseRarity": 0.0052
+   }
+  ],
+  "secret": "نبتة سيف",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_أصناف_التمور"
+  ]
+ },
+ {
+  "id": "food-grains-legumes",
+  "category": "أكل وشرب",
+  "prompt": "اذكر نوع من الحبوب أو البقوليات",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "رز",
+    "baseRarity": 0.2204,
+    "aliases": [
+     "أرز"
+    ]
+   },
+   {
+    "text": "قمح",
+    "baseRarity": 0.1102,
+    "aliases": [
+     "بر"
+    ]
+   },
+   {
+    "text": "شعير",
+    "baseRarity": 0.0735
+   },
+   {
+    "text": "ذرة",
+    "baseRarity": 0.0551
+   },
+   {
+    "text": "شوفان",
+    "baseRarity": 0.0441
+   },
+   {
+    "text": "عدس",
+    "baseRarity": 0.0367
+   },
+   {
+    "text": "حمص",
+    "baseRarity": 0.0315
+   },
+   {
+    "text": "فول",
+    "baseRarity": 0.0275
+   },
+   {
+    "text": "فاصوليا",
+    "baseRarity": 0.0245
+   },
+   {
+    "text": "لوبيا",
+    "baseRarity": 0.022
+   },
+   {
+    "text": "بازلاء",
+    "baseRarity": 0.02,
+    "aliases": [
+     "بسلة"
+    ]
+   },
+   {
+    "text": "فول الصويا",
+    "baseRarity": 0.0184,
+    "aliases": [
+     "صويا"
+    ]
+   },
+   {
+    "text": "فول سوداني",
+    "baseRarity": 0.017
+   },
+   {
+    "text": "برغل",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "فريكة",
+    "baseRarity": 0.0147
+   },
+   {
+    "text": "جريش",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "سميد",
+    "baseRarity": 0.013,
+    "aliases": [
+     "سميذ"
+    ]
+   },
+   {
+    "text": "كينوا",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "دخن",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "ذرة رفيعة",
+    "baseRarity": 0.011,
+    "aliases": [
+     "سورغم"
+    ]
+   },
+   {
+    "text": "جاودار",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "حنطة سوداء",
+    "baseRarity": 0.01,
+    "aliases": [
+     "الحنطة السوداء"
+    ]
+   },
+   {
+    "text": "تيف",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "حلبة",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "ترمس",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "كسكس",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "أرز بسمتي",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "بسمتي"
+    ]
+   },
+   {
+    "text": "أرز مزة",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "مزة"
+    ]
+   },
+   {
+    "text": "أرز بني",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "أرز ياسمين",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "أرز أبيض",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "أرز بري",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "عدس أحمر",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "عدس أخضر",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "عدس بجبة"
+    ]
+   },
+   {
+    "text": "عدس أسود",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "فاصوليا حمراء",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "فاصوليا بيضاء",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "فاصوليا سوداء",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "فول مدمس",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "ماش",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "حمص أسود",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "القمح الكامل",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "قمح كامل"
+    ]
+   },
+   {
+    "text": "الشعير المقشور",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "نخالة",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "أمارانث",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "القطيفة"
+    ]
+   },
+   {
+    "text": "الكاموت",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "الهريس",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "قمح الهريس"
+    ]
+   },
+   {
+    "text": "الفول المجروش",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "البازلاء المجففة",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "بسلة ناشفة"
+    ]
+   },
+   {
+    "text": "الجلبانة",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "الجلبان"
+    ]
+   },
+   {
+    "text": "الكرسنة",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الفاصوليا الخضراء",
+    "baseRarity": 0.0042
+   }
+  ],
+  "secret": "الحنطة السوداء",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/بقوليات"
+  ]
+ },
+ {
+  "id": "food-breakfast",
+  "category": "أكل وشرب",
+  "prompt": "اذكر أكلة فطور",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "بيض",
+    "baseRarity": 0.2186,
+    "aliases": [
+     "بيض مقلي",
+     "بيض مسلوق"
+    ]
+   },
+   {
+    "text": "فول",
+    "baseRarity": 0.1093
+   },
+   {
+    "text": "شكشوكة",
+    "baseRarity": 0.0729
+   },
+   {
+    "text": "جبن",
+    "baseRarity": 0.0546,
+    "aliases": [
+     "جبنة"
+    ]
+   },
+   {
+    "text": "لبنة",
+    "baseRarity": 0.0437
+   },
+   {
+    "text": "زيتون",
+    "baseRarity": 0.0364
+   },
+   {
+    "text": "خبز",
+    "baseRarity": 0.0312
+   },
+   {
+    "text": "توست",
+    "baseRarity": 0.0273
+   },
+   {
+    "text": "فطائر",
+    "baseRarity": 0.0243,
+    "aliases": [
+     "فطاير"
+    ]
+   },
+   {
+    "text": "كرواسون",
+    "baseRarity": 0.0219
+   },
+   {
+    "text": "بانكيك",
+    "baseRarity": 0.0199
+   },
+   {
+    "text": "وافل",
+    "baseRarity": 0.0182
+   },
+   {
+    "text": "أومليت",
+    "baseRarity": 0.0168,
+    "aliases": [
+     "عجة"
+    ]
+   },
+   {
+    "text": "مربى",
+    "baseRarity": 0.0156
+   },
+   {
+    "text": "عسل",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "زعتر وزيت",
+    "baseRarity": 0.0137,
+    "aliases": [
+     "زعتر"
+    ]
+   },
+   {
+    "text": "منقوشة",
+    "baseRarity": 0.0129,
+    "aliases": [
+     "مناقيش"
+    ]
+   },
+   {
+    "text": "حمص",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "فلافل",
+    "baseRarity": 0.0115,
+    "aliases": [
+     "طعمية"
+    ]
+   },
+   {
+    "text": "بلاليط",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "تميس",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "مطبق",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "معصوب",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "عريكة",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "قرص",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "كبدة",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "نقانق",
+    "baseRarity": 0.0081,
+    "aliases": [
+     "سجق"
+    ]
+   },
+   {
+    "text": "لحم مقدد",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "بيكون"
+    ]
+   },
+   {
+    "text": "فاصوليا",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "فاصوليا بالصلصة"
+    ]
+   },
+   {
+    "text": "حبوب الإفطار",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "كورن فليكس",
+     "سيريال"
+    ]
+   },
+   {
+    "text": "شوفان",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "زبادي",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "لبن زبادي"
+    ]
+   },
+   {
+    "text": "جرانولا",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "فواكه",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "حليب",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "عصير",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "شاي",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "قهوة",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "دونات",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "مافن",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "فرنش توست",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "بيض بنديكت",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "هاش براون",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "أفوكادو توست",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "كريب",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "سندويش",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "ساندويتش"
+    ]
+   },
+   {
+    "text": "بقسماط",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "بقصم"
+    ]
+   },
+   {
+    "text": "بليلة",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "مسمن",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "بغرير",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "كعك",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "كعك بسمسم"
+    ]
+   },
+   {
+    "text": "طحينة ودبس",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "حلاوة طحينية",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "حلاوة"
+    ]
+   },
+   {
+    "text": "متبل",
+    "baseRarity": 0.004
+   }
+  ],
+  "secret": "البلاليط",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/إفطار"
+  ]
+ },
+ {
+  "id": "food-chocolate-brands",
+  "category": "أكل وشرب",
+  "prompt": "اذكر ماركة شوكولاتة أو حلويات (سناكس)",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "كيت كات",
+    "baseRarity": 0.2299,
+    "aliases": [
+     "كتكات"
+    ]
+   },
+   {
+    "text": "سنيكرز",
+    "baseRarity": 0.1149
+   },
+   {
+    "text": "تويكس",
+    "baseRarity": 0.0766
+   },
+   {
+    "text": "مارس",
+    "baseRarity": 0.0575
+   },
+   {
+    "text": "باونتي",
+    "baseRarity": 0.046
+   },
+   {
+    "text": "جالكسي",
+    "baseRarity": 0.0383,
+    "aliases": [
+     "غالاكسي"
+    ]
+   },
+   {
+    "text": "كادبوري",
+    "baseRarity": 0.0328
+   },
+   {
+    "text": "لينت",
+    "baseRarity": 0.0287
+   },
+   {
+    "text": "فيريرو روشيه",
+    "baseRarity": 0.0255,
+    "aliases": [
+     "فيريرو"
+    ]
+   },
+   {
+    "text": "نوتيلا",
+    "baseRarity": 0.023
+   },
+   {
+    "text": "كندر",
+    "baseRarity": 0.0209,
+    "aliases": [
+     "كيندر"
+    ]
+   },
+   {
+    "text": "توبليرون",
+    "baseRarity": 0.0192
+   },
+   {
+    "text": "ميلكا",
+    "baseRarity": 0.0177
+   },
+   {
+    "text": "هيرشيز",
+    "baseRarity": 0.0164,
+    "aliases": [
+     "هيرشي"
+    ]
+   },
+   {
+    "text": "إم آند إمز",
+    "baseRarity": 0.0153,
+    "aliases": [
+     "إم إم"
+    ]
+   },
+   {
+    "text": "سمارتيز",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "مالتيزرز",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "ديري ملك",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "أوريو",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "لوتس",
+    "baseRarity": 0.0115,
+    "aliases": [
+     "بسكويت لوتس"
+    ]
+   },
+   {
+    "text": "باتشي",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "غوديفا",
+    "baseRarity": 0.0104,
+    "aliases": [
+     "جوديفا"
+    ]
+   },
+   {
+    "text": "ريسيز",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "ميلكي واي",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "أيرو",
+    "baseRarity": 0.0092,
+    "aliases": [
+     "إيرو"
+    ]
+   },
+   {
+    "text": "فلايك",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "تايم أوت",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "بيرك",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "سكيتلز",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "هاريبو",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "مينتوس",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "تشوباتشوبس",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "تشوبا تشوبس"
+    ]
+   },
+   {
+    "text": "تيك تاك",
+    "baseRarity": 0.007,
+    "aliases": [
+     "تك تاك"
+    ]
+   },
+   {
+    "text": "ماكنتوش",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "كواليتي ستريت"
+    ]
+   },
+   {
+    "text": "برينغلز",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "ليز",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "ليز شيبس"
+    ]
+   },
+   {
+    "text": "شيتوس",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "دوريتوس",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "تشيبسي",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "ماكفيتيز",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "كيندر جوي",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "كيندر بوينو",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "بوينو"
+    ]
+   },
+   {
+    "text": "ريتر سبورت",
+    "baseRarity": 0.0053
+   }
+  ],
+  "secret": "توبليرون",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_chocolate_bar_brands"
   ]
  }
 ]
