@@ -1,0 +1,10903 @@
+[
+ {
+  "id": "nat-mammals",
+  "category": "طبيعة",
+  "prompt": "اذكر حيوان ثديي",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "أسد",
+    "baseRarity": 0.1994
+   },
+   {
+    "text": "فيل",
+    "baseRarity": 0.0997
+   },
+   {
+    "text": "قطة",
+    "baseRarity": 0.0665,
+    "aliases": [
+     "قط",
+     "بسة"
+    ]
+   },
+   {
+    "text": "كلب",
+    "baseRarity": 0.0499
+   },
+   {
+    "text": "حصان",
+    "baseRarity": 0.0399,
+    "aliases": [
+     "خيل"
+    ]
+   },
+   {
+    "text": "جمل",
+    "baseRarity": 0.0332,
+    "aliases": [
+     "ناقة",
+     "بعير"
+    ]
+   },
+   {
+    "text": "بقرة",
+    "baseRarity": 0.0285
+   },
+   {
+    "text": "خروف",
+    "baseRarity": 0.0249,
+    "aliases": [
+     "غنم",
+     "نعجة"
+    ]
+   },
+   {
+    "text": "ماعز",
+    "baseRarity": 0.0222,
+    "aliases": [
+     "عنز",
+     "تيس"
+    ]
+   },
+   {
+    "text": "زرافة",
+    "baseRarity": 0.0199
+   },
+   {
+    "text": "نمر",
+    "baseRarity": 0.0181
+   },
+   {
+    "text": "دب",
+    "baseRarity": 0.0166
+   },
+   {
+    "text": "ذئب",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "ثعلب",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "أرنب",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "غزال",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "قرد",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "حوت",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "دلفين",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "حمار",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "حمار وحشي",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "وحيد القرن",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "الكركدن"
+    ]
+   },
+   {
+    "text": "فرس النهر",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "كنغر",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "باندا",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "كوالا",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "فهد",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "ضبع",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "فأر",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "جرذ",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "سنجاب",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "قنفذ",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "خفاش",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "شمبانزي",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "غوريلا",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "إنسان الغاب",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "أورانغ أوتان"
+    ]
+   },
+   {
+    "text": "بابون",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "ليمور",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "خنزير",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "ثور",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "جاموس",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "بيسون",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "ياك",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "لاما",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "ألبكة",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "الألباكا"
+    ]
+   },
+   {
+    "text": "أيل",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "غزال الأيل"
+    ]
+   },
+   {
+    "text": "رنة",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "الرنة",
+     "كاريبو"
+    ]
+   },
+   {
+    "text": "موظ",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "وعل",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "مها",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "ظبي",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "حيوان الكسلان",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "الكسلان"
+    ]
+   },
+   {
+    "text": "آكل النمل",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "آكل النمل الحرشفي",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "البنغول"
+    ]
+   },
+   {
+    "text": "مدرع",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "أرماديلو"
+    ]
+   },
+   {
+    "text": "قندس",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "ثعلب الماء",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "قضاعة"
+    ]
+   },
+   {
+    "text": "فقمة",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "أسد البحر",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "فظ",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "حصان البحر"
+    ]
+   },
+   {
+    "text": "خروف البحر",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "بقرة البحر"
+    ]
+   },
+   {
+    "text": "بلاتيبوس",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "خلد الماء",
+     "منقار البط"
+    ]
+   },
+   {
+    "text": "خلد",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "زبابة",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "وشق",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "وشق صحراوي",
+    "baseRarity": 0.003,
+    "aliases": [
+     "كاراكال",
+     "عناق الأرض"
+    ]
+   },
+   {
+    "text": "فنك",
+    "baseRarity": 0.003,
+    "aliases": [
+     "ثعلب الصحراء"
+    ]
+   },
+   {
+    "text": "نمس",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "ظربان",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "راكون",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "غرير",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "ابن عرس",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "سمور",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "حيوان الوومبات",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "وومبات"
+    ]
+   },
+   {
+    "text": "حيوان الأبوسوم",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "أبوسوم"
+    ]
+   },
+   {
+    "text": "تابير",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "أوكابي",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "نمر الثلج",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "فهد الثلوج"
+    ]
+   },
+   {
+    "text": "بوما",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "أسد الجبال",
+     "كوجر"
+    ]
+   },
+   {
+    "text": "جاكوار",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "جربوع",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "هامستر",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "خنزير غينيا",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "الهامستر الرومي"
+    ]
+   },
+   {
+    "text": "شنشيلا",
+    "baseRarity": 0.0024
+   }
+  ],
+  "secret": "آكل النمل الحرشفي",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/ثدييات"
+  ]
+ },
+ {
+  "id": "nat-birds",
+  "category": "طبيعة",
+  "prompt": "اذكر نوع طائر",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "صقر",
+    "baseRarity": 0.2029
+   },
+   {
+    "text": "نسر",
+    "baseRarity": 0.1015
+   },
+   {
+    "text": "حمامة",
+    "baseRarity": 0.0676,
+    "aliases": [
+     "حمام"
+    ]
+   },
+   {
+    "text": "عصفور",
+    "baseRarity": 0.0507
+   },
+   {
+    "text": "بطة",
+    "baseRarity": 0.0406,
+    "aliases": [
+     "بط"
+    ]
+   },
+   {
+    "text": "دجاجة",
+    "baseRarity": 0.0338,
+    "aliases": [
+     "دجاج",
+     "ديك"
+    ]
+   },
+   {
+    "text": "ببغاء",
+    "baseRarity": 0.029,
+    "aliases": [
+     "ببغاوات"
+    ]
+   },
+   {
+    "text": "بومة",
+    "baseRarity": 0.0254,
+    "aliases": [
+     "بوم"
+    ]
+   },
+   {
+    "text": "غراب",
+    "baseRarity": 0.0225
+   },
+   {
+    "text": "نعامة",
+    "baseRarity": 0.0203
+   },
+   {
+    "text": "طاووس",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "بطريق",
+    "baseRarity": 0.0169
+   },
+   {
+    "text": "بجعة",
+    "baseRarity": 0.0156,
+    "aliases": [
+     "بجع"
+    ]
+   },
+   {
+    "text": "إوزة",
+    "baseRarity": 0.0145,
+    "aliases": [
+     "وز",
+     "إوز"
+    ]
+   },
+   {
+    "text": "ديك رومي",
+    "baseRarity": 0.0135,
+    "aliases": [
+     "حبش"
+    ]
+   },
+   {
+    "text": "نورس",
+    "baseRarity": 0.0127
+   },
+   {
+    "text": "لقلق",
+    "baseRarity": 0.0119,
+    "aliases": [
+     "لقالق",
+     "اللقلق"
+    ]
+   },
+   {
+    "text": "فلامنغو",
+    "baseRarity": 0.0113,
+    "aliases": [
+     "النحام"
+    ]
+   },
+   {
+    "text": "هدهد",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "كناري",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "بلبل",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "حسون",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "سنونو",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "السنونو",
+     "خطاف"
+    ]
+   },
+   {
+    "text": "عقاب",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "باز",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "شاهين",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "حبارى",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "الحبارى"
+    ]
+   },
+   {
+    "text": "كروان",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "قطا",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "سمان",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "السمان",
+     "السلوى"
+    ]
+   },
+   {
+    "text": "حجل",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "تدرج",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "الدراج",
+     "الفزنت"
+    ]
+   },
+   {
+    "text": "طائر الطنان",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "الطنان"
+    ]
+   },
+   {
+    "text": "نقار الخشب",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "طائر الرفراف",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "الرفراف",
+     "صياد السمك"
+    ]
+   },
+   {
+    "text": "أبو منجل",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "طائر أبو منجل"
+    ]
+   },
+   {
+    "text": "مالك الحزين",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "بلشون",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "كركي",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "الكركي"
+    ]
+   },
+   {
+    "text": "غرنوق",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "رخمة",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "عوسق",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "حدأة",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "عندليب",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "شحرور",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "زرزور",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "قمري",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "يمام"
+    ]
+   },
+   {
+    "text": "فاختة",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "وروار",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "طائر الجنة",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "طوقان",
+    "baseRarity": 0.004,
+    "aliases": [
+     "الطوقان"
+    ]
+   },
+   {
+    "text": "كوكاتو",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "ببغاء الدرة",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "المكاو"
+    ]
+   },
+   {
+    "text": "طائر الحب",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "البادجي"
+    ]
+   },
+   {
+    "text": "فنش",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "دوري",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "عصفور الدوري"
+    ]
+   },
+   {
+    "text": "قبرة",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "هازجة",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "أبو قردان",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "إيمو",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "كيوي",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "ريا",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "كاسواري",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "البط البري",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "خضاري"
+    ]
+   },
+   {
+    "text": "الغطاس",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "البفن",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الخرشنة",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "القطرس",
+    "baseRarity": 0.003,
+    "aliases": [
+     "طائر القطرس"
+    ]
+   },
+   {
+    "text": "الأطيش",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الفرقاطة",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "أبو الحناء",
+    "baseRarity": 0.0029,
+    "aliases": [
+     "روبن"
+    ]
+   },
+   {
+    "text": "الصرد",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الطيطوى",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "الزقزاق",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "الحمام الزاجل",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "المينا",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "المينة"
+    ]
+   },
+   {
+    "text": "الهوبرة",
+    "baseRarity": 0.0026
+   }
+  ],
+  "secret": "أبو منجل",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/طائر"
+  ]
+ },
+ {
+  "id": "nat-fish",
+  "category": "طبيعة",
+  "prompt": "اذكر نوع سمك",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "هامور",
+    "baseRarity": 0.2129
+   },
+   {
+    "text": "سلمون",
+    "baseRarity": 0.1065
+   },
+   {
+    "text": "تونة",
+    "baseRarity": 0.071,
+    "aliases": [
+     "التونا"
+    ]
+   },
+   {
+    "text": "سردين",
+    "baseRarity": 0.0532
+   },
+   {
+    "text": "قرش",
+    "baseRarity": 0.0426,
+    "aliases": [
+     "سمك القرش"
+    ]
+   },
+   {
+    "text": "بلطي",
+    "baseRarity": 0.0355,
+    "aliases": [
+     "بلطي نيلي"
+    ]
+   },
+   {
+    "text": "كنعد",
+    "baseRarity": 0.0304,
+    "aliases": [
+     "الكنعد",
+     "الكنعت"
+    ]
+   },
+   {
+    "text": "شعري",
+    "baseRarity": 0.0266
+   },
+   {
+    "text": "حريد",
+    "baseRarity": 0.0237
+   },
+   {
+    "text": "بياح",
+    "baseRarity": 0.0213
+   },
+   {
+    "text": "زبيدي",
+    "baseRarity": 0.0194
+   },
+   {
+    "text": "سبيطي",
+    "baseRarity": 0.0177
+   },
+   {
+    "text": "نويبي",
+    "baseRarity": 0.0164
+   },
+   {
+    "text": "شعور",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "الشعور"
+    ]
+   },
+   {
+    "text": "ناجل",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "صافي",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "جش",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "فسكر",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "كوفر",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "بوري",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "قاروص",
+    "baseRarity": 0.0101,
+    "aliases": [
+     "القاروص",
+     "سي باس"
+    ]
+   },
+   {
+    "text": "دنيس",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "مرجان",
+    "baseRarity": 0.0093,
+    "aliases": [
+     "سمك المرجان"
+    ]
+   },
+   {
+    "text": "موسى",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "سمك موسى"
+    ]
+   },
+   {
+    "text": "ماكريل",
+    "baseRarity": 0.0085,
+    "aliases": [
+     "الإسقمري",
+     "الماكريل"
+    ]
+   },
+   {
+    "text": "أنشوفة",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "الأنشوجة",
+     "الأنشوفي"
+    ]
+   },
+   {
+    "text": "قد",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "سمك القد",
+     "البكلاه"
+    ]
+   },
+   {
+    "text": "رنجة",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "تراوت",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "التروتة",
+     "السلمون المرقط"
+    ]
+   },
+   {
+    "text": "كارب",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "الشبوط",
+     "المبروك"
+    ]
+   },
+   {
+    "text": "قرموط",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "سمك القط",
+     "السلور"
+    ]
+   },
+   {
+    "text": "ثعبان البحر",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "الأنقليس",
+     "الحنكليس"
+    ]
+   },
+   {
+    "text": "سمك السيف",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "أبو سيف"
+    ]
+   },
+   {
+    "text": "مارلين",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "أبو شراع"
+    ]
+   },
+   {
+    "text": "باراكودا",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "الباراكودا"
+    ]
+   },
+   {
+    "text": "سمك المهرج",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "سمك النيمو",
+     "نيمو"
+    ]
+   },
+   {
+    "text": "سمك الببغاء",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "السمكة الجراحة",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "جراح"
+    ]
+   },
+   {
+    "text": "سمك الملاك",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "السمكة الذهبية",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "سمك الزينة الذهبي"
+    ]
+   },
+   {
+    "text": "سمك البالون",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "سمك النفيخ",
+     "الفوغو"
+    ]
+   },
+   {
+    "text": "سمك الراي",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "الراي اللاسع",
+     "اللخمة"
+    ]
+   },
+   {
+    "text": "سمك المنشار",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "سمك الشمس",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "المولا"
+    ]
+   },
+   {
+    "text": "الزوري",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "سمك الحفش",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "الحفش",
+     "سمك الكافيار"
+    ]
+   },
+   {
+    "text": "سمك الهلبوت",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "الهلبوت"
+    ]
+   },
+   {
+    "text": "الفرخ النيلي",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "قشر بياض"
+    ]
+   },
+   {
+    "text": "سمك النهاش",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "النهاش"
+    ]
+   },
+   {
+    "text": "سمك الأسد",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "سمك العقرب",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "سمك الأرنب",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "صافي أرنب"
+    ]
+   },
+   {
+    "text": "سمك القوبيون",
+    "baseRarity": 0.004,
+    "aliases": [
+     "القوبيون"
+    ]
+   },
+   {
+    "text": "سمك الصول",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "السول"
+    ]
+   },
+   {
+    "text": "سمك الماهي ماهي",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "الدورادو",
+     "أبو ذيل"
+    ]
+   },
+   {
+    "text": "السمك الطائر",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "القرش الحوتي",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "قرش الحوت",
+     "البهلول"
+    ]
+   },
+   {
+    "text": "القرش الأبيض الكبير",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "قرش أبو مطرقة",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "القرش المطرقة"
+    ]
+   },
+   {
+    "text": "السمك الأعمى",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "سمك البربوني",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "البربوني",
+     "السلطان إبراهيم"
+    ]
+   }
+  ],
+  "secret": "الشعور",
+  "sources": [
+   "https://www.fishbase.se/"
+  ]
+ },
+ {
+  "id": "nat-insects",
+  "category": "طبيعة",
+  "prompt": "اذكر حشرة",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "نحلة",
+    "baseRarity": 0.2223,
+    "aliases": [
+     "نحل"
+    ]
+   },
+   {
+    "text": "نملة",
+    "baseRarity": 0.1111,
+    "aliases": [
+     "نمل"
+    ]
+   },
+   {
+    "text": "ذبابة",
+    "baseRarity": 0.0741,
+    "aliases": [
+     "ذباب",
+     "ذبانة"
+    ]
+   },
+   {
+    "text": "بعوضة",
+    "baseRarity": 0.0556,
+    "aliases": [
+     "بعوض",
+     "ناموس"
+    ]
+   },
+   {
+    "text": "صرصور",
+    "baseRarity": 0.0445,
+    "aliases": [
+     "صراصير"
+    ]
+   },
+   {
+    "text": "فراشة",
+    "baseRarity": 0.037,
+    "aliases": [
+     "فراش"
+    ]
+   },
+   {
+    "text": "جرادة",
+    "baseRarity": 0.0318,
+    "aliases": [
+     "جراد"
+    ]
+   },
+   {
+    "text": "خنفساء",
+    "baseRarity": 0.0278
+   },
+   {
+    "text": "دبور",
+    "baseRarity": 0.0247,
+    "aliases": [
+     "الزنبور",
+     "دبابير"
+    ]
+   },
+   {
+    "text": "يعسوب",
+    "baseRarity": 0.0222,
+    "aliases": [
+     "الرعاش"
+    ]
+   },
+   {
+    "text": "فرس النبي",
+    "baseRarity": 0.0202,
+    "aliases": [
+     "السرعوف"
+    ]
+   },
+   {
+    "text": "خنفساء الدعسوقة",
+    "baseRarity": 0.0185,
+    "aliases": [
+     "الدعسوقة",
+     "أم علي"
+    ]
+   },
+   {
+    "text": "قملة",
+    "baseRarity": 0.0171,
+    "aliases": [
+     "قمل"
+    ]
+   },
+   {
+    "text": "برغوث",
+    "baseRarity": 0.0159,
+    "aliases": [
+     "براغيث"
+    ]
+   },
+   {
+    "text": "بقة",
+    "baseRarity": 0.0148,
+    "aliases": [
+     "بق",
+     "بق الفراش"
+    ]
+   },
+   {
+    "text": "عثة",
+    "baseRarity": 0.0139,
+    "aliases": [
+     "العث"
+    ]
+   },
+   {
+    "text": "دودة القز",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "النمل الأبيض",
+    "baseRarity": 0.0123,
+    "aliases": [
+     "الأرضة",
+     "الرمة"
+    ]
+   },
+   {
+    "text": "الزيز",
+    "baseRarity": 0.0117,
+    "aliases": [
+     "السيكادا"
+    ]
+   },
+   {
+    "text": "الجندب",
+    "baseRarity": 0.0111,
+    "aliases": [
+     "الجنادب"
+    ]
+   },
+   {
+    "text": "صرار الليل",
+    "baseRarity": 0.0106,
+    "aliases": [
+     "الصرصار",
+     "الجدجد"
+    ]
+   },
+   {
+    "text": "اليراعة",
+    "baseRarity": 0.0101,
+    "aliases": [
+     "اليراع",
+     "سراج الليل"
+    ]
+   },
+   {
+    "text": "ذبابة الفاكهة",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "ذبابة الخيل",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "ذبابة تسي تسي",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "الحشرة العصوية",
+    "baseRarity": 0.0085,
+    "aliases": [
+     "الحشرة العصا"
+    ]
+   },
+   {
+    "text": "حشرة المن",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "المن"
+    ]
+   },
+   {
+    "text": "الحشرة القشرية",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "خنفساء الجعل",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "الجعران",
+     "الجعل"
+    ]
+   },
+   {
+    "text": "خنفساء وحيد القرن",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "خنفساء أيل",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "خنفساء الأيل"
+    ]
+   },
+   {
+    "text": "سوسة",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "السوس"
+    ]
+   },
+   {
+    "text": "فراشة الملك",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "الفراشة الملكية",
+     "المونارك"
+    ]
+   },
+   {
+    "text": "عثة الملابس",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "النحلة الطنانة",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "الدبور الآسيوي",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "النملة الحمراء",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "نمل النار",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "النمل الجيشي",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "النمل الحاصد",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "نمل الحصاد"
+    ]
+   },
+   {
+    "text": "الزنبور الأحمر",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "الحفار",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "حفار الساق"
+    ]
+   },
+   {
+    "text": "ذبابة الرمل",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "بعوضة الأنوفيلس",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "الأنوفيلس"
+    ]
+   },
+   {
+    "text": "بعوضة الزاعجة",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "الزاعجة المصرية"
+    ]
+   },
+   {
+    "text": "السوسة الحمراء",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "سوسة النخيل"
+    ]
+   },
+   {
+    "text": "ذبابة مايو",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "ذبابة أيار"
+    ]
+   },
+   {
+    "text": "الحشرة الورقية",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "الخنفساء النمرية",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "بق الماء",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "متزلج الماء"
+    ]
+   }
+  ],
+  "secret": "فرس النبي",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/حشرة"
+  ]
+ },
+ {
+  "id": "nat-reptiles-amphibians",
+  "category": "طبيعة",
+  "prompt": "اذكر حيوان من الزواحف أو البرمائيات",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "تمساح",
+    "baseRarity": 0.2264
+   },
+   {
+    "text": "ثعبان",
+    "baseRarity": 0.1132,
+    "aliases": [
+     "حية",
+     "أفعى"
+    ]
+   },
+   {
+    "text": "سلحفاة",
+    "baseRarity": 0.0755,
+    "aliases": [
+     "سلحفاه"
+    ]
+   },
+   {
+    "text": "ضفدع",
+    "baseRarity": 0.0566,
+    "aliases": [
+     "ضفدعة"
+    ]
+   },
+   {
+    "text": "سحلية",
+    "baseRarity": 0.0453,
+    "aliases": [
+     "سحالي"
+    ]
+   },
+   {
+    "text": "ضب",
+    "baseRarity": 0.0377
+   },
+   {
+    "text": "ورل",
+    "baseRarity": 0.0323
+   },
+   {
+    "text": "حرباء",
+    "baseRarity": 0.0283
+   },
+   {
+    "text": "بُرص",
+    "baseRarity": 0.0252,
+    "aliases": [
+     "البرص",
+     "أبو بريص",
+     "الوزغ"
+    ]
+   },
+   {
+    "text": "إغوانا",
+    "baseRarity": 0.0226
+   },
+   {
+    "text": "تنين كومودو",
+    "baseRarity": 0.0206,
+    "aliases": [
+     "كومودو"
+    ]
+   },
+   {
+    "text": "كوبرا",
+    "baseRarity": 0.0189
+   },
+   {
+    "text": "أناكوندا",
+    "baseRarity": 0.0174
+   },
+   {
+    "text": "أصلة",
+    "baseRarity": 0.0162,
+    "aliases": [
+     "بايثون"
+    ]
+   },
+   {
+    "text": "مامبا",
+    "baseRarity": 0.0151,
+    "aliases": [
+     "المامبا السوداء"
+    ]
+   },
+   {
+    "text": "أفعى الجرس",
+    "baseRarity": 0.0142,
+    "aliases": [
+     "الجرسية"
+    ]
+   },
+   {
+    "text": "الأفعى المقرنة",
+    "baseRarity": 0.0133,
+    "aliases": [
+     "الأفعى القرناء"
+    ]
+   },
+   {
+    "text": "أفعى الكوبرا الملكية",
+    "baseRarity": 0.0126,
+    "aliases": [
+     "الكوبرا الملكية"
+    ]
+   },
+   {
+    "text": "القاطور",
+    "baseRarity": 0.0119,
+    "aliases": [
+     "الأليغاتور"
+    ]
+   },
+   {
+    "text": "الكيمن",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "الغافيال",
+    "baseRarity": 0.0108,
+    "aliases": [
+     "غاريال"
+    ]
+   },
+   {
+    "text": "السلحفاة البحرية",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "السلحفاة العملاقة",
+    "baseRarity": 0.0098,
+    "aliases": [
+     "سلحفاة غالاباغوس"
+    ]
+   },
+   {
+    "text": "سلحفاة جلدية الظهر",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "علجوم",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "العلجوم",
+     "ضفدع الطين"
+    ]
+   },
+   {
+    "text": "السمندل",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "السلمندر"
+    ]
+   },
+   {
+    "text": "سمندل الماء",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "النيوت"
+    ]
+   },
+   {
+    "text": "الضفدع الشجري",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "الضفدع السام",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "ضفدع السهم السام"
+    ]
+   },
+   {
+    "text": "الضفدع الثور",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "الأكسولوتل",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "سمك المشي المكسيكي"
+    ]
+   },
+   {
+    "text": "الأبوديات",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "الضفادع الدودية"
+    ]
+   },
+   {
+    "text": "التواتارا",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "السحلية ذات القرون",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "السقنقور",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "سمكة الرمل"
+    ]
+   },
+   {
+    "text": "الجيكو",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "الأغامة",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "الأفعى البحرية",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "الأفعى الرملية",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "الحية الرقطاء",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "وحش جيلا",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "السلحفاة النهرية",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "سلحفاة صندوقية",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "السلحفاة الصندوقية"
+    ]
+   },
+   {
+    "text": "السلحفاة المفترسة",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "السلحفاة القاضمة"
+    ]
+   },
+   {
+    "text": "التمساح النيلي",
+    "baseRarity": 0.005,
+    "aliases": [
+     "تمساح النيل"
+    ]
+   },
+   {
+    "text": "تمساح المياه المالحة",
+    "baseRarity": 0.0049
+   }
+  ],
+  "secret": "التواتارا",
+  "sources": [
+   "https://reptile-database.reptarium.cz/"
+  ]
+ },
+ {
+  "id": "nat-sea-creatures",
+  "category": "طبيعة",
+  "prompt": "اذكر كائن بحري (غير الأسماك)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "حوت",
+    "baseRarity": 0.2194
+   },
+   {
+    "text": "دلفين",
+    "baseRarity": 0.1097
+   },
+   {
+    "text": "أخطبوط",
+    "baseRarity": 0.0731
+   },
+   {
+    "text": "قنديل البحر",
+    "baseRarity": 0.0549,
+    "aliases": [
+     "قناديل البحر"
+    ]
+   },
+   {
+    "text": "نجم البحر",
+    "baseRarity": 0.0439,
+    "aliases": [
+     "نجمة البحر"
+    ]
+   },
+   {
+    "text": "سرطان البحر",
+    "baseRarity": 0.0366,
+    "aliases": [
+     "سلطعون",
+     "كابوريا"
+    ]
+   },
+   {
+    "text": "روبيان",
+    "baseRarity": 0.0313,
+    "aliases": [
+     "جمبري",
+     "ربيان"
+    ]
+   },
+   {
+    "text": "استاكوزا",
+    "baseRarity": 0.0274,
+    "aliases": [
+     "كركند",
+     "لوبستر"
+    ]
+   },
+   {
+    "text": "حبار",
+    "baseRarity": 0.0244,
+    "aliases": [
+     "السبيط"
+    ]
+   },
+   {
+    "text": "محار",
+    "baseRarity": 0.0219
+   },
+   {
+    "text": "بلح البحر",
+    "baseRarity": 0.0199,
+    "aliases": [
+     "المحار الأزرق"
+    ]
+   },
+   {
+    "text": "إسفنج",
+    "baseRarity": 0.0183,
+    "aliases": [
+     "الإسفنج البحري"
+    ]
+   },
+   {
+    "text": "مرجان",
+    "baseRarity": 0.0169,
+    "aliases": [
+     "الشعاب المرجانية"
+    ]
+   },
+   {
+    "text": "قنفذ البحر",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "خيار البحر",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "شقائق النعمان البحرية",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "فقمة",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "أسد البحر",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "فظ",
+    "baseRarity": 0.0115,
+    "aliases": [
+     "الفظ"
+    ]
+   },
+   {
+    "text": "خروف البحر",
+    "baseRarity": 0.011,
+    "aliases": [
+     "بقرة البحر",
+     "الأطوم"
+    ]
+   },
+   {
+    "text": "سلحفاة بحرية",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "الأفعى البحرية",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "القواقع",
+    "baseRarity": 0.0095,
+    "aliases": [
+     "الحلزون البحري"
+    ]
+   },
+   {
+    "text": "الحبار العملاق",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "نوتي",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "النوتيلوس"
+    ]
+   },
+   {
+    "text": "الكريل",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "الحوت الأزرق",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "الحوت القاتل",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "الأوركا"
+    ]
+   },
+   {
+    "text": "الحوت الأحدب",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "حوت العنبر",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "البيلوغا",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "الحوت الأبيض"
+    ]
+   },
+   {
+    "text": "الناروال",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "كركدن البحر"
+    ]
+   },
+   {
+    "text": "بطلينوس",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "البطلينوس"
+    ]
+   },
+   {
+    "text": "الإسكالوب",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "المحار المروحي"
+    ]
+   },
+   {
+    "text": "سرطان الناسك",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "سرطان الملك",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "السلطعون الملكي"
+    ]
+   },
+   {
+    "text": "البرنقيل",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "الكركند الشائك",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "الحلزون المخروطي",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "بزاق البحر",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "البزاق البحري"
+    ]
+   },
+   {
+    "text": "دودة البحر",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "البلانكتون",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "العوالق"
+    ]
+   },
+   {
+    "text": "طحالب بحرية",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "الطحالب"
+    ]
+   },
+   {
+    "text": "عشب البحر",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "فيل البحر",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "الفقمة الراهبة",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "ثعلب البحر",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "قضاعة البحر"
+    ]
+   },
+   {
+    "text": "البطريق",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "قنديل الصندوق",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "دبور البحر"
+    ]
+   },
+   {
+    "text": "محار اللؤلؤ",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "الدولار الرملي",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "زنبق البحر",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "الروبيان السرعوفي",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "قريدس فرس النبي"
+    ]
+   }
+  ],
+  "secret": "خيار البحر",
+  "sources": [
+   "https://www.marinespecies.org/"
+  ]
+ },
+ {
+  "id": "nat-trees",
+  "category": "طبيعة",
+  "prompt": "اذكر نوع شجرة",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "نخلة",
+    "baseRarity": 0.2057,
+    "aliases": [
+     "النخيل",
+     "النخل"
+    ]
+   },
+   {
+    "text": "زيتون",
+    "baseRarity": 0.1029
+   },
+   {
+    "text": "سدر",
+    "baseRarity": 0.0686,
+    "aliases": [
+     "النبق"
+    ]
+   },
+   {
+    "text": "أثل",
+    "baseRarity": 0.0514
+   },
+   {
+    "text": "سمر",
+    "baseRarity": 0.0411
+   },
+   {
+    "text": "طلح",
+    "baseRarity": 0.0343
+   },
+   {
+    "text": "غاف",
+    "baseRarity": 0.0294
+   },
+   {
+    "text": "أراك",
+    "baseRarity": 0.0257,
+    "aliases": [
+     "السواك"
+    ]
+   },
+   {
+    "text": "صنوبر",
+    "baseRarity": 0.0229
+   },
+   {
+    "text": "أرز",
+    "baseRarity": 0.0206
+   },
+   {
+    "text": "بلوط",
+    "baseRarity": 0.0187
+   },
+   {
+    "text": "سرو",
+    "baseRarity": 0.0171
+   },
+   {
+    "text": "صفصاف",
+    "baseRarity": 0.0158
+   },
+   {
+    "text": "كينا",
+    "baseRarity": 0.0147,
+    "aliases": [
+     "الكافور",
+     "الأوكالبتوس"
+    ]
+   },
+   {
+    "text": "تين",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "برتقال",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "ليمون",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "تفاح",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "مانجو",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "رمان",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "جوز الهند",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "جوز",
+    "baseRarity": 0.0094,
+    "aliases": [
+     "الجوز"
+    ]
+   },
+   {
+    "text": "لوز",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "فستق",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "بندق",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "كستناء",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "توت",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "مشمش",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "خوخ",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "كرز",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "كمثرى",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "نيم",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "شجرة النيم"
+    ]
+   },
+   {
+    "text": "بونسيانا",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "البونسيانا"
+    ]
+   },
+   {
+    "text": "بانيان",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "التين البنغالي"
+    ]
+   },
+   {
+    "text": "ماهوجني",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "الماهوجني"
+    ]
+   },
+   {
+    "text": "ساج",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "الساج"
+    ]
+   },
+   {
+    "text": "أبنوس",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "صندل",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "خشب الصندل"
+    ]
+   },
+   {
+    "text": "قيقب",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "القيقب"
+    ]
+   },
+   {
+    "text": "زان",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "دردار",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "حور",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "شوح",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "التنوب"
+    ]
+   },
+   {
+    "text": "بتولا",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "البتولا",
+     "القضبان"
+    ]
+   },
+   {
+    "text": "باوباب",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "البوباب",
+     "شجرة التبلدي",
+     "التبلدي"
+    ]
+   },
+   {
+    "text": "سيكويا",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "الخشب الأحمر",
+     "السكويا"
+    ]
+   },
+   {
+    "text": "دم الأخوين",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "دم التنين"
+    ]
+   },
+   {
+    "text": "لبان",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "شجرة اللبان",
+     "الكندر"
+    ]
+   },
+   {
+    "text": "مر",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "المر"
+    ]
+   },
+   {
+    "text": "سنط",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "الأكاسيا"
+    ]
+   },
+   {
+    "text": "عرعر",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "بطم",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "خروب",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "جميز",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "قرم",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "المانغروف",
+     "الشورى"
+    ]
+   },
+   {
+    "text": "سنديان",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "زعرور",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "ماغنوليا",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "مطاط",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "شجرة المطاط"
+    ]
+   },
+   {
+    "text": "القرفة",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "شجرة القرفة"
+    ]
+   },
+   {
+    "text": "الكاكاو",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "شجرة الكاكاو"
+    ]
+   },
+   {
+    "text": "البن",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "شجرة البن"
+    ]
+   },
+   {
+    "text": "الشاي",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "شجرة الشاي"
+    ]
+   },
+   {
+    "text": "الأفوكادو",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "الجوافة",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "الليتشي",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "البابايا",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "الكاجو",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "الدوم",
+    "baseRarity": 0.003,
+    "aliases": [
+     "نخلة الدوم"
+    ]
+   },
+   {
+    "text": "الكازوارينا",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "الفيكس",
+    "baseRarity": 0.0029,
+    "aliases": [
+     "التين المطاطي"
+    ]
+   },
+   {
+    "text": "الجكرندا",
+    "baseRarity": 0.0029,
+    "aliases": [
+     "الجاكرندا"
+    ]
+   }
+  ],
+  "secret": "الدردار",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/شجرة"
+  ]
+ },
+ {
+  "id": "nat-flowers",
+  "category": "طبيعة",
+  "prompt": "اذكر نوع زهرة أو ورد",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "ورد",
+    "baseRarity": 0.2204,
+    "aliases": [
+     "الورد الجوري",
+     "جوري"
+    ]
+   },
+   {
+    "text": "ياسمين",
+    "baseRarity": 0.1102
+   },
+   {
+    "text": "فل",
+    "baseRarity": 0.0735
+   },
+   {
+    "text": "توليب",
+    "baseRarity": 0.0551,
+    "aliases": [
+     "التيوليب"
+    ]
+   },
+   {
+    "text": "عباد الشمس",
+    "baseRarity": 0.0441,
+    "aliases": [
+     "دوار الشمس"
+    ]
+   },
+   {
+    "text": "أوركيد",
+    "baseRarity": 0.0367,
+    "aliases": [
+     "الأوركيدا",
+     "السحلبية"
+    ]
+   },
+   {
+    "text": "زنبق",
+    "baseRarity": 0.0315,
+    "aliases": [
+     "الليلي"
+    ]
+   },
+   {
+    "text": "لافندر",
+    "baseRarity": 0.0275,
+    "aliases": [
+     "الخزامى"
+    ]
+   },
+   {
+    "text": "أقحوان",
+    "baseRarity": 0.0245
+   },
+   {
+    "text": "بابونج",
+    "baseRarity": 0.022
+   },
+   {
+    "text": "نرجس",
+    "baseRarity": 0.02
+   },
+   {
+    "text": "بنفسج",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "قرنفل",
+    "baseRarity": 0.017
+   },
+   {
+    "text": "سوسن",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "لوتس",
+    "baseRarity": 0.0147,
+    "aliases": [
+     "زهرة اللوتس"
+    ]
+   },
+   {
+    "text": "نيلوفر",
+    "baseRarity": 0.0138,
+    "aliases": [
+     "زنبق الماء"
+    ]
+   },
+   {
+    "text": "ماغنوليا",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "كاميليا",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "جربيرا",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "داليا",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "أضاليا",
+    "baseRarity": 0.0105,
+    "aliases": [
+     "الأزاليا"
+    ]
+   },
+   {
+    "text": "بيغونيا",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "بتونيا",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "شقائق النعمان",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "خشخاش",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "كاردينيا",
+    "baseRarity": 0.0085,
+    "aliases": [
+     "الغاردينيا"
+    ]
+   },
+   {
+    "text": "هيبيسكوس",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "الكركديه"
+    ]
+   },
+   {
+    "text": "بوغنفيليا",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "الجهنمية"
+    ]
+   },
+   {
+    "text": "فوشيا",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "ليلك",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "الليلك"
+    ]
+   },
+   {
+    "text": "زهر البرتقال",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "زهر الليمون"
+    ]
+   },
+   {
+    "text": "زهرة الكرز",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "ساكورا"
+    ]
+   },
+   {
+    "text": "زهرة الثلج",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "الغالانثوس"
+    ]
+   },
+   {
+    "text": "زنبق الوادي",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "سوسن الوادي"
+    ]
+   },
+   {
+    "text": "آذريون",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "الأقحوان الإفريقي"
+    ]
+   },
+   {
+    "text": "قطيفة",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "شب الليل",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "ست الحسن",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "مسك الليل",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "البيلسان",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "عود الصليب",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "الفاوانيا"
+    ]
+   },
+   {
+    "text": "الكوبية",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "الهدرانجيا",
+     "الهيدرانجيا"
+    ]
+   },
+   {
+    "text": "البنفسج الأفريقي",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "الكالا",
+    "baseRarity": 0.005,
+    "aliases": [
+     "زنبق الكالا"
+    ]
+   },
+   {
+    "text": "الأمارلس",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "الأماريليس"
+    ]
+   },
+   {
+    "text": "السيكلامين",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "بخور مريم"
+    ]
+   },
+   {
+    "text": "الزعفران",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "زهرة الزعفران"
+    ]
+   },
+   {
+    "text": "اللانتانا",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "الإكسورا",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "عصفور الجنة",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "طائر الجنة"
+    ]
+   },
+   {
+    "text": "الأنثوريوم",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "زهرة الآلام",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "الباسيفلورا"
+    ]
+   }
+  ],
+  "secret": "الكاميليا",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/زهرة"
+  ]
+ },
+ {
+  "id": "nat-herbs",
+  "category": "طبيعة",
+  "prompt": "اذكر عشبة أو نبتة طبية أو عطرية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "نعناع",
+    "baseRarity": 0.2213,
+    "aliases": [
+     "نعنع"
+    ]
+   },
+   {
+    "text": "ريحان",
+    "baseRarity": 0.1106
+   },
+   {
+    "text": "بابونج",
+    "baseRarity": 0.0738
+   },
+   {
+    "text": "زعتر",
+    "baseRarity": 0.0553
+   },
+   {
+    "text": "ميرمية",
+    "baseRarity": 0.0443,
+    "aliases": [
+     "المرمية",
+     "الميرامية"
+    ]
+   },
+   {
+    "text": "روزماري",
+    "baseRarity": 0.0369,
+    "aliases": [
+     "إكليل الجبل"
+    ]
+   },
+   {
+    "text": "لافندر",
+    "baseRarity": 0.0316,
+    "aliases": [
+     "الخزامى"
+    ]
+   },
+   {
+    "text": "يانسون",
+    "baseRarity": 0.0277
+   },
+   {
+    "text": "شمر",
+    "baseRarity": 0.0246,
+    "aliases": [
+     "الشمرة",
+     "الشومر"
+    ]
+   },
+   {
+    "text": "حلبة",
+    "baseRarity": 0.0221
+   },
+   {
+    "text": "كركم",
+    "baseRarity": 0.0201
+   },
+   {
+    "text": "زنجبيل",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "قرفة",
+    "baseRarity": 0.017
+   },
+   {
+    "text": "حبة البركة",
+    "baseRarity": 0.0158,
+    "aliases": [
+     "الحبة السوداء"
+    ]
+   },
+   {
+    "text": "مورينجا",
+    "baseRarity": 0.0148,
+    "aliases": [
+     "المورينجا",
+     "شجرة البان"
+    ]
+   },
+   {
+    "text": "صبار",
+    "baseRarity": 0.0138,
+    "aliases": [
+     "الصبر",
+     "الألوفيرا"
+    ]
+   },
+   {
+    "text": "عرق السوس",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "كركديه",
+    "baseRarity": 0.0123
+   },
+   {
+    "text": "بقدونس",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "كزبرة",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "شبت",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "كمون",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "شيح",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "حرمل",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "مرة",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "المر"
+    ]
+   },
+   {
+    "text": "حنظل",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "سنا مكي",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "السنا"
+    ]
+   },
+   {
+    "text": "بردقوش",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "المردقوش"
+    ]
+   },
+   {
+    "text": "لويزة",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "جنسنغ",
+    "baseRarity": 0.0074,
+    "aliases": [
+     "الجينسنغ"
+    ]
+   },
+   {
+    "text": "الجنكة",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "جنكو بيلوبا"
+    ]
+   },
+   {
+    "text": "القراص",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "القريص"
+    ]
+   },
+   {
+    "text": "الخطمي",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "الختمية"
+    ]
+   },
+   {
+    "text": "الزوفا",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "الطيون",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "الشيكوريا",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "الهندباء"
+    ]
+   },
+   {
+    "text": "الحبق",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "عشبة الليمون",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "حشيشة الليمون",
+     "الليمون جراس"
+    ]
+   },
+   {
+    "text": "الأشواغاندا",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "المليسة",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "الترنجان",
+     "بلسم الليمون"
+    ]
+   },
+   {
+    "text": "الحلفا",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "حلفا بر"
+    ]
+   },
+   {
+    "text": "القسط الهندي",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "القسط"
+    ]
+   },
+   {
+    "text": "الكتان",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "بذور الكتان"
+    ]
+   },
+   {
+    "text": "الأذخر",
+    "baseRarity": 0.005,
+    "aliases": [
+     "الإذخر"
+    ]
+   },
+   {
+    "text": "الضرم",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "العرفج",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "الرمث",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "الجعدة",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "القيصوم",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "النفل",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "البعيثران",
+    "baseRarity": 0.0043
+   }
+  ],
+  "secret": "الشيح",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_الأعشاب_الطبية"
+  ]
+ },
+ {
+  "id": "nat-dog-breeds",
+  "category": "طبيعة",
+  "prompt": "اذكر سلالة كلاب",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "جيرمن شيبرد",
+    "baseRarity": 0.2144,
+    "aliases": [
+     "الراعي الألماني"
+    ]
+   },
+   {
+    "text": "هاسكي",
+    "baseRarity": 0.1072,
+    "aliases": [
+     "هاسكي سيبيري"
+    ]
+   },
+   {
+    "text": "جولدن ريتريفر",
+    "baseRarity": 0.0715,
+    "aliases": [
+     "غولدن"
+    ]
+   },
+   {
+    "text": "لابرادور",
+    "baseRarity": 0.0536
+   },
+   {
+    "text": "بودل",
+    "baseRarity": 0.0429,
+    "aliases": [
+     "البودل"
+    ]
+   },
+   {
+    "text": "شيواوا",
+    "baseRarity": 0.0357,
+    "aliases": [
+     "تشيواوا"
+    ]
+   },
+   {
+    "text": "بولدوغ",
+    "baseRarity": 0.0306,
+    "aliases": [
+     "البولدوج"
+    ]
+   },
+   {
+    "text": "بيتبول",
+    "baseRarity": 0.0268,
+    "aliases": [
+     "بيت بول"
+    ]
+   },
+   {
+    "text": "روت وايلر",
+    "baseRarity": 0.0238,
+    "aliases": [
+     "روتوايلر"
+    ]
+   },
+   {
+    "text": "دوبرمان",
+    "baseRarity": 0.0214
+   },
+   {
+    "text": "سلوقي",
+    "baseRarity": 0.0195,
+    "aliases": [
+     "الكلب السلوقي"
+    ]
+   },
+   {
+    "text": "بوميرانيان",
+    "baseRarity": 0.0179,
+    "aliases": [
+     "بومرينيان"
+    ]
+   },
+   {
+    "text": "جاك راسل",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "بيجل",
+    "baseRarity": 0.0153,
+    "aliases": [
+     "البيغل"
+    ]
+   },
+   {
+    "text": "داشهند",
+    "baseRarity": 0.0143,
+    "aliases": [
+     "كلب النقانق"
+    ]
+   },
+   {
+    "text": "دالماسي",
+    "baseRarity": 0.0134,
+    "aliases": [
+     "الدلماسي"
+    ]
+   },
+   {
+    "text": "بوكسر",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "شيتزو",
+    "baseRarity": 0.0119,
+    "aliases": [
+     "شيه تزو"
+    ]
+   },
+   {
+    "text": "مالتيز",
+    "baseRarity": 0.0113,
+    "aliases": [
+     "المالطي"
+    ]
+   },
+   {
+    "text": "يوركشاير تيرير",
+    "baseRarity": 0.0107,
+    "aliases": [
+     "يوركي"
+    ]
+   },
+   {
+    "text": "سان برنارد",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "غريت دين",
+    "baseRarity": 0.0097,
+    "aliases": [
+     "الدانماركي العظيم"
+    ]
+   },
+   {
+    "text": "بيرنيز",
+    "baseRarity": 0.0093,
+    "aliases": [
+     "كلب جبال برن"
+    ]
+   },
+   {
+    "text": "بوردر كولي",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "كولي",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "شيبا إينو",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "أكيتا",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "كورجي",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "ويلش كورجي"
+    ]
+   },
+   {
+    "text": "بيشون فريز",
+    "baseRarity": 0.0074,
+    "aliases": [
+     "بيشون"
+    ]
+   },
+   {
+    "text": "كافاليير كينغ تشارلز",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "باسيت هاوند",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "بلودهاوند",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "غرايهاوند",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "السلوقي الإنجليزي"
+    ]
+   },
+   {
+    "text": "ويبيت",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "أفغان هاوند",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "السلوقي الأفغاني"
+    ]
+   },
+   {
+    "text": "بول تيرير",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "فرنش بولدوغ",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "البولدوج الفرنسي"
+    ]
+   },
+   {
+    "text": "بك",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "البج"
+    ]
+   },
+   {
+    "text": "شناوزر",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "كين كورسو",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "ماستيف",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "نيوفاوندلاند",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "ساموييد",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "مالاموت",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "ألاسكان مالاموت"
+    ]
+   },
+   {
+    "text": "تشاو تشاو",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "شار بي",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "بابيون",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "بوستون تيرير",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "ويستي",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "ويست هايلاند تيرير"
+    ]
+   },
+   {
+    "text": "سكوتش تيرير",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "سكوتي"
+    ]
+   },
+   {
+    "text": "كوكر سبانييل",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "سبرينغر سبانييل",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "ستافوردشاير بول تيرير",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "بلجيكي مالينو",
+    "baseRarity": 0.004,
+    "aliases": [
+     "مالينو"
+    ]
+   },
+   {
+    "text": "أناضولي",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "كانغال"
+    ]
+   },
+   {
+    "text": "دوغو أرجنتينو",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "وايمارانر",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "بوينتر",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "سيتر أيرلندي",
+    "baseRarity": 0.0036
+   }
+  ],
+  "secret": "شار بي",
+  "sources": [
+   "https://www.fci.be/en/Nomenclature/"
+  ]
+ },
+ {
+  "id": "nat-cat-breeds",
+  "category": "طبيعة",
+  "prompt": "اذكر سلالة قطط",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "شيرازي",
+    "baseRarity": 0.2311,
+    "aliases": [
+     "فارسي",
+     "القط الفارسي"
+    ]
+   },
+   {
+    "text": "سيامي",
+    "baseRarity": 0.1156,
+    "aliases": [
+     "القط السيامي"
+    ]
+   },
+   {
+    "text": "هيمالايا",
+    "baseRarity": 0.077,
+    "aliases": [
+     "هملايا"
+    ]
+   },
+   {
+    "text": "سكوتش فولد",
+    "baseRarity": 0.0578,
+    "aliases": [
+     "سكوتش"
+    ]
+   },
+   {
+    "text": "بريطاني قصير الشعر",
+    "baseRarity": 0.0462,
+    "aliases": [
+     "بريتش شورت هير",
+     "بريتش"
+    ]
+   },
+   {
+    "text": "أنغورا",
+    "baseRarity": 0.0385,
+    "aliases": [
+     "الأنغورا التركي",
+     "تركي أنغورا"
+    ]
+   },
+   {
+    "text": "ماين كون",
+    "baseRarity": 0.033
+   },
+   {
+    "text": "راغدول",
+    "baseRarity": 0.0289
+   },
+   {
+    "text": "بنغالي",
+    "baseRarity": 0.0257,
+    "aliases": [
+     "البنغال"
+    ]
+   },
+   {
+    "text": "سفينكس",
+    "baseRarity": 0.0231,
+    "aliases": [
+     "القط العاري",
+     "سفنكس"
+    ]
+   },
+   {
+    "text": "مصري ماو",
+    "baseRarity": 0.021,
+    "aliases": [
+     "الماو المصري"
+    ]
+   },
+   {
+    "text": "حبشي",
+    "baseRarity": 0.0193,
+    "aliases": [
+     "أبيسيني"
+    ]
+   },
+   {
+    "text": "الأزرق الروسي",
+    "baseRarity": 0.0178,
+    "aliases": [
+     "روسي أزرق"
+    ]
+   },
+   {
+    "text": "بيرمان",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "شارتروز",
+    "baseRarity": 0.0154
+   },
+   {
+    "text": "سيبيري",
+    "baseRarity": 0.0144,
+    "aliases": [
+     "القط السيبيري"
+    ]
+   },
+   {
+    "text": "نرويجي الغابات",
+    "baseRarity": 0.0136,
+    "aliases": [
+     "قط الغابة النرويجي"
+    ]
+   },
+   {
+    "text": "أمريكي قصير الشعر",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "إكزوتيك",
+    "baseRarity": 0.0122,
+    "aliases": [
+     "إكزوتيك شورت هير"
+    ]
+   },
+   {
+    "text": "ديفون ريكس",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "كورنيش ريكس",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "مانكس",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "بومباي",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "سافانا",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "تونكينيز",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "بورمي",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "البورمي"
+    ]
+   },
+   {
+    "text": "أوسيكات",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "كورات",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "تويغر",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "مونشكين",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "بالينيز",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "سيلكيرك ريكس",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "لابيرم",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "بيكسي بوب",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "أمريكان كيرل",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "سوكوكي",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "توركيش فان",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "الفان التركي"
+    ]
+   },
+   {
+    "text": "نيبلونج",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "سنو شو",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "شانتيلي",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "هافانا براون",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "اليابانية قصيرة الذيل",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "جابانيز بوبتيل"
+    ]
+   }
+  ],
+  "secret": "كورات",
+  "sources": [
+   "https://cfa.org/breeds/"
+  ]
+ },
+ {
+  "id": "nat-african-animals",
+  "category": "طبيعة",
+  "prompt": "اذكر حيوان يعيش في أفريقيا",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "أسد",
+    "baseRarity": 0.2213
+   },
+   {
+    "text": "فيل",
+    "baseRarity": 0.1106,
+    "aliases": [
+     "الفيل الأفريقي"
+    ]
+   },
+   {
+    "text": "زرافة",
+    "baseRarity": 0.0738
+   },
+   {
+    "text": "حمار وحشي",
+    "baseRarity": 0.0553
+   },
+   {
+    "text": "وحيد القرن",
+    "baseRarity": 0.0443,
+    "aliases": [
+     "الكركدن"
+    ]
+   },
+   {
+    "text": "فرس النهر",
+    "baseRarity": 0.0369
+   },
+   {
+    "text": "فهد",
+    "baseRarity": 0.0316,
+    "aliases": [
+     "الفهد الصياد",
+     "شيتا"
+    ]
+   },
+   {
+    "text": "نمر أفريقي",
+    "baseRarity": 0.0277,
+    "aliases": [
+     "النمر الأفريقي",
+     "فهد منقط"
+    ]
+   },
+   {
+    "text": "ضبع",
+    "baseRarity": 0.0246
+   },
+   {
+    "text": "غوريلا",
+    "baseRarity": 0.0221
+   },
+   {
+    "text": "شمبانزي",
+    "baseRarity": 0.0201
+   },
+   {
+    "text": "بابون",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "تمساح",
+    "baseRarity": 0.017,
+    "aliases": [
+     "تمساح النيل"
+    ]
+   },
+   {
+    "text": "نعامة",
+    "baseRarity": 0.0158
+   },
+   {
+    "text": "غزال",
+    "baseRarity": 0.0148
+   },
+   {
+    "text": "ظبي",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "النو",
+    "baseRarity": 0.013,
+    "aliases": [
+     "الحيوان النو",
+     "الثيتل"
+    ]
+   },
+   {
+    "text": "جاموس أفريقي",
+    "baseRarity": 0.0123,
+    "aliases": [
+     "الجاموس الأفريقي"
+    ]
+   },
+   {
+    "text": "كلب الصيد الأفريقي",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "الكلب البري الأفريقي"
+    ]
+   },
+   {
+    "text": "ابن آوى",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "خنزير الثؤلول",
+    "baseRarity": 0.0105,
+    "aliases": [
+     "الخنزير الوحشي"
+    ]
+   },
+   {
+    "text": "آكل النمل",
+    "baseRarity": 0.0101,
+    "aliases": [
+     "الخنزير الأرضي"
+    ]
+   },
+   {
+    "text": "ليمور",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "أوكابي",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "الأفعى المامبا",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "مامبا"
+    ]
+   },
+   {
+    "text": "كوبرا",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "بونوبو",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "ماندريل",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "الإمبالا",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "إمبالا"
+    ]
+   },
+   {
+    "text": "الكودو",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "الأوريكس",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "المها"
+    ]
+   },
+   {
+    "text": "النسر الأفريقي",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "البجع الأبيض",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "الفلامنغو",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "النحام"
+    ]
+   },
+   {
+    "text": "الطائر الكاتب",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "الطائر السكرتير"
+    ]
+   },
+   {
+    "text": "النمس",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "الميركات"
+    ]
+   },
+   {
+    "text": "الوشق",
+    "baseRarity": 0.006,
+    "aliases": [
+     "الكاراكال"
+    ]
+   },
+   {
+    "text": "السرفال",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "القط النمري"
+    ]
+   },
+   {
+    "text": "الفنك",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "ثعلب الصحراء"
+    ]
+   },
+   {
+    "text": "الجربوع",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "القنفذ الأفريقي",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "الشيهم",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "النيص"
+    ]
+   },
+   {
+    "text": "الثعبان الأصلة",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "البايثون الصخري"
+    ]
+   },
+   {
+    "text": "حرباء",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "السلحفاة الأفريقية",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "الحيوان الدكدك",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "دكدك"
+    ]
+   },
+   {
+    "text": "البونغو",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "الإيلاند",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "الظبي الأفريقي الكبير"
+    ]
+   },
+   {
+    "text": "الهارتبيست",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "الظبي الأحمر"
+    ]
+   },
+   {
+    "text": "الخرتيت الأبيض",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "وحيد القرن الأبيض"
+    ]
+   },
+   {
+    "text": "وحيد القرن الأسود",
+    "baseRarity": 0.0043
+   }
+  ],
+  "secret": "أوكابي",
+  "sources": [
+   "https://www.awf.org/wildlife-conservation"
+  ]
+ },
+ {
+  "id": "nat-arabian-animals",
+  "category": "طبيعة",
+  "prompt": "اذكر حيوان بري يعيش في الجزيرة العربية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "ضب",
+    "baseRarity": 0.2287
+   },
+   {
+    "text": "جمل",
+    "baseRarity": 0.1143,
+    "aliases": [
+     "ناقة",
+     "إبل"
+    ]
+   },
+   {
+    "text": "غزال",
+    "baseRarity": 0.0762,
+    "aliases": [
+     "ريم"
+    ]
+   },
+   {
+    "text": "المها العربي",
+    "baseRarity": 0.0572,
+    "aliases": [
+     "المها"
+    ]
+   },
+   {
+    "text": "الوعل",
+    "baseRarity": 0.0457,
+    "aliases": [
+     "الوعل النوبي",
+     "البدن"
+    ]
+   },
+   {
+    "text": "النمر العربي",
+    "baseRarity": 0.0381
+   },
+   {
+    "text": "الذئب العربي",
+    "baseRarity": 0.0327,
+    "aliases": [
+     "الذئب"
+    ]
+   },
+   {
+    "text": "الضبع المخطط",
+    "baseRarity": 0.0286,
+    "aliases": [
+     "الضبع"
+    ]
+   },
+   {
+    "text": "الثعلب الأحمر",
+    "baseRarity": 0.0254,
+    "aliases": [
+     "الثعلب"
+    ]
+   },
+   {
+    "text": "ثعلب الرمال",
+    "baseRarity": 0.0229,
+    "aliases": [
+     "ثعلب روبل"
+    ]
+   },
+   {
+    "text": "الفنك",
+    "baseRarity": 0.0208
+   },
+   {
+    "text": "القط الرملي",
+    "baseRarity": 0.0191,
+    "aliases": [
+     "قط الرمال"
+    ]
+   },
+   {
+    "text": "الوشق",
+    "baseRarity": 0.0176,
+    "aliases": [
+     "عناق الأرض"
+    ]
+   },
+   {
+    "text": "الوبر",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "الأرنب البري",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "الأرنب"
+    ]
+   },
+   {
+    "text": "القنفذ",
+    "baseRarity": 0.0143,
+    "aliases": [
+     "القنفذ الصحراوي"
+    ]
+   },
+   {
+    "text": "الجربوع",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "الورل",
+    "baseRarity": 0.0127
+   },
+   {
+    "text": "السحلية",
+    "baseRarity": 0.012,
+    "aliases": [
+     "السحالي"
+    ]
+   },
+   {
+    "text": "العقرب",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "الحية",
+    "baseRarity": 0.0109,
+    "aliases": [
+     "الأفعى"
+    ]
+   },
+   {
+    "text": "الحية المقرنة",
+    "baseRarity": 0.0104,
+    "aliases": [
+     "الأفعى المقرنة"
+    ]
+   },
+   {
+    "text": "الكوبرا العربية",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "الحبارى",
+    "baseRarity": 0.0095,
+    "aliases": [
+     "الهوبرة"
+    ]
+   },
+   {
+    "text": "الصقر",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "النسر",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "البومة",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "القطا",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "الحجل العربي",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "الحجل"
+    ]
+   },
+   {
+    "text": "الغراب",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "النيص",
+    "baseRarity": 0.0074,
+    "aliases": [
+     "الشيهم"
+    ]
+   },
+   {
+    "text": "الوطواط",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "الخفاش"
+    ]
+   },
+   {
+    "text": "الغريري",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "غرير العسل"
+    ]
+   },
+   {
+    "text": "القرد العربي",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "قرد البابون",
+     "الرباح"
+    ]
+   },
+   {
+    "text": "ابن آوى",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "ابن آوى الذهبي"
+    ]
+   },
+   {
+    "text": "النمس",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "الطهر العربي",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "الوعل العربي"
+    ]
+   },
+   {
+    "text": "السقنقور",
+    "baseRarity": 0.006,
+    "aliases": [
+     "سمكة الرمل"
+    ]
+   },
+   {
+    "text": "الحرباء",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "الأفعى الرملية",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "الكروان",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "الحمام البري",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "حمام الصخور"
+    ]
+   },
+   {
+    "text": "الهدهد",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "الأطوم",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "بقرة البحر"
+    ]
+   }
+  ],
+  "secret": "الوبر",
+  "sources": [
+   "https://www.ncw.gov.sa/"
+  ]
+ },
+ {
+  "id": "nat-domestic-animals",
+  "category": "طبيعة",
+  "prompt": "اذكر حيوان أليف أو حيوان مزرعة",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "قطة",
+    "baseRarity": 0.2311,
+    "aliases": [
+     "قط",
+     "بسة"
+    ]
+   },
+   {
+    "text": "كلب",
+    "baseRarity": 0.1156
+   },
+   {
+    "text": "حصان",
+    "baseRarity": 0.077,
+    "aliases": [
+     "خيل"
+    ]
+   },
+   {
+    "text": "جمل",
+    "baseRarity": 0.0578,
+    "aliases": [
+     "ناقة",
+     "بعير"
+    ]
+   },
+   {
+    "text": "بقرة",
+    "baseRarity": 0.0462
+   },
+   {
+    "text": "خروف",
+    "baseRarity": 0.0385,
+    "aliases": [
+     "غنم",
+     "نعجة"
+    ]
+   },
+   {
+    "text": "ماعز",
+    "baseRarity": 0.033,
+    "aliases": [
+     "عنز",
+     "تيس"
+    ]
+   },
+   {
+    "text": "دجاجة",
+    "baseRarity": 0.0289,
+    "aliases": [
+     "دجاج",
+     "ديك"
+    ]
+   },
+   {
+    "text": "حمار",
+    "baseRarity": 0.0257
+   },
+   {
+    "text": "بطة",
+    "baseRarity": 0.0231,
+    "aliases": [
+     "بط"
+    ]
+   },
+   {
+    "text": "أرنب",
+    "baseRarity": 0.021
+   },
+   {
+    "text": "حمامة",
+    "baseRarity": 0.0193,
+    "aliases": [
+     "حمام"
+    ]
+   },
+   {
+    "text": "ببغاء",
+    "baseRarity": 0.0178
+   },
+   {
+    "text": "عصفور",
+    "baseRarity": 0.0165,
+    "aliases": [
+     "عصافير"
+    ]
+   },
+   {
+    "text": "سمك الزينة",
+    "baseRarity": 0.0154,
+    "aliases": [
+     "سمكة ذهبية"
+    ]
+   },
+   {
+    "text": "سلحفاة",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "هامستر",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "خنزير غينيا",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "ديك رومي",
+    "baseRarity": 0.0122,
+    "aliases": [
+     "حبش"
+    ]
+   },
+   {
+    "text": "إوزة",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "وز",
+     "إوز"
+    ]
+   },
+   {
+    "text": "ثور",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "جاموس",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "بغل",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "لاما",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "الألبكة",
+    "baseRarity": 0.0092,
+    "aliases": [
+     "ألباكا"
+    ]
+   },
+   {
+    "text": "ياك",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "سمان",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "السمان"
+    ]
+   },
+   {
+    "text": "كناري",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "طائر الحب",
+    "baseRarity": 0.008,
+    "aliases": [
+     "البادجي"
+    ]
+   },
+   {
+    "text": "كوكاتو",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "شنشيلة",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "الشنشيلا"
+    ]
+   },
+   {
+    "text": "فأر أليف",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "فأر"
+    ]
+   },
+   {
+    "text": "إغوانا",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "قنفذ أليف",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "القنفذ"
+    ]
+   },
+   {
+    "text": "خنزير",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "نحل",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "دودة القز",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "طاووس",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "نعامة",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "الحصان القزم",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "بوني"
+    ]
+   },
+   {
+    "text": "صقر",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "تدرج",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "الدراج"
+    ]
+   }
+  ],
+  "secret": "الشنشيلة",
+  "sources": [
+   "https://www.fao.org/animal-production"
+  ]
+ },
+ {
+  "id": "nat-predators",
+  "category": "طبيعة",
+  "prompt": "اذكر حيوان مفترس",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "أسد",
+    "baseRarity": 0.2204
+   },
+   {
+    "text": "نمر",
+    "baseRarity": 0.1102
+   },
+   {
+    "text": "ذئب",
+    "baseRarity": 0.0735
+   },
+   {
+    "text": "فهد",
+    "baseRarity": 0.0551
+   },
+   {
+    "text": "ضبع",
+    "baseRarity": 0.0441
+   },
+   {
+    "text": "ثعلب",
+    "baseRarity": 0.0367
+   },
+   {
+    "text": "تمساح",
+    "baseRarity": 0.0315
+   },
+   {
+    "text": "قرش",
+    "baseRarity": 0.0275,
+    "aliases": [
+     "سمك القرش"
+    ]
+   },
+   {
+    "text": "صقر",
+    "baseRarity": 0.0245
+   },
+   {
+    "text": "نسر",
+    "baseRarity": 0.022
+   },
+   {
+    "text": "عقاب",
+    "baseRarity": 0.02
+   },
+   {
+    "text": "بومة",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "نمر الثلج",
+    "baseRarity": 0.017,
+    "aliases": [
+     "فهد الثلوج"
+    ]
+   },
+   {
+    "text": "جاكوار",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "بوما",
+    "baseRarity": 0.0147,
+    "aliases": [
+     "أسد الجبال"
+    ]
+   },
+   {
+    "text": "وشق",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "قط بري",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "دب قطبي",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "دب أشهب",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "الدب البني",
+     "الدب الرمادي"
+    ]
+   },
+   {
+    "text": "حوت قاتل",
+    "baseRarity": 0.011,
+    "aliases": [
+     "أوركا"
+    ]
+   },
+   {
+    "text": "ابن آوى",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "كلب بري",
+    "baseRarity": 0.01,
+    "aliases": [
+     "الكلب البري الأفريقي"
+    ]
+   },
+   {
+    "text": "نمس",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "ابن عرس",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "أفعى",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "ثعبان",
+     "حية"
+    ]
+   },
+   {
+    "text": "كوبرا",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "أناكوندا",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "أصلة",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "بايثون"
+    ]
+   },
+   {
+    "text": "تنين كومودو",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "عقرب",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "عنكبوت",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "فرس النبي",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "باراكودا",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "أخطبوط",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "فقمة النمر",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "أسد البحر",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "ثعلب الماء",
+    "baseRarity": 0.006,
+    "aliases": [
+     "قضاعة"
+    ]
+   },
+   {
+    "text": "دلفين",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "باز",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "شاهين",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "عوسق",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "حدأة",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "قرش أبيض",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "القرش الأبيض الكبير"
+    ]
+   },
+   {
+    "text": "الحبار العملاق",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "سمك الأسد",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "النمر السيبيري",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "النمر البنغالي",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "الفنك",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "القط الرملي",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "الكاراكال",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "السرفال",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الذئب الرمادي",
+    "baseRarity": 0.0042
+   }
+  ],
+  "secret": "فقمة النمر",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/افتراس"
+  ]
+ },
+ {
+  "id": "nat-herbivores",
+  "category": "طبيعة",
+  "prompt": "اذكر حيوان آكل للأعشاب (نباتي)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "بقرة",
+    "baseRarity": 0.2223
+   },
+   {
+    "text": "خروف",
+    "baseRarity": 0.1111,
+    "aliases": [
+     "غنم"
+    ]
+   },
+   {
+    "text": "ماعز",
+    "baseRarity": 0.0741,
+    "aliases": [
+     "عنز"
+    ]
+   },
+   {
+    "text": "جمل",
+    "baseRarity": 0.0556,
+    "aliases": [
+     "ناقة"
+    ]
+   },
+   {
+    "text": "حصان",
+    "baseRarity": 0.0445,
+    "aliases": [
+     "خيل"
+    ]
+   },
+   {
+    "text": "حمار",
+    "baseRarity": 0.037
+   },
+   {
+    "text": "زرافة",
+    "baseRarity": 0.0318
+   },
+   {
+    "text": "فيل",
+    "baseRarity": 0.0278
+   },
+   {
+    "text": "وحيد القرن",
+    "baseRarity": 0.0247,
+    "aliases": [
+     "الكركدن"
+    ]
+   },
+   {
+    "text": "فرس النهر",
+    "baseRarity": 0.0222
+   },
+   {
+    "text": "حمار وحشي",
+    "baseRarity": 0.0202
+   },
+   {
+    "text": "غزال",
+    "baseRarity": 0.0185
+   },
+   {
+    "text": "أرنب",
+    "baseRarity": 0.0171
+   },
+   {
+    "text": "كنغر",
+    "baseRarity": 0.0159
+   },
+   {
+    "text": "باندا",
+    "baseRarity": 0.0148
+   },
+   {
+    "text": "كوالا",
+    "baseRarity": 0.0139
+   },
+   {
+    "text": "جاموس",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "ثور",
+    "baseRarity": 0.0123
+   },
+   {
+    "text": "بيسون",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "ياك",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "لاما",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "ألبكة",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "أيل",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "موظ",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "رنة",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "وعل",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "مها",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "ظبي",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "كسلان",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "خروف البحر",
+    "baseRarity": 0.0074,
+    "aliases": [
+     "بقرة البحر",
+     "الأطوم"
+    ]
+   },
+   {
+    "text": "سلحفاة برية",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "السلحفاة"
+    ]
+   },
+   {
+    "text": "إغوانا",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "قندس",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "خنزير غينيا",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "شنشيلة",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "الوبر",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "النو",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "إمبالا",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "أوكابي",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "تابير",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "غوريلا",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "بغل",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "دودة القز",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "جراد",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "جرادة"
+    ]
+   },
+   {
+    "text": "الكودو",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "الأوريكس",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "البونغو",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "الإيلاند",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "الدكدك",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "الضب",
+    "baseRarity": 0.0044
+   }
+  ],
+  "secret": "التابير",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/حيوان_عاشب"
+  ]
+ },
+ {
+  "id": "nat-animal-young",
+  "category": "طبيعة",
+  "prompt": "اذكر اسم يُطلق على صغير حيوان (مثل: شبل)",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "شبل",
+    "baseRarity": 0.2275
+   },
+   {
+    "text": "جرو",
+    "baseRarity": 0.1138
+   },
+   {
+    "text": "مهر",
+    "baseRarity": 0.0758
+   },
+   {
+    "text": "حوار",
+    "baseRarity": 0.0569
+   },
+   {
+    "text": "عجل",
+    "baseRarity": 0.0455
+   },
+   {
+    "text": "حمل",
+    "baseRarity": 0.0379
+   },
+   {
+    "text": "جدي",
+    "baseRarity": 0.0325
+   },
+   {
+    "text": "سخلة",
+    "baseRarity": 0.0284
+   },
+   {
+    "text": "كتكوت",
+    "baseRarity": 0.0253,
+    "aliases": [
+     "كتكوث"
+    ]
+   },
+   {
+    "text": "صوص",
+    "baseRarity": 0.0228,
+    "aliases": [
+     "صيصان"
+    ]
+   },
+   {
+    "text": "فرخ",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "جحش",
+    "baseRarity": 0.019
+   },
+   {
+    "text": "خشف",
+    "baseRarity": 0.0175
+   },
+   {
+    "text": "شرغوف",
+    "baseRarity": 0.0163,
+    "aliases": [
+     "دعموص",
+     "أبو ذنيبة"
+    ]
+   },
+   {
+    "text": "دغفل",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "ديسم",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "هجرس",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "حسل",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "فرعل",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "خرنق",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "رأل",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "خنوص",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "درص",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "غفر",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "قعود",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "بكر",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "فلو",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "فلوة"
+    ]
+   },
+   {
+    "text": "طلي",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "بهمة",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "عناق",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "طلا",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "فصيل",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "شادن",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "ناهض",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "زغلول",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "فروج",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "يرقة",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "عفو",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "تولب",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "جفر",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "عتود",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "سقب",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "ربع",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "هبع",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "يعفور",
+    "baseRarity": 0.0051
+   }
+  ],
+  "secret": "دغفل",
+  "sources": [
+   "https://ar.wikisource.org/wiki/فقه_اللغة_وسر_العربية",
+   "https://ar.wikipedia.org/wiki/أسماء_صغار_الحيوانات"
+  ]
+ },
+ {
+  "id": "nat-animal-sounds",
+  "category": "طبيعة",
+  "prompt": "اذكر اسم صوت حيوان بالعربي (مثل: زئير)",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "زئير",
+    "baseRarity": 0.2299
+   },
+   {
+    "text": "نباح",
+    "baseRarity": 0.1149
+   },
+   {
+    "text": "مواء",
+    "baseRarity": 0.0766
+   },
+   {
+    "text": "صهيل",
+    "baseRarity": 0.0575
+   },
+   {
+    "text": "نهيق",
+    "baseRarity": 0.046
+   },
+   {
+    "text": "عواء",
+    "baseRarity": 0.0383
+   },
+   {
+    "text": "ثغاء",
+    "baseRarity": 0.0328
+   },
+   {
+    "text": "خوار",
+    "baseRarity": 0.0287
+   },
+   {
+    "text": "رغاء",
+    "baseRarity": 0.0255
+   },
+   {
+    "text": "هديل",
+    "baseRarity": 0.023
+   },
+   {
+    "text": "نقيق",
+    "baseRarity": 0.0209
+   },
+   {
+    "text": "فحيح",
+    "baseRarity": 0.0192
+   },
+   {
+    "text": "طنين",
+    "baseRarity": 0.0177
+   },
+   {
+    "text": "زقزقة",
+    "baseRarity": 0.0164
+   },
+   {
+    "text": "نعيق",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "نعيب",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "صياح",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "قوقأة",
+    "baseRarity": 0.0128,
+    "aliases": [
+     "قأقأة"
+    ]
+   },
+   {
+    "text": "ضباح",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "قباع",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "بغام",
+    "baseRarity": 0.0109
+   },
+   {
+    "text": "يعار",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "هرير",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "ضغيب",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "صئي",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "صرير",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "دوي",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "زمار",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "عرار",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "هدير",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "حنين",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "شحيج",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "نئيم",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "صفير",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "تغريد",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "سجع",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "زقاء",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "وعوعة",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "نزيب",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "نخير",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "كشيش",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "حمحمة",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "صدح",
+    "baseRarity": 0.0053
+   }
+  ],
+  "secret": "بغام",
+  "sources": [
+   "https://ar.wikisource.org/wiki/فقه_اللغة_وسر_العربية"
+  ]
+ },
+ {
+  "id": "nat-gems-minerals",
+  "category": "طبيعة",
+  "prompt": "اذكر حجر كريم أو معدن أو صخر طبيعي",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "ألماس",
+    "baseRarity": 0.2204,
+    "aliases": [
+     "الماس"
+    ]
+   },
+   {
+    "text": "ياقوت",
+    "baseRarity": 0.1102
+   },
+   {
+    "text": "زمرد",
+    "baseRarity": 0.0735
+   },
+   {
+    "text": "لؤلؤ",
+    "baseRarity": 0.0551
+   },
+   {
+    "text": "فيروز",
+    "baseRarity": 0.0441
+   },
+   {
+    "text": "عقيق",
+    "baseRarity": 0.0367
+   },
+   {
+    "text": "كهرمان",
+    "baseRarity": 0.0315
+   },
+   {
+    "text": "مرجان",
+    "baseRarity": 0.0275
+   },
+   {
+    "text": "ذهب",
+    "baseRarity": 0.0245
+   },
+   {
+    "text": "فضة",
+    "baseRarity": 0.022
+   },
+   {
+    "text": "بلاتين",
+    "baseRarity": 0.02
+   },
+   {
+    "text": "صفير",
+    "baseRarity": 0.0184,
+    "aliases": [
+     "ياقوت أزرق",
+     "سافير"
+    ]
+   },
+   {
+    "text": "روبي",
+    "baseRarity": 0.017,
+    "aliases": [
+     "ياقوت أحمر"
+    ]
+   },
+   {
+    "text": "جمشت",
+    "baseRarity": 0.0157,
+    "aliases": [
+     "أمثيست",
+     "الجمست"
+    ]
+   },
+   {
+    "text": "توباز",
+    "baseRarity": 0.0147
+   },
+   {
+    "text": "أوبال",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "زبرجد",
+    "baseRarity": 0.013,
+    "aliases": [
+     "بيريدوت"
+    ]
+   },
+   {
+    "text": "كوارتز",
+    "baseRarity": 0.0122,
+    "aliases": [
+     "المرو"
+    ]
+   },
+   {
+    "text": "يشم",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "جاد",
+     "اليشب"
+    ]
+   },
+   {
+    "text": "لازورد",
+    "baseRarity": 0.011,
+    "aliases": [
+     "اللازورد"
+    ]
+   },
+   {
+    "text": "حجر القمر",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "عين النمر",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "هيماتيت",
+    "baseRarity": 0.0096,
+    "aliases": [
+     "حجر الدم"
+    ]
+   },
+   {
+    "text": "تورمالين",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "أكوامارين",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "غارنيت",
+    "baseRarity": 0.0085,
+    "aliases": [
+     "العقيق الأحمر"
+    ]
+   },
+   {
+    "text": "تنزانيت",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "سترين",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "جزع",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "أونيكس"
+    ]
+   },
+   {
+    "text": "دهنج",
+    "baseRarity": 0.0073,
+    "aliases": [
+     "مالاكيت"
+    ]
+   },
+   {
+    "text": "بلور صخري",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "كريستال"
+    ]
+   },
+   {
+    "text": "سبينل",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "زركون",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "رخام",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "جرانيت",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "غرانيت"
+    ]
+   },
+   {
+    "text": "بازلت",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "حجر جيري",
+    "baseRarity": 0.006,
+    "aliases": [
+     "الحجر الجيري"
+    ]
+   },
+   {
+    "text": "حجر رملي",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "الحجر الرملي"
+    ]
+   },
+   {
+    "text": "صوان",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "ملح صخري",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "جبس",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "تلك",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "ميكا",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "فلسبار",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "كبريت",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "جرافيت",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "غرافيت"
+    ]
+   },
+   {
+    "text": "فحم",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "نحاس",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "حديد",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "السبج",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "الزجاج البركاني",
+     "الأوبسيديان"
+    ]
+   },
+   {
+    "text": "الأردواز",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "البيريت",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "ذهب المغفلين"
+    ]
+   }
+  ],
+  "secret": "التنزانيت",
+  "sources": [
+   "https://www.gia.edu/gem-encyclopedia"
+  ]
+ },
+ {
+  "id": "nat-extinct",
+  "category": "طبيعة",
+  "prompt": "اذكر حيوان منقرض",
+  "difficulty": 3,
+  "answers": [
+   {
+    "text": "ديناصور",
+    "baseRarity": 0.2337,
+    "aliases": [
+     "الديناصورات"
+    ]
+   },
+   {
+    "text": "ماموث",
+    "baseRarity": 0.1169,
+    "aliases": [
+     "الماموث الصوفي"
+    ]
+   },
+   {
+    "text": "طائر الدودو",
+    "baseRarity": 0.0779,
+    "aliases": [
+     "الدودو"
+    ]
+   },
+   {
+    "text": "النمر التسماني",
+    "baseRarity": 0.0584,
+    "aliases": [
+     "الثيلاسين",
+     "الذئب التسماني"
+    ]
+   },
+   {
+    "text": "الحمام المهاجر",
+    "baseRarity": 0.0467
+   },
+   {
+    "text": "بقرة ستيلر البحرية",
+    "baseRarity": 0.039
+   },
+   {
+    "text": "الأوروكس",
+    "baseRarity": 0.0334,
+    "aliases": [
+     "الثور الأوروبي البري"
+    ]
+   },
+   {
+    "text": "النمر ذو الأسنان السيفية",
+    "baseRarity": 0.0292,
+    "aliases": [
+     "سميلودون"
+    ]
+   },
+   {
+    "text": "الكواغا",
+    "baseRarity": 0.026
+   },
+   {
+    "text": "طائر الموا",
+    "baseRarity": 0.0234,
+    "aliases": [
+     "الموا"
+    ]
+   },
+   {
+    "text": "الكسلان الأرضي العملاق",
+    "baseRarity": 0.0212
+   },
+   {
+    "text": "الأركيوبتركس",
+    "baseRarity": 0.0195
+   },
+   {
+    "text": "تيرانوصور",
+    "baseRarity": 0.018,
+    "aliases": [
+     "تي ريكس"
+    ]
+   },
+   {
+    "text": "ترايسيراتوبس",
+    "baseRarity": 0.0167
+   },
+   {
+    "text": "فيلوسيرابتور",
+    "baseRarity": 0.0156,
+    "aliases": [
+     "رابتور"
+    ]
+   },
+   {
+    "text": "ستيغوصور",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "براكيوصور",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "ديبلودوكس",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "سبينوصور",
+    "baseRarity": 0.0123
+   },
+   {
+    "text": "أنكيلوصور",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "الذئب الرهيب",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "الأيل الأيرلندي",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "نمر قزوين",
+    "baseRarity": 0.0102,
+    "aliases": [
+     "النمر القزويني"
+    ]
+   },
+   {
+    "text": "نمر بالي",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "نمر جاوة",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "النعامة العربية",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "الوعل البرانسي",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "الأخدري السوري",
+    "baseRarity": 0.0083,
+    "aliases": [
+     "الحمار البري السوري"
+    ]
+   },
+   {
+    "text": "ميغالودون",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "ثلاثي الفصوص",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "التريلوبيت"
+    ]
+   },
+   {
+    "text": "الأمونيت",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "طائر الفيل",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "الأوك العظيم",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "الببغاء الكارولينية",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "الماستودون",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "وحيد القرن الصوفي",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "ظبي البلو",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "البلوبك"
+    ]
+   },
+   {
+    "text": "وحيد القرن الأسود الغربي",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "الدلفين الصيني النهري",
+    "baseRarity": 0.006,
+    "aliases": [
+     "البايجي"
+    ]
+   },
+   {
+    "text": "ضفدع ذهبي",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "العلجوم الذهبي"
+    ]
+   }
+  ],
+  "secret": "الكواغا",
+  "sources": [
+   "https://www.iucnredlist.org/"
+  ]
+ },
+ {
+  "id": "nat-venomous",
+  "category": "طبيعة",
+  "prompt": "اذكر حيوان سام",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "عقرب",
+    "baseRarity": 0.2311
+   },
+   {
+    "text": "كوبرا",
+    "baseRarity": 0.1156
+   },
+   {
+    "text": "أفعى",
+    "baseRarity": 0.077,
+    "aliases": [
+     "ثعبان",
+     "حية"
+    ]
+   },
+   {
+    "text": "عنكبوت الأرملة السوداء",
+    "baseRarity": 0.0578,
+    "aliases": [
+     "الأرملة السوداء"
+    ]
+   },
+   {
+    "text": "أفعى الجرس",
+    "baseRarity": 0.0462
+   },
+   {
+    "text": "مامبا",
+    "baseRarity": 0.0385,
+    "aliases": [
+     "المامبا السوداء"
+    ]
+   },
+   {
+    "text": "الأفعى المقرنة",
+    "baseRarity": 0.033
+   },
+   {
+    "text": "سمك البالون",
+    "baseRarity": 0.0289,
+    "aliases": [
+     "سمك النفيخ",
+     "الفوغو"
+    ]
+   },
+   {
+    "text": "قنديل الصندوق",
+    "baseRarity": 0.0257,
+    "aliases": [
+     "دبور البحر"
+    ]
+   },
+   {
+    "text": "قنديل البحر",
+    "baseRarity": 0.0231
+   },
+   {
+    "text": "ضفدع السهم السام",
+    "baseRarity": 0.021,
+    "aliases": [
+     "الضفدع السام"
+    ]
+   },
+   {
+    "text": "الأخطبوط ذو الحلقات الزرقاء",
+    "baseRarity": 0.0193
+   },
+   {
+    "text": "سمك الحجر",
+    "baseRarity": 0.0178,
+    "aliases": [
+     "سمكة الحجر"
+    ]
+   },
+   {
+    "text": "سمك الأسد",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "سمك العقرب",
+    "baseRarity": 0.0154
+   },
+   {
+    "text": "الحلزون المخروطي",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "وحش جيلا",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "منقار البط",
+    "baseRarity": 0.0128,
+    "aliases": [
+     "خلد الماء",
+     "بلاتيبوس"
+    ]
+   },
+   {
+    "text": "نحلة",
+    "baseRarity": 0.0122,
+    "aliases": [
+     "نحل"
+    ]
+   },
+   {
+    "text": "دبور",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "زنبور"
+    ]
+   },
+   {
+    "text": "نمل النار",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "سفينة الحرب البرتغالية",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "الراي اللاسع",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "الأفعى البحرية",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "التايبان",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "الأفعى البنية الشرقية",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "أفعى راسل",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "الكريت",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "الأفعى النافثة",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "الكوبرا الملكية",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "الرتيلاء",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "عنكبوت الناسك البني",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "عنكبوت قمع الشبكة",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "العنكبوت البرازيلي الجوال",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "عنكبوت الموز"
+    ]
+   },
+   {
+    "text": "أم أربعة وأربعين",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "أم أربع وأربعين",
+     "الحريش"
+    ]
+   },
+   {
+    "text": "قنفذ البحر",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "سحلية الخرز",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "الدبور الآسيوي العملاق",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "النحل الأفريقي",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "النحل القاتل"
+    ]
+   },
+   {
+    "text": "شقائق النعمان البحرية",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "الزبابة",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "الأفعى الرملية",
+    "baseRarity": 0.0055
+   }
+  ],
+  "secret": "الأخطبوط ذو الحلقات الزرقاء",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/حيوان_سام"
+  ]
+ },
+ {
+  "id": "nat-houseplants",
+  "category": "طبيعة",
+  "prompt": "اذكر نبتة زينة تُزرع داخل البيت",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "صبار",
+    "baseRarity": 0.2337
+   },
+   {
+    "text": "ألوفيرا",
+    "baseRarity": 0.1169,
+    "aliases": [
+     "الصبر"
+    ]
+   },
+   {
+    "text": "بوتس",
+    "baseRarity": 0.0779,
+    "aliases": [
+     "البوتس"
+    ]
+   },
+   {
+    "text": "سانسيفيريا",
+    "baseRarity": 0.0584,
+    "aliases": [
+     "جلد النمر",
+     "لسان الحماة"
+    ]
+   },
+   {
+    "text": "زاميا",
+    "baseRarity": 0.0467,
+    "aliases": [
+     "الزاميا"
+    ]
+   },
+   {
+    "text": "مونستيرا",
+    "baseRarity": 0.039
+   },
+   {
+    "text": "فيكس",
+    "baseRarity": 0.0334,
+    "aliases": [
+     "الفيكس"
+    ]
+   },
+   {
+    "text": "شيفليرا",
+    "baseRarity": 0.0292
+   },
+   {
+    "text": "دراسينا",
+    "baseRarity": 0.026
+   },
+   {
+    "text": "البامبو المحظوظ",
+    "baseRarity": 0.0234,
+    "aliases": [
+     "خيزران الحظ",
+     "بامبو"
+    ]
+   },
+   {
+    "text": "أوركيد",
+    "baseRarity": 0.0212,
+    "aliases": [
+     "الأوركيدا"
+    ]
+   },
+   {
+    "text": "زنبق السلام",
+    "baseRarity": 0.0195,
+    "aliases": [
+     "سباثيفيلوم"
+    ]
+   },
+   {
+    "text": "فيلوديندرون",
+    "baseRarity": 0.018
+   },
+   {
+    "text": "أنثوريوم",
+    "baseRarity": 0.0167
+   },
+   {
+    "text": "سرخس",
+    "baseRarity": 0.0156,
+    "aliases": [
+     "السراخس"
+    ]
+   },
+   {
+    "text": "نخلة الأريكا",
+    "baseRarity": 0.0146,
+    "aliases": [
+     "الأريكا"
+    ]
+   },
+   {
+    "text": "كروتون",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "ديفنباخيا",
+    "baseRarity": 0.013
+   },
+   {
+    "text": "بيغونيا",
+    "baseRarity": 0.0123
+   },
+   {
+    "text": "كالاثيا",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "نبات العنكبوت",
+    "baseRarity": 0.0111,
+    "aliases": [
+     "الكلوروفيتم"
+    ]
+   },
+   {
+    "text": "أغلونيما",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "النباتات العصارية",
+    "baseRarity": 0.0102,
+    "aliases": [
+     "العصاريات"
+    ]
+   },
+   {
+    "text": "هاورثيا",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "إيشيفيريا",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "شجرة المال",
+    "baseRarity": 0.009,
+    "aliases": [
+     "كراسولا",
+     "نبات اليشم"
+    ]
+   },
+   {
+    "text": "اللبلاب",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "الأيبي"
+    ]
+   },
+   {
+    "text": "ريحان",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "نعناع",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "بنفسج أفريقي",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "البنفسج الأفريقي"
+    ]
+   },
+   {
+    "text": "كلانشو",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "الكلانشوي"
+    ]
+   },
+   {
+    "text": "بيليا",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "تين الكمان",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "مطاطية",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "شجرة المطاط"
+    ]
+   },
+   {
+    "text": "ستريليتزيا",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "عصفور الجنة"
+    ]
+   },
+   {
+    "text": "نخلة الزينة",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "بيبروميا",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "مارانتا",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "نبتة الصلاة"
+    ]
+   },
+   {
+    "text": "سنغونيوم",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "الياسمين",
+    "baseRarity": 0.0058
+   }
+  ],
+  "secret": "الهاورثيا",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/نباتات_منزلية"
+  ]
+ },
+ {
+  "id": "nat-animals",
+  "category": "طبيعة",
+  "prompt": "اذكر أي حيوان",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "أسد",
+    "baseRarity": 0.1515
+   },
+   {
+    "text": "قطة",
+    "baseRarity": 0.0757,
+    "aliases": [
+     "قط",
+     "بسة"
+    ]
+   },
+   {
+    "text": "كلب",
+    "baseRarity": 0.0505
+   },
+   {
+    "text": "جمل",
+    "baseRarity": 0.0379,
+    "aliases": [
+     "ناقة",
+     "بعير"
+    ]
+   },
+   {
+    "text": "حصان",
+    "baseRarity": 0.0303,
+    "aliases": [
+     "خيل"
+    ]
+   },
+   {
+    "text": "فيل",
+    "baseRarity": 0.0252
+   },
+   {
+    "text": "زرافة",
+    "baseRarity": 0.0216
+   },
+   {
+    "text": "بقرة",
+    "baseRarity": 0.0189
+   },
+   {
+    "text": "خروف",
+    "baseRarity": 0.0168,
+    "aliases": [
+     "غنم",
+     "نعجة"
+    ]
+   },
+   {
+    "text": "ماعز",
+    "baseRarity": 0.0151,
+    "aliases": [
+     "عنز",
+     "تيس"
+    ]
+   },
+   {
+    "text": "نمر",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "دب",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "ذئب",
+    "baseRarity": 0.0117
+   },
+   {
+    "text": "ثعلب",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "أرنب",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "غزال",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "قرد",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "حوت",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "دلفين",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "حمار",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "حمار وحشي",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "وحيد القرن",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "الكركدن"
+    ]
+   },
+   {
+    "text": "فرس النهر",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "كنغر",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "باندا",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "كوالا",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "فهد",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "ضبع",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "فأر",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "جرذ",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "سنجاب",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "قنفذ",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "خفاش",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "شمبانزي",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "غوريلا",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "إنسان الغاب",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "أورانغ أوتان"
+    ]
+   },
+   {
+    "text": "بابون",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "ليمور",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "خنزير",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "ثور",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "جاموس",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "بيسون",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "ياك",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "لاما",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "ألبكة",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "الألباكا"
+    ]
+   },
+   {
+    "text": "أيل",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "غزال الأيل"
+    ]
+   },
+   {
+    "text": "رنة",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "الرنة",
+     "كاريبو"
+    ]
+   },
+   {
+    "text": "موظ",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "وعل",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "مها",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "ظبي",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "حيوان الكسلان",
+    "baseRarity": 0.0029,
+    "aliases": [
+     "الكسلان"
+    ]
+   },
+   {
+    "text": "آكل النمل",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "آكل النمل الحرشفي",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "البنغول"
+    ]
+   },
+   {
+    "text": "مدرع",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "أرماديلو"
+    ]
+   },
+   {
+    "text": "قندس",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "ثعلب الماء",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "قضاعة"
+    ]
+   },
+   {
+    "text": "فقمة",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "أسد البحر",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "فظ",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "حصان البحر"
+    ]
+   },
+   {
+    "text": "خروف البحر",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "بقرة البحر"
+    ]
+   },
+   {
+    "text": "بلاتيبوس",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "خلد الماء",
+     "منقار البط"
+    ]
+   },
+   {
+    "text": "خلد",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "زبابة",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "وشق",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "وشق صحراوي",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "كاراكال",
+     "عناق الأرض"
+    ]
+   },
+   {
+    "text": "فنك",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "ثعلب الصحراء"
+    ]
+   },
+   {
+    "text": "نمس",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "ظربان",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "راكون",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "غرير",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "ابن عرس",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "سمور",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "حيوان الوومبات",
+    "baseRarity": 0.002,
+    "aliases": [
+     "وومبات"
+    ]
+   },
+   {
+    "text": "حيوان الأبوسوم",
+    "baseRarity": 0.002,
+    "aliases": [
+     "أبوسوم"
+    ]
+   },
+   {
+    "text": "تابير",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "أوكابي",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "نمر الثلج",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "فهد الثلوج"
+    ]
+   },
+   {
+    "text": "بوما",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "أسد الجبال",
+     "كوجر"
+    ]
+   },
+   {
+    "text": "جاكوار",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "جربوع",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "هامستر",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "خنزير غينيا",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "الهامستر الرومي"
+    ]
+   },
+   {
+    "text": "شنشيلا",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "صقر",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "نسر",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "حمامة",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "حمام"
+    ]
+   },
+   {
+    "text": "عصفور",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "بطة",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "بط"
+    ]
+   },
+   {
+    "text": "دجاجة",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "دجاج",
+     "ديك"
+    ]
+   },
+   {
+    "text": "ببغاء",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "ببغاوات"
+    ]
+   },
+   {
+    "text": "بومة",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "بوم"
+    ]
+   },
+   {
+    "text": "غراب",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "نعامة",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "طاووس",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "بطريق",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "بجعة",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "بجع"
+    ]
+   },
+   {
+    "text": "إوزة",
+    "baseRarity": 0.0015,
+    "aliases": [
+     "وز",
+     "إوز"
+    ]
+   },
+   {
+    "text": "ديك رومي",
+    "baseRarity": 0.0015,
+    "aliases": [
+     "حبش"
+    ]
+   },
+   {
+    "text": "نورس",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "لقلق",
+    "baseRarity": 0.0015,
+    "aliases": [
+     "لقالق",
+     "اللقلق"
+    ]
+   },
+   {
+    "text": "فلامنغو",
+    "baseRarity": 0.0015,
+    "aliases": [
+     "النحام"
+    ]
+   },
+   {
+    "text": "هدهد",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "كناري",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "بلبل",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "حسون",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "سنونو",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "السنونو",
+     "خطاف"
+    ]
+   },
+   {
+    "text": "عقاب",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "باز",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "شاهين",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "حبارى",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "الحبارى"
+    ]
+   },
+   {
+    "text": "كروان",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "قطا",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "سمان",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "السمان",
+     "السلوى"
+    ]
+   },
+   {
+    "text": "حجل",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "تدرج",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "الدراج",
+     "الفزنت"
+    ]
+   },
+   {
+    "text": "طائر الطنان",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "الطنان"
+    ]
+   },
+   {
+    "text": "نقار الخشب",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "طائر الرفراف",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "الرفراف",
+     "صياد السمك"
+    ]
+   },
+   {
+    "text": "أبو منجل",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "طائر أبو منجل"
+    ]
+   },
+   {
+    "text": "مالك الحزين",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "بلشون",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "كركي",
+    "baseRarity": 0.0012,
+    "aliases": [
+     "الكركي"
+    ]
+   },
+   {
+    "text": "غرنوق",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "رخمة",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "عوسق",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "حدأة",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "عندليب",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "شحرور",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "زرزور",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "قمري",
+    "baseRarity": 0.0012,
+    "aliases": [
+     "يمام"
+    ]
+   },
+   {
+    "text": "فاختة",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "وروار",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "طائر الجنة",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "طوقان",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "الطوقان"
+    ]
+   },
+   {
+    "text": "كوكاتو",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "ببغاء الدرة",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "المكاو"
+    ]
+   },
+   {
+    "text": "طائر الحب",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "البادجي"
+    ]
+   },
+   {
+    "text": "فنش",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "دوري",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "عصفور الدوري"
+    ]
+   },
+   {
+    "text": "قبرة",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "هازجة",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "أبو قردان",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "إيمو",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "كيوي",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "ريا",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "كاسواري",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "البط البري",
+    "baseRarity": 0.001,
+    "aliases": [
+     "خضاري"
+    ]
+   },
+   {
+    "text": "الغطاس",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "البفن",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "الخرشنة",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "القطرس",
+    "baseRarity": 0.001,
+    "aliases": [
+     "طائر القطرس"
+    ]
+   },
+   {
+    "text": "الأطيش",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "الفرقاطة",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "أبو الحناء",
+    "baseRarity": 0.001,
+    "aliases": [
+     "روبن"
+    ]
+   },
+   {
+    "text": "الصرد",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "الطيطوى",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "الزقزاق",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "الحمام الزاجل",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "المينا",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "المينة"
+    ]
+   },
+   {
+    "text": "الهوبرة",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "تمساح",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "ثعبان",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "حية",
+     "أفعى"
+    ]
+   },
+   {
+    "text": "سلحفاة",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "سلحفاه"
+    ]
+   },
+   {
+    "text": "ضفدع",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "ضفدعة"
+    ]
+   },
+   {
+    "text": "سحلية",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "سحالي"
+    ]
+   },
+   {
+    "text": "ضب",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "ورل",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "حرباء",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "بُرص",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "البرص",
+     "أبو بريص",
+     "الوزغ"
+    ]
+   },
+   {
+    "text": "إغوانا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "تنين كومودو",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "كومودو"
+    ]
+   },
+   {
+    "text": "كوبرا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "أناكوندا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "أصلة",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "بايثون"
+    ]
+   },
+   {
+    "text": "مامبا",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "المامبا السوداء"
+    ]
+   },
+   {
+    "text": "أفعى الجرس",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "الجرسية"
+    ]
+   },
+   {
+    "text": "الأفعى المقرنة",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "الأفعى القرناء"
+    ]
+   },
+   {
+    "text": "أفعى الكوبرا الملكية",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "الكوبرا الملكية"
+    ]
+   },
+   {
+    "text": "القاطور",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "الأليغاتور"
+    ]
+   },
+   {
+    "text": "الكيمن",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "الغافيال",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "غاريال"
+    ]
+   },
+   {
+    "text": "السلحفاة البحرية",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "السلحفاة العملاقة",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "سلحفاة غالاباغوس"
+    ]
+   },
+   {
+    "text": "سلحفاة جلدية الظهر",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "علجوم",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "العلجوم",
+     "ضفدع الطين"
+    ]
+   },
+   {
+    "text": "السمندل",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "السلمندر"
+    ]
+   },
+   {
+    "text": "سمندل الماء",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "النيوت"
+    ]
+   },
+   {
+    "text": "الضفدع الشجري",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "الضفدع السام",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "ضفدع السهم السام"
+    ]
+   },
+   {
+    "text": "الضفدع الثور",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "الأكسولوتل",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "سمك المشي المكسيكي"
+    ]
+   },
+   {
+    "text": "الأبوديات",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "الضفادع الدودية"
+    ]
+   },
+   {
+    "text": "التواتارا",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "السحلية ذات القرون",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "السقنقور",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "سمكة الرمل"
+    ]
+   },
+   {
+    "text": "الجيكو",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "الأغامة",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "الأفعى البحرية",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "الأفعى الرملية",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "الحية الرقطاء",
+    "baseRarity": 0.0008
+   },
+   {
+    "text": "وحش جيلا",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "السلحفاة النهرية",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "سلحفاة صندوقية",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "السلحفاة الصندوقية"
+    ]
+   },
+   {
+    "text": "السلحفاة المفترسة",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "السلحفاة القاضمة"
+    ]
+   },
+   {
+    "text": "التمساح النيلي",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "تمساح النيل"
+    ]
+   },
+   {
+    "text": "تمساح المياه المالحة",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "نحلة",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "نحل"
+    ]
+   },
+   {
+    "text": "نملة",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "نمل"
+    ]
+   },
+   {
+    "text": "ذبابة",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "ذباب",
+     "ذبانة"
+    ]
+   },
+   {
+    "text": "بعوضة",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "بعوض",
+     "ناموس"
+    ]
+   },
+   {
+    "text": "صرصور",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "صراصير"
+    ]
+   },
+   {
+    "text": "فراشة",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "فراش"
+    ]
+   },
+   {
+    "text": "جرادة",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "جراد"
+    ]
+   },
+   {
+    "text": "خنفساء",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "دبور",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "الزنبور",
+     "دبابير"
+    ]
+   },
+   {
+    "text": "يعسوب",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "الرعاش"
+    ]
+   },
+   {
+    "text": "فرس النبي",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "السرعوف"
+    ]
+   },
+   {
+    "text": "خنفساء الدعسوقة",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "الدعسوقة",
+     "أم علي"
+    ]
+   },
+   {
+    "text": "قملة",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "قمل"
+    ]
+   },
+   {
+    "text": "برغوث",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "براغيث"
+    ]
+   },
+   {
+    "text": "بقة",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "بق",
+     "بق الفراش"
+    ]
+   },
+   {
+    "text": "عثة",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "العث"
+    ]
+   },
+   {
+    "text": "دودة القز",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "النمل الأبيض",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "الأرضة",
+     "الرمة"
+    ]
+   },
+   {
+    "text": "الزيز",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "السيكادا"
+    ]
+   },
+   {
+    "text": "الجندب",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "الجنادب"
+    ]
+   },
+   {
+    "text": "صرار الليل",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "الصرصار",
+     "الجدجد"
+    ]
+   },
+   {
+    "text": "اليراعة",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "اليراع",
+     "سراج الليل"
+    ]
+   },
+   {
+    "text": "ذبابة الفاكهة",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ذبابة الخيل",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "ذبابة تسي تسي",
+    "baseRarity": 0.0007
+   },
+   {
+    "text": "الحشرة العصوية",
+    "baseRarity": 0.0007,
+    "aliases": [
+     "الحشرة العصا"
+    ]
+   },
+   {
+    "text": "حشرة المن",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "المن"
+    ]
+   },
+   {
+    "text": "الحشرة القشرية",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "خنفساء الجعل",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "الجعران",
+     "الجعل"
+    ]
+   },
+   {
+    "text": "خنفساء وحيد القرن",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "خنفساء أيل",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "خنفساء الأيل"
+    ]
+   },
+   {
+    "text": "سوسة",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "السوس"
+    ]
+   },
+   {
+    "text": "فراشة الملك",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "الفراشة الملكية",
+     "المونارك"
+    ]
+   },
+   {
+    "text": "عثة الملابس",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "النحلة الطنانة",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "الدبور الآسيوي",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "النملة الحمراء",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "نمل النار",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "النمل الجيشي",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "النمل الحاصد",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "نمل الحصاد"
+    ]
+   },
+   {
+    "text": "الزنبور الأحمر",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "الحفار",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "حفار الساق"
+    ]
+   },
+   {
+    "text": "ذبابة الرمل",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "بعوضة الأنوفيلس",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "الأنوفيلس"
+    ]
+   },
+   {
+    "text": "بعوضة الزاعجة",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "الزاعجة المصرية"
+    ]
+   },
+   {
+    "text": "السوسة الحمراء",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "سوسة النخيل"
+    ]
+   },
+   {
+    "text": "ذبابة مايو",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "ذبابة أيار"
+    ]
+   },
+   {
+    "text": "الحشرة الورقية",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "الخنفساء النمرية",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "بق الماء",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "متزلج الماء"
+    ]
+   },
+   {
+    "text": "هامور",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "سلمون",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "تونة",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "التونا"
+    ]
+   },
+   {
+    "text": "سردين",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "قرش",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "سمك القرش"
+    ]
+   },
+   {
+    "text": "بلطي",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "بلطي نيلي"
+    ]
+   },
+   {
+    "text": "كنعد",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "الكنعد",
+     "الكنعت"
+    ]
+   },
+   {
+    "text": "شعري",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "حريد",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "بياح",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "زبيدي",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "سبيطي",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "نويبي",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "شعور",
+    "baseRarity": 0.0006,
+    "aliases": [
+     "الشعور"
+    ]
+   },
+   {
+    "text": "ناجل",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "صافي",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "جش",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "فسكر",
+    "baseRarity": 0.0006
+   },
+   {
+    "text": "كوفر",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "بوري",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "قاروص",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "القاروص",
+     "سي باس"
+    ]
+   },
+   {
+    "text": "دنيس",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "مرجان",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "سمك المرجان"
+    ]
+   },
+   {
+    "text": "موسى",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "سمك موسى"
+    ]
+   },
+   {
+    "text": "ماكريل",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "الإسقمري",
+     "الماكريل"
+    ]
+   },
+   {
+    "text": "أنشوفة",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "الأنشوجة",
+     "الأنشوفي"
+    ]
+   },
+   {
+    "text": "قد",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "سمك القد",
+     "البكلاه"
+    ]
+   },
+   {
+    "text": "رنجة",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "تراوت",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "التروتة",
+     "السلمون المرقط"
+    ]
+   },
+   {
+    "text": "كارب",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "الشبوط",
+     "المبروك"
+    ]
+   },
+   {
+    "text": "قرموط",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "سمك القط",
+     "السلور"
+    ]
+   },
+   {
+    "text": "ثعبان البحر",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "الأنقليس",
+     "الحنكليس"
+    ]
+   },
+   {
+    "text": "سمك السيف",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "أبو سيف"
+    ]
+   },
+   {
+    "text": "مارلين",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "أبو شراع"
+    ]
+   },
+   {
+    "text": "باراكودا",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "الباراكودا"
+    ]
+   },
+   {
+    "text": "سمك المهرج",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "سمك النيمو",
+     "نيمو"
+    ]
+   },
+   {
+    "text": "سمك الببغاء",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "السمكة الجراحة",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "جراح"
+    ]
+   },
+   {
+    "text": "سمك الملاك",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "السمكة الذهبية",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "سمك الزينة الذهبي"
+    ]
+   },
+   {
+    "text": "سمك البالون",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "سمك النفيخ",
+     "الفوغو"
+    ]
+   },
+   {
+    "text": "سمك الراي",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "الراي اللاسع",
+     "اللخمة"
+    ]
+   },
+   {
+    "text": "سمك المنشار",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "سمك الشمس",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "المولا"
+    ]
+   },
+   {
+    "text": "الزوري",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "سمك الحفش",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "الحفش",
+     "سمك الكافيار"
+    ]
+   },
+   {
+    "text": "سمك الهلبوت",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "الهلبوت"
+    ]
+   },
+   {
+    "text": "الفرخ النيلي",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "قشر بياض"
+    ]
+   },
+   {
+    "text": "سمك النهاش",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "النهاش"
+    ]
+   },
+   {
+    "text": "سمك الأسد",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "سمك العقرب",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "سمك الأرنب",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "صافي أرنب"
+    ]
+   },
+   {
+    "text": "سمك القوبيون",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "القوبيون"
+    ]
+   },
+   {
+    "text": "سمك الصول",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "السول"
+    ]
+   },
+   {
+    "text": "سمك الماهي ماهي",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "الدورادو",
+     "أبو ذيل"
+    ]
+   },
+   {
+    "text": "السمك الطائر",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "القرش الحوتي",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "قرش الحوت",
+     "البهلول"
+    ]
+   },
+   {
+    "text": "القرش الأبيض الكبير",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "قرش أبو مطرقة",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "القرش المطرقة"
+    ]
+   },
+   {
+    "text": "السمك الأعمى",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "سمك البربوني",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "البربوني",
+     "السلطان إبراهيم"
+    ]
+   },
+   {
+    "text": "أخطبوط",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "قنديل البحر",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "قناديل البحر"
+    ]
+   },
+   {
+    "text": "نجم البحر",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "نجمة البحر"
+    ]
+   },
+   {
+    "text": "سرطان البحر",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "سلطعون",
+     "كابوريا"
+    ]
+   },
+   {
+    "text": "روبيان",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "جمبري",
+     "ربيان"
+    ]
+   },
+   {
+    "text": "استاكوزا",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "كركند",
+     "لوبستر"
+    ]
+   },
+   {
+    "text": "حبار",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "السبيط"
+    ]
+   },
+   {
+    "text": "محار",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "بلح البحر",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "المحار الأزرق"
+    ]
+   },
+   {
+    "text": "إسفنج",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "الإسفنج البحري"
+    ]
+   },
+   {
+    "text": "قنفذ البحر",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "خيار البحر",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "شقائق النعمان البحرية",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "القواقع",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "الحلزون البحري"
+    ]
+   },
+   {
+    "text": "الحبار العملاق",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "نوتي",
+    "baseRarity": 0.0005,
+    "aliases": [
+     "النوتيلوس"
+    ]
+   },
+   {
+    "text": "الكريل",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "الحوت الأزرق",
+    "baseRarity": 0.0005
+   },
+   {
+    "text": "الحوت القاتل",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "الأوركا"
+    ]
+   },
+   {
+    "text": "الحوت الأحدب",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "حوت العنبر",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "البيلوغا",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "الحوت الأبيض"
+    ]
+   },
+   {
+    "text": "الناروال",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "كركدن البحر"
+    ]
+   },
+   {
+    "text": "بطلينوس",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "البطلينوس"
+    ]
+   },
+   {
+    "text": "الإسكالوب",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "المحار المروحي"
+    ]
+   },
+   {
+    "text": "سرطان الناسك",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "سرطان الملك",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "السلطعون الملكي"
+    ]
+   },
+   {
+    "text": "البرنقيل",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الكركند الشائك",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الحلزون المخروطي",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "بزاق البحر",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "البزاق البحري"
+    ]
+   },
+   {
+    "text": "دودة البحر",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "البلانكتون",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "العوالق"
+    ]
+   },
+   {
+    "text": "طحالب بحرية",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "الطحالب"
+    ]
+   },
+   {
+    "text": "عشب البحر",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "فيل البحر",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الفقمة الراهبة",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "ثعلب البحر",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "قضاعة البحر"
+    ]
+   },
+   {
+    "text": "قنديل الصندوق",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "دبور البحر"
+    ]
+   },
+   {
+    "text": "محار اللؤلؤ",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الدولار الرملي",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "زنبق البحر",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الروبيان السرعوفي",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "قريدس فرس النبي"
+    ]
+   },
+   {
+    "text": "نمر أفريقي",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "النمر الأفريقي",
+     "فهد منقط"
+    ]
+   },
+   {
+    "text": "النو",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "الحيوان النو",
+     "الثيتل"
+    ]
+   },
+   {
+    "text": "جاموس أفريقي",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "الجاموس الأفريقي"
+    ]
+   },
+   {
+    "text": "كلب الصيد الأفريقي",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "الكلب البري الأفريقي"
+    ]
+   },
+   {
+    "text": "ابن آوى",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "خنزير الثؤلول",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "الخنزير الوحشي"
+    ]
+   },
+   {
+    "text": "الأفعى المامبا",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "بونوبو",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "ماندريل",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الإمبالا",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "إمبالا"
+    ]
+   },
+   {
+    "text": "الكودو",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الأوريكس",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "النسر الأفريقي",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "البجع الأبيض",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الطائر الكاتب",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "الطائر السكرتير"
+    ]
+   },
+   {
+    "text": "السرفال",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "القط النمري"
+    ]
+   },
+   {
+    "text": "القنفذ الأفريقي",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الشيهم",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "النيص"
+    ]
+   },
+   {
+    "text": "الثعبان الأصلة",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "البايثون الصخري"
+    ]
+   },
+   {
+    "text": "السلحفاة الأفريقية",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الحيوان الدكدك",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "دكدك"
+    ]
+   },
+   {
+    "text": "البونغو",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الإيلاند",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "الظبي الأفريقي الكبير"
+    ]
+   },
+   {
+    "text": "الهارتبيست",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "الظبي الأحمر"
+    ]
+   },
+   {
+    "text": "الخرتيت الأبيض",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "وحيد القرن الأبيض"
+    ]
+   },
+   {
+    "text": "وحيد القرن الأسود",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "المها العربي",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "النمر العربي",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الذئب العربي",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الضبع المخطط",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الثعلب الأحمر",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "ثعلب الرمال",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "ثعلب روبل"
+    ]
+   },
+   {
+    "text": "القط الرملي",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "قط الرمال"
+    ]
+   },
+   {
+    "text": "الوبر",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الأرنب البري",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "العقرب",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الحية المقرنة",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الكوبرا العربية",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الحجل العربي",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الوطواط",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الغريري",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "غرير العسل"
+    ]
+   },
+   {
+    "text": "القرد العربي",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "قرد البابون",
+     "الرباح"
+    ]
+   },
+   {
+    "text": "الطهر العربي",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "الوعل العربي"
+    ]
+   },
+   {
+    "text": "الحمام البري",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "حمام الصخور"
+    ]
+   },
+   {
+    "text": "الأطوم",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "سمك الزينة",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "بغل",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الألبكة",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "ألباكا"
+    ]
+   },
+   {
+    "text": "شنشيلة",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "فأر أليف",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "قنفذ أليف",
+    "baseRarity": 0.0004
+   },
+   {
+    "text": "الحصان القزم",
+    "baseRarity": 0.0004,
+    "aliases": [
+     "بوني"
+    ]
+   }
+  ],
+  "secret": "آكل النمل الحرشفي",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/حيوان"
+  ]
+ },
+ {
+  "id": "nat-water-animals",
+  "category": "طبيعة",
+  "prompt": "اذكر حيوان يعيش في الماء (بحر أو نهر)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "سمك",
+    "baseRarity": 0.1865,
+    "aliases": [
+     "سمكة"
+    ]
+   },
+   {
+    "text": "حوت",
+    "baseRarity": 0.0933
+   },
+   {
+    "text": "دلفين",
+    "baseRarity": 0.0622
+   },
+   {
+    "text": "قرش",
+    "baseRarity": 0.0466,
+    "aliases": [
+     "سمك القرش"
+    ]
+   },
+   {
+    "text": "أخطبوط",
+    "baseRarity": 0.0373
+   },
+   {
+    "text": "تمساح",
+    "baseRarity": 0.0311
+   },
+   {
+    "text": "فرس النهر",
+    "baseRarity": 0.0266
+   },
+   {
+    "text": "ضفدع",
+    "baseRarity": 0.0233
+   },
+   {
+    "text": "قندس",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "ثعلب الماء",
+    "baseRarity": 0.0187,
+    "aliases": [
+     "قضاعة"
+    ]
+   },
+   {
+    "text": "هامور",
+    "baseRarity": 0.017
+   },
+   {
+    "text": "سلمون",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "تونة",
+    "baseRarity": 0.0143,
+    "aliases": [
+     "التونا"
+    ]
+   },
+   {
+    "text": "سردين",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "بلطي",
+    "baseRarity": 0.0124,
+    "aliases": [
+     "بلطي نيلي"
+    ]
+   },
+   {
+    "text": "كنعد",
+    "baseRarity": 0.0117,
+    "aliases": [
+     "الكنعد",
+     "الكنعت"
+    ]
+   },
+   {
+    "text": "شعري",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "حريد",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "بياح",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "زبيدي",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "سبيطي",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "نويبي",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "شعور",
+    "baseRarity": 0.0081,
+    "aliases": [
+     "الشعور"
+    ]
+   },
+   {
+    "text": "ناجل",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "صافي",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "جش",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "فسكر",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "كوفر",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "بوري",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "قاروص",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "القاروص",
+     "سي باس"
+    ]
+   },
+   {
+    "text": "دنيس",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "مرجان",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "سمك المرجان"
+    ]
+   },
+   {
+    "text": "موسى",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "سمك موسى"
+    ]
+   },
+   {
+    "text": "ماكريل",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "الإسقمري",
+     "الماكريل"
+    ]
+   },
+   {
+    "text": "أنشوفة",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "الأنشوجة",
+     "الأنشوفي"
+    ]
+   },
+   {
+    "text": "قد",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "سمك القد",
+     "البكلاه"
+    ]
+   },
+   {
+    "text": "رنجة",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "تراوت",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "التروتة",
+     "السلمون المرقط"
+    ]
+   },
+   {
+    "text": "كارب",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "الشبوط",
+     "المبروك"
+    ]
+   },
+   {
+    "text": "قرموط",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "سمك القط",
+     "السلور"
+    ]
+   },
+   {
+    "text": "ثعبان البحر",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "الأنقليس",
+     "الحنكليس"
+    ]
+   },
+   {
+    "text": "سمك السيف",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "أبو سيف"
+    ]
+   },
+   {
+    "text": "مارلين",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "أبو شراع"
+    ]
+   },
+   {
+    "text": "باراكودا",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "الباراكودا"
+    ]
+   },
+   {
+    "text": "سمك المهرج",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "سمك النيمو",
+     "نيمو"
+    ]
+   },
+   {
+    "text": "سمك الببغاء",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "السمكة الجراحة",
+    "baseRarity": 0.004,
+    "aliases": [
+     "جراح"
+    ]
+   },
+   {
+    "text": "سمك الملاك",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "السمكة الذهبية",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "سمك الزينة الذهبي"
+    ]
+   },
+   {
+    "text": "سمك البالون",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "سمك النفيخ",
+     "الفوغو"
+    ]
+   },
+   {
+    "text": "سمك الراي",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "الراي اللاسع",
+     "اللخمة"
+    ]
+   },
+   {
+    "text": "سمك المنشار",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "سمك الشمس",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "المولا"
+    ]
+   },
+   {
+    "text": "الزوري",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "سمك الحفش",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "الحفش",
+     "سمك الكافيار"
+    ]
+   },
+   {
+    "text": "سمك الهلبوت",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "الهلبوت"
+    ]
+   },
+   {
+    "text": "الفرخ النيلي",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "قشر بياض"
+    ]
+   },
+   {
+    "text": "سمك النهاش",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "النهاش"
+    ]
+   },
+   {
+    "text": "سمك الأسد",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "سمك العقرب",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "سمك الأرنب",
+    "baseRarity": 0.0031,
+    "aliases": [
+     "صافي أرنب"
+    ]
+   },
+   {
+    "text": "سمك القوبيون",
+    "baseRarity": 0.003,
+    "aliases": [
+     "القوبيون"
+    ]
+   },
+   {
+    "text": "سمك الصول",
+    "baseRarity": 0.003,
+    "aliases": [
+     "السول"
+    ]
+   },
+   {
+    "text": "سمك الماهي ماهي",
+    "baseRarity": 0.0029,
+    "aliases": [
+     "الدورادو",
+     "أبو ذيل"
+    ]
+   },
+   {
+    "text": "السمك الطائر",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "القرش الحوتي",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "قرش الحوت",
+     "البهلول"
+    ]
+   },
+   {
+    "text": "القرش الأبيض الكبير",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "قرش أبو مطرقة",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "القرش المطرقة"
+    ]
+   },
+   {
+    "text": "السمك الأعمى",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "سمك البربوني",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "البربوني",
+     "السلطان إبراهيم"
+    ]
+   },
+   {
+    "text": "قنديل البحر",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "قناديل البحر"
+    ]
+   },
+   {
+    "text": "نجم البحر",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "نجمة البحر"
+    ]
+   },
+   {
+    "text": "سرطان البحر",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "سلطعون",
+     "كابوريا"
+    ]
+   },
+   {
+    "text": "روبيان",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "جمبري",
+     "ربيان"
+    ]
+   },
+   {
+    "text": "استاكوزا",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "كركند",
+     "لوبستر"
+    ]
+   },
+   {
+    "text": "حبار",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "السبيط"
+    ]
+   },
+   {
+    "text": "محار",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "بلح البحر",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "المحار الأزرق"
+    ]
+   },
+   {
+    "text": "إسفنج",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "الإسفنج البحري"
+    ]
+   },
+   {
+    "text": "قنفذ البحر",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "خيار البحر",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "شقائق النعمان البحرية",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "فقمة",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "أسد البحر",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "فظ",
+    "baseRarity": 0.0022,
+    "aliases": [
+     "الفظ"
+    ]
+   },
+   {
+    "text": "خروف البحر",
+    "baseRarity": 0.0022,
+    "aliases": [
+     "بقرة البحر",
+     "الأطوم"
+    ]
+   },
+   {
+    "text": "سلحفاة بحرية",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "الأفعى البحرية",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "القواقع",
+    "baseRarity": 0.0021,
+    "aliases": [
+     "الحلزون البحري"
+    ]
+   },
+   {
+    "text": "الحبار العملاق",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "نوتي",
+    "baseRarity": 0.002,
+    "aliases": [
+     "النوتيلوس"
+    ]
+   },
+   {
+    "text": "الكريل",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الحوت الأزرق",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الحوت القاتل",
+    "baseRarity": 0.002,
+    "aliases": [
+     "الأوركا"
+    ]
+   },
+   {
+    "text": "الحوت الأحدب",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "حوت العنبر",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "البيلوغا",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "الحوت الأبيض"
+    ]
+   },
+   {
+    "text": "الناروال",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "كركدن البحر"
+    ]
+   },
+   {
+    "text": "بطلينوس",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "البطلينوس"
+    ]
+   },
+   {
+    "text": "الإسكالوب",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "المحار المروحي"
+    ]
+   },
+   {
+    "text": "سرطان الناسك",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "سرطان الملك",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "السلطعون الملكي"
+    ]
+   },
+   {
+    "text": "البرنقيل",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "الكركند الشائك",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "الحلزون المخروطي",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "بزاق البحر",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "البزاق البحري"
+    ]
+   },
+   {
+    "text": "دودة البحر",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "البلانكتون",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "العوالق"
+    ]
+   },
+   {
+    "text": "طحالب بحرية",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "الطحالب"
+    ]
+   },
+   {
+    "text": "عشب البحر",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "فيل البحر",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "الفقمة الراهبة",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "ثعلب البحر",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "قضاعة البحر"
+    ]
+   },
+   {
+    "text": "البطريق",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "قنديل الصندوق",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "دبور البحر"
+    ]
+   },
+   {
+    "text": "محار اللؤلؤ",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "الدولار الرملي",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "زنبق البحر",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "الروبيان السرعوفي",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "قريدس فرس النبي"
+    ]
+   }
+  ],
+  "secret": "خيار البحر",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/حيوانات_مائية"
+  ]
+ },
+ {
+  "id": "nat-egg-layers",
+  "category": "طبيعة",
+  "prompt": "اذكر حيوان يبيض",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "دجاجة",
+    "baseRarity": 0.1917,
+    "aliases": [
+     "دجاج"
+    ]
+   },
+   {
+    "text": "بطة",
+    "baseRarity": 0.0958,
+    "aliases": [
+     "بط"
+    ]
+   },
+   {
+    "text": "نعامة",
+    "baseRarity": 0.0639
+   },
+   {
+    "text": "حمامة",
+    "baseRarity": 0.0479,
+    "aliases": [
+     "حمام"
+    ]
+   },
+   {
+    "text": "تمساح",
+    "baseRarity": 0.0383
+   },
+   {
+    "text": "سلحفاة",
+    "baseRarity": 0.0319
+   },
+   {
+    "text": "ضفدع",
+    "baseRarity": 0.0274
+   },
+   {
+    "text": "ثعبان",
+    "baseRarity": 0.024,
+    "aliases": [
+     "حية",
+     "أفعى"
+    ]
+   },
+   {
+    "text": "كوبرا",
+    "baseRarity": 0.0213
+   },
+   {
+    "text": "ضب",
+    "baseRarity": 0.0192
+   },
+   {
+    "text": "ورل",
+    "baseRarity": 0.0174
+   },
+   {
+    "text": "سحلية",
+    "baseRarity": 0.016
+   },
+   {
+    "text": "إغوانا",
+    "baseRarity": 0.0147
+   },
+   {
+    "text": "برص",
+    "baseRarity": 0.0137,
+    "aliases": [
+     "أبو بريص",
+     "الوزغ"
+    ]
+   },
+   {
+    "text": "نحلة",
+    "baseRarity": 0.0128,
+    "aliases": [
+     "نحل"
+    ]
+   },
+   {
+    "text": "نملة",
+    "baseRarity": 0.012,
+    "aliases": [
+     "نمل"
+    ]
+   },
+   {
+    "text": "ذبابة",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "بعوضة",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "فراشة",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "صرصور",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "جرادة",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "جراد"
+    ]
+   },
+   {
+    "text": "خنفساء",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "عنكبوت",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "أخطبوط",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "حبار",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "سلمون",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "سردين",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "تونة",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "منقار البط",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "خلد الماء",
+     "بلاتيبوس"
+    ]
+   },
+   {
+    "text": "قنفذ النمل",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "صقر",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "نسر",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "عصفور",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "ببغاء",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "ببغاوات"
+    ]
+   },
+   {
+    "text": "بومة",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "بوم"
+    ]
+   },
+   {
+    "text": "غراب",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "طاووس",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "بطريق",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "بجعة",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "بجع"
+    ]
+   },
+   {
+    "text": "إوزة",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "وز",
+     "إوز"
+    ]
+   },
+   {
+    "text": "ديك رومي",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "حبش"
+    ]
+   },
+   {
+    "text": "نورس",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "لقلق",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "لقالق",
+     "اللقلق"
+    ]
+   },
+   {
+    "text": "فلامنغو",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "النحام"
+    ]
+   },
+   {
+    "text": "هدهد",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "كناري",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "بلبل",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "حسون",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "سنونو",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "السنونو",
+     "خطاف"
+    ]
+   },
+   {
+    "text": "عقاب",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "باز",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "شاهين",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "حبارى",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "الحبارى"
+    ]
+   },
+   {
+    "text": "كروان",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "قطا",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "سمان",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "السمان",
+     "السلوى"
+    ]
+   },
+   {
+    "text": "حجل",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "تدرج",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "الدراج",
+     "الفزنت"
+    ]
+   },
+   {
+    "text": "طائر الطنان",
+    "baseRarity": 0.0032,
+    "aliases": [
+     "الطنان"
+    ]
+   },
+   {
+    "text": "نقار الخشب",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "طائر الرفراف",
+    "baseRarity": 0.0031,
+    "aliases": [
+     "الرفراف",
+     "صياد السمك"
+    ]
+   },
+   {
+    "text": "أبو منجل",
+    "baseRarity": 0.0031,
+    "aliases": [
+     "طائر أبو منجل"
+    ]
+   },
+   {
+    "text": "مالك الحزين",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "بلشون",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "كركي",
+    "baseRarity": 0.0029,
+    "aliases": [
+     "الكركي"
+    ]
+   },
+   {
+    "text": "غرنوق",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "رخمة",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "عوسق",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "حدأة",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "عندليب",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "شحرور",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "زرزور",
+    "baseRarity": 0.0027
+   },
+   {
+    "text": "قمري",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "يمام"
+    ]
+   },
+   {
+    "text": "فاختة",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "وروار",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "طائر الجنة",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "طوقان",
+    "baseRarity": 0.0025,
+    "aliases": [
+     "الطوقان"
+    ]
+   },
+   {
+    "text": "كوكاتو",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "ببغاء الدرة",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "المكاو"
+    ]
+   },
+   {
+    "text": "طائر الحب",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "البادجي"
+    ]
+   },
+   {
+    "text": "فنش",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "دوري",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "عصفور الدوري"
+    ]
+   },
+   {
+    "text": "قبرة",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "هازجة",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "أبو قردان",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "إيمو",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "كيوي",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "ريا",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "كاسواري",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "البط البري",
+    "baseRarity": 0.0021,
+    "aliases": [
+     "خضاري"
+    ]
+   },
+   {
+    "text": "الغطاس",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "البفن",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "الخرشنة",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "القطرس",
+    "baseRarity": 0.002,
+    "aliases": [
+     "طائر القطرس"
+    ]
+   },
+   {
+    "text": "الأطيش",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الفرقاطة",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "أبو الحناء",
+    "baseRarity": 0.002,
+    "aliases": [
+     "روبن"
+    ]
+   },
+   {
+    "text": "الصرد",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "الطيطوى",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "الزقزاق",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "الحمام الزاجل",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "المينا",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "المينة"
+    ]
+   },
+   {
+    "text": "الهوبرة",
+    "baseRarity": 0.0019
+   }
+  ],
+  "secret": "قنفذ النمل",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/بيوض"
+  ]
+ },
+ {
+  "id": "nat-plants",
+  "category": "طبيعة",
+  "prompt": "اذكر أي نبات أو شجرة أو زهرة",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "نخلة",
+    "baseRarity": 0.17,
+    "aliases": [
+     "النخيل"
+    ]
+   },
+   {
+    "text": "ورد",
+    "baseRarity": 0.085
+   },
+   {
+    "text": "صبار",
+    "baseRarity": 0.0567
+   },
+   {
+    "text": "زيتون",
+    "baseRarity": 0.0425
+   },
+   {
+    "text": "سدر",
+    "baseRarity": 0.034,
+    "aliases": [
+     "النبق"
+    ]
+   },
+   {
+    "text": "أثل",
+    "baseRarity": 0.0283
+   },
+   {
+    "text": "سمر",
+    "baseRarity": 0.0243
+   },
+   {
+    "text": "طلح",
+    "baseRarity": 0.0212
+   },
+   {
+    "text": "غاف",
+    "baseRarity": 0.0189
+   },
+   {
+    "text": "أراك",
+    "baseRarity": 0.017,
+    "aliases": [
+     "السواك"
+    ]
+   },
+   {
+    "text": "صنوبر",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "أرز",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "بلوط",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "سرو",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "صفصاف",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "كينا",
+    "baseRarity": 0.0106,
+    "aliases": [
+     "الكافور",
+     "الأوكالبتوس"
+    ]
+   },
+   {
+    "text": "تين",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "برتقال",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "ليمون",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "تفاح",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "مانجو",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "رمان",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "جوز الهند",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "جوز",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "الجوز"
+    ]
+   },
+   {
+    "text": "لوز",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "فستق",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "بندق",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "كستناء",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "توت",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "مشمش",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "خوخ",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "كرز",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "كمثرى",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "نيم",
+    "baseRarity": 0.005,
+    "aliases": [
+     "شجرة النيم"
+    ]
+   },
+   {
+    "text": "بونسيانا",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "البونسيانا"
+    ]
+   },
+   {
+    "text": "بانيان",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "التين البنغالي"
+    ]
+   },
+   {
+    "text": "ماهوجني",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "الماهوجني"
+    ]
+   },
+   {
+    "text": "ساج",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "الساج"
+    ]
+   },
+   {
+    "text": "أبنوس",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "صندل",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "خشب الصندل"
+    ]
+   },
+   {
+    "text": "قيقب",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "القيقب"
+    ]
+   },
+   {
+    "text": "زان",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "دردار",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "حور",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "شوح",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "التنوب"
+    ]
+   },
+   {
+    "text": "بتولا",
+    "baseRarity": 0.0037,
+    "aliases": [
+     "البتولا",
+     "القضبان"
+    ]
+   },
+   {
+    "text": "باوباب",
+    "baseRarity": 0.0036,
+    "aliases": [
+     "البوباب",
+     "شجرة التبلدي",
+     "التبلدي"
+    ]
+   },
+   {
+    "text": "سيكويا",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "الخشب الأحمر",
+     "السكويا"
+    ]
+   },
+   {
+    "text": "دم الأخوين",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "دم التنين"
+    ]
+   },
+   {
+    "text": "لبان",
+    "baseRarity": 0.0034,
+    "aliases": [
+     "شجرة اللبان",
+     "الكندر"
+    ]
+   },
+   {
+    "text": "مر",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "المر"
+    ]
+   },
+   {
+    "text": "سنط",
+    "baseRarity": 0.0033,
+    "aliases": [
+     "الأكاسيا"
+    ]
+   },
+   {
+    "text": "عرعر",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "بطم",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "خروب",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "جميز",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "قرم",
+    "baseRarity": 0.003,
+    "aliases": [
+     "المانغروف",
+     "الشورى"
+    ]
+   },
+   {
+    "text": "سنديان",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "زعرور",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "ماغنوليا",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "مطاط",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "شجرة المطاط"
+    ]
+   },
+   {
+    "text": "القرفة",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "شجرة القرفة"
+    ]
+   },
+   {
+    "text": "الكاكاو",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "شجرة الكاكاو"
+    ]
+   },
+   {
+    "text": "البن",
+    "baseRarity": 0.0027,
+    "aliases": [
+     "شجرة البن"
+    ]
+   },
+   {
+    "text": "الشاي",
+    "baseRarity": 0.0026,
+    "aliases": [
+     "شجرة الشاي"
+    ]
+   },
+   {
+    "text": "الأفوكادو",
+    "baseRarity": 0.0026
+   },
+   {
+    "text": "الجوافة",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الليتشي",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "البابايا",
+    "baseRarity": 0.0025
+   },
+   {
+    "text": "الكاجو",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "الدوم",
+    "baseRarity": 0.0024,
+    "aliases": [
+     "نخلة الدوم"
+    ]
+   },
+   {
+    "text": "الكازوارينا",
+    "baseRarity": 0.0024
+   },
+   {
+    "text": "الفيكس",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "التين المطاطي"
+    ]
+   },
+   {
+    "text": "الجكرندا",
+    "baseRarity": 0.0023,
+    "aliases": [
+     "الجاكرندا"
+    ]
+   },
+   {
+    "text": "ياسمين",
+    "baseRarity": 0.0023
+   },
+   {
+    "text": "فل",
+    "baseRarity": 0.0022
+   },
+   {
+    "text": "توليب",
+    "baseRarity": 0.0022,
+    "aliases": [
+     "التيوليب"
+    ]
+   },
+   {
+    "text": "عباد الشمس",
+    "baseRarity": 0.0022,
+    "aliases": [
+     "دوار الشمس"
+    ]
+   },
+   {
+    "text": "أوركيد",
+    "baseRarity": 0.0022,
+    "aliases": [
+     "الأوركيدا",
+     "السحلبية"
+    ]
+   },
+   {
+    "text": "زنبق",
+    "baseRarity": 0.0021,
+    "aliases": [
+     "الليلي"
+    ]
+   },
+   {
+    "text": "لافندر",
+    "baseRarity": 0.0021,
+    "aliases": [
+     "الخزامى"
+    ]
+   },
+   {
+    "text": "أقحوان",
+    "baseRarity": 0.0021
+   },
+   {
+    "text": "بابونج",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "نرجس",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "بنفسج",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "قرنفل",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "سوسن",
+    "baseRarity": 0.002
+   },
+   {
+    "text": "لوتس",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "زهرة اللوتس"
+    ]
+   },
+   {
+    "text": "نيلوفر",
+    "baseRarity": 0.0019,
+    "aliases": [
+     "زنبق الماء"
+    ]
+   },
+   {
+    "text": "كاميليا",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "جربيرا",
+    "baseRarity": 0.0019
+   },
+   {
+    "text": "داليا",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "أضاليا",
+    "baseRarity": 0.0018,
+    "aliases": [
+     "الأزاليا"
+    ]
+   },
+   {
+    "text": "بيغونيا",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "بتونيا",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "شقائق النعمان",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "خشخاش",
+    "baseRarity": 0.0018
+   },
+   {
+    "text": "كاردينيا",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "الغاردينيا"
+    ]
+   },
+   {
+    "text": "هيبيسكوس",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "الكركديه"
+    ]
+   },
+   {
+    "text": "بوغنفيليا",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "الجهنمية"
+    ]
+   },
+   {
+    "text": "فوشيا",
+    "baseRarity": 0.0017
+   },
+   {
+    "text": "ليلك",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "الليلك"
+    ]
+   },
+   {
+    "text": "زهر البرتقال",
+    "baseRarity": 0.0017,
+    "aliases": [
+     "زهر الليمون"
+    ]
+   },
+   {
+    "text": "زهرة الكرز",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "ساكورا"
+    ]
+   },
+   {
+    "text": "زهرة الثلج",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "الغالانثوس"
+    ]
+   },
+   {
+    "text": "زنبق الوادي",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "سوسن الوادي"
+    ]
+   },
+   {
+    "text": "آذريون",
+    "baseRarity": 0.0016,
+    "aliases": [
+     "الأقحوان الإفريقي"
+    ]
+   },
+   {
+    "text": "قطيفة",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "شب الليل",
+    "baseRarity": 0.0016
+   },
+   {
+    "text": "ست الحسن",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "مسك الليل",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "البيلسان",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "عود الصليب",
+    "baseRarity": 0.0015,
+    "aliases": [
+     "الفاوانيا"
+    ]
+   },
+   {
+    "text": "الكوبية",
+    "baseRarity": 0.0015,
+    "aliases": [
+     "الهدرانجيا",
+     "الهيدرانجيا"
+    ]
+   },
+   {
+    "text": "البنفسج الأفريقي",
+    "baseRarity": 0.0015
+   },
+   {
+    "text": "الكالا",
+    "baseRarity": 0.0015,
+    "aliases": [
+     "زنبق الكالا"
+    ]
+   },
+   {
+    "text": "الأمارلس",
+    "baseRarity": 0.0015,
+    "aliases": [
+     "الأماريليس"
+    ]
+   },
+   {
+    "text": "السيكلامين",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "بخور مريم"
+    ]
+   },
+   {
+    "text": "الزعفران",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "زهرة الزعفران"
+    ]
+   },
+   {
+    "text": "اللانتانا",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "الإكسورا",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "عصفور الجنة",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "طائر الجنة"
+    ]
+   },
+   {
+    "text": "الأنثوريوم",
+    "baseRarity": 0.0014
+   },
+   {
+    "text": "زهرة الآلام",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "الباسيفلورا"
+    ]
+   },
+   {
+    "text": "نعناع",
+    "baseRarity": 0.0014,
+    "aliases": [
+     "نعنع"
+    ]
+   },
+   {
+    "text": "ريحان",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "زعتر",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "ميرمية",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "المرمية",
+     "الميرامية"
+    ]
+   },
+   {
+    "text": "روزماري",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "إكليل الجبل"
+    ]
+   },
+   {
+    "text": "يانسون",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "شمر",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "الشمرة",
+     "الشومر"
+    ]
+   },
+   {
+    "text": "حلبة",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "كركم",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "زنجبيل",
+    "baseRarity": 0.0013
+   },
+   {
+    "text": "حبة البركة",
+    "baseRarity": 0.0013,
+    "aliases": [
+     "الحبة السوداء"
+    ]
+   },
+   {
+    "text": "مورينجا",
+    "baseRarity": 0.0012,
+    "aliases": [
+     "المورينجا",
+     "شجرة البان"
+    ]
+   },
+   {
+    "text": "عرق السوس",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "بقدونس",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "كزبرة",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "شبت",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "كمون",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "شيح",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "حرمل",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "مرة",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "حنظل",
+    "baseRarity": 0.0012
+   },
+   {
+    "text": "سنا مكي",
+    "baseRarity": 0.0012,
+    "aliases": [
+     "السنا"
+    ]
+   },
+   {
+    "text": "بردقوش",
+    "baseRarity": 0.0012,
+    "aliases": [
+     "المردقوش"
+    ]
+   },
+   {
+    "text": "لويزة",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "جنسنغ",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "الجينسنغ"
+    ]
+   },
+   {
+    "text": "الجنكة",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "جنكو بيلوبا"
+    ]
+   },
+   {
+    "text": "القراص",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "القريص"
+    ]
+   },
+   {
+    "text": "الخطمي",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "الختمية"
+    ]
+   },
+   {
+    "text": "الزوفا",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "الطيون",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "الشيكوريا",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "الهندباء"
+    ]
+   },
+   {
+    "text": "الحبق",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "عشبة الليمون",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "حشيشة الليمون",
+     "الليمون جراس"
+    ]
+   },
+   {
+    "text": "الأشواغاندا",
+    "baseRarity": 0.0011
+   },
+   {
+    "text": "المليسة",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "الترنجان",
+     "بلسم الليمون"
+    ]
+   },
+   {
+    "text": "الحلفا",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "حلفا بر"
+    ]
+   },
+   {
+    "text": "القسط الهندي",
+    "baseRarity": 0.0011,
+    "aliases": [
+     "القسط"
+    ]
+   },
+   {
+    "text": "الكتان",
+    "baseRarity": 0.001,
+    "aliases": [
+     "بذور الكتان"
+    ]
+   },
+   {
+    "text": "الأذخر",
+    "baseRarity": 0.001,
+    "aliases": [
+     "الإذخر"
+    ]
+   },
+   {
+    "text": "الضرم",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "العرفج",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "الرمث",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "الجعدة",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "القيصوم",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "النفل",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "البعيثران",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "ألوفيرا",
+    "baseRarity": 0.001,
+    "aliases": [
+     "الصبر"
+    ]
+   },
+   {
+    "text": "بوتس",
+    "baseRarity": 0.001,
+    "aliases": [
+     "البوتس"
+    ]
+   },
+   {
+    "text": "سانسيفيريا",
+    "baseRarity": 0.001,
+    "aliases": [
+     "جلد النمر",
+     "لسان الحماة"
+    ]
+   },
+   {
+    "text": "زاميا",
+    "baseRarity": 0.001,
+    "aliases": [
+     "الزاميا"
+    ]
+   },
+   {
+    "text": "مونستيرا",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "شيفليرا",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "دراسينا",
+    "baseRarity": 0.001
+   },
+   {
+    "text": "البامبو المحظوظ",
+    "baseRarity": 0.001,
+    "aliases": [
+     "خيزران الحظ",
+     "بامبو"
+    ]
+   },
+   {
+    "text": "زنبق السلام",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "سباثيفيلوم"
+    ]
+   },
+   {
+    "text": "فيلوديندرون",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "سرخس",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "السراخس"
+    ]
+   },
+   {
+    "text": "نخلة الأريكا",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "الأريكا"
+    ]
+   },
+   {
+    "text": "كروتون",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "ديفنباخيا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "كالاثيا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "نبات العنكبوت",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "الكلوروفيتم"
+    ]
+   },
+   {
+    "text": "أغلونيما",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "النباتات العصارية",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "العصاريات"
+    ]
+   },
+   {
+    "text": "هاورثيا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "إيشيفيريا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "شجرة المال",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "كراسولا",
+     "نبات اليشم"
+    ]
+   },
+   {
+    "text": "اللبلاب",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "الأيبي"
+    ]
+   },
+   {
+    "text": "كلانشو",
+    "baseRarity": 0.0009,
+    "aliases": [
+     "الكلانشوي"
+    ]
+   },
+   {
+    "text": "بيليا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "تين الكمان",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "مطاطية",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "ستريليتزيا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "نخلة الزينة",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "بيبروميا",
+    "baseRarity": 0.0009
+   },
+   {
+    "text": "مارانتا",
+    "baseRarity": 0.0008,
+    "aliases": [
+     "نبتة الصلاة"
+    ]
+   },
+   {
+    "text": "سنغونيوم",
+    "baseRarity": 0.0008
+   }
+  ],
+  "secret": "الدردار",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/نبات"
+  ]
+ }
+]
