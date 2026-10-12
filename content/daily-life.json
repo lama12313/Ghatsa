@@ -561,5 +561,6410 @@
   "sources": [
    "https://ar.wikipedia.org/wiki/قائمة_المهن"
   ]
+ },
+ {
+  "id": "life-tools",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر أداة من أدوات العدة أو الصيانة",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "مطرقة",
+    "baseRarity": 0.2194,
+    "aliases": [
+     "شاكوش"
+    ]
+   },
+   {
+    "text": "مفك",
+    "baseRarity": 0.1097,
+    "aliases": [
+     "مفك براغي",
+     "درنفيس"
+    ]
+   },
+   {
+    "text": "مفتاح",
+    "baseRarity": 0.0731,
+    "aliases": [
+     "مفتاح ربط",
+     "مفتاح شق"
+    ]
+   },
+   {
+    "text": "كماشة",
+    "baseRarity": 0.0549,
+    "aliases": [
+     "زرادية",
+     "بنسة"
+    ]
+   },
+   {
+    "text": "منشار",
+    "baseRarity": 0.0439
+   },
+   {
+    "text": "دريل",
+    "baseRarity": 0.0366,
+    "aliases": [
+     "مثقاب",
+     "شنيور"
+    ]
+   },
+   {
+    "text": "مسمار",
+    "baseRarity": 0.0313,
+    "aliases": [
+     "مسامير"
+    ]
+   },
+   {
+    "text": "برغي",
+    "baseRarity": 0.0274,
+    "aliases": [
+     "براغي"
+    ]
+   },
+   {
+    "text": "متر",
+    "baseRarity": 0.0244,
+    "aliases": [
+     "شريط قياس"
+    ]
+   },
+   {
+    "text": "مسطرة",
+    "baseRarity": 0.0219
+   },
+   {
+    "text": "ميزان ماء",
+    "baseRarity": 0.0199,
+    "aliases": [
+     "ميزان استواء"
+    ]
+   },
+   {
+    "text": "مبرد",
+    "baseRarity": 0.0183
+   },
+   {
+    "text": "إزميل",
+    "baseRarity": 0.0169,
+    "aliases": [
+     "أزميل"
+    ]
+   },
+   {
+    "text": "فأس",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "مجرفة",
+    "baseRarity": 0.0146,
+    "aliases": [
+     "كريك"
+    ]
+   },
+   {
+    "text": "معول",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "مقص",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "كاتر",
+    "baseRarity": 0.0122,
+    "aliases": [
+     "سكين قطع"
+    ]
+   },
+   {
+    "text": "لحام",
+    "baseRarity": 0.0115,
+    "aliases": [
+     "ماكينة لحام"
+    ]
+   },
+   {
+    "text": "صاروخ",
+    "baseRarity": 0.011,
+    "aliases": [
+     "جلاخة",
+     "صاروخ قص"
+    ]
+   },
+   {
+    "text": "مسدس غراء",
+    "baseRarity": 0.0104,
+    "aliases": [
+     "مسدس سيليكون"
+    ]
+   },
+   {
+    "text": "سلم",
+    "baseRarity": 0.01,
+    "aliases": [
+     "درج"
+    ]
+   },
+   {
+    "text": "فرشاة دهان",
+    "baseRarity": 0.0095,
+    "aliases": [
+     "فرشاة"
+    ]
+   },
+   {
+    "text": "رولة",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "رول دهان"
+    ]
+   },
+   {
+    "text": "مسطرين",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "شريط لاصق",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "لزق"
+    ]
+   },
+   {
+    "text": "مفتاح ألن",
+    "baseRarity": 0.0081,
+    "aliases": [
+     "مفتاح سداسي"
+    ]
+   },
+   {
+    "text": "مفتاح بلدي",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "مفك فحص",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "فاحص كهرباء"
+    ]
+   },
+   {
+    "text": "ملزمة",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "مقدح",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "مسحاج",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "فارة نجار"
+    ]
+   },
+   {
+    "text": "منقلة",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "زاوية قائمة",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "زاوية نجار"
+    ]
+   },
+   {
+    "text": "فرجار",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "كمبروسر",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "ضاغط هواء"
+    ]
+   },
+   {
+    "text": "رافعة",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "جاك",
+     "عفريتة"
+    ]
+   },
+   {
+    "text": "منفاخ",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "كابل توصيل",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "مولد كهرباء",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "ورق صنفرة",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "صنفرة"
+    ]
+   },
+   {
+    "text": "مسدس مسامير",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "قاطع أسلاك",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "مقص صاج",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "مكواة لحام",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "كاوية"
+    ]
+   },
+   {
+    "text": "بنسة قطع",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "عتلة",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "مخل"
+    ]
+   },
+   {
+    "text": "مجرفة صغيرة",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "خرطوم",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "دلو",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "سطل"
+    ]
+   },
+   {
+    "text": "عربة يد",
+    "baseRarity": 0.0043,
+    "aliases": [
+     "عربانة"
+    ]
+   },
+   {
+    "text": "مكنسة",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "ممسحة",
+    "baseRarity": 0.0041,
+    "aliases": [
+     "مساحة"
+    ]
+   }
+  ],
+  "secret": "الأزميل",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_tools"
+  ]
+ },
+ {
+  "id": "life-clothes",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر قطعة ملابس",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "ثوب",
+    "baseRarity": 0.2152
+   },
+   {
+    "text": "شماغ",
+    "baseRarity": 0.1076
+   },
+   {
+    "text": "غترة",
+    "baseRarity": 0.0717
+   },
+   {
+    "text": "عقال",
+    "baseRarity": 0.0538
+   },
+   {
+    "text": "طاقية",
+    "baseRarity": 0.043
+   },
+   {
+    "text": "بشت",
+    "baseRarity": 0.0359
+   },
+   {
+    "text": "عباية",
+    "baseRarity": 0.0307,
+    "aliases": [
+     "عباءة"
+    ]
+   },
+   {
+    "text": "طرحة",
+    "baseRarity": 0.0269,
+    "aliases": [
+     "شيلة"
+    ]
+   },
+   {
+    "text": "نقاب",
+    "baseRarity": 0.0239
+   },
+   {
+    "text": "حجاب",
+    "baseRarity": 0.0215
+   },
+   {
+    "text": "فستان",
+    "baseRarity": 0.0196
+   },
+   {
+    "text": "تنورة",
+    "baseRarity": 0.0179
+   },
+   {
+    "text": "بنطلون",
+    "baseRarity": 0.0166,
+    "aliases": [
+     "بنطال"
+    ]
+   },
+   {
+    "text": "قميص",
+    "baseRarity": 0.0154
+   },
+   {
+    "text": "تيشيرت",
+    "baseRarity": 0.0143,
+    "aliases": [
+     "تي شيرت"
+    ]
+   },
+   {
+    "text": "جينز",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "جاكيت",
+    "baseRarity": 0.0127,
+    "aliases": [
+     "جاكت"
+    ]
+   },
+   {
+    "text": "معطف",
+    "baseRarity": 0.012,
+    "aliases": [
+     "بالطو",
+     "كوت"
+    ]
+   },
+   {
+    "text": "بدلة",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "ربطة عنق",
+    "baseRarity": 0.0108,
+    "aliases": [
+     "كرفتة"
+    ]
+   },
+   {
+    "text": "سترة",
+    "baseRarity": 0.0102,
+    "aliases": [
+     "جيليه",
+     "صديري"
+    ]
+   },
+   {
+    "text": "كنزة",
+    "baseRarity": 0.0098,
+    "aliases": [
+     "بلوزة",
+     "سويتر"
+    ]
+   },
+   {
+    "text": "هودي",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "شورت",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "بيجامة",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "جلابية",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "قفطان",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "دشداشة",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "كندورة"
+    ]
+   },
+   {
+    "text": "سروال",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "فانيلة",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "شراب",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "جوارب"
+    ]
+   },
+   {
+    "text": "حذاء",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "جزمة"
+    ]
+   },
+   {
+    "text": "نعال",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "شبشب"
+    ]
+   },
+   {
+    "text": "صندل",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "بوت",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "كعب",
+    "baseRarity": 0.006,
+    "aliases": [
+     "كعب عالي"
+    ]
+   },
+   {
+    "text": "قبعة",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "كاب"
+    ]
+   },
+   {
+    "text": "وشاح",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "سكارف",
+     "شال"
+    ]
+   },
+   {
+    "text": "قفازات",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "جوانتي"
+    ]
+   },
+   {
+    "text": "حزام",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "مريول",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "فروة",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "مريلة",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "روب",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "روب حمام"
+    ]
+   },
+   {
+    "text": "ملابس داخلية",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "ساري",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "كيمونو",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "عمامة",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "كوفية",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "طربوش",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "برنس",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "برنوس"
+    ]
+   },
+   {
+    "text": "جلباب",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "تونيك",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "كارديغان",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "بليزر",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "ترنج",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "بدلة رياضية"
+    ]
+   },
+   {
+    "text": "لباس السباحة",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "مايوه"
+    ]
+   },
+   {
+    "text": "بيريه",
+    "baseRarity": 0.0037
+   }
+  ],
+  "secret": "البشت",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/ملابس"
+  ]
+ },
+ {
+  "id": "life-furniture",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر قطعة أثاث",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "كرسي",
+    "baseRarity": 0.2287
+   },
+   {
+    "text": "طاولة",
+    "baseRarity": 0.1143,
+    "aliases": [
+     "ترابيزة"
+    ]
+   },
+   {
+    "text": "سرير",
+    "baseRarity": 0.0762
+   },
+   {
+    "text": "كنب",
+    "baseRarity": 0.0572,
+    "aliases": [
+     "كنبة",
+     "أريكة"
+    ]
+   },
+   {
+    "text": "دولاب",
+    "baseRarity": 0.0457,
+    "aliases": [
+     "خزانة",
+     "كبت"
+    ]
+   },
+   {
+    "text": "مكتب",
+    "baseRarity": 0.0381
+   },
+   {
+    "text": "رف",
+    "baseRarity": 0.0327,
+    "aliases": [
+     "رفوف"
+    ]
+   },
+   {
+    "text": "تسريحة",
+    "baseRarity": 0.0286
+   },
+   {
+    "text": "كومودينو",
+    "baseRarity": 0.0254,
+    "aliases": [
+     "طاولة جانبية"
+    ]
+   },
+   {
+    "text": "مكتبة",
+    "baseRarity": 0.0229
+   },
+   {
+    "text": "دولاب تلفزيون",
+    "baseRarity": 0.0208,
+    "aliases": [
+     "طاولة تلفزيون"
+    ]
+   },
+   {
+    "text": "سجادة",
+    "baseRarity": 0.0191,
+    "aliases": [
+     "زولية"
+    ]
+   },
+   {
+    "text": "ستارة",
+    "baseRarity": 0.0176,
+    "aliases": [
+     "ستائر",
+     "برداية"
+    ]
+   },
+   {
+    "text": "مرآة",
+    "baseRarity": 0.0163,
+    "aliases": [
+     "مراية"
+    ]
+   },
+   {
+    "text": "فراش",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "مرتبة"
+    ]
+   },
+   {
+    "text": "مخدة",
+    "baseRarity": 0.0143,
+    "aliases": [
+     "وسادة"
+    ]
+   },
+   {
+    "text": "مجلس",
+    "baseRarity": 0.0135,
+    "aliases": [
+     "جلسة عربية"
+    ]
+   },
+   {
+    "text": "كرسي هزاز",
+    "baseRarity": 0.0127
+   },
+   {
+    "text": "بوف",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "طاولة قهوة",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "طاولة طعام",
+    "baseRarity": 0.0109,
+    "aliases": [
+     "سفرة"
+    ]
+   },
+   {
+    "text": "بوفيه",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "فيترينة",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "خزانة أحذية",
+    "baseRarity": 0.0095,
+    "aliases": [
+     "جزامة"
+    ]
+   },
+   {
+    "text": "شماعة",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "علاقة"
+    ]
+   },
+   {
+    "text": "مصباح",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "أباجورة"
+    ]
+   },
+   {
+    "text": "ثريا",
+    "baseRarity": 0.0085,
+    "aliases": [
+     "نجفة"
+    ]
+   },
+   {
+    "text": "سرير أطفال",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "كرسي مكتب",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "مقعد",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "بنش"
+    ]
+   },
+   {
+    "text": "صوفا",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "كنبة سرير",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "صوفا بيد"
+    ]
+   },
+   {
+    "text": "خزانة ملابس",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "درج",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "أدراج"
+    ]
+   },
+   {
+    "text": "طاولة مكياج",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "كونسول",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "مركى",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "مسند"
+    ]
+   },
+   {
+    "text": "طراحة",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "لحاف",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "بطانية"
+    ]
+   },
+   {
+    "text": "مفرش",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "شرشف"
+    ]
+   },
+   {
+    "text": "كرسي بلاستيك",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "أرجوحة",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "مرجيحة"
+    ]
+   },
+   {
+    "text": "طاولة كي",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "طاولة مكواة"
+    ]
+   },
+   {
+    "text": "سلة غسيل",
+    "baseRarity": 0.0052
+   }
+  ],
+  "secret": "الكونسول",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/أثاث"
+  ]
+ },
+ {
+  "id": "life-car-brands",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر ماركة سيارات",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "تويوتا",
+    "baseRarity": 0.2046
+   },
+   {
+    "text": "نيسان",
+    "baseRarity": 0.1023
+   },
+   {
+    "text": "هيونداي",
+    "baseRarity": 0.0682,
+    "aliases": [
+     "هونداي"
+    ]
+   },
+   {
+    "text": "كيا",
+    "baseRarity": 0.0511
+   },
+   {
+    "text": "لكزس",
+    "baseRarity": 0.0409
+   },
+   {
+    "text": "مرسيدس",
+    "baseRarity": 0.0341,
+    "aliases": [
+     "مرسيدس بنز"
+    ]
+   },
+   {
+    "text": "بي إم دبليو",
+    "baseRarity": 0.0292,
+    "aliases": [
+     "bmw"
+    ]
+   },
+   {
+    "text": "أودي",
+    "baseRarity": 0.0256
+   },
+   {
+    "text": "فولكس فاجن",
+    "baseRarity": 0.0227,
+    "aliases": [
+     "فولكس واجن"
+    ]
+   },
+   {
+    "text": "بورش",
+    "baseRarity": 0.0205
+   },
+   {
+    "text": "فيراري",
+    "baseRarity": 0.0186
+   },
+   {
+    "text": "لامبورغيني",
+    "baseRarity": 0.017,
+    "aliases": [
+     "لمبرقيني"
+    ]
+   },
+   {
+    "text": "رولز رويس",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "بنتلي",
+    "baseRarity": 0.0146
+   },
+   {
+    "text": "مازيراتي",
+    "baseRarity": 0.0136
+   },
+   {
+    "text": "أستون مارتن",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "جاكوار",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "لاند روفر",
+    "baseRarity": 0.0114,
+    "aliases": [
+     "رينج روفر"
+    ]
+   },
+   {
+    "text": "فورد",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "شفروليه",
+    "baseRarity": 0.0102,
+    "aliases": [
+     "شيفروليه",
+     "شفر"
+    ]
+   },
+   {
+    "text": "جي إم سي",
+    "baseRarity": 0.0097,
+    "aliases": [
+     "gmc"
+    ]
+   },
+   {
+    "text": "كاديلاك",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "جيب",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "دودج",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "كرايسلر",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "لينكولن",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "تسلا",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "هوندا",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "مازدا",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "ميتسوبيشي",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "سوزوكي",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "سوبارو",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "إنفينيتي",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "جينيسيس",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "بيجو",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "رينو",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "سيتروين",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "فيات",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "ألفا روميو",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "فولفو",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "سكودا",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "سيات",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "أوبل",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "ميني",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "ميني كوبر"
+    ]
+   },
+   {
+    "text": "بوغاتي",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "ماكلارين",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "لوتس",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "جيلي",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "شيري",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "هافال",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "إم جي",
+    "baseRarity": 0.004,
+    "aliases": [
+     "mg"
+    ]
+   },
+   {
+    "text": "بي واي دي",
+    "baseRarity": 0.0039,
+    "aliases": [
+     "byd"
+    ]
+   },
+   {
+    "text": "شانجان",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "جاك",
+    "baseRarity": 0.0038,
+    "aliases": [
+     "jac"
+    ]
+   },
+   {
+    "text": "جريت وول",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "لوسيد",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "ريفيان",
+    "baseRarity": 0.0036
+   },
+   {
+    "text": "داتسون",
+    "baseRarity": 0.0035
+   },
+   {
+    "text": "ايسوزو",
+    "baseRarity": 0.0035,
+    "aliases": [
+     "إيسوزو"
+    ]
+   },
+   {
+    "text": "هينو",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "مان",
+    "baseRarity": 0.0034
+   },
+   {
+    "text": "سكانيا",
+    "baseRarity": 0.0033
+   },
+   {
+    "text": "داسيا",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "بروتون",
+    "baseRarity": 0.0032
+   },
+   {
+    "text": "تاتا",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "ماهيندرا",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "لادا",
+    "baseRarity": 0.0031
+   },
+   {
+    "text": "دايو",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "سانغ يونغ",
+    "baseRarity": 0.003
+   },
+   {
+    "text": "هامر",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "بيوك",
+    "baseRarity": 0.0029
+   },
+   {
+    "text": "جي إيه سي",
+    "baseRarity": 0.0028,
+    "aliases": [
+     "gac"
+    ]
+   },
+   {
+    "text": "إكسيد",
+    "baseRarity": 0.0028
+   },
+   {
+    "text": "جيتور",
+    "baseRarity": 0.0028
+   }
+  ],
+  "secret": "سكودا",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_car_brands"
+  ]
+ },
+ {
+  "id": "life-tech-companies",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر شركة تقنية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "أبل",
+    "baseRarity": 0.2144,
+    "aliases": [
+     "آبل",
+     "apple"
+    ]
+   },
+   {
+    "text": "مايكروسوفت",
+    "baseRarity": 0.1072
+   },
+   {
+    "text": "جوجل",
+    "baseRarity": 0.0715,
+    "aliases": [
+     "قوقل"
+    ]
+   },
+   {
+    "text": "سامسونج",
+    "baseRarity": 0.0536,
+    "aliases": [
+     "سامسونق"
+    ]
+   },
+   {
+    "text": "أمازون",
+    "baseRarity": 0.0429
+   },
+   {
+    "text": "ميتا",
+    "baseRarity": 0.0357,
+    "aliases": [
+     "فيسبوك"
+    ]
+   },
+   {
+    "text": "هواوي",
+    "baseRarity": 0.0306
+   },
+   {
+    "text": "سوني",
+    "baseRarity": 0.0268
+   },
+   {
+    "text": "إنتل",
+    "baseRarity": 0.0238
+   },
+   {
+    "text": "إنفيديا",
+    "baseRarity": 0.0214
+   },
+   {
+    "text": "آي بي إم",
+    "baseRarity": 0.0195,
+    "aliases": [
+     "ibm"
+    ]
+   },
+   {
+    "text": "أوراكل",
+    "baseRarity": 0.0179
+   },
+   {
+    "text": "سيسكو",
+    "baseRarity": 0.0165
+   },
+   {
+    "text": "ديل",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "إتش بي",
+    "baseRarity": 0.0143,
+    "aliases": [
+     "hp"
+    ]
+   },
+   {
+    "text": "لينوفو",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "آسوس",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "أيسر",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "شاومي",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "أوبو",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "فيفو",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "ون بلس",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "نوكيا",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "موتورولا",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "إل جي",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "lg"
+    ]
+   },
+   {
+    "text": "باناسونيك",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "توشيبا",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "فيليبس",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "سيمنز",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "كانون",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "نيكون",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "إبسون",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "تسلا",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "نتفليكس",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "أوبر",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "إكس",
+    "baseRarity": 0.006,
+    "aliases": [
+     "تويتر"
+    ]
+   },
+   {
+    "text": "سناب",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "سناب شات"
+    ]
+   },
+   {
+    "text": "تيك توك",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "بايت دانس"
+    ]
+   },
+   {
+    "text": "علي بابا",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "تينسنت",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "بايدو",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "أدوبي",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "سيلزفورس",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "سبوتيفاي",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "زوم",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "باي بال",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "إيه إم دي",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "amd"
+    ]
+   },
+   {
+    "text": "كوالكوم",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "تي إس إم سي",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "tsmc"
+    ]
+   },
+   {
+    "text": "إريكسون",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "أوبن إيه آي",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "openai"
+    ]
+   },
+   {
+    "text": "أنثروبيك",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "دروب بوكس",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "سوني إريكسون",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "بلاك بيري",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "لوجيتك",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "ريزر",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "نينتندو",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "بلايستيشن",
+    "baseRarity": 0.0036
+   }
+  ],
+  "secret": "إنفيديا",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_largest_technology_companies_by_revenue"
+  ]
+ },
+ {
+  "id": "life-appliances",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر جهاز كهربائي منزلي",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "ثلاجة",
+    "baseRarity": 0.2275
+   },
+   {
+    "text": "غسالة",
+    "baseRarity": 0.1138
+   },
+   {
+    "text": "مكيف",
+    "baseRarity": 0.0758
+   },
+   {
+    "text": "مكنسة كهربائية",
+    "baseRarity": 0.0569
+   },
+   {
+    "text": "فرن",
+    "baseRarity": 0.0455
+   },
+   {
+    "text": "ميكروويف",
+    "baseRarity": 0.0379
+   },
+   {
+    "text": "تلفزيون",
+    "baseRarity": 0.0325,
+    "aliases": [
+     "تلفاز"
+    ]
+   },
+   {
+    "text": "مروحة",
+    "baseRarity": 0.0284
+   },
+   {
+    "text": "مكواة",
+    "baseRarity": 0.0253
+   },
+   {
+    "text": "سخان",
+    "baseRarity": 0.0228,
+    "aliases": [
+     "سخان ماء"
+    ]
+   },
+   {
+    "text": "غسالة صحون",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "خلاط",
+    "baseRarity": 0.019
+   },
+   {
+    "text": "محضرة طعام",
+    "baseRarity": 0.0175,
+    "aliases": [
+     "كبة"
+    ]
+   },
+   {
+    "text": "عصارة",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "غلاية",
+    "baseRarity": 0.0152,
+    "aliases": [
+     "سخان كهربائي"
+    ]
+   },
+   {
+    "text": "محمصة خبز",
+    "baseRarity": 0.0142,
+    "aliases": [
+     "توستر"
+    ]
+   },
+   {
+    "text": "ماكينة قهوة",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "قلاية هوائية",
+    "baseRarity": 0.0126,
+    "aliases": [
+     "إير فراير"
+    ]
+   },
+   {
+    "text": "مجفف شعر",
+    "baseRarity": 0.012,
+    "aliases": [
+     "سشوار"
+    ]
+   },
+   {
+    "text": "مكواة شعر",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "ماكينة حلاقة",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "فريزر",
+    "baseRarity": 0.0103,
+    "aliases": [
+     "مجمد"
+    ]
+   },
+   {
+    "text": "موقد",
+    "baseRarity": 0.0099,
+    "aliases": [
+     "بوتاجاز",
+     "طباخ"
+    ]
+   },
+   {
+    "text": "شفاط",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "مجفف الملابس",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "نشافة"
+    ]
+   },
+   {
+    "text": "دفاية",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "مدفأة"
+    ]
+   },
+   {
+    "text": "مبرد ماء",
+    "baseRarity": 0.0084,
+    "aliases": [
+     "برادة"
+    ]
+   },
+   {
+    "text": "راوتر",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "كمبيوتر",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "لابتوب",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "طابعة",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "راديو",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "سماعة",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "سبيكر"
+    ]
+   },
+   {
+    "text": "مصباح",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "لمبة"
+    ]
+   },
+   {
+    "text": "منقي هواء",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "مرطب هواء",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "خلاط يدوي",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "هاند ميكسر"
+    ]
+   },
+   {
+    "text": "عجانة",
+    "baseRarity": 0.006,
+    "aliases": [
+     "عجانة كهربائية"
+    ]
+   },
+   {
+    "text": "شواية كهربائية",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "صانعة الفشار",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "آلة الخبز",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "فرن كهربائي",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "بلايستيشن",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "جهاز ألعاب"
+    ]
+   },
+   {
+    "text": "شاحن",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "روبوت مكنسة",
+    "baseRarity": 0.0051
+   }
+  ],
+  "secret": "مجفف الملابس",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Home_appliance"
+  ]
+ },
+ {
+  "id": "life-colors",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر لون",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "أحمر",
+    "baseRarity": 0.2213
+   },
+   {
+    "text": "أزرق",
+    "baseRarity": 0.1106
+   },
+   {
+    "text": "أخضر",
+    "baseRarity": 0.0738
+   },
+   {
+    "text": "أصفر",
+    "baseRarity": 0.0553
+   },
+   {
+    "text": "أسود",
+    "baseRarity": 0.0443
+   },
+   {
+    "text": "أبيض",
+    "baseRarity": 0.0369
+   },
+   {
+    "text": "برتقالي",
+    "baseRarity": 0.0316
+   },
+   {
+    "text": "بنفسجي",
+    "baseRarity": 0.0277,
+    "aliases": [
+     "موف"
+    ]
+   },
+   {
+    "text": "وردي",
+    "baseRarity": 0.0246,
+    "aliases": [
+     "زهري",
+     "بمبي"
+    ]
+   },
+   {
+    "text": "بني",
+    "baseRarity": 0.0221
+   },
+   {
+    "text": "رمادي",
+    "baseRarity": 0.0201,
+    "aliases": [
+     "رصاصي"
+    ]
+   },
+   {
+    "text": "ذهبي",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "فضي",
+    "baseRarity": 0.017
+   },
+   {
+    "text": "كحلي",
+    "baseRarity": 0.0158
+   },
+   {
+    "text": "سماوي",
+    "baseRarity": 0.0148
+   },
+   {
+    "text": "تركوازي",
+    "baseRarity": 0.0138,
+    "aliases": [
+     "فيروزي"
+    ]
+   },
+   {
+    "text": "عنابي",
+    "baseRarity": 0.013,
+    "aliases": [
+     "ماروني"
+    ]
+   },
+   {
+    "text": "بيج",
+    "baseRarity": 0.0123
+   },
+   {
+    "text": "كريمي",
+    "baseRarity": 0.0116
+   },
+   {
+    "text": "زيتي",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "فستقي",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "ليموني",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "نيلي",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "أرجواني",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "خمري",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "فوشي",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "ليلكي",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "لافندر",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "نحاسي",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "برونزي",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "مشمشي",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "سلموني",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "مرجاني",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "قرمزي",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "عاجي",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "لؤلؤي",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "أزرق ملكي",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "أزرق فاتح",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "أخضر فاتح",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "أخضر غامق",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "نعناعي",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "زمردي",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "ياقوتي",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "كاكي",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "خردلي",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "عسلي",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "قهوائي",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "شوكولاتي",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "رملي",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "طوبي",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "بترولي",
+    "baseRarity": 0.0043
+   }
+  ],
+  "secret": "بترولي",
+  "sources": [
+   "https://ar.wikipedia.org/wiki/قائمة_الألوان"
+  ]
+ },
+ {
+  "id": "life-vehicles",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر وسيلة نقل أو مواصلات",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "سيارة",
+    "baseRarity": 0.2243
+   },
+   {
+    "text": "طيارة",
+    "baseRarity": 0.1121,
+    "aliases": [
+     "طائرة"
+    ]
+   },
+   {
+    "text": "قطار",
+    "baseRarity": 0.0748
+   },
+   {
+    "text": "باص",
+    "baseRarity": 0.0561,
+    "aliases": [
+     "حافلة"
+    ]
+   },
+   {
+    "text": "تاكسي",
+    "baseRarity": 0.0449,
+    "aliases": [
+     "سيارة أجرة"
+    ]
+   },
+   {
+    "text": "دراجة",
+    "baseRarity": 0.0374,
+    "aliases": [
+     "سيكل"
+    ]
+   },
+   {
+    "text": "دباب",
+    "baseRarity": 0.032,
+    "aliases": [
+     "دراجة نارية",
+     "موتر"
+    ]
+   },
+   {
+    "text": "سفينة",
+    "baseRarity": 0.028
+   },
+   {
+    "text": "قارب",
+    "baseRarity": 0.0249
+   },
+   {
+    "text": "يخت",
+    "baseRarity": 0.0224
+   },
+   {
+    "text": "غواصة",
+    "baseRarity": 0.0204
+   },
+   {
+    "text": "هليكوبتر",
+    "baseRarity": 0.0187,
+    "aliases": [
+     "طائرة مروحية"
+    ]
+   },
+   {
+    "text": "مترو",
+    "baseRarity": 0.0173
+   },
+   {
+    "text": "ترام",
+    "baseRarity": 0.016
+   },
+   {
+    "text": "تلفريك",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "شاحنة",
+    "baseRarity": 0.014,
+    "aliases": [
+     "تريلا"
+    ]
+   },
+   {
+    "text": "وانيت",
+    "baseRarity": 0.0132,
+    "aliases": [
+     "بيك أب",
+     "ونيت"
+    ]
+   },
+   {
+    "text": "فان",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "جمل",
+    "baseRarity": 0.0118,
+    "aliases": [
+     "ناقة"
+    ]
+   },
+   {
+    "text": "حصان",
+    "baseRarity": 0.0112
+   },
+   {
+    "text": "حمار",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "عربة",
+    "baseRarity": 0.0102,
+    "aliases": [
+     "كارو"
+    ]
+   },
+   {
+    "text": "دباب بحري",
+    "baseRarity": 0.0098,
+    "aliases": [
+     "جت سكي"
+    ]
+   },
+   {
+    "text": "مركب شراعي",
+    "baseRarity": 0.0093,
+    "aliases": [
+     "شراع"
+    ]
+   },
+   {
+    "text": "عبارة",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "زورق",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "سكوتر",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "سكيت بورد",
+    "baseRarity": 0.008,
+    "aliases": [
+     "لوح التزلج"
+    ]
+   },
+   {
+    "text": "صاروخ",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "مكوك فضائي",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "منطاد",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "طائرة شراعية",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "قطار سريع",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "قطار الحرمين"
+    ]
+   },
+   {
+    "text": "القطار المعلق",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "مونوريل"
+    ]
+   },
+   {
+    "text": "سيارة إسعاف",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "إسعاف"
+    ]
+   },
+   {
+    "text": "سيارة إطفاء",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "إطفاء"
+    ]
+   },
+   {
+    "text": "سيارة شرطة",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "دورية"
+    ]
+   },
+   {
+    "text": "جرار",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "تراكتور"
+    ]
+   },
+   {
+    "text": "رافعة",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "ونش"
+    ]
+   },
+   {
+    "text": "بلدوزر",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "جرافة"
+    ]
+   },
+   {
+    "text": "توك توك",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "ريكشا",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "عربة ثلج",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "زلاجة"
+    ]
+   },
+   {
+    "text": "كرفان",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "حافلة مدرسية",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "سفينة سياحية",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "كروز"
+    ]
+   },
+   {
+    "text": "ناقلة نفط",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "طائرة خاصة",
+    "baseRarity": 0.0047
+   }
+  ],
+  "secret": "التلفريك",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Mode_of_transport"
+  ]
+ },
+ {
+  "id": "life-kitchen",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر أداة من أدوات المطبخ",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "ملعقة",
+    "baseRarity": 0.2169
+   },
+   {
+    "text": "شوكة",
+    "baseRarity": 0.1084
+   },
+   {
+    "text": "سكين",
+    "baseRarity": 0.0723
+   },
+   {
+    "text": "صحن",
+    "baseRarity": 0.0542,
+    "aliases": [
+     "طبق"
+    ]
+   },
+   {
+    "text": "كأس",
+    "baseRarity": 0.0434,
+    "aliases": [
+     "كوب",
+     "قلاص"
+    ]
+   },
+   {
+    "text": "فنجان",
+    "baseRarity": 0.0361
+   },
+   {
+    "text": "بيالة",
+    "baseRarity": 0.031,
+    "aliases": [
+     "استكانة"
+    ]
+   },
+   {
+    "text": "قدر",
+    "baseRarity": 0.0271,
+    "aliases": [
+     "جدر"
+    ]
+   },
+   {
+    "text": "مقلاة",
+    "baseRarity": 0.0241,
+    "aliases": [
+     "طاوة"
+    ]
+   },
+   {
+    "text": "صينية",
+    "baseRarity": 0.0217
+   },
+   {
+    "text": "إبريق",
+    "baseRarity": 0.0197
+   },
+   {
+    "text": "دلة",
+    "baseRarity": 0.0181
+   },
+   {
+    "text": "ترمس",
+    "baseRarity": 0.0167
+   },
+   {
+    "text": "غلاية",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "مغرفة",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "مصفاة",
+    "baseRarity": 0.0136,
+    "aliases": [
+     "مصفى"
+    ]
+   },
+   {
+    "text": "مبشرة",
+    "baseRarity": 0.0128
+   },
+   {
+    "text": "خلاط",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "لوح تقطيع",
+    "baseRarity": 0.0114,
+    "aliases": [
+     "لوح"
+    ]
+   },
+   {
+    "text": "فتاحة علب",
+    "baseRarity": 0.0108,
+    "aliases": [
+     "فتاحة"
+    ]
+   },
+   {
+    "text": "مقشرة",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "هاون",
+    "baseRarity": 0.0099,
+    "aliases": [
+     "مهباش",
+     "منحاز"
+    ]
+   },
+   {
+    "text": "شوبك",
+    "baseRarity": 0.0094,
+    "aliases": [
+     "مرقاق",
+     "النشابة"
+    ]
+   },
+   {
+    "text": "مضرب بيض",
+    "baseRarity": 0.009,
+    "aliases": [
+     "خفاقة"
+    ]
+   },
+   {
+    "text": "سلطانية",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "زبدية"
+    ]
+   },
+   {
+    "text": "صحن تقديم",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "وعاء",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "مقص مطبخ",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "ملقط",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "مصاصة",
+    "baseRarity": 0.0072,
+    "aliases": [
+     "شفاطة"
+    ]
+   },
+   {
+    "text": "قدر ضغط",
+    "baseRarity": 0.007,
+    "aliases": [
+     "قدر الضغط"
+    ]
+   },
+   {
+    "text": "طنجرة",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "كسرولة",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "صحن فرن",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "بايركس"
+    ]
+   },
+   {
+    "text": "قالب كيك",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "مريول",
+    "baseRarity": 0.006,
+    "aliases": [
+     "مريلة"
+    ]
+   },
+   {
+    "text": "قفاز فرن",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "منخل",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "ميزان مطبخ",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "مكيال",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "كوب قياس"
+    ]
+   },
+   {
+    "text": "ملعقة قياس",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "علبة",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "علب حفظ"
+    ]
+   },
+   {
+    "text": "ورق ألمنيوم",
+    "baseRarity": 0.005,
+    "aliases": [
+     "قصدير"
+    ]
+   },
+   {
+    "text": "ورق زبدة",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "نايلون تغليف",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "مملحة",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "فرشاة طبخ",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "سيخ",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "أسياخ"
+    ]
+   },
+   {
+    "text": "منقل",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "شواية"
+    ]
+   },
+   {
+    "text": "صاج",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "تنور",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "قلاية",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "سكين خبز",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "مسن سكاكين",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "فتاحة قناني",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "عصارة ليمون",
+    "baseRarity": 0.0039
+   }
+  ],
+  "secret": "المصفاة",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_food_preparation_utensils"
+  ]
+ },
+ {
+  "id": "life-stationery",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر أداة مكتبية أو قرطاسية",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "قلم",
+    "baseRarity": 0.2253
+   },
+   {
+    "text": "قلم رصاص",
+    "baseRarity": 0.1127
+   },
+   {
+    "text": "قلم حبر",
+    "baseRarity": 0.0751,
+    "aliases": [
+     "قلم جاف"
+    ]
+   },
+   {
+    "text": "مسطرة",
+    "baseRarity": 0.0563
+   },
+   {
+    "text": "ممحاة",
+    "baseRarity": 0.0451,
+    "aliases": [
+     "مساحة",
+     "محاية"
+    ]
+   },
+   {
+    "text": "براية",
+    "baseRarity": 0.0376,
+    "aliases": [
+     "مبراة"
+    ]
+   },
+   {
+    "text": "دفتر",
+    "baseRarity": 0.0322,
+    "aliases": [
+     "كراسة"
+    ]
+   },
+   {
+    "text": "ورق",
+    "baseRarity": 0.0282,
+    "aliases": [
+     "أوراق"
+    ]
+   },
+   {
+    "text": "مقص",
+    "baseRarity": 0.025
+   },
+   {
+    "text": "لاصق",
+    "baseRarity": 0.0225,
+    "aliases": [
+     "غراء",
+     "صمغ"
+    ]
+   },
+   {
+    "text": "دباسة",
+    "baseRarity": 0.0205,
+    "aliases": [
+     "كباسة"
+    ]
+   },
+   {
+    "text": "دبابيس",
+    "baseRarity": 0.0188
+   },
+   {
+    "text": "مشبك ورق",
+    "baseRarity": 0.0173,
+    "aliases": [
+     "كليب"
+    ]
+   },
+   {
+    "text": "ملف",
+    "baseRarity": 0.0161,
+    "aliases": [
+     "فايل"
+    ]
+   },
+   {
+    "text": "حافظة",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "شنطة",
+    "baseRarity": 0.0141,
+    "aliases": [
+     "حقيبة مدرسية"
+    ]
+   },
+   {
+    "text": "فرجار",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "منقلة",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "مثلث",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "آلة حاسبة",
+    "baseRarity": 0.0113,
+    "aliases": [
+     "حاسبة"
+    ]
+   },
+   {
+    "text": "ألوان خشبية",
+    "baseRarity": 0.0107,
+    "aliases": [
+     "ألوان"
+    ]
+   },
+   {
+    "text": "ألوان مائية",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "ألوان شمعية",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "فرشاة رسم",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "لوحة رسم",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "قلم تظليل",
+    "baseRarity": 0.0087,
+    "aliases": [
+     "هايلايتر"
+    ]
+   },
+   {
+    "text": "قلم سبورة",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "سبورة",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "طباشير",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "مقلمة",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "ختم",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "حبر",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "ظرف",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "أوراق لاصقة",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "ستيكي نوت"
+    ]
+   },
+   {
+    "text": "شريط لاصق",
+    "baseRarity": 0.0064,
+    "aliases": [
+     "سلوتيب"
+    ]
+   },
+   {
+    "text": "مخرمة",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "خرامة"
+    ]
+   },
+   {
+    "text": "تقويم",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "رزنامة"
+    ]
+   },
+   {
+    "text": "أجندة",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "مذكرة"
+    ]
+   },
+   {
+    "text": "كتاب",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "خريطة",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "مجسم الكرة الأرضية",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "كرة أرضية"
+    ]
+   },
+   {
+    "text": "قلم تصحيح",
+    "baseRarity": 0.0054,
+    "aliases": [
+     "مزيل",
+     "كوريكتور"
+    ]
+   },
+   {
+    "text": "فاصل كتب",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "دبوس ضغط",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "مصباح مكتب",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "ورق مقوى",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "كرتون"
+    ]
+   },
+   {
+    "text": "ممحاة سبورة",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "ماسحة"
+    ]
+   }
+  ],
+  "secret": "الفرجار",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Stationery"
+  ]
+ },
+ {
+  "id": "life-phone-brands",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر ماركة جوالات",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "آيفون",
+    "baseRarity": 0.2299,
+    "aliases": [
+     "أبل"
+    ]
+   },
+   {
+    "text": "سامسونج",
+    "baseRarity": 0.1149,
+    "aliases": [
+     "سامسونق"
+    ]
+   },
+   {
+    "text": "هواوي",
+    "baseRarity": 0.0766
+   },
+   {
+    "text": "شاومي",
+    "baseRarity": 0.0575,
+    "aliases": [
+     "ريدمي"
+    ]
+   },
+   {
+    "text": "أوبو",
+    "baseRarity": 0.046
+   },
+   {
+    "text": "فيفو",
+    "baseRarity": 0.0383
+   },
+   {
+    "text": "ون بلس",
+    "baseRarity": 0.0328
+   },
+   {
+    "text": "نوكيا",
+    "baseRarity": 0.0287
+   },
+   {
+    "text": "موتورولا",
+    "baseRarity": 0.0255
+   },
+   {
+    "text": "سوني",
+    "baseRarity": 0.023,
+    "aliases": [
+     "سوني إكسبيريا"
+    ]
+   },
+   {
+    "text": "إل جي",
+    "baseRarity": 0.0209
+   },
+   {
+    "text": "بلاك بيري",
+    "baseRarity": 0.0192
+   },
+   {
+    "text": "جوجل بكسل",
+    "baseRarity": 0.0177,
+    "aliases": [
+     "بكسل"
+    ]
+   },
+   {
+    "text": "هونر",
+    "baseRarity": 0.0164
+   },
+   {
+    "text": "ريلمي",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "إنفنكس",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "تكنو",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "إتش تي سي",
+    "baseRarity": 0.0128,
+    "aliases": [
+     "htc"
+    ]
+   },
+   {
+    "text": "آسوس",
+    "baseRarity": 0.0121
+   },
+   {
+    "text": "لينوفو",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "زد تي إي",
+    "baseRarity": 0.0109,
+    "aliases": [
+     "zte"
+    ]
+   },
+   {
+    "text": "ميزو",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "بوكو",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "نثنج",
+    "baseRarity": 0.0096,
+    "aliases": [
+     "ناثنغ"
+    ]
+   },
+   {
+    "text": "سوني إريكسون",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "ألكاتيل",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "سيمنز",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "إيتل",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "بلاك فيو",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "فيرتو",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "كيوسيرا",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "شارب",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "بانتك",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "أيسر",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "تي سي إل",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "لافا",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "مايكروماكس",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "دوجي",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "أوكيتل",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "كات",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "فيرفون",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "ريد ماجيك",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "بلو",
+    "baseRarity": 0.0053
+   }
+  ],
+  "secret": "إتش تي سي",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_mobile_phone_brands_by_country"
+  ]
+ },
+ {
+  "id": "life-airlines",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر شركة طيران",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "الخطوط السعودية",
+    "baseRarity": 0.2144,
+    "aliases": [
+     "السعودية"
+    ]
+   },
+   {
+    "text": "طيران ناس",
+    "baseRarity": 0.1072,
+    "aliases": [
+     "ناس"
+    ]
+   },
+   {
+    "text": "طيران أديل",
+    "baseRarity": 0.0715,
+    "aliases": [
+     "أديل"
+    ]
+   },
+   {
+    "text": "طيران الرياض",
+    "baseRarity": 0.0536
+   },
+   {
+    "text": "الإماراتية",
+    "baseRarity": 0.0429,
+    "aliases": [
+     "طيران الإمارات"
+    ]
+   },
+   {
+    "text": "القطرية",
+    "baseRarity": 0.0357,
+    "aliases": [
+     "الخطوط الجوية القطرية"
+    ]
+   },
+   {
+    "text": "الاتحاد",
+    "baseRarity": 0.0306,
+    "aliases": [
+     "الاتحاد للطيران"
+    ]
+   },
+   {
+    "text": "فلاي دبي",
+    "baseRarity": 0.0268
+   },
+   {
+    "text": "العربية للطيران",
+    "baseRarity": 0.0238,
+    "aliases": [
+     "العربية"
+    ]
+   },
+   {
+    "text": "طيران الخليج",
+    "baseRarity": 0.0214
+   },
+   {
+    "text": "الكويتية",
+    "baseRarity": 0.0195,
+    "aliases": [
+     "الخطوط الجوية الكويتية"
+    ]
+   },
+   {
+    "text": "طيران الجزيرة",
+    "baseRarity": 0.0179
+   },
+   {
+    "text": "الطيران العماني",
+    "baseRarity": 0.0165,
+    "aliases": [
+     "العمانية"
+    ]
+   },
+   {
+    "text": "السلام للطيران",
+    "baseRarity": 0.0153
+   },
+   {
+    "text": "مصر للطيران",
+    "baseRarity": 0.0143
+   },
+   {
+    "text": "الملكية الأردنية",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "الخطوط الملكية المغربية",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "الخطوط التونسية",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "الخطوط الجوية الجزائرية",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "طيران الشرق الأوسط",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "الخطوط الجوية العراقية",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "السورية للطيران",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "اليمنية",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "الخطوط التركية",
+    "baseRarity": 0.0089
+   },
+   {
+    "text": "بيغاسوس",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "البريطانية",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "الخطوط الجوية البريطانية"
+    ]
+   },
+   {
+    "text": "لوفتهانزا",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "الخطوط الفرنسية",
+    "baseRarity": 0.0077,
+    "aliases": [
+     "إير فرانس"
+    ]
+   },
+   {
+    "text": "كي إل إم",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "الخطوط السويسرية",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "سويس"
+    ]
+   },
+   {
+    "text": "النمساوية",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "إيبيريا",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "الإيطالية",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "آي تي إيه"
+    ]
+   },
+   {
+    "text": "رايان إير",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "إيزي جيت",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "ويز إير",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "أمريكان إيرلاينز",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "يونايتد إيرلاينز",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "دلتا",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "ساوث ويست",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "طيران كندا",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "إير كندا"
+    ]
+   },
+   {
+    "text": "الخطوط السنغافورية",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "كاثي باسيفيك",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "الخطوط اليابانية",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "إيه إن إيه",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "الكورية",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "الخطوط الجوية الكورية"
+    ]
+   },
+   {
+    "text": "طيران الصين",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "إير تشاينا"
+    ]
+   },
+   {
+    "text": "الخطوط الماليزية",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "طيران آسيا",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "إير آسيا"
+    ]
+   },
+   {
+    "text": "الخطوط التايلاندية",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "الخطوط الهندية",
+    "baseRarity": 0.0042,
+    "aliases": [
+     "إير إنديا"
+    ]
+   },
+   {
+    "text": "الخطوط الباكستانية",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "طيران الإثيوبية",
+    "baseRarity": 0.004,
+    "aliases": [
+     "الخطوط الإثيوبية"
+    ]
+   },
+   {
+    "text": "الكينية",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "جنوب أفريقيا للطيران",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "كوانتاس",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "طيران نيوزيلندا",
+    "baseRarity": 0.0038
+   },
+   {
+    "text": "إيروفلوت",
+    "baseRarity": 0.0037
+   },
+   {
+    "text": "أذربيجان للطيران",
+    "baseRarity": 0.0036
+   }
+  ],
+  "secret": "طيران الجزيرة",
+  "sources": [
+   "https://www.iata.org/en/about/members/airline-list/"
+  ]
+ },
+ {
+  "id": "life-toys",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر لعبة أطفال (دمية أو لعبة)",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "دمية",
+    "baseRarity": 0.2223,
+    "aliases": [
+     "عروسة"
+    ]
+   },
+   {
+    "text": "باربي",
+    "baseRarity": 0.1111
+   },
+   {
+    "text": "دبدوب",
+    "baseRarity": 0.0741,
+    "aliases": [
+     "دب"
+    ]
+   },
+   {
+    "text": "ليغو",
+    "baseRarity": 0.0556,
+    "aliases": [
+     "مكعبات"
+    ]
+   },
+   {
+    "text": "سيارة لعبة",
+    "baseRarity": 0.0445,
+    "aliases": [
+     "سيارة ريموت"
+    ]
+   },
+   {
+    "text": "قطار لعبة",
+    "baseRarity": 0.037
+   },
+   {
+    "text": "كرة",
+    "baseRarity": 0.0318
+   },
+   {
+    "text": "بالون",
+    "baseRarity": 0.0278,
+    "aliases": [
+     "نفاخة"
+    ]
+   },
+   {
+    "text": "طيارة ورقية",
+    "baseRarity": 0.0247
+   },
+   {
+    "text": "يويو",
+    "baseRarity": 0.0222
+   },
+   {
+    "text": "بلبل",
+    "baseRarity": 0.0202,
+    "aliases": [
+     "خذروف"
+    ]
+   },
+   {
+    "text": "مكعب روبيك",
+    "baseRarity": 0.0185,
+    "aliases": [
+     "روبيك"
+    ]
+   },
+   {
+    "text": "بازل",
+    "baseRarity": 0.0171,
+    "aliases": [
+     "أحجية تركيب"
+    ]
+   },
+   {
+    "text": "أرجوحة",
+    "baseRarity": 0.0159,
+    "aliases": [
+     "مرجيحة"
+    ]
+   },
+   {
+    "text": "زحليقة",
+    "baseRarity": 0.0148,
+    "aliases": [
+     "زلاقة"
+    ]
+   },
+   {
+    "text": "دراجة ثلاثية",
+    "baseRarity": 0.0139
+   },
+   {
+    "text": "سكوتر",
+    "baseRarity": 0.0131
+   },
+   {
+    "text": "حبل",
+    "baseRarity": 0.0123
+   },
+   {
+    "text": "دمية ماريونيت",
+    "baseRarity": 0.0117,
+    "aliases": [
+     "عرائس"
+    ]
+   },
+   {
+    "text": "دمى ماتريوشكا",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "هوت ويلز",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "تيدي",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "مسدس ماء",
+    "baseRarity": 0.0097
+   },
+   {
+    "text": "سيف بلاستيك",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "فقاعات صابون",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "فقاعات"
+    ]
+   },
+   {
+    "text": "صلصال",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "رمل سحري",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "لعبة مطبخ",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "بيت دمى",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "خيمة أطفال",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "حصان هزاز",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "ترامبولين",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "نطيطة"
+    ]
+   },
+   {
+    "text": "طائرة ريموت",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "درون"
+    ]
+   },
+   {
+    "text": "روبوت",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "كرة سلة صغيرة",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "بلاي دو",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "سلايم",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "بوب إت",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "فيدجت سبينر",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "سبينر"
+    ]
+   },
+   {
+    "text": "تاماغوتشي",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "نينتندو",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "بلايستيشن",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "مونوبولي",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "أونو",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "الدومينو",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "كيرم",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "الشطرنج",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "الداما",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "السلم والثعبان",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "سلم وثعبان"
+    ]
+   },
+   {
+    "text": "البلي",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "القلل"
+    ]
+   }
+  ],
+  "secret": "البلبل",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Toy"
+  ]
+ },
+ {
+  "id": "life-accessories",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر إكسسوار أو قطعة مجوهرات",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "خاتم",
+    "baseRarity": 0.2324
+   },
+   {
+    "text": "ساعة",
+    "baseRarity": 0.1162
+   },
+   {
+    "text": "سلسال",
+    "baseRarity": 0.0775,
+    "aliases": [
+     "سلسلة",
+     "قلادة"
+    ]
+   },
+   {
+    "text": "عقد",
+    "baseRarity": 0.0581
+   },
+   {
+    "text": "أسورة",
+    "baseRarity": 0.0465,
+    "aliases": [
+     "إسوارة",
+     "غويشة"
+    ]
+   },
+   {
+    "text": "حلق",
+    "baseRarity": 0.0387,
+    "aliases": [
+     "قرط",
+     "أقراط"
+    ]
+   },
+   {
+    "text": "خلخال",
+    "baseRarity": 0.0332
+   },
+   {
+    "text": "بروش",
+    "baseRarity": 0.029
+   },
+   {
+    "text": "نظارة",
+    "baseRarity": 0.0258,
+    "aliases": [
+     "نظارة شمسية"
+    ]
+   },
+   {
+    "text": "محفظة",
+    "baseRarity": 0.0232,
+    "aliases": [
+     "بوك"
+    ]
+   },
+   {
+    "text": "شنطة",
+    "baseRarity": 0.0211,
+    "aliases": [
+     "حقيبة"
+    ]
+   },
+   {
+    "text": "حزام",
+    "baseRarity": 0.0194
+   },
+   {
+    "text": "ربطة شعر",
+    "baseRarity": 0.0179,
+    "aliases": [
+     "توكة"
+    ]
+   },
+   {
+    "text": "مشبك شعر",
+    "baseRarity": 0.0166,
+    "aliases": [
+     "بنسة"
+    ]
+   },
+   {
+    "text": "تاج",
+    "baseRarity": 0.0155
+   },
+   {
+    "text": "طوق",
+    "baseRarity": 0.0145
+   },
+   {
+    "text": "كبك",
+    "baseRarity": 0.0137,
+    "aliases": [
+     "أزرار أكمام"
+    ]
+   },
+   {
+    "text": "دبوس ربطة عنق",
+    "baseRarity": 0.0129
+   },
+   {
+    "text": "سبحة",
+    "baseRarity": 0.0122,
+    "aliases": [
+     "مسبحة"
+    ]
+   },
+   {
+    "text": "ميدالية",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "ميدالية مفاتيح"
+    ]
+   },
+   {
+    "text": "قبعة",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "وشاح",
+    "baseRarity": 0.0106
+   },
+   {
+    "text": "منديل جيب",
+    "baseRarity": 0.0101
+   },
+   {
+    "text": "خاتم خطوبة",
+    "baseRarity": 0.0097,
+    "aliases": [
+     "دبلة"
+    ]
+   },
+   {
+    "text": "عقد لؤلؤ",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "حلق أنف",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "خزامة"
+    ]
+   },
+   {
+    "text": "شنطة ظهر",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "ساعة ذكية",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "مظلة",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "قفازات",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "ساعة جيب",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "بادج",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "الشبكة",
+    "baseRarity": 0.007,
+    "aliases": [
+     "طقم ذهب"
+    ]
+   },
+   {
+    "text": "طقم ألماس",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "خاتم فضة",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "فضة"
+    ]
+   },
+   {
+    "text": "ساعة رولكس",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "عصابة رأس",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "حامل جوال",
+    "baseRarity": 0.0061,
+    "aliases": [
+     "جراب"
+    ]
+   },
+   {
+    "text": "كفر جوال",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "سماعات لاسلكية",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "إيربودز"
+    ]
+   },
+   {
+    "text": "خاتم ذكي",
+    "baseRarity": 0.0057
+   }
+  ],
+  "secret": "البروش",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Jewellery"
+  ]
+ },
+ {
+  "id": "life-fashion-brands",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر ماركة أزياء أو ملابس",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "نايكي",
+    "baseRarity": 0.216,
+    "aliases": [
+     "نايك"
+    ]
+   },
+   {
+    "text": "أديداس",
+    "baseRarity": 0.108
+   },
+   {
+    "text": "بوما",
+    "baseRarity": 0.072
+   },
+   {
+    "text": "زارا",
+    "baseRarity": 0.054
+   },
+   {
+    "text": "إتش آند إم",
+    "baseRarity": 0.0432,
+    "aliases": [
+     "h&m"
+    ]
+   },
+   {
+    "text": "شانيل",
+    "baseRarity": 0.036
+   },
+   {
+    "text": "ديور",
+    "baseRarity": 0.0309
+   },
+   {
+    "text": "لويس فيتون",
+    "baseRarity": 0.027,
+    "aliases": [
+     "لوي فيتون",
+     "LV"
+    ]
+   },
+   {
+    "text": "غوتشي",
+    "baseRarity": 0.024,
+    "aliases": [
+     "قوتشي"
+    ]
+   },
+   {
+    "text": "برادا",
+    "baseRarity": 0.0216
+   },
+   {
+    "text": "فيرساتشي",
+    "baseRarity": 0.0196
+   },
+   {
+    "text": "أرماني",
+    "baseRarity": 0.018,
+    "aliases": [
+     "جورجيو أرماني"
+    ]
+   },
+   {
+    "text": "هيرميس",
+    "baseRarity": 0.0166
+   },
+   {
+    "text": "بربري",
+    "baseRarity": 0.0154
+   },
+   {
+    "text": "بالنسياغا",
+    "baseRarity": 0.0144
+   },
+   {
+    "text": "فالنتينو",
+    "baseRarity": 0.0135
+   },
+   {
+    "text": "سان لوران",
+    "baseRarity": 0.0127,
+    "aliases": [
+     "إيف سان لوران",
+     "YSL"
+    ]
+   },
+   {
+    "text": "دولتشي آند غابانا",
+    "baseRarity": 0.012,
+    "aliases": [
+     "دولتشي"
+    ]
+   },
+   {
+    "text": "فندي",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "جيفنشي",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "كالفن كلاين",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "تومي هيلفيغر",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "رالف لورين",
+    "baseRarity": 0.0094,
+    "aliases": [
+     "بولو رالف لورين"
+    ]
+   },
+   {
+    "text": "لاكوست",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "هوغو بوس",
+    "baseRarity": 0.0086,
+    "aliases": [
+     "بوس"
+    ]
+   },
+   {
+    "text": "ليفايس",
+    "baseRarity": 0.0083,
+    "aliases": [
+     "ليفيز"
+    ]
+   },
+   {
+    "text": "غاب",
+    "baseRarity": 0.008,
+    "aliases": [
+     "gap"
+    ]
+   },
+   {
+    "text": "مانجو",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "ماسيمو دوتي",
+    "baseRarity": 0.0074
+   },
+   {
+    "text": "بول آند بير",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "بيرشكا",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "سنتربوينت",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "سنتر بوينت"
+    ]
+   },
+   {
+    "text": "ماكس",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "ريد تاغ",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "شي إن",
+    "baseRarity": 0.0062,
+    "aliases": [
+     "شين"
+    ]
+   },
+   {
+    "text": "يونيكلو",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "أندر آرمر",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "نيو بالانس",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "ريبوك",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "فانز",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "كونفرس",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "سكيتشرز",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "كروكس",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "تيمبرلاند",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "ذا نورث فيس",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "نورث فيس"
+    ]
+   },
+   {
+    "text": "كولومبيا",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "سوبريم",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "أوف وايت",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "موسكينو",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "كارتييه",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "مايكل كورس",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "كوتش",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "كيت سبيد",
+    "baseRarity": 0.0041
+   },
+   {
+    "text": "توري بورش",
+    "baseRarity": 0.004
+   },
+   {
+    "text": "ستيف مادن",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "ألدو",
+    "baseRarity": 0.0039
+   },
+   {
+    "text": "تشارلز آند كيث",
+    "baseRarity": 0.0038
+   }
+  ],
+  "secret": "بالنسياغا",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_fashion_designers"
+  ]
+ },
+ {
+  "id": "life-watches",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر ماركة ساعات",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "رولكس",
+    "baseRarity": 0.2253
+   },
+   {
+    "text": "أوميغا",
+    "baseRarity": 0.1127
+   },
+   {
+    "text": "كاسيو",
+    "baseRarity": 0.0751
+   },
+   {
+    "text": "سيكو",
+    "baseRarity": 0.0563,
+    "aliases": [
+     "سايكو"
+    ]
+   },
+   {
+    "text": "سواتش",
+    "baseRarity": 0.0451
+   },
+   {
+    "text": "تيسو",
+    "baseRarity": 0.0376
+   },
+   {
+    "text": "تاغ هوير",
+    "baseRarity": 0.0322
+   },
+   {
+    "text": "كارتييه",
+    "baseRarity": 0.0282
+   },
+   {
+    "text": "باتيك فيليب",
+    "baseRarity": 0.025
+   },
+   {
+    "text": "أوديمار بيغيه",
+    "baseRarity": 0.0225
+   },
+   {
+    "text": "هوبلو",
+    "baseRarity": 0.0205
+   },
+   {
+    "text": "بريتلينغ",
+    "baseRarity": 0.0188
+   },
+   {
+    "text": "آي دبليو سي",
+    "baseRarity": 0.0173,
+    "aliases": [
+     "iwc"
+    ]
+   },
+   {
+    "text": "جيجر لوكولتر",
+    "baseRarity": 0.0161
+   },
+   {
+    "text": "فاشرون كونستانتين",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "ريتشارد ميل",
+    "baseRarity": 0.0141
+   },
+   {
+    "text": "بانيراي",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "لونجين",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "رادو",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "مونت بلانك",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "شوبارد",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "بلانبين",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "فرانك مولر",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "تودور",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "سيتيزن",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "فوسيل",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "دانيال ويلنغتون",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "مايكل كورس",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "أرماني",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "غوتشي",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "سكاغن",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "أبل ووتش",
+    "baseRarity": 0.007,
+    "aliases": [
+     "ساعة أبل"
+    ]
+   },
+   {
+    "text": "سامسونج جالاكسي ووتش",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "غارمن",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "هواوي ووتش",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "جي شوك",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "أوريس",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "بوم آند ميرسييه",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "بريغيه",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "أ. لانغه آند زونه",
+    "baseRarity": 0.0056,
+    "aliases": [
+     "لانغه"
+    ]
+   },
+   {
+    "text": "زينيث",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "بيل آند روس",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "موفادو",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "بولوفا",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "أوريينت",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "تيمكس",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "إنفيكتا",
+    "baseRarity": 0.0048
+   }
+  ],
+  "secret": "أوديمار بيغيه",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_watch_manufacturers"
+  ]
+ },
+ {
+  "id": "life-materials",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر مادة تُصنع منها الأشياء",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "خشب",
+    "baseRarity": 0.2194
+   },
+   {
+    "text": "حديد",
+    "baseRarity": 0.1097
+   },
+   {
+    "text": "بلاستيك",
+    "baseRarity": 0.0731
+   },
+   {
+    "text": "زجاج",
+    "baseRarity": 0.0549
+   },
+   {
+    "text": "ورق",
+    "baseRarity": 0.0439
+   },
+   {
+    "text": "قماش",
+    "baseRarity": 0.0366
+   },
+   {
+    "text": "قطن",
+    "baseRarity": 0.0313
+   },
+   {
+    "text": "صوف",
+    "baseRarity": 0.0274
+   },
+   {
+    "text": "حرير",
+    "baseRarity": 0.0244
+   },
+   {
+    "text": "جلد",
+    "baseRarity": 0.0219
+   },
+   {
+    "text": "ألمنيوم",
+    "baseRarity": 0.0199,
+    "aliases": [
+     "ألومنيوم"
+    ]
+   },
+   {
+    "text": "نحاس",
+    "baseRarity": 0.0183
+   },
+   {
+    "text": "ذهب",
+    "baseRarity": 0.0169
+   },
+   {
+    "text": "فضة",
+    "baseRarity": 0.0157
+   },
+   {
+    "text": "فولاذ",
+    "baseRarity": 0.0146,
+    "aliases": [
+     "ستيل"
+    ]
+   },
+   {
+    "text": "ستانلس ستيل",
+    "baseRarity": 0.0137
+   },
+   {
+    "text": "إسمنت",
+    "baseRarity": 0.0129,
+    "aliases": [
+     "أسمنت"
+    ]
+   },
+   {
+    "text": "خرسانة",
+    "baseRarity": 0.0122
+   },
+   {
+    "text": "طوب",
+    "baseRarity": 0.0115
+   },
+   {
+    "text": "حجر",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "رخام",
+    "baseRarity": 0.0104
+   },
+   {
+    "text": "جرانيت",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "سيراميك",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "فخار",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "خزف",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "بورسلين"
+    ]
+   },
+   {
+    "text": "مطاط",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "كرتون",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "إسفنج",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "نايلون",
+    "baseRarity": 0.0076
+   },
+   {
+    "text": "بوليستر",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "لينن",
+    "baseRarity": 0.0071,
+    "aliases": [
+     "كتان"
+    ]
+   },
+   {
+    "text": "جينز",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "دينم"
+    ]
+   },
+   {
+    "text": "مخمل",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "ساتان",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "شيفون",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "كشمير",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "بامبو",
+    "baseRarity": 0.0059,
+    "aliases": [
+     "خيزران"
+    ]
+   },
+   {
+    "text": "فلين",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "شمع",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "جبس",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "طين",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "رمل",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "كربون",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "ألياف الكربون"
+    ]
+   },
+   {
+    "text": "الألياف الزجاجية",
+    "baseRarity": 0.005,
+    "aliases": [
+     "فايبر جلاس"
+    ]
+   },
+   {
+    "text": "أكريليك",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "فينيل",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "سيليكون",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "تيتانيوم",
+    "baseRarity": 0.0046
+   },
+   {
+    "text": "برونز",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "بلاتين",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "عاج",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "عظم",
+    "baseRarity": 0.0042
+   },
+   {
+    "text": "صدف",
+    "baseRarity": 0.0041
+   }
+  ],
+  "secret": "الألياف الزجاجية",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_materials"
+  ]
+ },
+ {
+  "id": "life-house-parts",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر غرفة أو جزء من أجزاء البيت",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "غرفة نوم",
+    "baseRarity": 0.2243
+   },
+   {
+    "text": "مطبخ",
+    "baseRarity": 0.1121
+   },
+   {
+    "text": "حمام",
+    "baseRarity": 0.0748,
+    "aliases": [
+     "دورة مياه"
+    ]
+   },
+   {
+    "text": "صالة",
+    "baseRarity": 0.0561,
+    "aliases": [
+     "صالون"
+    ]
+   },
+   {
+    "text": "مجلس",
+    "baseRarity": 0.0449
+   },
+   {
+    "text": "غرفة طعام",
+    "baseRarity": 0.0374,
+    "aliases": [
+     "مقلط"
+    ]
+   },
+   {
+    "text": "غرفة جلوس",
+    "baseRarity": 0.032
+   },
+   {
+    "text": "مدخل",
+    "baseRarity": 0.028
+   },
+   {
+    "text": "ممر",
+    "baseRarity": 0.0249,
+    "aliases": [
+     "سيب"
+    ]
+   },
+   {
+    "text": "درج",
+    "baseRarity": 0.0224,
+    "aliases": [
+     "سلالم",
+     "دريج"
+    ]
+   },
+   {
+    "text": "سطح",
+    "baseRarity": 0.0204,
+    "aliases": [
+     "سطوح"
+    ]
+   },
+   {
+    "text": "حوش",
+    "baseRarity": 0.0187,
+    "aliases": [
+     "فناء"
+    ]
+   },
+   {
+    "text": "حديقة",
+    "baseRarity": 0.0173
+   },
+   {
+    "text": "مسبح",
+    "baseRarity": 0.016
+   },
+   {
+    "text": "كراج",
+    "baseRarity": 0.015,
+    "aliases": [
+     "موقف سيارات"
+    ]
+   },
+   {
+    "text": "مستودع",
+    "baseRarity": 0.014,
+    "aliases": [
+     "مخزن"
+    ]
+   },
+   {
+    "text": "غرفة غسيل",
+    "baseRarity": 0.0132
+   },
+   {
+    "text": "غرفة خادمة",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "ملحق",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "بلكونة",
+    "baseRarity": 0.0112,
+    "aliases": [
+     "شرفة"
+    ]
+   },
+   {
+    "text": "باب",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "نافذة",
+    "baseRarity": 0.0102,
+    "aliases": [
+     "شباك",
+     "دريشة"
+    ]
+   },
+   {
+    "text": "سقف",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "جدار",
+    "baseRarity": 0.0093,
+    "aliases": [
+     "حائط",
+     "طوفة"
+    ]
+   },
+   {
+    "text": "أرضية",
+    "baseRarity": 0.009,
+    "aliases": [
+     "بلاط"
+    ]
+   },
+   {
+    "text": "ستارة",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "مكيف",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "سور",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "بوابة",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "جرس",
+    "baseRarity": 0.0075,
+    "aliases": [
+     "جرس الباب"
+    ]
+   },
+   {
+    "text": "مصعد",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "قبو",
+    "baseRarity": 0.007,
+    "aliases": [
+     "بدروم"
+    ]
+   },
+   {
+    "text": "علية",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "مدفأة",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "نافورة",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "مظلة",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "عتبة",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "جناح نوم",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "غرفة ضيوف",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "غرفة أطفال",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "غرفة ملابس",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "مكتب",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "مصلى",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "غرفة ألعاب",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "سينما منزلية",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "نادي رياضي منزلي",
+    "baseRarity": 0.0049,
+    "aliases": [
+     "جيم"
+    ]
+   },
+   {
+    "text": "خزان ماء",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "خزان"
+    ]
+   },
+   {
+    "text": "عداد كهرباء",
+    "baseRarity": 0.0047
+   }
+  ],
+  "secret": "الملحق",
+  "sources": [
+   "https://en.wikipedia.org/wiki/Room"
+  ]
+ },
+ {
+  "id": "life-car-parts",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر قطعة من قطع السيارة",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "كفر",
+    "baseRarity": 0.2204,
+    "aliases": [
+     "إطار",
+     "تاير"
+    ]
+   },
+   {
+    "text": "جنط",
+    "baseRarity": 0.1102,
+    "aliases": [
+     "جنوط"
+    ]
+   },
+   {
+    "text": "مكينة",
+    "baseRarity": 0.0735,
+    "aliases": [
+     "محرك"
+    ]
+   },
+   {
+    "text": "قير",
+    "baseRarity": 0.0551,
+    "aliases": [
+     "ناقل الحركة",
+     "جير"
+    ]
+   },
+   {
+    "text": "دركسون",
+    "baseRarity": 0.0441,
+    "aliases": [
+     "مقود",
+     "سكان"
+    ]
+   },
+   {
+    "text": "فرامل",
+    "baseRarity": 0.0367,
+    "aliases": [
+     "بريك"
+    ]
+   },
+   {
+    "text": "كلتش",
+    "baseRarity": 0.0315,
+    "aliases": [
+     "دبرياج"
+    ]
+   },
+   {
+    "text": "بطارية",
+    "baseRarity": 0.0275
+   },
+   {
+    "text": "رديتر",
+    "baseRarity": 0.0245,
+    "aliases": [
+     "مبرد"
+    ]
+   },
+   {
+    "text": "شكمان",
+    "baseRarity": 0.022,
+    "aliases": [
+     "عادم"
+    ]
+   },
+   {
+    "text": "صدام",
+    "baseRarity": 0.02,
+    "aliases": [
+     "دعامية"
+    ]
+   },
+   {
+    "text": "كبوت",
+    "baseRarity": 0.0184,
+    "aliases": [
+     "غطاء المحرك"
+    ]
+   },
+   {
+    "text": "شنطة",
+    "baseRarity": 0.017,
+    "aliases": [
+     "صندوق السيارة"
+    ]
+   },
+   {
+    "text": "زجاج أمامي",
+    "baseRarity": 0.0157,
+    "aliases": [
+     "قزاز"
+    ]
+   },
+   {
+    "text": "مساحات",
+    "baseRarity": 0.0147
+   },
+   {
+    "text": "مرايا",
+    "baseRarity": 0.0138,
+    "aliases": [
+     "مراية"
+    ]
+   },
+   {
+    "text": "أنوار",
+    "baseRarity": 0.013,
+    "aliases": [
+     "إضاءة",
+     "كشافات"
+    ]
+   },
+   {
+    "text": "إشارات",
+    "baseRarity": 0.0122,
+    "aliases": [
+     "غمازات"
+    ]
+   },
+   {
+    "text": "بواجي",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "شمعات احتراق"
+    ]
+   },
+   {
+    "text": "فلتر زيت",
+    "baseRarity": 0.011
+   },
+   {
+    "text": "فلتر هواء",
+    "baseRarity": 0.0105
+   },
+   {
+    "text": "فلتر بنزين",
+    "baseRarity": 0.01
+   },
+   {
+    "text": "طرمبة بنزين",
+    "baseRarity": 0.0096,
+    "aliases": [
+     "مضخة وقود"
+    ]
+   },
+   {
+    "text": "دينمو",
+    "baseRarity": 0.0092,
+    "aliases": [
+     "مولد"
+    ]
+   },
+   {
+    "text": "سلف",
+    "baseRarity": 0.0088,
+    "aliases": [
+     "بادئ التشغيل"
+    ]
+   },
+   {
+    "text": "سير المكينة",
+    "baseRarity": 0.0085,
+    "aliases": [
+     "سير"
+    ]
+   },
+   {
+    "text": "بلوف",
+    "baseRarity": 0.0082,
+    "aliases": [
+     "صمامات"
+    ]
+   },
+   {
+    "text": "بستم",
+    "baseRarity": 0.0079,
+    "aliases": [
+     "مكبس"
+    ]
+   },
+   {
+    "text": "عمود الكرنك",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "كرنك"
+    ]
+   },
+   {
+    "text": "كاربريتر",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "بخاخات",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "تيربو",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "مساعدات",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "ممتصات الصدمات"
+    ]
+   },
+   {
+    "text": "مقصات",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "عكوس",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "أذرعة",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "دسك",
+    "baseRarity": 0.006,
+    "aliases": [
+     "أقراص الفرامل"
+    ]
+   },
+   {
+    "text": "فحمات",
+    "baseRarity": 0.0058,
+    "aliases": [
+     "تيل فرامل"
+    ]
+   },
+   {
+    "text": "عداد السرعة",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "الطبلون",
+     "لوحة العدادات"
+    ]
+   },
+   {
+    "text": "كراسي",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "مقاعد"
+    ]
+   },
+   {
+    "text": "حزام الأمان",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "إيرباق",
+    "baseRarity": 0.0052,
+    "aliases": [
+     "وسائد هوائية"
+    ]
+   },
+   {
+    "text": "مكيف",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "هون",
+    "baseRarity": 0.005,
+    "aliases": [
+     "بوري",
+     "زمور"
+    ]
+   },
+   {
+    "text": "فتحة سقف",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "لوحة",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "لوحة الأرقام",
+     "نمرة"
+    ]
+   },
+   {
+    "text": "خزان الوقود",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "تانكي"
+    ]
+   },
+   {
+    "text": "جك",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "رافعة"
+    ]
+   },
+   {
+    "text": "كفر احتياطي",
+    "baseRarity": 0.0045,
+    "aliases": [
+     "سبير"
+    ]
+   },
+   {
+    "text": "كمبيوتر السيارة",
+    "baseRarity": 0.0044,
+    "aliases": [
+     "ECU"
+    ]
+   },
+   {
+    "text": "حساسات",
+    "baseRarity": 0.0043
+   },
+   {
+    "text": "كاميرا خلفية",
+    "baseRarity": 0.0042
+   }
+  ],
+  "secret": "الكاربريتر",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_auto_parts"
+  ]
+ },
+ {
+  "id": "life-saudi-companies",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر شركة سعودية",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "أرامكو",
+    "baseRarity": 0.2275,
+    "aliases": [
+     "أرامكو السعودية"
+    ]
+   },
+   {
+    "text": "سابك",
+    "baseRarity": 0.1138
+   },
+   {
+    "text": "إس تي سي",
+    "baseRarity": 0.0758,
+    "aliases": [
+     "stc",
+     "الاتصالات السعودية"
+    ]
+   },
+   {
+    "text": "موبايلي",
+    "baseRarity": 0.0569
+   },
+   {
+    "text": "زين",
+    "baseRarity": 0.0455
+   },
+   {
+    "text": "مصرف الراجحي",
+    "baseRarity": 0.0379,
+    "aliases": [
+     "الراجحي"
+    ]
+   },
+   {
+    "text": "البنك الأهلي السعودي",
+    "baseRarity": 0.0325,
+    "aliases": [
+     "الأهلي"
+    ]
+   },
+   {
+    "text": "المراعي",
+    "baseRarity": 0.0284
+   },
+   {
+    "text": "معادن",
+    "baseRarity": 0.0253
+   },
+   {
+    "text": "الكهرباء",
+    "baseRarity": 0.0228,
+    "aliases": [
+     "الشركة السعودية للكهرباء"
+    ]
+   },
+   {
+    "text": "الخطوط السعودية",
+    "baseRarity": 0.0207
+   },
+   {
+    "text": "طيران ناس",
+    "baseRarity": 0.019,
+    "aliases": [
+     "ناس"
+    ]
+   },
+   {
+    "text": "جرير",
+    "baseRarity": 0.0175
+   },
+   {
+    "text": "إكسترا",
+    "baseRarity": 0.0163
+   },
+   {
+    "text": "ساكو",
+    "baseRarity": 0.0152
+   },
+   {
+    "text": "بنده",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "العثيم",
+    "baseRarity": 0.0134
+   },
+   {
+    "text": "الدانوب",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "التميمي",
+    "baseRarity": 0.012
+   },
+   {
+    "text": "نادك",
+    "baseRarity": 0.0114
+   },
+   {
+    "text": "سدافكو",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "الصافي دانون",
+    "baseRarity": 0.0103,
+    "aliases": [
+     "الصافي"
+    ]
+   },
+   {
+    "text": "البيك",
+    "baseRarity": 0.0099
+   },
+   {
+    "text": "هرفي",
+    "baseRarity": 0.0095
+   },
+   {
+    "text": "كودو",
+    "baseRarity": 0.0091
+   },
+   {
+    "text": "المجدوعي",
+    "baseRarity": 0.0088
+   },
+   {
+    "text": "عبداللطيف جميل",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "الجميح",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "الزامل",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "بن لادن",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "مجموعة بن لادن"
+    ]
+   },
+   {
+    "text": "مرافق",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "أكوا باور",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "سار",
+    "baseRarity": 0.0069,
+    "aliases": [
+     "الخطوط الحديدية السعودية"
+    ]
+   },
+   {
+    "text": "البحري",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "علم",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "ثقة",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "تمارا",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "تابي",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "هنقرستيشن",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "جاهز",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "مرسول",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "نيوم",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "روشن",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "القدية",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "الدرعية",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "شركة الدرعية"
+    ]
+   }
+  ],
+  "secret": "معادن",
+  "sources": [
+   "https://www.saudiexchange.sa/"
+  ]
+ },
+ {
+  "id": "life-banks",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر بنك أو مصرف",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "مصرف الراجحي",
+    "baseRarity": 0.2243,
+    "aliases": [
+     "الراجحي"
+    ]
+   },
+   {
+    "text": "البنك الأهلي السعودي",
+    "baseRarity": 0.1121,
+    "aliases": [
+     "الأهلي",
+     "الأهلي التجاري"
+    ]
+   },
+   {
+    "text": "بنك الرياض",
+    "baseRarity": 0.0748
+   },
+   {
+    "text": "البنك السعودي الفرنسي",
+    "baseRarity": 0.0561,
+    "aliases": [
+     "الفرنسي"
+    ]
+   },
+   {
+    "text": "البنك العربي الوطني",
+    "baseRarity": 0.0449,
+    "aliases": [
+     "العربي"
+    ]
+   },
+   {
+    "text": "بنك البلاد",
+    "baseRarity": 0.0374,
+    "aliases": [
+     "البلاد"
+    ]
+   },
+   {
+    "text": "مصرف الإنماء",
+    "baseRarity": 0.032,
+    "aliases": [
+     "الإنماء"
+    ]
+   },
+   {
+    "text": "بنك الجزيرة",
+    "baseRarity": 0.028,
+    "aliases": [
+     "الجزيرة"
+    ]
+   },
+   {
+    "text": "البنك السعودي للاستثمار",
+    "baseRarity": 0.0249
+   },
+   {
+    "text": "البنك الأول",
+    "baseRarity": 0.0224,
+    "aliases": [
+     "ساب"
+    ]
+   },
+   {
+    "text": "بنك سامبا",
+    "baseRarity": 0.0204,
+    "aliases": [
+     "سامبا"
+    ]
+   },
+   {
+    "text": "بنك الخليج الدولي",
+    "baseRarity": 0.0187
+   },
+   {
+    "text": "البنك المركزي السعودي",
+    "baseRarity": 0.0173,
+    "aliases": [
+     "ساما"
+    ]
+   },
+   {
+    "text": "بنك الإمارات دبي الوطني",
+    "baseRarity": 0.016
+   },
+   {
+    "text": "بنك أبوظبي الأول",
+    "baseRarity": 0.015
+   },
+   {
+    "text": "بنك دبي الإسلامي",
+    "baseRarity": 0.014
+   },
+   {
+    "text": "مصرف أبوظبي الإسلامي",
+    "baseRarity": 0.0132
+   },
+   {
+    "text": "بنك المشرق",
+    "baseRarity": 0.0125,
+    "aliases": [
+     "المشرق"
+    ]
+   },
+   {
+    "text": "بنك الكويت الوطني",
+    "baseRarity": 0.0118
+   },
+   {
+    "text": "بيت التمويل الكويتي",
+    "baseRarity": 0.0112,
+    "aliases": [
+     "بيتك"
+    ]
+   },
+   {
+    "text": "بنك قطر الوطني",
+    "baseRarity": 0.0107,
+    "aliases": [
+     "QNB"
+    ]
+   },
+   {
+    "text": "مصرف قطر الإسلامي",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "بنك مسقط",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "البنك الأهلي المتحد",
+    "baseRarity": 0.0093
+   },
+   {
+    "text": "بنك البحرين الوطني",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "بنك مصر",
+    "baseRarity": 0.0086
+   },
+   {
+    "text": "البنك الأهلي المصري",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "البنك التجاري الدولي",
+    "baseRarity": 0.008,
+    "aliases": [
+     "CIB"
+    ]
+   },
+   {
+    "text": "البنك العربي",
+    "baseRarity": 0.0077
+   },
+   {
+    "text": "بنك عودة",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "بنك القاهرة",
+    "baseRarity": 0.0072
+   },
+   {
+    "text": "إتش إس بي سي",
+    "baseRarity": 0.007,
+    "aliases": [
+     "HSBC"
+    ]
+   },
+   {
+    "text": "سيتي بنك",
+    "baseRarity": 0.0068
+   },
+   {
+    "text": "جي بي مورغان",
+    "baseRarity": 0.0066
+   },
+   {
+    "text": "بنك أوف أمريكا",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "غولدمان ساكس",
+    "baseRarity": 0.0062
+   },
+   {
+    "text": "مورغان ستانلي",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "باركليز",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "دويتشه بنك",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "بي إن بي باريبا",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "كريدي سويس",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "يو بي إس",
+    "baseRarity": 0.0053,
+    "aliases": [
+     "UBS"
+    ]
+   },
+   {
+    "text": "سانتاندر",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "ستاندرد تشارترد",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "ويلز فارغو",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "البنك الدولي",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "البنك الإسلامي للتنمية",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "STC Pay",
+    "baseRarity": 0.0047,
+    "aliases": [
+     "إس تي سي باي",
+     "بنك إس تي سي"
+    ]
+   }
+  ],
+  "secret": "بنك الجزيرة",
+  "sources": [
+   "https://www.sama.gov.sa/"
+  ]
+ },
+ {
+  "id": "life-stores",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر محل أو متجر أو سوبرماركت مشهور",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "جرير",
+    "baseRarity": 0.2253,
+    "aliases": [
+     "مكتبة جرير"
+    ]
+   },
+   {
+    "text": "إكسترا",
+    "baseRarity": 0.1127
+   },
+   {
+    "text": "ساكو",
+    "baseRarity": 0.0751
+   },
+   {
+    "text": "إيكيا",
+    "baseRarity": 0.0563
+   },
+   {
+    "text": "هوم سنتر",
+    "baseRarity": 0.0451
+   },
+   {
+    "text": "هوم بوكس",
+    "baseRarity": 0.0376
+   },
+   {
+    "text": "بنده",
+    "baseRarity": 0.0322
+   },
+   {
+    "text": "العثيم",
+    "baseRarity": 0.0282
+   },
+   {
+    "text": "الدانوب",
+    "baseRarity": 0.025
+   },
+   {
+    "text": "التميمي",
+    "baseRarity": 0.0225
+   },
+   {
+    "text": "كارفور",
+    "baseRarity": 0.0205
+   },
+   {
+    "text": "لولو",
+    "baseRarity": 0.0188,
+    "aliases": [
+     "لولو هايبر"
+    ]
+   },
+   {
+    "text": "نستو",
+    "baseRarity": 0.0173
+   },
+   {
+    "text": "أسواق المزرعة",
+    "baseRarity": 0.0161,
+    "aliases": [
+     "المزرعة"
+    ]
+   },
+   {
+    "text": "فارمسي النهدي",
+    "baseRarity": 0.015,
+    "aliases": [
+     "النهدي"
+    ]
+   },
+   {
+    "text": "صيدلية الدواء",
+    "baseRarity": 0.0141,
+    "aliases": [
+     "الدواء"
+    ]
+   },
+   {
+    "text": "وايتس",
+    "baseRarity": 0.0133,
+    "aliases": [
+     "صيدليات وايتس"
+    ]
+   },
+   {
+    "text": "سنتربوينت",
+    "baseRarity": 0.0125
+   },
+   {
+    "text": "ماكس",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "ريد تاغ",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "سبلاش",
+    "baseRarity": 0.0107
+   },
+   {
+    "text": "زارا",
+    "baseRarity": 0.0102
+   },
+   {
+    "text": "إتش آند إم",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "نمشي",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "أمازون",
+    "baseRarity": 0.009
+   },
+   {
+    "text": "نون",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "علي إكسبريس",
+    "baseRarity": 0.0083
+   },
+   {
+    "text": "شي إن",
+    "baseRarity": 0.008
+   },
+   {
+    "text": "تيمو",
+    "baseRarity": 0.0078
+   },
+   {
+    "text": "آبل ستور",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "فيرجن ميغاستور",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "ديكاتلون",
+    "baseRarity": 0.007
+   },
+   {
+    "text": "سن آند ساند",
+    "baseRarity": 0.0068,
+    "aliases": [
+     "سن أند ساند سبورتس"
+    ]
+   },
+   {
+    "text": "ميني سو",
+    "baseRarity": 0.0066,
+    "aliases": [
+     "ميني سو"
+    ]
+   },
+   {
+    "text": "كوستكو",
+    "baseRarity": 0.0064
+   },
+   {
+    "text": "وول مارت",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "تارجت",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "بست باي",
+    "baseRarity": 0.0059
+   },
+   {
+    "text": "هارودز",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "ماركس آند سبنسر",
+    "baseRarity": 0.0056
+   },
+   {
+    "text": "سبينيس",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "ويتروز",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "سيفوي",
+    "baseRarity": 0.0052
+   },
+   {
+    "text": "مونوبري",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "بقالة",
+    "baseRarity": 0.005,
+    "aliases": [
+     "بقالة الحي"
+    ]
+   },
+   {
+    "text": "أبيات",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "الصيدلية",
+    "baseRarity": 0.0048,
+    "aliases": [
+     "صيدلية"
+    ]
+   }
+  ],
+  "secret": "هوم سنتر",
+  "sources": [
+   "https://en.wikipedia.org/wiki/List_of_largest_retail_companies"
+  ]
+ },
+ {
+  "id": "life-perfume",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر ماركة عطور أو بيت عود",
+  "difficulty": 2,
+  "answers": [
+   {
+    "text": "شانيل",
+    "baseRarity": 0.2264
+   },
+   {
+    "text": "ديور",
+    "baseRarity": 0.1132
+   },
+   {
+    "text": "توم فورد",
+    "baseRarity": 0.0755
+   },
+   {
+    "text": "كريد",
+    "baseRarity": 0.0566
+   },
+   {
+    "text": "غيرلان",
+    "baseRarity": 0.0453
+   },
+   {
+    "text": "جيفنشي",
+    "baseRarity": 0.0377
+   },
+   {
+    "text": "إيف سان لوران",
+    "baseRarity": 0.0323
+   },
+   {
+    "text": "أرماني",
+    "baseRarity": 0.0283
+   },
+   {
+    "text": "فيرساتشي",
+    "baseRarity": 0.0252
+   },
+   {
+    "text": "دولتشي آند غابانا",
+    "baseRarity": 0.0226
+   },
+   {
+    "text": "كارولينا هيريرا",
+    "baseRarity": 0.0206
+   },
+   {
+    "text": "لانكوم",
+    "baseRarity": 0.0189
+   },
+   {
+    "text": "باكو رابان",
+    "baseRarity": 0.0174
+   },
+   {
+    "text": "جان بول غوتييه",
+    "baseRarity": 0.0162
+   },
+   {
+    "text": "هيرميس",
+    "baseRarity": 0.0151
+   },
+   {
+    "text": "بربري",
+    "baseRarity": 0.0142
+   },
+   {
+    "text": "غوتشي",
+    "baseRarity": 0.0133
+   },
+   {
+    "text": "برادا",
+    "baseRarity": 0.0126
+   },
+   {
+    "text": "مونت بلانك",
+    "baseRarity": 0.0119
+   },
+   {
+    "text": "لاكوست",
+    "baseRarity": 0.0113
+   },
+   {
+    "text": "هوغو بوس",
+    "baseRarity": 0.0108
+   },
+   {
+    "text": "كالفن كلاين",
+    "baseRarity": 0.0103
+   },
+   {
+    "text": "أمواج",
+    "baseRarity": 0.0098
+   },
+   {
+    "text": "روجا",
+    "baseRarity": 0.0094
+   },
+   {
+    "text": "ميزون فرانسيس كوركدجيان",
+    "baseRarity": 0.0091,
+    "aliases": [
+     "كوركدجيان"
+    ]
+   },
+   {
+    "text": "لو لابو",
+    "baseRarity": 0.0087
+   },
+   {
+    "text": "جو مالون",
+    "baseRarity": 0.0084
+   },
+   {
+    "text": "العربية للعود",
+    "baseRarity": 0.0081
+   },
+   {
+    "text": "عبدالصمد القرشي",
+    "baseRarity": 0.0078,
+    "aliases": [
+     "القرشي"
+    ]
+   },
+   {
+    "text": "أجمل",
+    "baseRarity": 0.0075
+   },
+   {
+    "text": "رصاصي",
+    "baseRarity": 0.0073
+   },
+   {
+    "text": "لطافة",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "سويس أرابيان",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "إبراهيم القرشي",
+    "baseRarity": 0.0067
+   },
+   {
+    "text": "دخون",
+    "baseRarity": 0.0065
+   },
+   {
+    "text": "ريف",
+    "baseRarity": 0.0063
+   },
+   {
+    "text": "ناسوماتو",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "مايسون مارجيلا",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "إكس نيهيلو",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "بارفيوم دي مارلي",
+    "baseRarity": 0.0057,
+    "aliases": [
+     "دي مارلي"
+    ]
+   },
+   {
+    "text": "بنهاليغونز",
+    "baseRarity": 0.0055
+   },
+   {
+    "text": "تيزيانا تيرينزي",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "نارسيسو رودريغيز",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "فيكتوريا سيكريت",
+    "baseRarity": 0.0051
+   },
+   {
+    "text": "بولغري",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "كارتييه",
+    "baseRarity": 0.0049
+   }
+  ],
+  "secret": "أمواج",
+  "sources": [
+   "https://www.fragrantica.com/designers/"
+  ]
+ },
+ {
+  "id": "life-school",
+  "category": "ثقافة عامة ويومية",
+  "prompt": "اذكر شيء له علاقة بالمدرسة",
+  "difficulty": 1,
+  "answers": [
+   {
+    "text": "معلم",
+    "baseRarity": 0.2213,
+    "aliases": [
+     "أستاذ",
+     "مدرس"
+    ]
+   },
+   {
+    "text": "طالب",
+    "baseRarity": 0.1106
+   },
+   {
+    "text": "مدير",
+    "baseRarity": 0.0738,
+    "aliases": [
+     "مدير المدرسة"
+    ]
+   },
+   {
+    "text": "وكيل",
+    "baseRarity": 0.0553
+   },
+   {
+    "text": "فصل",
+    "baseRarity": 0.0443,
+    "aliases": [
+     "صف"
+    ]
+   },
+   {
+    "text": "سبورة",
+    "baseRarity": 0.0369
+   },
+   {
+    "text": "طاولة",
+    "baseRarity": 0.0316,
+    "aliases": [
+     "ماصة"
+    ]
+   },
+   {
+    "text": "كرسي",
+    "baseRarity": 0.0277
+   },
+   {
+    "text": "حقيبة",
+    "baseRarity": 0.0246,
+    "aliases": [
+     "شنطة"
+    ]
+   },
+   {
+    "text": "كتاب",
+    "baseRarity": 0.0221
+   },
+   {
+    "text": "دفتر",
+    "baseRarity": 0.0201,
+    "aliases": [
+     "كراسة"
+    ]
+   },
+   {
+    "text": "قلم",
+    "baseRarity": 0.0184
+   },
+   {
+    "text": "ممحاة",
+    "baseRarity": 0.017,
+    "aliases": [
+     "مساحة"
+    ]
+   },
+   {
+    "text": "مسطرة",
+    "baseRarity": 0.0158
+   },
+   {
+    "text": "جدول الحصص",
+    "baseRarity": 0.0148,
+    "aliases": [
+     "جدول"
+    ]
+   },
+   {
+    "text": "حصة",
+    "baseRarity": 0.0138
+   },
+   {
+    "text": "فسحة",
+    "baseRarity": 0.013,
+    "aliases": [
+     "استراحة"
+    ]
+   },
+   {
+    "text": "مقصف",
+    "baseRarity": 0.0123,
+    "aliases": [
+     "كانتين"
+    ]
+   },
+   {
+    "text": "طابور",
+    "baseRarity": 0.0116,
+    "aliases": [
+     "طابور الصباح"
+    ]
+   },
+   {
+    "text": "الإذاعة المدرسية",
+    "baseRarity": 0.0111
+   },
+   {
+    "text": "الزي المدرسي",
+    "baseRarity": 0.0105,
+    "aliases": [
+     "مريول"
+    ]
+   },
+   {
+    "text": "اختبار",
+    "baseRarity": 0.0101,
+    "aliases": [
+     "امتحان"
+    ]
+   },
+   {
+    "text": "واجب",
+    "baseRarity": 0.0096
+   },
+   {
+    "text": "شهادة",
+    "baseRarity": 0.0092
+   },
+   {
+    "text": "درجات",
+    "baseRarity": 0.0089,
+    "aliases": [
+     "علامات"
+    ]
+   },
+   {
+    "text": "تقدير",
+    "baseRarity": 0.0085
+   },
+   {
+    "text": "رياضيات",
+    "baseRarity": 0.0082
+   },
+   {
+    "text": "علوم",
+    "baseRarity": 0.0079
+   },
+   {
+    "text": "لغة عربية",
+    "baseRarity": 0.0076,
+    "aliases": [
+     "عربي"
+    ]
+   },
+   {
+    "text": "لغة إنجليزية",
+    "baseRarity": 0.0074,
+    "aliases": [
+     "إنجليزي"
+    ]
+   },
+   {
+    "text": "تاريخ",
+    "baseRarity": 0.0071
+   },
+   {
+    "text": "جغرافيا",
+    "baseRarity": 0.0069
+   },
+   {
+    "text": "تربية بدنية",
+    "baseRarity": 0.0067,
+    "aliases": [
+     "رياضة"
+    ]
+   },
+   {
+    "text": "تربية فنية",
+    "baseRarity": 0.0065,
+    "aliases": [
+     "رسم"
+    ]
+   },
+   {
+    "text": "حاسب آلي",
+    "baseRarity": 0.0063,
+    "aliases": [
+     "حاسوب"
+    ]
+   },
+   {
+    "text": "قرآن",
+    "baseRarity": 0.0061
+   },
+   {
+    "text": "فقه",
+    "baseRarity": 0.006
+   },
+   {
+    "text": "توحيد",
+    "baseRarity": 0.0058
+   },
+   {
+    "text": "حديث",
+    "baseRarity": 0.0057
+   },
+   {
+    "text": "مختبر",
+    "baseRarity": 0.0055,
+    "aliases": [
+     "معمل"
+    ]
+   },
+   {
+    "text": "مكتبة",
+    "baseRarity": 0.0054
+   },
+   {
+    "text": "ملعب",
+    "baseRarity": 0.0053
+   },
+   {
+    "text": "باص المدرسة",
+    "baseRarity": 0.0051,
+    "aliases": [
+     "حافلة مدرسية"
+    ]
+   },
+   {
+    "text": "مرشد طلابي",
+    "baseRarity": 0.005
+   },
+   {
+    "text": "نشاط",
+    "baseRarity": 0.0049
+   },
+   {
+    "text": "رحلة مدرسية",
+    "baseRarity": 0.0048
+   },
+   {
+    "text": "إجازة",
+    "baseRarity": 0.0047
+   },
+   {
+    "text": "حضور وغياب",
+    "baseRarity": 0.0046,
+    "aliases": [
+     "تحضير"
+    ]
+   },
+   {
+    "text": "عقاب",
+    "baseRarity": 0.0045
+   },
+   {
+    "text": "جائزة",
+    "baseRarity": 0.0044
+   },
+   {
+    "text": "تخرج",
+    "baseRarity": 0.0043
+   }
+  ],
+  "secret": "الإذاعة المدرسية",
+  "sources": [
+   "https://moe.gov.sa/"
+  ]
  }
 ]
