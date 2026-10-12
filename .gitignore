@@ -5,3 +5,4 @@ src/generated
 playwright-report
 test-results
 *.tsbuildinfo
+dist-artifact

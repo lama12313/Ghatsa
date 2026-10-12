@@ -38,8 +38,13 @@ export function DailyResults({ state, index }: { state: DailyState; index: Conte
   async function share() {
     try {
       if (navigator.share && /Mobi|Android/i.test(navigator.userAgent)) {
-        await navigator.share({ text });
-        return;
+        try {
+          await navigator.share({ text });
+          return;
+        } catch (e) {
+          if (e instanceof DOMException && e.name === 'AbortError') return;
+          // المشاركة ممنوعة: ننسخ بدلها
+        }
       }
       await navigator.clipboard.writeText(text);
       setCopied('انسخت! الصقها لربعك');

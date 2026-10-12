@@ -8,7 +8,14 @@ import { registerSW } from 'virtual:pwa-register';
 import App from './App';
 import './index.css';
 
-registerSW({ immediate: true });
+// الـ Service Worker يشتغل بس على الاستضافة العادية (مو داخل Claude Artifact)
+if (!import.meta.env.VITE_ARTIFACT && 'serviceWorker' in navigator) {
+  try {
+    registerSW({ immediate: true });
+  } catch {
+    /* المتصفح ما يدعم: نكمل بدون أوفلاين */
+  }
+}
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
