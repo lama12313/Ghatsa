@@ -1280,7 +1280,7 @@ source: https://en.wikipedia.org/wiki/List_of_cartoon_characters
 بارت سيمبسون
 
 # ent-tv-channels | 1 | اذكر قناة تلفزيونية عربية
-secret: قناة الإخبارية
+secret: الإخبارية
 source: https://ar.wikipedia.org/wiki/قائمة_القنوات_التلفزيونية_العربية
 إم بي سي | mbc | إم بي سي 1
 إم بي سي 2
